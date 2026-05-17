@@ -71,7 +71,8 @@ export function LessonScreen({ navigation, route }: Props) {
                   style={styles.glyph}
                   numberOfLines={1}
                   adjustsFontSizeToFit
-                  minimumFontScale={0.5}
+                  minimumFontScale={0.3}
+                  allowFontScaling={false}
                 >
                   {item.glyph}
                 </Text>
@@ -170,17 +171,18 @@ const styles = StyleSheet.create({
   glyphBox: {
     flex: 1,
     alignSelf: 'stretch',
+    width: '100%',
     alignItems: 'center',
     justifyContent: 'center',
-    paddingHorizontal: spacing.xs,
+    overflow: 'hidden',
   },
   glyph: {
-    fontSize: 96,
-    lineHeight: 110,
+    fontSize: 72,
     color: colors.primary,
     fontWeight: '900',
     textAlign: 'center',
     includeFontPadding: false,
+    width: '100%',
   },
   glyphName: { fontSize: 16, color: colors.ink, fontWeight: '700', textAlign: 'center' },
   example: { fontSize: 12, color: colors.inkSoft, textAlign: 'center', marginTop: 2 },
