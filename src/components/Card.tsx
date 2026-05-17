@@ -1,6 +1,6 @@
 import React from 'react';
 import { Pressable, View, Text, StyleSheet, ViewStyle } from 'react-native';
-import { colors, radii, elevation, spacing } from '@/theme';
+import { colors, radii, e1, e2, e3, brandGlow, spacing } from '@/theme';
 
 interface Props {
   title: string;
@@ -51,7 +51,7 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     borderColor: colors.glassEdge,
     overflow: 'hidden',
-    ...elevation.e2,
+    ...e2,
   },
   locked: { opacity: 0.5 },
   pressed: { transform: [{ scale: 0.985 }] },

@@ -7,7 +7,7 @@ import { useAppSelector } from '@/store/hooks';
 import { selectActiveProfile, selectActiveProfileId, selectWallet, selectTotalPointsFor } from '@/store/selectors';
 import { Avatar } from '@/components/Avatar';
 import { ScreenBg } from '@/components/ScreenBg';
-import { colors, fontSizes, radii, elevation, spacing } from '@/theme';
+import { colors, fontSizes, radii, e1, e2, e3, brandGlow, spacing } from '@/theme';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'Home'>;
 
@@ -82,7 +82,7 @@ const styles = StyleSheet.create({
     borderRadius: radii.lg,
     borderWidth: 1,
     borderColor: colors.glassEdge,
-    ...elevation.e2,
+    ...e2,
   },
   hi: { fontSize: 22, fontWeight: '800', color: colors.ink },
   sub: { color: colors.inkSoft, fontSize: 13 },
@@ -99,7 +99,7 @@ const styles = StyleSheet.create({
     gap: spacing.xs,
     borderWidth: 1,
     borderColor: colors.glassEdge,
-    ...elevation.e2,
+    ...e2,
   },
   flag: { fontSize: 56 },
   native: { fontSize: 22, fontWeight: '800', color: colors.ink },
@@ -113,7 +113,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     borderWidth: 1,
     borderColor: 'rgba(255,255,255,0.4)',
-    ...elevation.e3,
+    ...e3,
   },
   footerEmoji: { fontSize: 32 },
   footerLabel: { color: '#fff', fontWeight: '800', fontSize: 18, marginTop: 4 },

@@ -10,7 +10,7 @@ import { medalFor, recordLessonResult } from '@/store/slices/pointsSlice';
 import { earnFromPoints } from '@/store/slices/walletSlice';
 import { BigButton } from '@/components/BigButton';
 import { ScreenBg } from '@/components/ScreenBg';
-import { colors, fontSizes, radii, elevation, spacing } from '@/theme';
+import { colors, fontSizes, radii, e1, e2, e3, brandGlow, spacing } from '@/theme';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'Lesson'>;
 
@@ -189,7 +189,7 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     borderColor: colors.glassEdge,
     overflow: 'hidden',
-    ...elevation.e2,
+    ...e2,
   },
   cardShine: {
     position: 'absolute',
@@ -226,7 +226,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     borderWidth: 1,
     borderColor: colors.glassEdge,
-    ...elevation.e2,
+    ...e2,
   },
   optionText: { fontSize: 36, fontWeight: '900', color: colors.ink },
 });

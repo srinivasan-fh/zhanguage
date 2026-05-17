@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
-import { colors, elevation } from '@/theme';
+import { colors, e1, e2, e3, brandGlow } from '@/theme';
 
 export const AVATAR_CHOICES = ['🦊', '🐼', '🐯', '🦁', '🐸', '🐵', '🦉', '🐧', '🦄', '🐶'];
 
@@ -32,7 +32,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     overflow: 'hidden',
-    ...elevation.e3,
+    ...e3,
   },
   ring: {
     position: 'absolute',

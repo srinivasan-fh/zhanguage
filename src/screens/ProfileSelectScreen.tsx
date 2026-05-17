@@ -9,7 +9,7 @@ import { selectProfile } from '@/store/slices/profilesSlice';
 import { Avatar } from '@/components/Avatar';
 import { BigButton } from '@/components/BigButton';
 import { ScreenBg } from '@/components/ScreenBg';
-import { colors, spacing, fontSizes, radii, elevation } from '@/theme';
+import { colors, spacing, fontSizes, radii, e1, e2, e3, brandGlow } from '@/theme';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'ProfileSelect'>;
 
@@ -76,7 +76,7 @@ const styles = StyleSheet.create({
     paddingVertical: spacing.lg,
     borderWidth: 1,
     borderColor: colors.glassEdge,
-    ...elevation.e2,
+    ...e2,
   },
   name: { fontSize: 22, fontWeight: '800', color: colors.ink },
   empty: { textAlign: 'center', color: colors.inkSoft, marginTop: spacing.xl, fontSize: 16 },

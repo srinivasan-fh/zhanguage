@@ -66,41 +66,40 @@ export const fontSizes = {
   glyph: 96,
 };
 
-// Material 3 elevation — layered soft shadows.
-// Each level stacks two shadows (key + ambient) where supported.
-export const elevation = {
-  // Level 1 — resting card
-  e1: {
-    shadowColor: '#1F2238',
-    shadowOffset: { width: 0, height: 1 },
-    shadowOpacity: 0.06,
-    shadowRadius: 3,
-    elevation: 2,
-  },
-  // Level 2 — flashcard, list card
-  e2: {
-    shadowColor: '#1F2238',
-    shadowOffset: { width: 0, height: 6 },
-    shadowOpacity: 0.10,
-    shadowRadius: 14,
-    elevation: 6,
-  },
-  // Level 3 — primary CTA
-  e3: {
-    shadowColor: '#1F2238',
-    shadowOffset: { width: 0, height: 10 },
-    shadowOpacity: 0.16,
-    shadowRadius: 22,
-    elevation: 10,
-  },
-  // Brand-tinted glow on primary buttons
-  brandGlow: {
-    shadowColor: '#FF7A59',
-    shadowOffset: { width: 0, height: 8 },
-    shadowOpacity: 0.35,
-    shadowRadius: 18,
-    elevation: 8,
-  },
+// Material 3 elevation — layered soft shadows. Each level is its own top-level
+// export so there's no nested-object access at module load time (avoids
+// "Cannot read property 'e2' of undefined" if a consumer evaluates before the
+// theme module finishes initialising).
+export const e1 = {
+  shadowColor: '#1F2238',
+  shadowOffset: { width: 0, height: 1 },
+  shadowOpacity: 0.06,
+  shadowRadius: 3,
+  elevation: 2,
+};
+
+export const e2 = {
+  shadowColor: '#1F2238',
+  shadowOffset: { width: 0, height: 6 },
+  shadowOpacity: 0.10,
+  shadowRadius: 14,
+  elevation: 6,
+};
+
+export const e3 = {
+  shadowColor: '#1F2238',
+  shadowOffset: { width: 0, height: 10 },
+  shadowOpacity: 0.16,
+  shadowRadius: 22,
+  elevation: 10,
+};
+
+export const brandGlow = {
+  shadowColor: '#FF7A59',
+  shadowOffset: { width: 0, height: 8 },
+  shadowOpacity: 0.35,
+  shadowRadius: 18,
+  elevation: 8,
 };
 
 // Convenience preset for the frosted glass surface.
@@ -109,8 +108,10 @@ export const glassSurface = {
   borderWidth: 1,
   borderColor: colors.glassEdge,
   borderRadius: radii.lg,
-  ...elevation.e2,
+  ...e2,
 };
 
-// Legacy alias (used in many screens still)
-export const shadow = { card: elevation.e2 };
+// Legacy alias kept for screens that still write `shadow.card`.
+export const shadow = { card: e2 };
+// Back-compat: components that imported the `elevation` object can still spread it.
+export const elevation = { e1, e2, e3, brandGlow };

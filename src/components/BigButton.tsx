@@ -1,6 +1,6 @@
 import React from 'react';
 import { Pressable, Text, StyleSheet, ViewStyle, View } from 'react-native';
-import { colors, radii, elevation, spacing } from '@/theme';
+import { colors, radii, e1, e2, e3, brandGlow, spacing } from '@/theme';
 
 interface Props {
   label: string;
@@ -29,7 +29,7 @@ export function BigButton({
       style={({ pressed }) => [
         styles.btn,
         isGlass ? styles.glass : { backgroundColor: disabled ? colors.inkMuted : color },
-        isGlass ? null : elevation.brandGlow,
+        isGlass ? null : brandGlow,
         pressed && { transform: [{ scale: 0.98 }], opacity: 0.92 },
         style,
       ]}
@@ -61,7 +61,7 @@ const styles = StyleSheet.create({
   glass: {
     backgroundColor: colors.glassStrong,
     borderColor: colors.glassEdge,
-    ...elevation.e2,
+    ...e2,
   },
   shine: {
     position: 'absolute',
