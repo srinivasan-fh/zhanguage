@@ -11,6 +11,7 @@ import type { RootState } from '@/store';
 import { Medal } from '@/components/Medal';
 import { MedalTier } from '@/types/profile';
 import { colors, fontSizes, radii, shadow, spacing } from '@/theme';
+import { ScreenBg } from '@/components/ScreenBg';
 
 const TIERS: MedalTier[] = ['emerald', 'diamond', 'gold', 'silver', 'bronze'];
 
@@ -30,6 +31,7 @@ export function RewardsScreen() {
   }, [results]);
 
   return (
+    <ScreenBg>
     <SafeAreaView style={styles.safe}>
       <View style={styles.summary}>
         <Stat label="Total points" value={String(totalPoints)} />
@@ -65,6 +67,7 @@ export function RewardsScreen() {
         }
       />
     </SafeAreaView>
+    </ScreenBg>
   );
 }
 
@@ -78,22 +81,24 @@ function Stat({ label, value }: { label: string; value: string }) {
 }
 
 const styles = StyleSheet.create({
-  safe: { flex: 1, backgroundColor: colors.cream, padding: spacing.lg },
+  safe: { flex: 1, padding: spacing.lg },
   summary: {
     flexDirection: 'row',
     justifyContent: 'space-around',
-    backgroundColor: colors.paper,
+    backgroundColor: colors.glassStrong,
     padding: spacing.lg,
     borderRadius: radii.lg,
+    borderWidth: 1,
+    borderColor: colors.glassEdge,
     ...shadow.card,
   },
   statValue: { fontSize: 28, fontWeight: '900', color: colors.ink },
   statLabel: { color: colors.inkSoft },
-  heading: { fontSize: fontSizes.title, fontWeight: '900', color: colors.ink, marginTop: spacing.lg },
+  heading: { fontSize: fontSizes.title, fontWeight: '900', color: colors.ink, marginTop: spacing.lg, letterSpacing: 0.2 },
   medalsRow: { flexDirection: 'row', justifyContent: 'space-between', flexWrap: 'wrap', gap: spacing.sm },
   medalBox: { alignItems: 'center', gap: 4 },
   count: { fontWeight: '800', color: colors.ink },
-  row: { backgroundColor: colors.paper, padding: spacing.md, borderRadius: radii.md, ...shadow.card },
+  row: { backgroundColor: colors.glassStrong, padding: spacing.md, borderRadius: radii.md, borderWidth: 1, borderColor: colors.glassEdge, ...shadow.card },
   rowTitle: { fontWeight: '800', color: colors.ink },
   rowMeta: { color: colors.inkSoft, marginTop: 2 },
   empty: { textAlign: 'center', color: colors.inkSoft, padding: spacing.xl },

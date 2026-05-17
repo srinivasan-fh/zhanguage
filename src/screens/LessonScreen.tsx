@@ -9,7 +9,8 @@ import { selectActiveProfileId } from '@/store/selectors';
 import { medalFor, recordLessonResult } from '@/store/slices/pointsSlice';
 import { earnFromPoints } from '@/store/slices/walletSlice';
 import { BigButton } from '@/components/BigButton';
-import { colors, fontSizes, radii, shadow, spacing } from '@/theme';
+import { ScreenBg } from '@/components/ScreenBg';
+import { colors, fontSizes, radii, elevation, spacing } from '@/theme';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'Lesson'>;
 
@@ -76,6 +77,7 @@ export function LessonScreen({ navigation, route }: Props) {
 
   if (stage === 'study') {
     return (
+      <ScreenBg>
       <ScrollView contentContainerStyle={styles.studyContent}>
         <Text style={styles.title}>{lesson.title}</Text>
         <View style={styles.cardsGrid}>
@@ -112,6 +114,7 @@ export function LessonScreen({ navigation, route }: Props) {
           }}
         />
       </ScrollView>
+      </ScreenBg>
     );
   }
 
@@ -136,6 +139,7 @@ export function LessonScreen({ navigation, route }: Props) {
   };
 
   return (
+    <ScreenBg>
     <View style={styles.quizContainer}>
       <Text style={styles.progress}>{qIdx + 1} / {quiz.length}</Text>
       <Text style={styles.prompt}>{q.prompt}</Text>
@@ -159,13 +163,14 @@ export function LessonScreen({ navigation, route }: Props) {
         })}
       </View>
     </View>
+    </ScreenBg>
   );
 }
 
 const styles = StyleSheet.create({
-  center: { flex: 1, alignItems: 'center', justifyContent: 'center', backgroundColor: colors.cream },
-  studyContent: { padding: spacing.lg, gap: spacing.lg, backgroundColor: colors.cream },
-  title: { fontSize: fontSizes.title, fontWeight: '900', color: colors.ink },
+  center: { flex: 1, alignItems: 'center', justifyContent: 'center' },
+  studyContent: { padding: spacing.lg, gap: spacing.lg, paddingBottom: spacing.xxl },
+  title: { fontSize: fontSizes.title, fontWeight: '900', color: colors.ink, letterSpacing: 0.2 },
   cardsGrid: {
     flexDirection: 'row',
     flexWrap: 'wrap',
@@ -173,7 +178,7 @@ const styles = StyleSheet.create({
     rowGap: spacing.md,
   },
   flashcard: {
-    backgroundColor: colors.paper,
+    backgroundColor: colors.glassStrong,
     width: '48%',
     minHeight: 220,
     borderRadius: radii.lg,
@@ -181,7 +186,18 @@ const styles = StyleSheet.create({
     paddingHorizontal: spacing.sm,
     paddingTop: spacing.md,
     paddingBottom: spacing.md,
-    ...shadow.card,
+    borderWidth: 1,
+    borderColor: colors.glassEdge,
+    overflow: 'hidden',
+    ...elevation.e2,
+  },
+  cardShine: {
+    position: 'absolute',
+    top: 0,
+    left: 0,
+    right: 0,
+    height: 36,
+    backgroundColor: 'rgba(255,255,255,0.35)',
   },
   glyphBox: {
     flex: 1,
@@ -198,17 +214,19 @@ const styles = StyleSheet.create({
   },
   glyphName: { fontSize: 16, color: colors.ink, fontWeight: '700', textAlign: 'center' },
   example: { fontSize: 12, color: colors.inkSoft, textAlign: 'center', marginTop: 2 },
-  quizContainer: { flex: 1, padding: spacing.lg, gap: spacing.lg, backgroundColor: colors.cream },
-  progress: { fontWeight: '800', color: colors.inkSoft, textAlign: 'center' },
+  quizContainer: { flex: 1, padding: spacing.lg, gap: spacing.lg },
+  progress: { fontWeight: '800', color: colors.inkSoft, textAlign: 'center', fontSize: 16 },
   prompt: { fontSize: fontSizes.title, fontWeight: '900', color: colors.ink, textAlign: 'center', marginVertical: spacing.lg },
   optionsGrid: { flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'center', gap: spacing.md },
   option: {
-    backgroundColor: colors.paper,
+    backgroundColor: colors.glassStrong,
     minWidth: '46%',
     paddingVertical: spacing.xl,
     borderRadius: radii.lg,
     alignItems: 'center',
-    ...shadow.card,
+    borderWidth: 1,
+    borderColor: colors.glassEdge,
+    ...elevation.e2,
   },
   optionText: { fontSize: 36, fontWeight: '900', color: colors.ink },
 });

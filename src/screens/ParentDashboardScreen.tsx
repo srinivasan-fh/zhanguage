@@ -7,6 +7,7 @@ import { deposit, setRate } from '@/store/slices/walletSlice';
 import { BigButton } from '@/components/BigButton';
 import { Avatar } from '@/components/Avatar';
 import { colors, fontSizes, radii, shadow, spacing } from '@/theme';
+import { ScreenBg } from '@/components/ScreenBg';
 
 export function ParentDashboardScreen() {
   const profiles = useAppSelector(selectProfiles);
@@ -44,6 +45,7 @@ export function ParentDashboardScreen() {
   };
 
   return (
+    <ScreenBg>
     <SafeAreaView style={styles.safe}>
       <Text style={styles.heading}>Choose a child</Text>
       <FlatList
@@ -104,6 +106,7 @@ export function ParentDashboardScreen() {
         <Text style={styles.empty}>Create a profile first.</Text>
       )}
     </SafeAreaView>
+    </ScreenBg>
   );
 }
 
@@ -117,24 +120,28 @@ function Stat({ label, value }: { label: string; value: string }) {
 }
 
 const styles = StyleSheet.create({
-  safe: { flex: 1, backgroundColor: colors.cream, padding: spacing.lg, gap: spacing.md },
-  heading: { fontSize: fontSizes.title, fontWeight: '900', color: colors.ink },
+  safe: { flex: 1, padding: spacing.lg, gap: spacing.md },
+  heading: { fontSize: fontSizes.title, fontWeight: '900', color: colors.ink, letterSpacing: 0.2 },
   profileTile: {
-    backgroundColor: colors.paper,
+    backgroundColor: colors.glassStrong,
     padding: spacing.md,
     borderRadius: radii.lg,
     alignItems: 'center',
     gap: spacing.xs,
     minWidth: 100,
+    borderWidth: 1,
+    borderColor: colors.glassEdge,
     ...shadow.card,
   },
   profileName: { fontWeight: '800', color: colors.ink },
   summary: {
     flexDirection: 'row',
     justifyContent: 'space-around',
-    backgroundColor: colors.paper,
+    backgroundColor: colors.glassStrong,
     padding: spacing.lg,
     borderRadius: radii.lg,
+    borderWidth: 1,
+    borderColor: colors.glassEdge,
     ...shadow.card,
   },
   statValue: { fontSize: 24, fontWeight: '900', color: colors.ink },
@@ -142,11 +149,13 @@ const styles = StyleSheet.create({
   row: { flexDirection: 'row', gap: spacing.sm, alignItems: 'center' },
   input: {
     flex: 1,
-    backgroundColor: colors.paper,
+    backgroundColor: colors.glassStrong,
     padding: spacing.md,
     borderRadius: radii.md,
     fontSize: fontSizes.body,
     color: colors.ink,
+    borderWidth: 1,
+    borderColor: colors.glassEdge,
   },
   empty: { color: colors.inkSoft, textAlign: 'center', padding: spacing.xl },
 });

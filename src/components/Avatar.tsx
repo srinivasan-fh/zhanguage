@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
-import { colors, shadow } from '@/theme';
+import { colors, elevation } from '@/theme';
 
 export const AVATAR_CHOICES = ['🦊', '🐼', '🐯', '🦁', '🐸', '🐵', '🦉', '🐧', '🦄', '🐶'];
 
@@ -17,7 +17,11 @@ export function Avatar({ emoji, size = 96 }: Props) {
         { width: size, height: size, borderRadius: size / 2 },
       ]}
     >
-      <Text style={{ fontSize: size * 0.6 }}>{emoji}</Text>
+      <View
+        pointerEvents="none"
+        style={[styles.ring, { width: size, height: size, borderRadius: size / 2 }]}
+      />
+      <Text style={{ fontSize: size * 0.58 }}>{emoji}</Text>
     </View>
   );
 }
@@ -27,6 +31,12 @@ const styles = StyleSheet.create({
     backgroundColor: colors.sun,
     alignItems: 'center',
     justifyContent: 'center',
-    ...shadow.card,
+    overflow: 'hidden',
+    ...elevation.e3,
+  },
+  ring: {
+    position: 'absolute',
+    borderWidth: 3,
+    borderColor: 'rgba(255,255,255,0.55)',
   },
 });

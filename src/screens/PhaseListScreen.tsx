@@ -6,6 +6,7 @@ import { PHASES } from '@/content/languages';
 import { hasPhase } from '@/content';
 import { Card } from '@/components/Card';
 import { colors, spacing } from '@/theme';
+import { ScreenBg } from '@/components/ScreenBg';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'PhaseList'>;
 
@@ -13,6 +14,7 @@ export function PhaseListScreen({ navigation, route }: Props) {
   const { language } = route.params;
 
   return (
+    <ScreenBg>
     <FlatList
       data={PHASES}
       keyExtractor={(p) => String(p.id)}
@@ -31,9 +33,10 @@ export function PhaseListScreen({ navigation, route }: Props) {
         );
       }}
     />
+    </ScreenBg>
   );
 }
 
 const styles = StyleSheet.create({
-  list: { padding: spacing.lg, backgroundColor: colors.cream, flexGrow: 1 },
+  list: { padding: spacing.lg, flexGrow: 1 },
 });

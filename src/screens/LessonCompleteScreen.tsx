@@ -8,6 +8,7 @@ import { selectActiveProfileId, selectTotalPointsFor, selectWallet } from '@/sto
 import { Medal } from '@/components/Medal';
 import { BigButton } from '@/components/BigButton';
 import { colors, fontSizes, spacing } from '@/theme';
+import { ScreenBg } from '@/components/ScreenBg';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'LessonComplete'>;
 
@@ -19,17 +20,19 @@ export function LessonCompleteScreen({ navigation, route }: Props) {
   const wallet = useAppSelector(selectWallet(activeId));
 
   return (
-    <View style={styles.container}>
-      <Text style={styles.cheer}>Great job! 🎉</Text>
-      <Medal tier={tier} size={140} />
-      <Text style={styles.score}>{scorePct}%</Text>
-      <View style={styles.stats}>
-        <Stat label="Earned" value={`+${pointsEarned}`} />
-        <Stat label="Total pts" value={String(total)} />
-        <Stat label="Wallet" value={wallet ? (wallet.balanceCents / 100).toFixed(2) : '—'} />
+    <ScreenBg>
+      <View style={styles.container}>
+        <Text style={styles.cheer}>Great job! 🎉</Text>
+        <Medal tier={tier} size={140} />
+        <Text style={styles.score}>{scorePct}%</Text>
+        <View style={styles.stats}>
+          <Stat label="Earned" value={`+${pointsEarned}`} />
+          <Stat label="Total pts" value={String(total)} />
+          <Stat label="Wallet" value={wallet ? (wallet.balanceCents / 100).toFixed(2) : '—'} />
+        </View>
+        <BigButton label="Done" emoji="✅" onPress={() => navigation.popToTop()} />
       </View>
-      <BigButton label="Done" emoji="✅" onPress={() => navigation.popToTop()} />
-    </View>
+    </ScreenBg>
   );
 }
 
@@ -45,7 +48,6 @@ function Stat({ label, value }: { label: string; value: string }) {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: colors.cream,
     alignItems: 'center',
     justifyContent: 'center',
     gap: spacing.lg,

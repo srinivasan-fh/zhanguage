@@ -6,7 +6,8 @@ import { LANGUAGES } from '@/content/languages';
 import { useAppSelector } from '@/store/hooks';
 import { selectActiveProfile, selectActiveProfileId, selectWallet, selectTotalPointsFor } from '@/store/selectors';
 import { Avatar } from '@/components/Avatar';
-import { colors, fontSizes, radii, shadow, spacing } from '@/theme';
+import { ScreenBg } from '@/components/ScreenBg';
+import { colors, fontSizes, radii, elevation, spacing } from '@/theme';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'Home'>;
 
@@ -17,6 +18,7 @@ export function HomeScreen({ navigation }: Props) {
   const totalPoints = useAppSelector(selectTotalPointsFor(activeId));
 
   return (
+    <ScreenBg>
     <View style={styles.container}>
       <Pressable style={styles.header} onPress={() => navigation.navigate('ProfileSelect')}>
         {profile ? <Avatar emoji={profile.avatar} size={56} /> : null}
@@ -65,34 +67,39 @@ export function HomeScreen({ navigation }: Props) {
         }
       />
     </View>
+    </ScreenBg>
   );
 }
 
 const styles = StyleSheet.create({
-  container: { flex: 1, padding: spacing.lg, gap: spacing.md, backgroundColor: colors.cream },
+  container: { flex: 1, padding: spacing.lg, gap: spacing.md },
   header: {
     flexDirection: 'row',
     alignItems: 'center',
     gap: spacing.md,
-    backgroundColor: colors.paper,
+    backgroundColor: colors.glassStrong,
     padding: spacing.md,
     borderRadius: radii.lg,
-    ...shadow.card,
+    borderWidth: 1,
+    borderColor: colors.glassEdge,
+    ...elevation.e2,
   },
   hi: { fontSize: 22, fontWeight: '800', color: colors.ink },
   sub: { color: colors.inkSoft, fontSize: 13 },
   wallet: { alignItems: 'flex-end' },
   walletAmount: { fontSize: 20, fontWeight: '800', color: colors.primary },
   walletLabel: { fontSize: 12, color: colors.inkSoft },
-  heading: { fontSize: fontSizes.title, fontWeight: '900', color: colors.ink, marginTop: spacing.sm },
+  heading: { fontSize: fontSizes.title, fontWeight: '900', color: colors.ink, marginTop: spacing.sm, letterSpacing: 0.2 },
   tile: {
     flex: 1,
-    backgroundColor: colors.paper,
+    backgroundColor: colors.glassStrong,
     borderRadius: radii.lg,
     paddingVertical: spacing.xl,
     alignItems: 'center',
     gap: spacing.xs,
-    ...shadow.card,
+    borderWidth: 1,
+    borderColor: colors.glassEdge,
+    ...elevation.e2,
   },
   flag: { fontSize: 56 },
   native: { fontSize: 22, fontWeight: '800', color: colors.ink },
@@ -104,7 +111,9 @@ const styles = StyleSheet.create({
     borderRadius: radii.lg,
     paddingVertical: spacing.lg,
     alignItems: 'center',
-    ...shadow.card,
+    borderWidth: 1,
+    borderColor: 'rgba(255,255,255,0.4)',
+    ...elevation.e3,
   },
   footerEmoji: { fontSize: 32 },
   footerLabel: { color: '#fff', fontWeight: '800', fontSize: 18, marginTop: 4 },

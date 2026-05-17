@@ -23,10 +23,11 @@ export function RootNavigator() {
   return (
     <Stack.Navigator
       screenOptions={{
-        headerStyle: { backgroundColor: colors.cream },
+        headerStyle: { backgroundColor: colors.bg },
+        headerShadowVisible: false,
         headerTintColor: colors.ink,
-        headerTitleStyle: { fontWeight: '800' },
-        contentStyle: { backgroundColor: colors.cream },
+        headerTitleStyle: { fontWeight: '800', letterSpacing: 0.3 },
+        contentStyle: { backgroundColor: colors.bg },
       }}
       initialRouteName={activeProfileId ? 'Home' : 'ProfileSelect'}
     >

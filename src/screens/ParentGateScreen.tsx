@@ -4,6 +4,7 @@ import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { RootStackParamList } from '@/navigation/types';
 import { BigButton } from '@/components/BigButton';
 import { colors, fontSizes, radii, spacing } from '@/theme';
+import { ScreenBg } from '@/components/ScreenBg';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'ParentGate'>;
 
@@ -27,35 +28,39 @@ export function ParentGateScreen({ navigation }: Props) {
   };
 
   return (
-    <View style={styles.container}>
-      <Text style={styles.title}>Parents only 👋</Text>
-      <Text style={styles.subtitle}>Solve this to continue:</Text>
-      <Text style={styles.question}>{question.text} = ?</Text>
-      <TextInput
-        style={styles.input}
-        value={input}
-        onChangeText={setInput}
-        keyboardType="number-pad"
-        placeholder="answer"
-        placeholderTextColor={colors.inkSoft}
-        autoFocus
-      />
-      <BigButton label="Unlock" emoji="🔓" onPress={onSubmit} />
-    </View>
+    <ScreenBg>
+      <View style={styles.container}>
+        <Text style={styles.title}>Parents only 👋</Text>
+        <Text style={styles.subtitle}>Solve this to continue:</Text>
+        <Text style={styles.question}>{question.text} = ?</Text>
+        <TextInput
+          style={styles.input}
+          value={input}
+          onChangeText={setInput}
+          keyboardType="number-pad"
+          placeholder="answer"
+          placeholderTextColor={colors.inkSoft}
+          autoFocus
+        />
+        <BigButton label="Unlock" emoji="🔓" onPress={onSubmit} />
+      </View>
+    </ScreenBg>
   );
 }
 
 const styles = StyleSheet.create({
-  container: { flex: 1, padding: spacing.lg, gap: spacing.lg, backgroundColor: colors.cream },
-  title: { fontSize: fontSizes.hero, fontWeight: '900', color: colors.ink },
+  container: { flex: 1, padding: spacing.lg, gap: spacing.lg },
+  title: { fontSize: fontSizes.hero, fontWeight: '900', color: colors.ink, letterSpacing: 0.2 },
   subtitle: { fontSize: fontSizes.body, color: colors.inkSoft },
   question: { fontSize: 56, fontWeight: '900', color: colors.primary, textAlign: 'center', marginVertical: spacing.xl },
   input: {
-    backgroundColor: colors.paper,
+    backgroundColor: colors.glassStrong,
     borderRadius: radii.md,
     padding: spacing.lg,
     fontSize: 28,
     textAlign: 'center',
     color: colors.ink,
+    borderWidth: 1,
+    borderColor: colors.glassEdge,
   },
 });

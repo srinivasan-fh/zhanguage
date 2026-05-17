@@ -8,6 +8,7 @@ import { selectActiveProfileId } from '@/store/selectors';
 import type { RootState } from '@/store';
 import { Card } from '@/components/Card';
 import { colors, spacing } from '@/theme';
+import { ScreenBg } from '@/components/ScreenBg';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'LessonList'>;
 
@@ -21,13 +22,16 @@ export function LessonListScreen({ navigation, route }: Props) {
 
   if (!pack) {
     return (
-      <View style={styles.empty}>
-        <Text style={styles.emptyText}>This phase isn't ready yet. Coming soon! ✨</Text>
-      </View>
+      <ScreenBg>
+        <View style={styles.empty}>
+          <Text style={styles.emptyText}>This phase isn't ready yet. Coming soon! ✨</Text>
+        </View>
+      </ScreenBg>
     );
   }
 
   return (
+    <ScreenBg>
     <FlatList
       data={pack.lessons}
       keyExtractor={(l) => l.id}
@@ -51,6 +55,7 @@ export function LessonListScreen({ navigation, route }: Props) {
         );
       }}
     />
+    </ScreenBg>
   );
 }
 
@@ -65,8 +70,8 @@ function medalEmoji(tier: string): string {
 }
 
 const styles = StyleSheet.create({
-  list: { padding: spacing.lg, backgroundColor: colors.cream, flexGrow: 1 },
+  list: { padding: spacing.lg, flexGrow: 1 },
   heading: { fontSize: 24, fontWeight: '900', color: colors.ink, marginBottom: spacing.md },
-  empty: { flex: 1, alignItems: 'center', justifyContent: 'center', padding: spacing.xl, backgroundColor: colors.cream },
+  empty: { flex: 1, alignItems: 'center', justifyContent: 'center', padding: spacing.xl },
   emptyText: { fontSize: 20, color: colors.inkSoft, textAlign: 'center' },
 });

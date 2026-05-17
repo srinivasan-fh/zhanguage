@@ -7,6 +7,7 @@ import { addProfile } from '@/store/slices/profilesSlice';
 import { Avatar, AVATAR_CHOICES } from '@/components/Avatar';
 import { BigButton } from '@/components/BigButton';
 import { colors, fontSizes, radii, spacing } from '@/theme';
+import { ScreenBg } from '@/components/ScreenBg';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'CreateProfile'>;
 
@@ -26,6 +27,7 @@ export function CreateProfileScreen({ navigation }: Props) {
   };
 
   return (
+    <ScreenBg>
     <View style={styles.container}>
       <View style={{ alignItems: 'center' }}>
         <Avatar emoji={avatar} size={120} />
@@ -71,6 +73,7 @@ export function CreateProfileScreen({ navigation }: Props) {
 
       <BigButton label="Start Learning" emoji="🚀" onPress={onCreate} style={{ marginTop: spacing.xl }} />
     </View>
+    </ScreenBg>
   );
 }
 
@@ -78,19 +81,23 @@ const styles = StyleSheet.create({
   container: { flex: 1, padding: spacing.lg, gap: spacing.sm },
   label: { fontSize: fontSizes.body, fontWeight: '700', color: colors.ink, marginTop: spacing.md },
   input: {
-    backgroundColor: colors.paper,
+    backgroundColor: colors.glassStrong,
     borderRadius: radii.md,
     padding: spacing.md,
     fontSize: fontSizes.body,
     color: colors.ink,
+    borderWidth: 1,
+    borderColor: colors.glassEdge,
   },
   avatarPick: {
-    backgroundColor: colors.paper,
+    backgroundColor: colors.glassStrong,
     width: 64,
     height: 64,
     borderRadius: 32,
     alignItems: 'center',
     justifyContent: 'center',
+    borderWidth: 1,
+    borderColor: colors.glassEdge,
   },
   avatarActive: { borderWidth: 3, borderColor: colors.primary },
 });
