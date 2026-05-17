@@ -66,9 +66,25 @@ export function LessonScreen({ navigation, route }: Props) {
         <View style={styles.cardsGrid}>
           {items.map((item) => (
             <View key={item.glyph} style={styles.flashcard}>
-              <Text style={styles.glyph}>{item.glyph}</Text>
-              <Text style={styles.glyphName}>{item.name}</Text>
-              {item.exampleWord ? <Text style={styles.example}>{item.exampleWord}</Text> : null}
+              <View style={styles.glyphBox}>
+                <Text
+                  style={styles.glyph}
+                  numberOfLines={1}
+                  adjustsFontSizeToFit
+                  minimumFontScale={0.4}
+                  allowFontScaling={false}
+                >
+                  {item.glyph}
+                </Text>
+              </View>
+              <Text style={styles.glyphName} numberOfLines={1} adjustsFontSizeToFit>
+                {item.name}
+              </Text>
+              {item.exampleWord ? (
+                <Text style={styles.example} numberOfLines={1} adjustsFontSizeToFit>
+                  {item.exampleWord}
+                </Text>
+              ) : null}
             </View>
           ))}
         </View>
@@ -143,12 +159,27 @@ const styles = StyleSheet.create({
     borderRadius: radii.lg,
     alignItems: 'center',
     justifyContent: 'center',
+    paddingHorizontal: spacing.sm,
+    paddingVertical: spacing.sm,
     gap: 4,
     ...shadow.card,
   },
-  glyph: { fontSize: 80, color: colors.primary, fontWeight: '900' },
-  glyphName: { fontSize: 18, color: colors.ink, fontWeight: '700' },
-  example: { fontSize: 13, color: colors.inkSoft },
+  glyphBox: {
+    flex: 1,
+    alignSelf: 'stretch',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  glyph: {
+    fontSize: 80,
+    lineHeight: 96,
+    color: colors.primary,
+    fontWeight: '900',
+    textAlign: 'center',
+    includeFontPadding: false,
+  },
+  glyphName: { fontSize: 16, color: colors.ink, fontWeight: '700', textAlign: 'center' },
+  example: { fontSize: 12, color: colors.inkSoft, textAlign: 'center' },
   quizContainer: { flex: 1, padding: spacing.lg, gap: spacing.lg, backgroundColor: colors.cream },
   progress: { fontWeight: '800', color: colors.inkSoft, textAlign: 'center' },
   prompt: { fontSize: fontSizes.title, fontWeight: '900', color: colors.ink, textAlign: 'center', marginVertical: spacing.lg },
