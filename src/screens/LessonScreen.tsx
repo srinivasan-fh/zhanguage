@@ -80,6 +80,8 @@ export function LessonScreen({ navigation, route }: Props) {
                 <Text
                   style={[styles.glyph, { fontSize: fontSizeFor(item.glyph) }]}
                   numberOfLines={1}
+                  adjustsFontSizeToFit
+                  minimumFontScale={0.5}
                   allowFontScaling={false}
                 >
                   {item.glyph}
