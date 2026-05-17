@@ -4,10 +4,10 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { useAppSelector } from '@/store/hooks';
 import {
   selectActiveProfileId,
-  selectStudentLessonResults,
   selectTotalPointsFor,
   selectWallet,
 } from '@/store/selectors';
+import type { RootState } from '@/store';
 import { Medal } from '@/components/Medal';
 import { MedalTier } from '@/types/profile';
 import { colors, fontSizes, radii, shadow, spacing } from '@/theme';
@@ -16,7 +16,10 @@ const TIERS: MedalTier[] = ['emerald', 'diamond', 'gold', 'silver', 'bronze'];
 
 export function RewardsScreen() {
   const activeId = useAppSelector(selectActiveProfileId);
-  const results = useAppSelector(selectStudentLessonResults(activeId));
+  const lessonResultsMap = useAppSelector((s: RootState) =>
+    activeId ? s.points.byStudent[activeId]?.lessonResults ?? {} : {},
+  );
+  const results = useMemo(() => Object.values(lessonResultsMap), [lessonResultsMap]);
   const totalPoints = useAppSelector(selectTotalPointsFor(activeId));
   const wallet = useAppSelector(selectWallet(activeId));
 

@@ -1,8 +1,14 @@
+import { createSelector } from '@reduxjs/toolkit';
 import type { RootState } from './index';
-import type { LanguageCode } from '@/types/content';
 
-export const selectProfiles = (s: RootState) =>
-  s.profiles.ids.map((id) => s.profiles.byId[id]);
+const profilesSlice = (s: RootState) => s.profiles;
+const pointsSlice   = (s: RootState) => s.points;
+const walletSlice   = (s: RootState) => s.wallet;
+
+export const selectProfiles = createSelector(
+  [profilesSlice],
+  (p) => p.ids.map((id) => p.byId[id]),
+);
 
 export const selectActiveProfileId = (s: RootState) => s.profiles.activeId;
 
@@ -15,11 +21,15 @@ export const selectTotalPointsFor = (studentId: string | null) => (s: RootState)
   studentId ? s.points.byStudent[studentId]?.total ?? 0 : 0;
 
 export const selectLessonResult =
-  (studentId: string | null, _lang: LanguageCode, lessonId: string) =>
+  (studentId: string | null, lessonId: string) =>
   (s: RootState) =>
-    studentId
-      ? s.points.byStudent[studentId]?.lessonResults[lessonId]
-      : undefined;
+    studentId ? s.points.byStudent[studentId]?.lessonResults[lessonId] : undefined;
+
+export const makeSelectStudentLessonResults = (studentId: string | null) =>
+  createSelector(
+    [pointsSlice],
+    (p) => (studentId ? Object.values(p.byStudent[studentId]?.lessonResults ?? {}) : []),
+  );
 
 export const selectStudentLessonResults = (studentId: string | null) => (s: RootState) =>
   studentId ? Object.values(s.points.byStudent[studentId]?.lessonResults ?? {}) : [];
