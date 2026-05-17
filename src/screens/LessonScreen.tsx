@@ -1,7 +1,7 @@
 import React, { useMemo, useState } from 'react';
 import { View, Text, StyleSheet, Pressable, ScrollView } from 'react-native';
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
-import * as Haptics from 'expo-haptics';
+import ReactNativeHapticFeedback from 'react-native-haptic-feedback';
 import { RootStackParamList } from '@/navigation/types';
 import { getPhasePack } from '@/content';
 import { useProfileStore } from '@/store/profileStore';
@@ -91,9 +91,10 @@ export function LessonScreen({ navigation, route }: Props) {
       if (picked) return;
       setPicked(opt);
       const isRight = opt === q.answer;
-      Haptics.notificationAsync(
-        isRight ? Haptics.NotificationFeedbackType.Success : Haptics.NotificationFeedbackType.Error,
-      ).catch(() => {});
+      ReactNativeHapticFeedback.trigger(
+        isRight ? 'notificationSuccess' : 'notificationError',
+        { enableVibrateFallback: true, ignoreAndroidSystemSettings: false },
+      );
       if (isRight) setCorrect((c) => c + 1);
       setTimeout(() => {
         setPicked(null);
