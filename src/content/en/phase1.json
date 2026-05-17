@@ -1,7 +1,7 @@
 {
   "language": "en",
   "phase": 1,
-  "title": "Letters & Sounds",
+  "title": "Letters & Sounds (52 letters)",
   "lessons": [
     {
       "id": "en-p1-l1",
@@ -9,15 +9,44 @@
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "A", "name": "ay",  "exampleWord": "Apple" },
-        { "glyph": "E", "name": "ee",  "exampleWord": "Egg" },
-        { "glyph": "I", "name": "eye", "exampleWord": "Ice" },
-        { "glyph": "O", "name": "oh",  "exampleWord": "Orange" },
-        { "glyph": "U", "name": "you", "exampleWord": "Umbrella" }
+        {
+          "glyph": "A",
+          "name": "ay",
+          "exampleWord": "Apple"
+        },
+        {
+          "glyph": "E",
+          "name": "ee",
+          "exampleWord": "Egg"
+        },
+        {
+          "glyph": "I",
+          "name": "eye",
+          "exampleWord": "Ice"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Orange"
+        },
+        {
+          "glyph": "U",
+          "name": "you",
+          "exampleWord": "Umbrella"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "Which letter says /a/?", "options": ["A","E","I","O"], "answer": "A" },
-        { "kind": "tap-the-sound", "prompt": "Which letter says /o/?", "options": ["U","O","E","I"], "answer": "O" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter starts Apple?",
+          "options": [
+            "A",
+            "E",
+            "I",
+            "O"
+          ],
+          "answer": "A"
+        }
       ]
     },
     {
@@ -26,15 +55,44 @@
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "B", "name": "bee", "exampleWord": "Ball" },
-        { "glyph": "C", "name": "see", "exampleWord": "Cat" },
-        { "glyph": "D", "name": "dee", "exampleWord": "Dog" },
-        { "glyph": "F", "name": "ef",  "exampleWord": "Fish" },
-        { "glyph": "G", "name": "gee", "exampleWord": "Goat" }
+        {
+          "glyph": "B",
+          "name": "bee",
+          "exampleWord": "Ball"
+        },
+        {
+          "glyph": "C",
+          "name": "see",
+          "exampleWord": "Cat"
+        },
+        {
+          "glyph": "D",
+          "name": "dee",
+          "exampleWord": "Dog"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fish"
+        },
+        {
+          "glyph": "G",
+          "name": "gee",
+          "exampleWord": "Goat"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "Which letter starts CAT?", "options": ["B","C","D","F"], "answer": "C" },
-        { "kind": "tap-the-sound", "prompt": "Which letter starts FISH?", "options": ["G","D","F","B"], "answer": "F" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter starts Ball?",
+          "options": [
+            "B",
+            "C",
+            "D",
+            "F"
+          ],
+          "answer": "B"
+        }
       ]
     },
     {
@@ -43,15 +101,44 @@
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "H", "name": "aitch", "exampleWord": "Hat" },
-        { "glyph": "J", "name": "jay",   "exampleWord": "Jug" },
-        { "glyph": "K", "name": "kay",   "exampleWord": "Kite" },
-        { "glyph": "L", "name": "el",    "exampleWord": "Lion" },
-        { "glyph": "M", "name": "em",    "exampleWord": "Moon" }
+        {
+          "glyph": "H",
+          "name": "aitch",
+          "exampleWord": "Hat"
+        },
+        {
+          "glyph": "J",
+          "name": "jay",
+          "exampleWord": "Jug"
+        },
+        {
+          "glyph": "K",
+          "name": "kay",
+          "exampleWord": "Kite"
+        },
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Lion"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Moon"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "Which letter starts LION?", "options": ["K","L","M","J"], "answer": "L" },
-        { "kind": "tap-the-sound", "prompt": "Which letter starts MOON?", "options": ["H","J","M","K"], "answer": "M" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter starts Hat?",
+          "options": [
+            "H",
+            "J",
+            "K",
+            "L"
+          ],
+          "answer": "H"
+        }
       ]
     },
     {
@@ -60,15 +147,44 @@
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "N", "name": "en",   "exampleWord": "Nose" },
-        { "glyph": "P", "name": "pee",  "exampleWord": "Pig" },
-        { "glyph": "Q", "name": "cue",  "exampleWord": "Queen" },
-        { "glyph": "R", "name": "ar",   "exampleWord": "Rabbit" },
-        { "glyph": "S", "name": "ess",  "exampleWord": "Sun" }
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Nose"
+        },
+        {
+          "glyph": "P",
+          "name": "pee",
+          "exampleWord": "Pig"
+        },
+        {
+          "glyph": "Q",
+          "name": "cue",
+          "exampleWord": "Queen"
+        },
+        {
+          "glyph": "R",
+          "name": "ar",
+          "exampleWord": "Rabbit"
+        },
+        {
+          "glyph": "S",
+          "name": "ess",
+          "exampleWord": "Sun"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "Which letter starts QUEEN?", "options": ["P","Q","R","S"], "answer": "Q" },
-        { "kind": "tap-the-sound", "prompt": "Which letter starts SUN?", "options": ["N","R","S","P"], "answer": "S" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter starts Nose?",
+          "options": [
+            "N",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "N"
+        }
       ]
     },
     {
@@ -77,16 +193,263 @@
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "T", "name": "tee",   "exampleWord": "Tree" },
-        { "glyph": "V", "name": "vee",   "exampleWord": "Van" },
-        { "glyph": "W", "name": "double-you", "exampleWord": "Whale" },
-        { "glyph": "X", "name": "ex",    "exampleWord": "Box" },
-        { "glyph": "Y", "name": "why",   "exampleWord": "Yarn" },
-        { "glyph": "Z", "name": "zee",   "exampleWord": "Zebra" }
+        {
+          "glyph": "T",
+          "name": "tee",
+          "exampleWord": "Tree"
+        },
+        {
+          "glyph": "V",
+          "name": "vee",
+          "exampleWord": "Van"
+        },
+        {
+          "glyph": "W",
+          "name": "double-you",
+          "exampleWord": "Whale"
+        },
+        {
+          "glyph": "X",
+          "name": "ex",
+          "exampleWord": "Box"
+        },
+        {
+          "glyph": "Y",
+          "name": "why",
+          "exampleWord": "Yarn"
+        },
+        {
+          "glyph": "Z",
+          "name": "zee",
+          "exampleWord": "Zebra"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "Which letter starts ZEBRA?", "options": ["Y","X","Z","W"], "answer": "Z" },
-        { "kind": "tap-the-sound", "prompt": "Which letter is in BOX?", "options": ["X","V","T","W"], "answer": "X" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter starts Tree?",
+          "options": [
+            "T",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "T"
+        }
+      ]
+    },
+    {
+      "id": "en-p1-l6",
+      "title": "lowercase a-g",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "a",
+          "name": "ay",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "b",
+          "name": "bee",
+          "exampleWord": "ball"
+        },
+        {
+          "glyph": "c",
+          "name": "see",
+          "exampleWord": "cat"
+        },
+        {
+          "glyph": "d",
+          "name": "dee",
+          "exampleWord": "dog"
+        },
+        {
+          "glyph": "e",
+          "name": "ee",
+          "exampleWord": "egg"
+        },
+        {
+          "glyph": "f",
+          "name": "ef",
+          "exampleWord": "fish"
+        },
+        {
+          "glyph": "g",
+          "name": "gee",
+          "exampleWord": "goat"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter starts apple?",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "answer": "a"
+        }
+      ]
+    },
+    {
+      "id": "en-p1-l7",
+      "title": "lowercase h-n",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "h",
+          "name": "aitch",
+          "exampleWord": "hat"
+        },
+        {
+          "glyph": "i",
+          "name": "eye",
+          "exampleWord": "ice"
+        },
+        {
+          "glyph": "j",
+          "name": "jay",
+          "exampleWord": "jug"
+        },
+        {
+          "glyph": "k",
+          "name": "kay",
+          "exampleWord": "kite"
+        },
+        {
+          "glyph": "l",
+          "name": "el",
+          "exampleWord": "lion"
+        },
+        {
+          "glyph": "m",
+          "name": "em",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "n",
+          "name": "en",
+          "exampleWord": "nose"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter starts hat?",
+          "options": [
+            "h",
+            "i",
+            "j",
+            "k"
+          ],
+          "answer": "h"
+        }
+      ]
+    },
+    {
+      "id": "en-p1-l8",
+      "title": "lowercase o-u",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "o",
+          "name": "oh",
+          "exampleWord": "orange"
+        },
+        {
+          "glyph": "p",
+          "name": "pee",
+          "exampleWord": "pig"
+        },
+        {
+          "glyph": "q",
+          "name": "cue",
+          "exampleWord": "queen"
+        },
+        {
+          "glyph": "r",
+          "name": "ar",
+          "exampleWord": "rabbit"
+        },
+        {
+          "glyph": "s",
+          "name": "ess",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "t",
+          "name": "tee",
+          "exampleWord": "tree"
+        },
+        {
+          "glyph": "u",
+          "name": "you",
+          "exampleWord": "umbrella"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter starts orange?",
+          "options": [
+            "o",
+            "p",
+            "q",
+            "r"
+          ],
+          "answer": "o"
+        }
+      ]
+    },
+    {
+      "id": "en-p1-l9",
+      "title": "lowercase v-z",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "v",
+          "name": "vee",
+          "exampleWord": "van"
+        },
+        {
+          "glyph": "w",
+          "name": "double-you",
+          "exampleWord": "whale"
+        },
+        {
+          "glyph": "x",
+          "name": "ex",
+          "exampleWord": "box"
+        },
+        {
+          "glyph": "y",
+          "name": "why",
+          "exampleWord": "yarn"
+        },
+        {
+          "glyph": "z",
+          "name": "zee",
+          "exampleWord": "zebra"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter starts van?",
+          "options": [
+            "v",
+            "w",
+            "x",
+            "y"
+          ],
+          "answer": "v"
+        }
       ]
     }
   ]

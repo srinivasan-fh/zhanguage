@@ -1,7 +1,7 @@
 {
   "language": "ja",
   "phase": 1,
-  "title": "ひらがな (Hiragana)",
+  "title": "ひらがな + カタカナ (full kana)",
   "lessons": [
     {
       "id": "ja-p1-l1",
@@ -9,14 +9,44 @@
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "あ", "name": "a", "exampleWord": "あめ (rain)" },
-        { "glyph": "い", "name": "i", "exampleWord": "いぬ (dog)" },
-        { "glyph": "う", "name": "u", "exampleWord": "うみ (sea)" },
-        { "glyph": "え", "name": "e", "exampleWord": "えき (station)" },
-        { "glyph": "お", "name": "o", "exampleWord": "おに (demon)" }
+        {
+          "glyph": "あ",
+          "name": "a",
+          "exampleWord": "あめ"
+        },
+        {
+          "glyph": "い",
+          "name": "i",
+          "exampleWord": "いぬ"
+        },
+        {
+          "glyph": "う",
+          "name": "u",
+          "exampleWord": "うみ"
+        },
+        {
+          "glyph": "え",
+          "name": "e",
+          "exampleWord": "えき"
+        },
+        {
+          "glyph": "お",
+          "name": "o",
+          "exampleWord": "おに"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "Which one is 'a'?", "options": ["あ","い","う","え"], "answer": "あ" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'a'?",
+          "options": [
+            "あ",
+            "い",
+            "う",
+            "え"
+          ],
+          "answer": "あ"
+        }
       ]
     },
     {
@@ -25,14 +55,44 @@
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "か", "name": "ka", "exampleWord": "かさ (umbrella)" },
-        { "glyph": "き", "name": "ki", "exampleWord": "き (tree)" },
-        { "glyph": "く", "name": "ku", "exampleWord": "くつ (shoe)" },
-        { "glyph": "け", "name": "ke", "exampleWord": "けむり (smoke)" },
-        { "glyph": "こ", "name": "ko", "exampleWord": "こども (child)" }
+        {
+          "glyph": "か",
+          "name": "ka",
+          "exampleWord": "かさ"
+        },
+        {
+          "glyph": "き",
+          "name": "ki",
+          "exampleWord": "き"
+        },
+        {
+          "glyph": "く",
+          "name": "ku",
+          "exampleWord": "くつ"
+        },
+        {
+          "glyph": "け",
+          "name": "ke",
+          "exampleWord": "けむり"
+        },
+        {
+          "glyph": "こ",
+          "name": "ko",
+          "exampleWord": "こども"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "Which one is 'ko'?", "options": ["か","き","こ","く"], "answer": "こ" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'ka'?",
+          "options": [
+            "か",
+            "き",
+            "く",
+            "け"
+          ],
+          "answer": "か"
+        }
       ]
     },
     {
@@ -41,14 +101,44 @@
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "さ", "name": "sa",  "exampleWord": "さかな (fish)" },
-        { "glyph": "し", "name": "shi", "exampleWord": "しろ (white)" },
-        { "glyph": "す", "name": "su",  "exampleWord": "すいか (watermelon)" },
-        { "glyph": "せ", "name": "se",  "exampleWord": "せみ (cicada)" },
-        { "glyph": "そ", "name": "so",  "exampleWord": "そら (sky)" }
+        {
+          "glyph": "さ",
+          "name": "sa",
+          "exampleWord": "さかな"
+        },
+        {
+          "glyph": "し",
+          "name": "shi",
+          "exampleWord": "しろ"
+        },
+        {
+          "glyph": "す",
+          "name": "su",
+          "exampleWord": "すいか"
+        },
+        {
+          "glyph": "せ",
+          "name": "se",
+          "exampleWord": "せみ"
+        },
+        {
+          "glyph": "そ",
+          "name": "so",
+          "exampleWord": "そら"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "Which one is 'shi'?", "options": ["さ","し","す","せ"], "answer": "し" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'sa'?",
+          "options": [
+            "さ",
+            "し",
+            "す",
+            "せ"
+          ],
+          "answer": "さ"
+        }
       ]
     },
     {
@@ -57,14 +147,44 @@
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "た", "name": "ta",   "exampleWord": "たまご (egg)" },
-        { "glyph": "ち", "name": "chi",  "exampleWord": "ちず (map)" },
-        { "glyph": "つ", "name": "tsu",  "exampleWord": "つき (moon)" },
-        { "glyph": "て", "name": "te",   "exampleWord": "て (hand)" },
-        { "glyph": "と", "name": "to",   "exampleWord": "とり (bird)" }
+        {
+          "glyph": "た",
+          "name": "ta",
+          "exampleWord": "たまご"
+        },
+        {
+          "glyph": "ち",
+          "name": "chi",
+          "exampleWord": "ちず"
+        },
+        {
+          "glyph": "つ",
+          "name": "tsu",
+          "exampleWord": "つき"
+        },
+        {
+          "glyph": "て",
+          "name": "te",
+          "exampleWord": "て"
+        },
+        {
+          "glyph": "と",
+          "name": "to",
+          "exampleWord": "とり"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "Which one is 'tsu'?", "options": ["た","ち","つ","と"], "answer": "つ" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'ta'?",
+          "options": [
+            "た",
+            "ち",
+            "つ",
+            "て"
+          ],
+          "answer": "た"
+        }
       ]
     },
     {
@@ -73,14 +193,44 @@
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "な", "name": "na", "exampleWord": "なつ (summer)" },
-        { "glyph": "に", "name": "ni", "exampleWord": "にく (meat)" },
-        { "glyph": "ぬ", "name": "nu", "exampleWord": "ぬの (cloth)" },
-        { "glyph": "ね", "name": "ne", "exampleWord": "ねこ (cat)" },
-        { "glyph": "の", "name": "no", "exampleWord": "のり (seaweed)" }
+        {
+          "glyph": "な",
+          "name": "na",
+          "exampleWord": "なつ"
+        },
+        {
+          "glyph": "に",
+          "name": "ni",
+          "exampleWord": "にく"
+        },
+        {
+          "glyph": "ぬ",
+          "name": "nu",
+          "exampleWord": "ぬの"
+        },
+        {
+          "glyph": "ね",
+          "name": "ne",
+          "exampleWord": "ねこ"
+        },
+        {
+          "glyph": "の",
+          "name": "no",
+          "exampleWord": "のり"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "Which one is 'ne'?", "options": ["な","に","ね","の"], "answer": "ね" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'na'?",
+          "options": [
+            "な",
+            "に",
+            "ぬ",
+            "ね"
+          ],
+          "answer": "な"
+        }
       ]
     },
     {
@@ -89,14 +239,44 @@
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "は", "name": "ha", "exampleWord": "はな (flower)" },
-        { "glyph": "ひ", "name": "hi", "exampleWord": "ひと (person)" },
-        { "glyph": "ふ", "name": "fu", "exampleWord": "ふね (boat)" },
-        { "glyph": "へ", "name": "he", "exampleWord": "へや (room)" },
-        { "glyph": "ほ", "name": "ho", "exampleWord": "ほし (star)" }
+        {
+          "glyph": "は",
+          "name": "ha",
+          "exampleWord": "はな"
+        },
+        {
+          "glyph": "ひ",
+          "name": "hi",
+          "exampleWord": "ひと"
+        },
+        {
+          "glyph": "ふ",
+          "name": "fu",
+          "exampleWord": "ふね"
+        },
+        {
+          "glyph": "へ",
+          "name": "he",
+          "exampleWord": "へや"
+        },
+        {
+          "glyph": "ほ",
+          "name": "ho",
+          "exampleWord": "ほし"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "Which one is 'fu'?", "options": ["は","ひ","ふ","ほ"], "answer": "ふ" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'ha'?",
+          "options": [
+            "は",
+            "ひ",
+            "ふ",
+            "へ"
+          ],
+          "answer": "は"
+        }
       ]
     },
     {
@@ -105,14 +285,44 @@
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "ま", "name": "ma", "exampleWord": "まめ (bean)" },
-        { "glyph": "み", "name": "mi", "exampleWord": "みず (water)" },
-        { "glyph": "む", "name": "mu", "exampleWord": "むし (bug)" },
-        { "glyph": "め", "name": "me", "exampleWord": "め (eye)" },
-        { "glyph": "も", "name": "mo", "exampleWord": "もも (peach)" }
+        {
+          "glyph": "ま",
+          "name": "ma",
+          "exampleWord": "まめ"
+        },
+        {
+          "glyph": "み",
+          "name": "mi",
+          "exampleWord": "みず"
+        },
+        {
+          "glyph": "む",
+          "name": "mu",
+          "exampleWord": "むし"
+        },
+        {
+          "glyph": "め",
+          "name": "me",
+          "exampleWord": "め"
+        },
+        {
+          "glyph": "も",
+          "name": "mo",
+          "exampleWord": "もも"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "Which one is 'mi'?", "options": ["ま","み","む","も"], "answer": "み" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'ma'?",
+          "options": [
+            "ま",
+            "み",
+            "む",
+            "め"
+          ],
+          "answer": "ま"
+        }
       ]
     },
     {
@@ -121,12 +331,33 @@
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "や", "name": "ya", "exampleWord": "やま (mountain)" },
-        { "glyph": "ゆ", "name": "yu", "exampleWord": "ゆき (snow)" },
-        { "glyph": "よ", "name": "yo", "exampleWord": "よる (night)" }
+        {
+          "glyph": "や",
+          "name": "ya",
+          "exampleWord": "やま"
+        },
+        {
+          "glyph": "ゆ",
+          "name": "yu",
+          "exampleWord": "ゆき"
+        },
+        {
+          "glyph": "よ",
+          "name": "yo",
+          "exampleWord": "よる"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "Which one is 'yu'?", "options": ["や","ゆ","よ","お"], "answer": "ゆ" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'ya'?",
+          "options": [
+            "や",
+            "ゆ",
+            "よ"
+          ],
+          "answer": "や"
+        }
       ]
     },
     {
@@ -135,28 +366,1039 @@
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "ら", "name": "ra", "exampleWord": "らくだ (camel)" },
-        { "glyph": "り", "name": "ri", "exampleWord": "りんご (apple)" },
-        { "glyph": "る", "name": "ru", "exampleWord": "るす (absent)" },
-        { "glyph": "れ", "name": "re", "exampleWord": "れもん (lemon)" },
-        { "glyph": "ろ", "name": "ro", "exampleWord": "ろば (donkey)" }
+        {
+          "glyph": "ら",
+          "name": "ra",
+          "exampleWord": "らくだ"
+        },
+        {
+          "glyph": "り",
+          "name": "ri",
+          "exampleWord": "りんご"
+        },
+        {
+          "glyph": "る",
+          "name": "ru",
+          "exampleWord": "るす"
+        },
+        {
+          "glyph": "れ",
+          "name": "re",
+          "exampleWord": "れもん"
+        },
+        {
+          "glyph": "ろ",
+          "name": "ro",
+          "exampleWord": "ろば"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "Which one is 'ri'?", "options": ["ら","り","る","れ"], "answer": "り" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'ra'?",
+          "options": [
+            "ら",
+            "り",
+            "る",
+            "れ"
+          ],
+          "answer": "ら"
+        }
       ]
     },
     {
       "id": "ja-p1-l10",
-      "title": "わ行 + ん (Wa row + n)",
+      "title": "わ行 + ん",
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "わ", "name": "wa", "exampleWord": "わに (crocodile)" },
-        { "glyph": "を", "name": "wo", "exampleWord": "を (particle)" },
-        { "glyph": "ん", "name": "n",  "exampleWord": "ほん (book)" }
+        {
+          "glyph": "わ",
+          "name": "wa",
+          "exampleWord": "わに"
+        },
+        {
+          "glyph": "を",
+          "name": "wo",
+          "exampleWord": "を"
+        },
+        {
+          "glyph": "ん",
+          "name": "n",
+          "exampleWord": "ほん"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "Which one is 'n'?", "options": ["わ","を","ん","の"], "answer": "ん" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'wa'?",
+          "options": [
+            "わ",
+            "を",
+            "ん"
+          ],
+          "answer": "わ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p1-l11",
+      "title": "が行 (Ga row - dakuten)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "が",
+          "name": "ga"
+        },
+        {
+          "glyph": "ぎ",
+          "name": "gi"
+        },
+        {
+          "glyph": "ぐ",
+          "name": "gu"
+        },
+        {
+          "glyph": "げ",
+          "name": "ge"
+        },
+        {
+          "glyph": "ご",
+          "name": "go"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'ga'?",
+          "options": [
+            "が",
+            "ぎ",
+            "ぐ",
+            "げ"
+          ],
+          "answer": "が"
+        }
+      ]
+    },
+    {
+      "id": "ja-p1-l12",
+      "title": "ざ行 (Za row - dakuten)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ざ",
+          "name": "za"
+        },
+        {
+          "glyph": "じ",
+          "name": "ji"
+        },
+        {
+          "glyph": "ず",
+          "name": "zu"
+        },
+        {
+          "glyph": "ぜ",
+          "name": "ze"
+        },
+        {
+          "glyph": "ぞ",
+          "name": "zo"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'za'?",
+          "options": [
+            "ざ",
+            "じ",
+            "ず",
+            "ぜ"
+          ],
+          "answer": "ざ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p1-l13",
+      "title": "だ行 (Da row - dakuten)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "だ",
+          "name": "da"
+        },
+        {
+          "glyph": "ぢ",
+          "name": "dji"
+        },
+        {
+          "glyph": "づ",
+          "name": "dzu"
+        },
+        {
+          "glyph": "で",
+          "name": "de"
+        },
+        {
+          "glyph": "ど",
+          "name": "do"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'da'?",
+          "options": [
+            "だ",
+            "ぢ",
+            "づ",
+            "で"
+          ],
+          "answer": "だ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p1-l14",
+      "title": "ば行 (Ba row - dakuten)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ば",
+          "name": "ba"
+        },
+        {
+          "glyph": "び",
+          "name": "bi"
+        },
+        {
+          "glyph": "ぶ",
+          "name": "bu"
+        },
+        {
+          "glyph": "べ",
+          "name": "be"
+        },
+        {
+          "glyph": "ぼ",
+          "name": "bo"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'ba'?",
+          "options": [
+            "ば",
+            "び",
+            "ぶ",
+            "べ"
+          ],
+          "answer": "ば"
+        }
+      ]
+    },
+    {
+      "id": "ja-p1-l15",
+      "title": "ぱ行 (Pa row - handakuten)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ぱ",
+          "name": "pa"
+        },
+        {
+          "glyph": "ぴ",
+          "name": "pi"
+        },
+        {
+          "glyph": "ぷ",
+          "name": "pu"
+        },
+        {
+          "glyph": "ぺ",
+          "name": "pe"
+        },
+        {
+          "glyph": "ぽ",
+          "name": "po"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'pa'?",
+          "options": [
+            "ぱ",
+            "ぴ",
+            "ぷ",
+            "ぺ"
+          ],
+          "answer": "ぱ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p1-l16",
+      "title": "拗音 (Yōon): き + や/ゆ/よ",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "きゃ",
+          "name": "kya"
+        },
+        {
+          "glyph": "きゅ",
+          "name": "kyu"
+        },
+        {
+          "glyph": "きょ",
+          "name": "kyo"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'kya'?",
+          "options": [
+            "きゃ",
+            "きゅ",
+            "きょ",
+            "き"
+          ],
+          "answer": "きゃ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p1-l17",
+      "title": "拗音 (Yōon): ぎ + や/ゆ/よ",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ぎゃ",
+          "name": "gya"
+        },
+        {
+          "glyph": "ぎゅ",
+          "name": "gyu"
+        },
+        {
+          "glyph": "ぎょ",
+          "name": "gyo"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'gya'?",
+          "options": [
+            "ぎゃ",
+            "ぎゅ",
+            "ぎょ",
+            "ぎ"
+          ],
+          "answer": "ぎゃ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p1-l18",
+      "title": "拗音 (Yōon): し + や/ゆ/よ",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "しゃ",
+          "name": "sha"
+        },
+        {
+          "glyph": "しゅ",
+          "name": "shu"
+        },
+        {
+          "glyph": "しょ",
+          "name": "sho"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'sha'?",
+          "options": [
+            "しゃ",
+            "しゅ",
+            "しょ",
+            "し"
+          ],
+          "answer": "しゃ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p1-l19",
+      "title": "拗音 (Yōon): じ + や/ゆ/よ",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "じゃ",
+          "name": "ja"
+        },
+        {
+          "glyph": "じゅ",
+          "name": "ju"
+        },
+        {
+          "glyph": "じょ",
+          "name": "jo"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'ja'?",
+          "options": [
+            "じゃ",
+            "じゅ",
+            "じょ",
+            "じ"
+          ],
+          "answer": "じゃ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p1-l20",
+      "title": "拗音 (Yōon): ち + や/ゆ/よ",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ちゃ",
+          "name": "cha"
+        },
+        {
+          "glyph": "ちゅ",
+          "name": "chu"
+        },
+        {
+          "glyph": "ちょ",
+          "name": "cho"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'cha'?",
+          "options": [
+            "ちゃ",
+            "ちゅ",
+            "ちょ",
+            "ち"
+          ],
+          "answer": "ちゃ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p1-l21",
+      "title": "拗音 (Yōon): に + や/ゆ/よ",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "にゃ",
+          "name": "nya"
+        },
+        {
+          "glyph": "にゅ",
+          "name": "nyu"
+        },
+        {
+          "glyph": "にょ",
+          "name": "nyo"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'nya'?",
+          "options": [
+            "にゃ",
+            "にゅ",
+            "にょ",
+            "に"
+          ],
+          "answer": "にゃ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p1-l22",
+      "title": "拗音 (Yōon): ひ + や/ゆ/よ",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ひゃ",
+          "name": "hya"
+        },
+        {
+          "glyph": "ひゅ",
+          "name": "hyu"
+        },
+        {
+          "glyph": "ひょ",
+          "name": "hyo"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'hya'?",
+          "options": [
+            "ひゃ",
+            "ひゅ",
+            "ひょ",
+            "ひ"
+          ],
+          "answer": "ひゃ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p1-l23",
+      "title": "拗音 (Yōon): び + や/ゆ/よ",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "びゃ",
+          "name": "bya"
+        },
+        {
+          "glyph": "びゅ",
+          "name": "byu"
+        },
+        {
+          "glyph": "びょ",
+          "name": "byo"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'bya'?",
+          "options": [
+            "びゃ",
+            "びゅ",
+            "びょ",
+            "び"
+          ],
+          "answer": "びゃ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p1-l24",
+      "title": "拗音 (Yōon): ぴ + や/ゆ/よ",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ぴゃ",
+          "name": "pya"
+        },
+        {
+          "glyph": "ぴゅ",
+          "name": "pyu"
+        },
+        {
+          "glyph": "ぴょ",
+          "name": "pyo"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'pya'?",
+          "options": [
+            "ぴゃ",
+            "ぴゅ",
+            "ぴょ",
+            "ぴ"
+          ],
+          "answer": "ぴゃ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p1-l25",
+      "title": "拗音 (Yōon): み + や/ゆ/よ",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "みゃ",
+          "name": "mya"
+        },
+        {
+          "glyph": "みゅ",
+          "name": "myu"
+        },
+        {
+          "glyph": "みょ",
+          "name": "myo"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'mya'?",
+          "options": [
+            "みゃ",
+            "みゅ",
+            "みょ",
+            "み"
+          ],
+          "answer": "みゃ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p1-l26",
+      "title": "拗音 (Yōon): り + や/ゆ/よ",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "りゃ",
+          "name": "rya"
+        },
+        {
+          "glyph": "りゅ",
+          "name": "ryu"
+        },
+        {
+          "glyph": "りょ",
+          "name": "ryo"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'rya'?",
+          "options": [
+            "りゃ",
+            "りゅ",
+            "りょ",
+            "り"
+          ],
+          "answer": "りゃ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p1-l27",
+      "title": "カタカナ ア行 (A row)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ア",
+          "name": "a"
+        },
+        {
+          "glyph": "イ",
+          "name": "i"
+        },
+        {
+          "glyph": "ウ",
+          "name": "u"
+        },
+        {
+          "glyph": "エ",
+          "name": "e"
+        },
+        {
+          "glyph": "オ",
+          "name": "o"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which katakana is 'a'?",
+          "options": [
+            "ア",
+            "イ",
+            "ウ",
+            "エ"
+          ],
+          "answer": "ア"
+        }
+      ]
+    },
+    {
+      "id": "ja-p1-l28",
+      "title": "カタカナ カ行 (Ka row)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "カ",
+          "name": "ka"
+        },
+        {
+          "glyph": "キ",
+          "name": "ki"
+        },
+        {
+          "glyph": "ク",
+          "name": "ku"
+        },
+        {
+          "glyph": "ケ",
+          "name": "ke"
+        },
+        {
+          "glyph": "コ",
+          "name": "ko"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which katakana is 'ka'?",
+          "options": [
+            "カ",
+            "キ",
+            "ク",
+            "ケ"
+          ],
+          "answer": "カ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p1-l29",
+      "title": "カタカナ サ行 (Sa row)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "サ",
+          "name": "sa"
+        },
+        {
+          "glyph": "シ",
+          "name": "shi"
+        },
+        {
+          "glyph": "ス",
+          "name": "su"
+        },
+        {
+          "glyph": "セ",
+          "name": "se"
+        },
+        {
+          "glyph": "ソ",
+          "name": "so"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which katakana is 'sa'?",
+          "options": [
+            "サ",
+            "シ",
+            "ス",
+            "セ"
+          ],
+          "answer": "サ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p1-l30",
+      "title": "カタカナ タ行 (Ta row)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "タ",
+          "name": "ta"
+        },
+        {
+          "glyph": "チ",
+          "name": "chi"
+        },
+        {
+          "glyph": "ツ",
+          "name": "tsu"
+        },
+        {
+          "glyph": "テ",
+          "name": "te"
+        },
+        {
+          "glyph": "ト",
+          "name": "to"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which katakana is 'ta'?",
+          "options": [
+            "タ",
+            "チ",
+            "ツ",
+            "テ"
+          ],
+          "answer": "タ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p1-l31",
+      "title": "カタカナ ナ行 (Na row)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ナ",
+          "name": "na"
+        },
+        {
+          "glyph": "ニ",
+          "name": "ni"
+        },
+        {
+          "glyph": "ヌ",
+          "name": "nu"
+        },
+        {
+          "glyph": "ネ",
+          "name": "ne"
+        },
+        {
+          "glyph": "ノ",
+          "name": "no"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which katakana is 'na'?",
+          "options": [
+            "ナ",
+            "ニ",
+            "ヌ",
+            "ネ"
+          ],
+          "answer": "ナ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p1-l32",
+      "title": "カタカナ ハ行 (Ha row)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ハ",
+          "name": "ha"
+        },
+        {
+          "glyph": "ヒ",
+          "name": "hi"
+        },
+        {
+          "glyph": "フ",
+          "name": "fu"
+        },
+        {
+          "glyph": "ヘ",
+          "name": "he"
+        },
+        {
+          "glyph": "ホ",
+          "name": "ho"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which katakana is 'ha'?",
+          "options": [
+            "ハ",
+            "ヒ",
+            "フ",
+            "ヘ"
+          ],
+          "answer": "ハ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p1-l33",
+      "title": "カタカナ マ行 (Ma row)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "マ",
+          "name": "ma"
+        },
+        {
+          "glyph": "ミ",
+          "name": "mi"
+        },
+        {
+          "glyph": "ム",
+          "name": "mu"
+        },
+        {
+          "glyph": "メ",
+          "name": "me"
+        },
+        {
+          "glyph": "モ",
+          "name": "mo"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which katakana is 'ma'?",
+          "options": [
+            "マ",
+            "ミ",
+            "ム",
+            "メ"
+          ],
+          "answer": "マ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p1-l34",
+      "title": "カタカナ ヤ行 (Ya row)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ヤ",
+          "name": "ya"
+        },
+        {
+          "glyph": "ユ",
+          "name": "yu"
+        },
+        {
+          "glyph": "ヨ",
+          "name": "yo"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which katakana is 'ya'?",
+          "options": [
+            "ヤ",
+            "ユ",
+            "ヨ"
+          ],
+          "answer": "ヤ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p1-l35",
+      "title": "カタカナ ラ行 (Ra row)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ラ",
+          "name": "ra"
+        },
+        {
+          "glyph": "リ",
+          "name": "ri"
+        },
+        {
+          "glyph": "ル",
+          "name": "ru"
+        },
+        {
+          "glyph": "レ",
+          "name": "re"
+        },
+        {
+          "glyph": "ロ",
+          "name": "ro"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which katakana is 'ra'?",
+          "options": [
+            "ラ",
+            "リ",
+            "ル",
+            "レ"
+          ],
+          "answer": "ラ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p1-l36",
+      "title": "カタカナ ワ行 + ン",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ワ",
+          "name": "wa"
+        },
+        {
+          "glyph": "ヲ",
+          "name": "wo"
+        },
+        {
+          "glyph": "ン",
+          "name": "n"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which katakana is 'wa'?",
+          "options": [
+            "ワ",
+            "ヲ",
+            "ン"
+          ],
+          "answer": "ワ"
+        }
       ]
     }
   ]

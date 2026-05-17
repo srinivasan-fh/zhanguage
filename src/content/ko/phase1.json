@@ -1,7 +1,7 @@
 {
   "language": "ko",
   "phase": 1,
-  "title": "한글 자모 (Hangul Jamo)",
+  "title": "한글 자모 + 음절 (jamo + syllable blocks)",
   "lessons": [
     {
       "id": "ko-p1-l1",
@@ -9,15 +9,49 @@
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "ㅏ", "name": "a",  "exampleWord": "아빠" },
-        { "glyph": "ㅓ", "name": "eo", "exampleWord": "어머니" },
-        { "glyph": "ㅗ", "name": "o",  "exampleWord": "오리" },
-        { "glyph": "ㅜ", "name": "u",  "exampleWord": "우유" },
-        { "glyph": "ㅡ", "name": "eu", "exampleWord": "그림" },
-        { "glyph": "ㅣ", "name": "i",  "exampleWord": "이름" }
+        {
+          "glyph": "ㅏ",
+          "name": "a",
+          "exampleWord": "아빠"
+        },
+        {
+          "glyph": "ㅓ",
+          "name": "eo",
+          "exampleWord": "어머니"
+        },
+        {
+          "glyph": "ㅗ",
+          "name": "o",
+          "exampleWord": "오리"
+        },
+        {
+          "glyph": "ㅜ",
+          "name": "u",
+          "exampleWord": "우유"
+        },
+        {
+          "glyph": "ㅡ",
+          "name": "eu",
+          "exampleWord": "그림"
+        },
+        {
+          "glyph": "ㅣ",
+          "name": "i",
+          "exampleWord": "이름"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "Which one says 'a'?", "options": ["ㅏ","ㅓ","ㅗ","ㅜ"], "answer": "ㅏ" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one says 'a'?",
+          "options": [
+            "ㅏ",
+            "ㅓ",
+            "ㅗ",
+            "ㅜ"
+          ],
+          "answer": "ㅏ"
+        }
       ]
     },
     {
@@ -26,13 +60,39 @@
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "ㅑ", "name": "ya",  "exampleWord": "야구" },
-        { "glyph": "ㅕ", "name": "yeo", "exampleWord": "여자" },
-        { "glyph": "ㅛ", "name": "yo",  "exampleWord": "요리" },
-        { "glyph": "ㅠ", "name": "yu",  "exampleWord": "유리" }
+        {
+          "glyph": "ㅑ",
+          "name": "ya",
+          "exampleWord": "야구"
+        },
+        {
+          "glyph": "ㅕ",
+          "name": "yeo",
+          "exampleWord": "여자"
+        },
+        {
+          "glyph": "ㅛ",
+          "name": "yo",
+          "exampleWord": "요리"
+        },
+        {
+          "glyph": "ㅠ",
+          "name": "yu",
+          "exampleWord": "유리"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "Which one says 'yo'?", "options": ["ㅑ","ㅕ","ㅛ","ㅠ"], "answer": "ㅛ" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one says 'yo'?",
+          "options": [
+            "ㅑ",
+            "ㅕ",
+            "ㅛ",
+            "ㅠ"
+          ],
+          "answer": "ㅛ"
+        }
       ]
     },
     {
@@ -41,20 +101,74 @@
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "ㅐ", "name": "ae", "exampleWord": "내" },
-        { "glyph": "ㅔ", "name": "e",  "exampleWord": "네" },
-        { "glyph": "ㅒ", "name": "yae","exampleWord": "얘기" },
-        { "glyph": "ㅖ", "name": "ye", "exampleWord": "예술" },
-        { "glyph": "ㅘ", "name": "wa", "exampleWord": "사과" },
-        { "glyph": "ㅙ", "name": "wae","exampleWord": "왜" },
-        { "glyph": "ㅚ", "name": "oe", "exampleWord": "외국" },
-        { "glyph": "ㅝ", "name": "wo", "exampleWord": "원" },
-        { "glyph": "ㅞ", "name": "we", "exampleWord": "웨이터" },
-        { "glyph": "ㅟ", "name": "wi", "exampleWord": "위" },
-        { "glyph": "ㅢ", "name": "ui", "exampleWord": "의자" }
+        {
+          "glyph": "ㅐ",
+          "name": "ae",
+          "exampleWord": "내"
+        },
+        {
+          "glyph": "ㅔ",
+          "name": "e",
+          "exampleWord": "네"
+        },
+        {
+          "glyph": "ㅒ",
+          "name": "yae",
+          "exampleWord": "얘기"
+        },
+        {
+          "glyph": "ㅖ",
+          "name": "ye",
+          "exampleWord": "예술"
+        },
+        {
+          "glyph": "ㅘ",
+          "name": "wa",
+          "exampleWord": "사과"
+        },
+        {
+          "glyph": "ㅙ",
+          "name": "wae",
+          "exampleWord": "왜"
+        },
+        {
+          "glyph": "ㅚ",
+          "name": "oe",
+          "exampleWord": "외국"
+        },
+        {
+          "glyph": "ㅝ",
+          "name": "wo",
+          "exampleWord": "원"
+        },
+        {
+          "glyph": "ㅞ",
+          "name": "we",
+          "exampleWord": "웨이터"
+        },
+        {
+          "glyph": "ㅟ",
+          "name": "wi",
+          "exampleWord": "위"
+        },
+        {
+          "glyph": "ㅢ",
+          "name": "ui",
+          "exampleWord": "의자"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "Which one says 'wa'?", "options": ["ㅘ","ㅙ","ㅚ","ㅝ"], "answer": "ㅘ" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one says 'wa'?",
+          "options": [
+            "ㅘ",
+            "ㅙ",
+            "ㅚ",
+            "ㅝ"
+          ],
+          "answer": "ㅘ"
+        }
       ]
     },
     {
@@ -63,14 +177,44 @@
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "ㄱ", "name": "g/k", "exampleWord": "가방" },
-        { "glyph": "ㄴ", "name": "n",   "exampleWord": "나무" },
-        { "glyph": "ㄷ", "name": "d/t", "exampleWord": "다리" },
-        { "glyph": "ㄹ", "name": "r/l", "exampleWord": "라면" },
-        { "glyph": "ㅁ", "name": "m",   "exampleWord": "마음" }
+        {
+          "glyph": "ㄱ",
+          "name": "g/k",
+          "exampleWord": "가방"
+        },
+        {
+          "glyph": "ㄴ",
+          "name": "n",
+          "exampleWord": "나무"
+        },
+        {
+          "glyph": "ㄷ",
+          "name": "d/t",
+          "exampleWord": "다리"
+        },
+        {
+          "glyph": "ㄹ",
+          "name": "r/l",
+          "exampleWord": "라면"
+        },
+        {
+          "glyph": "ㅁ",
+          "name": "m",
+          "exampleWord": "마음"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "Which one says 'm'?", "options": ["ㄱ","ㄴ","ㅁ","ㄹ"], "answer": "ㅁ" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one says 'm'?",
+          "options": [
+            "ㄱ",
+            "ㄴ",
+            "ㅁ",
+            "ㄹ"
+          ],
+          "answer": "ㅁ"
+        }
       ]
     },
     {
@@ -79,14 +223,44 @@
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "ㅂ", "name": "b/p", "exampleWord": "바다" },
-        { "glyph": "ㅅ", "name": "s",   "exampleWord": "사람" },
-        { "glyph": "ㅇ", "name": "ng",  "exampleWord": "아이" },
-        { "glyph": "ㅈ", "name": "j",   "exampleWord": "자전거" },
-        { "glyph": "ㅎ", "name": "h",   "exampleWord": "하늘" }
+        {
+          "glyph": "ㅂ",
+          "name": "b/p",
+          "exampleWord": "바다"
+        },
+        {
+          "glyph": "ㅅ",
+          "name": "s",
+          "exampleWord": "사람"
+        },
+        {
+          "glyph": "ㅇ",
+          "name": "ng",
+          "exampleWord": "아이"
+        },
+        {
+          "glyph": "ㅈ",
+          "name": "j",
+          "exampleWord": "자전거"
+        },
+        {
+          "glyph": "ㅎ",
+          "name": "h",
+          "exampleWord": "하늘"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "Which one says 'h'?", "options": ["ㅂ","ㅅ","ㅎ","ㅈ"], "answer": "ㅎ" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one says 'h'?",
+          "options": [
+            "ㅂ",
+            "ㅅ",
+            "ㅎ",
+            "ㅈ"
+          ],
+          "answer": "ㅎ"
+        }
       ]
     },
     {
@@ -95,13 +269,39 @@
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "ㅋ", "name": "k",  "exampleWord": "코" },
-        { "glyph": "ㅌ", "name": "t",  "exampleWord": "토끼" },
-        { "glyph": "ㅍ", "name": "p",  "exampleWord": "포도" },
-        { "glyph": "ㅊ", "name": "ch", "exampleWord": "차" }
+        {
+          "glyph": "ㅋ",
+          "name": "k",
+          "exampleWord": "코"
+        },
+        {
+          "glyph": "ㅌ",
+          "name": "t",
+          "exampleWord": "토끼"
+        },
+        {
+          "glyph": "ㅍ",
+          "name": "p",
+          "exampleWord": "포도"
+        },
+        {
+          "glyph": "ㅊ",
+          "name": "ch",
+          "exampleWord": "차"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "Which one says 'ch'?", "options": ["ㅋ","ㅌ","ㅍ","ㅊ"], "answer": "ㅊ" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one says 'ch'?",
+          "options": [
+            "ㅋ",
+            "ㅌ",
+            "ㅍ",
+            "ㅊ"
+          ],
+          "answer": "ㅊ"
+        }
       ]
     },
     {
@@ -110,14 +310,898 @@
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "ㄲ", "name": "kk", "exampleWord": "꿈" },
-        { "glyph": "ㄸ", "name": "tt", "exampleWord": "땅" },
-        { "glyph": "ㅃ", "name": "pp", "exampleWord": "빵" },
-        { "glyph": "ㅆ", "name": "ss", "exampleWord": "쌀" },
-        { "glyph": "ㅉ", "name": "jj", "exampleWord": "찌개" }
+        {
+          "glyph": "ㄲ",
+          "name": "kk",
+          "exampleWord": "꿈"
+        },
+        {
+          "glyph": "ㄸ",
+          "name": "tt",
+          "exampleWord": "땅"
+        },
+        {
+          "glyph": "ㅃ",
+          "name": "pp",
+          "exampleWord": "빵"
+        },
+        {
+          "glyph": "ㅆ",
+          "name": "ss",
+          "exampleWord": "쌀"
+        },
+        {
+          "glyph": "ㅉ",
+          "name": "jj",
+          "exampleWord": "찌개"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "Which one says 'pp'?", "options": ["ㄲ","ㄸ","ㅃ","ㅆ"], "answer": "ㅃ" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one says 'pp'?",
+          "options": [
+            "ㄲ",
+            "ㄸ",
+            "ㅃ",
+            "ㅆ"
+          ],
+          "answer": "ㅃ"
+        }
+      ]
+    },
+    {
+      "id": "ko-p1-l8",
+      "title": "음절: ㄱ 계열 (Syllables with ㄱ)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "가",
+          "name": "ga"
+        },
+        {
+          "glyph": "갸",
+          "name": "gya"
+        },
+        {
+          "glyph": "거",
+          "name": "geo"
+        },
+        {
+          "glyph": "겨",
+          "name": "gyeo"
+        },
+        {
+          "glyph": "고",
+          "name": "go"
+        },
+        {
+          "glyph": "교",
+          "name": "gyo"
+        },
+        {
+          "glyph": "구",
+          "name": "gu"
+        },
+        {
+          "glyph": "규",
+          "name": "gyu"
+        },
+        {
+          "glyph": "그",
+          "name": "geu"
+        },
+        {
+          "glyph": "기",
+          "name": "gi"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which syllable is 'ga'?",
+          "options": [
+            "가",
+            "갸",
+            "거",
+            "겨"
+          ],
+          "answer": "가"
+        }
+      ]
+    },
+    {
+      "id": "ko-p1-l9",
+      "title": "음절: ㄴ 계열 (Syllables with ㄴ)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "나",
+          "name": "na"
+        },
+        {
+          "glyph": "냐",
+          "name": "nya"
+        },
+        {
+          "glyph": "너",
+          "name": "neo"
+        },
+        {
+          "glyph": "녀",
+          "name": "nyeo"
+        },
+        {
+          "glyph": "노",
+          "name": "no"
+        },
+        {
+          "glyph": "뇨",
+          "name": "nyo"
+        },
+        {
+          "glyph": "누",
+          "name": "nu"
+        },
+        {
+          "glyph": "뉴",
+          "name": "nyu"
+        },
+        {
+          "glyph": "느",
+          "name": "neu"
+        },
+        {
+          "glyph": "니",
+          "name": "ni"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which syllable is 'na'?",
+          "options": [
+            "나",
+            "냐",
+            "너",
+            "녀"
+          ],
+          "answer": "나"
+        }
+      ]
+    },
+    {
+      "id": "ko-p1-l10",
+      "title": "음절: ㄷ 계열 (Syllables with ㄷ)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "다",
+          "name": "da"
+        },
+        {
+          "glyph": "댜",
+          "name": "dya"
+        },
+        {
+          "glyph": "더",
+          "name": "deo"
+        },
+        {
+          "glyph": "뎌",
+          "name": "dyeo"
+        },
+        {
+          "glyph": "도",
+          "name": "do"
+        },
+        {
+          "glyph": "됴",
+          "name": "dyo"
+        },
+        {
+          "glyph": "두",
+          "name": "du"
+        },
+        {
+          "glyph": "듀",
+          "name": "dyu"
+        },
+        {
+          "glyph": "드",
+          "name": "deu"
+        },
+        {
+          "glyph": "디",
+          "name": "di"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which syllable is 'da'?",
+          "options": [
+            "다",
+            "댜",
+            "더",
+            "뎌"
+          ],
+          "answer": "다"
+        }
+      ]
+    },
+    {
+      "id": "ko-p1-l11",
+      "title": "음절: ㄹ 계열 (Syllables with ㄹ)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "라",
+          "name": "ra"
+        },
+        {
+          "glyph": "랴",
+          "name": "rya"
+        },
+        {
+          "glyph": "러",
+          "name": "reo"
+        },
+        {
+          "glyph": "려",
+          "name": "ryeo"
+        },
+        {
+          "glyph": "로",
+          "name": "ro"
+        },
+        {
+          "glyph": "료",
+          "name": "ryo"
+        },
+        {
+          "glyph": "루",
+          "name": "ru"
+        },
+        {
+          "glyph": "류",
+          "name": "ryu"
+        },
+        {
+          "glyph": "르",
+          "name": "reu"
+        },
+        {
+          "glyph": "리",
+          "name": "ri"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which syllable is 'ra'?",
+          "options": [
+            "라",
+            "랴",
+            "러",
+            "려"
+          ],
+          "answer": "라"
+        }
+      ]
+    },
+    {
+      "id": "ko-p1-l12",
+      "title": "음절: ㅁ 계열 (Syllables with ㅁ)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "마",
+          "name": "ma"
+        },
+        {
+          "glyph": "먀",
+          "name": "mya"
+        },
+        {
+          "glyph": "머",
+          "name": "meo"
+        },
+        {
+          "glyph": "며",
+          "name": "myeo"
+        },
+        {
+          "glyph": "모",
+          "name": "mo"
+        },
+        {
+          "glyph": "묘",
+          "name": "myo"
+        },
+        {
+          "glyph": "무",
+          "name": "mu"
+        },
+        {
+          "glyph": "뮤",
+          "name": "myu"
+        },
+        {
+          "glyph": "므",
+          "name": "meu"
+        },
+        {
+          "glyph": "미",
+          "name": "mi"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which syllable is 'ma'?",
+          "options": [
+            "마",
+            "먀",
+            "머",
+            "며"
+          ],
+          "answer": "마"
+        }
+      ]
+    },
+    {
+      "id": "ko-p1-l13",
+      "title": "음절: ㅂ 계열 (Syllables with ㅂ)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "바",
+          "name": "ba"
+        },
+        {
+          "glyph": "뱌",
+          "name": "bya"
+        },
+        {
+          "glyph": "버",
+          "name": "beo"
+        },
+        {
+          "glyph": "벼",
+          "name": "byeo"
+        },
+        {
+          "glyph": "보",
+          "name": "bo"
+        },
+        {
+          "glyph": "뵤",
+          "name": "byo"
+        },
+        {
+          "glyph": "부",
+          "name": "bu"
+        },
+        {
+          "glyph": "뷰",
+          "name": "byu"
+        },
+        {
+          "glyph": "브",
+          "name": "beu"
+        },
+        {
+          "glyph": "비",
+          "name": "bi"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which syllable is 'ba'?",
+          "options": [
+            "바",
+            "뱌",
+            "버",
+            "벼"
+          ],
+          "answer": "바"
+        }
+      ]
+    },
+    {
+      "id": "ko-p1-l14",
+      "title": "음절: ㅅ 계열 (Syllables with ㅅ)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "사",
+          "name": "sa"
+        },
+        {
+          "glyph": "샤",
+          "name": "sya"
+        },
+        {
+          "glyph": "서",
+          "name": "seo"
+        },
+        {
+          "glyph": "셔",
+          "name": "syeo"
+        },
+        {
+          "glyph": "소",
+          "name": "so"
+        },
+        {
+          "glyph": "쇼",
+          "name": "syo"
+        },
+        {
+          "glyph": "수",
+          "name": "su"
+        },
+        {
+          "glyph": "슈",
+          "name": "syu"
+        },
+        {
+          "glyph": "스",
+          "name": "seu"
+        },
+        {
+          "glyph": "시",
+          "name": "si"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which syllable is 'sa'?",
+          "options": [
+            "사",
+            "샤",
+            "서",
+            "셔"
+          ],
+          "answer": "사"
+        }
+      ]
+    },
+    {
+      "id": "ko-p1-l15",
+      "title": "음절: ㅇ 계열 (Syllables with ㅇ)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "아",
+          "name": "nga"
+        },
+        {
+          "glyph": "야",
+          "name": "ngya"
+        },
+        {
+          "glyph": "어",
+          "name": "ngeo"
+        },
+        {
+          "glyph": "여",
+          "name": "ngyeo"
+        },
+        {
+          "glyph": "오",
+          "name": "ngo"
+        },
+        {
+          "glyph": "요",
+          "name": "ngyo"
+        },
+        {
+          "glyph": "우",
+          "name": "ngu"
+        },
+        {
+          "glyph": "유",
+          "name": "ngyu"
+        },
+        {
+          "glyph": "으",
+          "name": "ngeu"
+        },
+        {
+          "glyph": "이",
+          "name": "ngi"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which syllable is 'nga'?",
+          "options": [
+            "아",
+            "야",
+            "어",
+            "여"
+          ],
+          "answer": "아"
+        }
+      ]
+    },
+    {
+      "id": "ko-p1-l16",
+      "title": "음절: ㅈ 계열 (Syllables with ㅈ)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "자",
+          "name": "ja"
+        },
+        {
+          "glyph": "쟈",
+          "name": "jya"
+        },
+        {
+          "glyph": "저",
+          "name": "jeo"
+        },
+        {
+          "glyph": "져",
+          "name": "jyeo"
+        },
+        {
+          "glyph": "조",
+          "name": "jo"
+        },
+        {
+          "glyph": "죠",
+          "name": "jyo"
+        },
+        {
+          "glyph": "주",
+          "name": "ju"
+        },
+        {
+          "glyph": "쥬",
+          "name": "jyu"
+        },
+        {
+          "glyph": "즈",
+          "name": "jeu"
+        },
+        {
+          "glyph": "지",
+          "name": "ji"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which syllable is 'ja'?",
+          "options": [
+            "자",
+            "쟈",
+            "저",
+            "져"
+          ],
+          "answer": "자"
+        }
+      ]
+    },
+    {
+      "id": "ko-p1-l17",
+      "title": "음절: ㅊ 계열 (Syllables with ㅊ)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "차",
+          "name": "cha"
+        },
+        {
+          "glyph": "챠",
+          "name": "chya"
+        },
+        {
+          "glyph": "처",
+          "name": "cheo"
+        },
+        {
+          "glyph": "쳐",
+          "name": "chyeo"
+        },
+        {
+          "glyph": "초",
+          "name": "cho"
+        },
+        {
+          "glyph": "쵸",
+          "name": "chyo"
+        },
+        {
+          "glyph": "추",
+          "name": "chu"
+        },
+        {
+          "glyph": "츄",
+          "name": "chyu"
+        },
+        {
+          "glyph": "츠",
+          "name": "cheu"
+        },
+        {
+          "glyph": "치",
+          "name": "chi"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which syllable is 'cha'?",
+          "options": [
+            "차",
+            "챠",
+            "처",
+            "쳐"
+          ],
+          "answer": "차"
+        }
+      ]
+    },
+    {
+      "id": "ko-p1-l18",
+      "title": "음절: ㅋ 계열 (Syllables with ㅋ)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "카",
+          "name": "ka"
+        },
+        {
+          "glyph": "캬",
+          "name": "kya"
+        },
+        {
+          "glyph": "커",
+          "name": "keo"
+        },
+        {
+          "glyph": "켜",
+          "name": "kyeo"
+        },
+        {
+          "glyph": "코",
+          "name": "ko"
+        },
+        {
+          "glyph": "쿄",
+          "name": "kyo"
+        },
+        {
+          "glyph": "쿠",
+          "name": "ku"
+        },
+        {
+          "glyph": "큐",
+          "name": "kyu"
+        },
+        {
+          "glyph": "크",
+          "name": "keu"
+        },
+        {
+          "glyph": "키",
+          "name": "ki"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which syllable is 'ka'?",
+          "options": [
+            "카",
+            "캬",
+            "커",
+            "켜"
+          ],
+          "answer": "카"
+        }
+      ]
+    },
+    {
+      "id": "ko-p1-l19",
+      "title": "음절: ㅌ 계열 (Syllables with ㅌ)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "타",
+          "name": "ta"
+        },
+        {
+          "glyph": "탸",
+          "name": "tya"
+        },
+        {
+          "glyph": "터",
+          "name": "teo"
+        },
+        {
+          "glyph": "텨",
+          "name": "tyeo"
+        },
+        {
+          "glyph": "토",
+          "name": "to"
+        },
+        {
+          "glyph": "툐",
+          "name": "tyo"
+        },
+        {
+          "glyph": "투",
+          "name": "tu"
+        },
+        {
+          "glyph": "튜",
+          "name": "tyu"
+        },
+        {
+          "glyph": "트",
+          "name": "teu"
+        },
+        {
+          "glyph": "티",
+          "name": "ti"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which syllable is 'ta'?",
+          "options": [
+            "타",
+            "탸",
+            "터",
+            "텨"
+          ],
+          "answer": "타"
+        }
+      ]
+    },
+    {
+      "id": "ko-p1-l20",
+      "title": "음절: ㅍ 계열 (Syllables with ㅍ)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "파",
+          "name": "pa"
+        },
+        {
+          "glyph": "퍄",
+          "name": "pya"
+        },
+        {
+          "glyph": "퍼",
+          "name": "peo"
+        },
+        {
+          "glyph": "펴",
+          "name": "pyeo"
+        },
+        {
+          "glyph": "포",
+          "name": "po"
+        },
+        {
+          "glyph": "표",
+          "name": "pyo"
+        },
+        {
+          "glyph": "푸",
+          "name": "pu"
+        },
+        {
+          "glyph": "퓨",
+          "name": "pyu"
+        },
+        {
+          "glyph": "프",
+          "name": "peu"
+        },
+        {
+          "glyph": "피",
+          "name": "pi"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which syllable is 'pa'?",
+          "options": [
+            "파",
+            "퍄",
+            "퍼",
+            "펴"
+          ],
+          "answer": "파"
+        }
+      ]
+    },
+    {
+      "id": "ko-p1-l21",
+      "title": "음절: ㅎ 계열 (Syllables with ㅎ)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "하",
+          "name": "ha"
+        },
+        {
+          "glyph": "햐",
+          "name": "hya"
+        },
+        {
+          "glyph": "허",
+          "name": "heo"
+        },
+        {
+          "glyph": "혀",
+          "name": "hyeo"
+        },
+        {
+          "glyph": "호",
+          "name": "ho"
+        },
+        {
+          "glyph": "효",
+          "name": "hyo"
+        },
+        {
+          "glyph": "후",
+          "name": "hu"
+        },
+        {
+          "glyph": "휴",
+          "name": "hyu"
+        },
+        {
+          "glyph": "흐",
+          "name": "heu"
+        },
+        {
+          "glyph": "히",
+          "name": "hi"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which syllable is 'ha'?",
+          "options": [
+            "하",
+            "햐",
+            "허",
+            "혀"
+          ],
+          "answer": "하"
+        }
       ]
     }
   ]
