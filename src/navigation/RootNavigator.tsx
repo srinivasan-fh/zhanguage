@@ -1,7 +1,8 @@
 import React from 'react';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { RootStackParamList } from './types';
-import { useProfileStore } from '@/store/profileStore';
+import { useAppSelector } from '@/store/hooks';
+import { selectActiveProfileId } from '@/store/selectors';
 import { ProfileSelectScreen } from '@/screens/ProfileSelectScreen';
 import { CreateProfileScreen } from '@/screens/CreateProfileScreen';
 import { HomeScreen } from '@/screens/HomeScreen';
@@ -17,7 +18,7 @@ import { colors } from '@/theme';
 const Stack = createNativeStackNavigator<RootStackParamList>();
 
 export function RootNavigator() {
-  const activeProfileId = useProfileStore((s) => s.activeProfileId);
+  const activeProfileId = useAppSelector(selectActiveProfileId);
 
   return (
     <Stack.Navigator

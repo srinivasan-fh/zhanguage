@@ -19,6 +19,106 @@
       "quiz": [
         { "kind": "tap-the-sound", "prompt": "Which one says 'a'?", "options": ["ㅏ","ㅓ","ㅗ","ㅜ"], "answer": "ㅏ" }
       ]
+    },
+    {
+      "id": "ko-p1-l2",
+      "title": "Y 계열 모음 (Y vowels)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "ㅑ", "name": "ya",  "exampleWord": "야구" },
+        { "glyph": "ㅕ", "name": "yeo", "exampleWord": "여자" },
+        { "glyph": "ㅛ", "name": "yo",  "exampleWord": "요리" },
+        { "glyph": "ㅠ", "name": "yu",  "exampleWord": "유리" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "Which one says 'yo'?", "options": ["ㅑ","ㅕ","ㅛ","ㅠ"], "answer": "ㅛ" }
+      ]
+    },
+    {
+      "id": "ko-p1-l3",
+      "title": "쌍모음 (Compound vowels)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "ㅐ", "name": "ae", "exampleWord": "내" },
+        { "glyph": "ㅔ", "name": "e",  "exampleWord": "네" },
+        { "glyph": "ㅒ", "name": "yae","exampleWord": "얘기" },
+        { "glyph": "ㅖ", "name": "ye", "exampleWord": "예술" },
+        { "glyph": "ㅘ", "name": "wa", "exampleWord": "사과" },
+        { "glyph": "ㅙ", "name": "wae","exampleWord": "왜" },
+        { "glyph": "ㅚ", "name": "oe", "exampleWord": "외국" },
+        { "glyph": "ㅝ", "name": "wo", "exampleWord": "원" },
+        { "glyph": "ㅞ", "name": "we", "exampleWord": "웨이터" },
+        { "glyph": "ㅟ", "name": "wi", "exampleWord": "위" },
+        { "glyph": "ㅢ", "name": "ui", "exampleWord": "의자" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "Which one says 'wa'?", "options": ["ㅘ","ㅙ","ㅚ","ㅝ"], "answer": "ㅘ" }
+      ]
+    },
+    {
+      "id": "ko-p1-l4",
+      "title": "기본 자음 1 (Plain consonants 1)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "ㄱ", "name": "g/k", "exampleWord": "가방" },
+        { "glyph": "ㄴ", "name": "n",   "exampleWord": "나무" },
+        { "glyph": "ㄷ", "name": "d/t", "exampleWord": "다리" },
+        { "glyph": "ㄹ", "name": "r/l", "exampleWord": "라면" },
+        { "glyph": "ㅁ", "name": "m",   "exampleWord": "마음" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "Which one says 'm'?", "options": ["ㄱ","ㄴ","ㅁ","ㄹ"], "answer": "ㅁ" }
+      ]
+    },
+    {
+      "id": "ko-p1-l5",
+      "title": "기본 자음 2 (Plain consonants 2)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "ㅂ", "name": "b/p", "exampleWord": "바다" },
+        { "glyph": "ㅅ", "name": "s",   "exampleWord": "사람" },
+        { "glyph": "ㅇ", "name": "ng",  "exampleWord": "아이" },
+        { "glyph": "ㅈ", "name": "j",   "exampleWord": "자전거" },
+        { "glyph": "ㅎ", "name": "h",   "exampleWord": "하늘" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "Which one says 'h'?", "options": ["ㅂ","ㅅ","ㅎ","ㅈ"], "answer": "ㅎ" }
+      ]
+    },
+    {
+      "id": "ko-p1-l6",
+      "title": "거센 자음 (Aspirated consonants)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "ㅋ", "name": "k",  "exampleWord": "코" },
+        { "glyph": "ㅌ", "name": "t",  "exampleWord": "토끼" },
+        { "glyph": "ㅍ", "name": "p",  "exampleWord": "포도" },
+        { "glyph": "ㅊ", "name": "ch", "exampleWord": "차" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "Which one says 'ch'?", "options": ["ㅋ","ㅌ","ㅍ","ㅊ"], "answer": "ㅊ" }
+      ]
+    },
+    {
+      "id": "ko-p1-l7",
+      "title": "쌍자음 (Tense consonants)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "ㄲ", "name": "kk", "exampleWord": "꿈" },
+        { "glyph": "ㄸ", "name": "tt", "exampleWord": "땅" },
+        { "glyph": "ㅃ", "name": "pp", "exampleWord": "빵" },
+        { "glyph": "ㅆ", "name": "ss", "exampleWord": "쌀" },
+        { "glyph": "ㅉ", "name": "jj", "exampleWord": "찌개" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "Which one says 'pp'?", "options": ["ㄲ","ㄸ","ㅃ","ㅆ"], "answer": "ㅃ" }
+      ]
     }
   ]
 }

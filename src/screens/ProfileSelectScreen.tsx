@@ -3,7 +3,9 @@ import { View, Text, StyleSheet, FlatList, Pressable } from 'react-native';
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { RootStackParamList } from '@/navigation/types';
-import { useProfileStore, MAX_PROFILE_COUNT } from '@/store/profileStore';
+import { useAppDispatch, useAppSelector } from '@/store/hooks';
+import { selectProfiles, selectCanAddProfile } from '@/store/selectors';
+import { selectProfile } from '@/store/slices/profilesSlice';
 import { Avatar } from '@/components/Avatar';
 import { BigButton } from '@/components/BigButton';
 import { colors, spacing, fontSizes } from '@/theme';
@@ -11,10 +13,12 @@ import { colors, spacing, fontSizes } from '@/theme';
 type Props = NativeStackScreenProps<RootStackParamList, 'ProfileSelect'>;
 
 export function ProfileSelectScreen({ navigation }: Props) {
-  const { profiles, switchProfile, canAddProfile } = useProfileStore();
+  const profiles = useAppSelector(selectProfiles);
+  const canAddProfile = useAppSelector(selectCanAddProfile);
+  const dispatch = useAppDispatch();
 
-  const onPick = async (id: string) => {
-    await switchProfile(id);
+  const onPick = (id: string) => {
+    dispatch(selectProfile(id));
     navigation.replace('Home');
   };
 
@@ -39,9 +43,9 @@ export function ProfileSelectScreen({ navigation }: Props) {
         }
       />
       <BigButton
-        label={canAddProfile() ? 'Add Player' : `Max ${MAX_PROFILE_COUNT} players`}
+        label={canAddProfile ? 'Add Player' : 'Max 3 players'}
         emoji="➕"
-        disabled={!canAddProfile()}
+        disabled={!canAddProfile}
         onPress={() => navigation.navigate('CreateProfile')}
         style={{ marginTop: spacing.lg }}
       />

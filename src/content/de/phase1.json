@@ -5,22 +5,88 @@
   "lessons": [
     {
       "id": "de-p1-l1",
-      "title": "Vokale & Umlaute",
+      "title": "A bis G",
       "type": "letters",
       "maxPoints": 100,
       "items": [
         { "glyph": "A", "name": "ah",  "exampleWord": "Affe" },
+        { "glyph": "B", "name": "beh", "exampleWord": "Ball" },
+        { "glyph": "C", "name": "tseh","exampleWord": "Clown" },
+        { "glyph": "D", "name": "deh", "exampleWord": "Drache" },
         { "glyph": "E", "name": "eh",  "exampleWord": "Esel" },
+        { "glyph": "F", "name": "ef",  "exampleWord": "Fisch" },
+        { "glyph": "G", "name": "geh", "exampleWord": "Gans" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "Welcher Buchstabe beginnt 'Fisch'?", "options": ["E","F","G","D"], "answer": "F" }
+      ]
+    },
+    {
+      "id": "de-p1-l2",
+      "title": "H bis N",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "H", "name": "hah", "exampleWord": "Hund" },
         { "glyph": "I", "name": "ee",  "exampleWord": "Igel" },
+        { "glyph": "J", "name": "yot", "exampleWord": "Jacke" },
+        { "glyph": "K", "name": "kah", "exampleWord": "Katze" },
+        { "glyph": "L", "name": "el",  "exampleWord": "Löwe" },
+        { "glyph": "M", "name": "em",  "exampleWord": "Maus" },
+        { "glyph": "N", "name": "en",  "exampleWord": "Nase" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "Welcher Buchstabe beginnt 'Katze'?", "options": ["J","K","L","H"], "answer": "K" }
+      ]
+    },
+    {
+      "id": "de-p1-l3",
+      "title": "O bis T",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
         { "glyph": "O", "name": "oh",  "exampleWord": "Ofen" },
-        { "glyph": "U", "name": "oo",  "exampleWord": "Uhr" },
+        { "glyph": "P", "name": "peh", "exampleWord": "Pferd" },
+        { "glyph": "Q", "name": "kuh", "exampleWord": "Quark" },
+        { "glyph": "R", "name": "er",  "exampleWord": "Rose" },
+        { "glyph": "S", "name": "es",  "exampleWord": "Sonne" },
+        { "glyph": "T", "name": "teh", "exampleWord": "Tisch" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "Welcher Buchstabe beginnt 'Sonne'?", "options": ["R","S","T","O"], "answer": "S" }
+      ]
+    },
+    {
+      "id": "de-p1-l4",
+      "title": "U bis Z",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "U", "name": "oo",     "exampleWord": "Uhr" },
+        { "glyph": "V", "name": "fau",    "exampleWord": "Vogel" },
+        { "glyph": "W", "name": "veh",    "exampleWord": "Wolke" },
+        { "glyph": "X", "name": "iks",    "exampleWord": "Xylophon" },
+        { "glyph": "Y", "name": "üpsilon","exampleWord": "Yoga" },
+        { "glyph": "Z", "name": "tsett",  "exampleWord": "Zebra" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "Welcher Buchstabe beginnt 'Zebra'?", "options": ["Y","X","Z","V"], "answer": "Z" }
+      ]
+    },
+    {
+      "id": "de-p1-l5",
+      "title": "Umlaute & ß",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
         { "glyph": "Ä", "name": "ae",  "exampleWord": "Äpfel" },
         { "glyph": "Ö", "name": "oe",  "exampleWord": "Öl" },
         { "glyph": "Ü", "name": "ue",  "exampleWord": "Übung" },
         { "glyph": "ß", "name": "ess", "exampleWord": "Straße" }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "Welcher Buchstabe sagt /ä/?", "options": ["A","Ä","O","Ü"], "answer": "Ä" }
+        { "kind": "tap-the-sound", "prompt": "Welcher Buchstabe sagt /ä/?", "options": ["A","Ä","O","Ü"], "answer": "Ä" },
+        { "kind": "tap-the-sound", "prompt": "Welches Symbol ist 'scharfes S'?", "options": ["ß","ö","ü","ä"], "answer": "ß" }
       ]
     }
   ]

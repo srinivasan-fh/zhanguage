@@ -9,15 +9,121 @@
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "a", "name": "ah",  "exampleWord": "妈 (mā)" },
-        { "glyph": "o", "name": "oh",  "exampleWord": "我 (wǒ)" },
-        { "glyph": "e", "name": "uh",  "exampleWord": "鹅 (é)" },
-        { "glyph": "i", "name": "ee",  "exampleWord": "一 (yī)" },
-        { "glyph": "u", "name": "oo",  "exampleWord": "五 (wǔ)" },
-        { "glyph": "ü", "name": "yu",  "exampleWord": "鱼 (yú)" }
+        { "glyph": "a", "name": "ah", "exampleWord": "妈 (mā)" },
+        { "glyph": "o", "name": "oh", "exampleWord": "我 (wǒ)" },
+        { "glyph": "e", "name": "uh", "exampleWord": "鹅 (é)" },
+        { "glyph": "i", "name": "ee", "exampleWord": "一 (yī)" },
+        { "glyph": "u", "name": "oo", "exampleWord": "五 (wǔ)" },
+        { "glyph": "ü", "name": "yu", "exampleWord": "鱼 (yú)" }
       ],
       "quiz": [
         { "kind": "tap-the-sound", "prompt": "Which one is 'ah'?", "options": ["a","o","e","i"], "answer": "a" }
+      ]
+    },
+    {
+      "id": "zh-p1-l2",
+      "title": "Initials: b p m f",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "b", "name": "buh", "exampleWord": "爸 (bà)" },
+        { "glyph": "p", "name": "puh", "exampleWord": "怕 (pà)" },
+        { "glyph": "m", "name": "muh", "exampleWord": "妈 (mā)" },
+        { "glyph": "f", "name": "fuh", "exampleWord": "发 (fā)" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "妈 starts with which letter?", "options": ["b","p","m","f"], "answer": "m" }
+      ]
+    },
+    {
+      "id": "zh-p1-l3",
+      "title": "Initials: d t n l",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "d", "name": "duh", "exampleWord": "大 (dà)" },
+        { "glyph": "t", "name": "tuh", "exampleWord": "他 (tā)" },
+        { "glyph": "n", "name": "nuh", "exampleWord": "你 (nǐ)" },
+        { "glyph": "l", "name": "luh", "exampleWord": "了 (le)" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "你 starts with which letter?", "options": ["d","t","n","l"], "answer": "n" }
+      ]
+    },
+    {
+      "id": "zh-p1-l4",
+      "title": "Initials: g k h",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "g", "name": "guh", "exampleWord": "哥 (gē)" },
+        { "glyph": "k", "name": "kuh", "exampleWord": "看 (kàn)" },
+        { "glyph": "h", "name": "huh", "exampleWord": "好 (hǎo)" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "好 starts with which letter?", "options": ["g","k","h","f"], "answer": "h" }
+      ]
+    },
+    {
+      "id": "zh-p1-l5",
+      "title": "Initials: j q x",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "j", "name": "jee",   "exampleWord": "鸡 (jī)" },
+        { "glyph": "q", "name": "chee",  "exampleWord": "七 (qī)" },
+        { "glyph": "x", "name": "shee",  "exampleWord": "西 (xī)" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "七 starts with which letter?", "options": ["j","q","x","k"], "answer": "q" }
+      ]
+    },
+    {
+      "id": "zh-p1-l6",
+      "title": "Initials: zh ch sh r",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "zh", "name": "j-",  "exampleWord": "中 (zhōng)" },
+        { "glyph": "ch", "name": "ch-", "exampleWord": "吃 (chī)" },
+        { "glyph": "sh", "name": "sh-", "exampleWord": "是 (shì)" },
+        { "glyph": "r",  "name": "ruh", "exampleWord": "人 (rén)" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "是 starts with which combo?", "options": ["zh","ch","sh","r"], "answer": "sh" }
+      ]
+    },
+    {
+      "id": "zh-p1-l7",
+      "title": "Initials: z c s",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "z", "name": "ds",  "exampleWord": "字 (zì)" },
+        { "glyph": "c", "name": "ts",  "exampleWord": "草 (cǎo)" },
+        { "glyph": "s", "name": "suh", "exampleWord": "四 (sì)" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "四 starts with which letter?", "options": ["z","c","s","sh"], "answer": "s" }
+      ]
+    },
+    {
+      "id": "zh-p1-l8",
+      "title": "Compound finals (ai ei ao ou)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "ai", "name": "ai", "exampleWord": "爱 (ài)" },
+        { "glyph": "ei", "name": "ei", "exampleWord": "黑 (hēi)" },
+        { "glyph": "ao", "name": "ao", "exampleWord": "好 (hǎo)" },
+        { "glyph": "ou", "name": "ou", "exampleWord": "走 (zǒu)" },
+        { "glyph": "an", "name": "an", "exampleWord": "看 (kàn)" },
+        { "glyph": "en", "name": "en", "exampleWord": "门 (mén)" },
+        { "glyph": "ang","name": "ang","exampleWord": "上 (shàng)" },
+        { "glyph": "eng","name": "eng","exampleWord": "灯 (dēng)" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "Which final do you hear in 走 (zǒu)?", "options": ["ai","ei","ou","ao"], "answer": "ou" }
       ]
     }
   ]

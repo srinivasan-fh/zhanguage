@@ -5,18 +5,102 @@
   "lessons": [
     {
       "id": "ta-p1-l1",
-      "title": "உயிர் எழுத்துக்கள் (Short vowels)",
+      "title": "குறில் உயிர் எழுத்துக்கள் (Short vowels)",
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "அ", "name": "a",  "exampleWord": "அம்மா" },
-        { "glyph": "இ", "name": "i",  "exampleWord": "இலை" },
-        { "glyph": "உ", "name": "u",  "exampleWord": "உப்பு" },
-        { "glyph": "எ", "name": "e",  "exampleWord": "எலி" },
-        { "glyph": "ஒ", "name": "o",  "exampleWord": "ஒட்டகம்" }
+        { "glyph": "அ", "name": "a", "exampleWord": "அம்மா" },
+        { "glyph": "இ", "name": "i", "exampleWord": "இலை" },
+        { "glyph": "உ", "name": "u", "exampleWord": "உப்பு" },
+        { "glyph": "எ", "name": "e", "exampleWord": "எலி" },
+        { "glyph": "ஒ", "name": "o", "exampleWord": "ஒட்டகம்" }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "எந்த எழுத்து 'அ' ஒலி கொடுக்கும்?", "options": ["அ","இ","உ","எ"], "answer": "அ" }
+        { "kind": "tap-the-sound", "prompt": "எந்த எழுத்து 'அ' ஒலி கொடுக்கும்?", "options": ["அ","இ","உ","எ"], "answer": "அ" },
+        { "kind": "tap-the-sound", "prompt": "எலி எந்த எழுத்தில் தொடங்கும்?", "options": ["எ","ஒ","இ","உ"], "answer": "எ" }
+      ]
+    },
+    {
+      "id": "ta-p1-l2",
+      "title": "நெடில் உயிர் எழுத்துக்கள் (Long vowels)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "ஆ", "name": "aa", "exampleWord": "ஆடு" },
+        { "glyph": "ஈ", "name": "ii", "exampleWord": "ஈர்க்கு" },
+        { "glyph": "ஊ", "name": "uu", "exampleWord": "ஊசி" },
+        { "glyph": "ஏ", "name": "ee", "exampleWord": "ஏணி" },
+        { "glyph": "ஐ", "name": "ai", "exampleWord": "ஐந்து" },
+        { "glyph": "ஓ", "name": "oo", "exampleWord": "ஓடு" },
+        { "glyph": "ஔ", "name": "au", "exampleWord": "ஔடதம்" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "ஆடு எந்த எழுத்தில் தொடங்கும்?", "options": ["ஆ","ஈ","ஊ","ஏ"], "answer": "ஆ" },
+        { "kind": "tap-the-sound", "prompt": "ஐந்து எந்த எழுத்தில் தொடங்கும்?", "options": ["ஓ","ஐ","ஏ","ஆ"], "answer": "ஐ" }
+      ]
+    },
+    {
+      "id": "ta-p1-l3",
+      "title": "ஆய்தம் + வல்லினம் தொடக்கம் (Aytham + hard 1)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "ஃ",  "name": "akh", "exampleWord": "எஃகு" },
+        { "glyph": "க்", "name": "k",   "exampleWord": "கல்" },
+        { "glyph": "ச்", "name": "ch",  "exampleWord": "சட்டை" },
+        { "glyph": "ட்", "name": "t",   "exampleWord": "டப்பா" },
+        { "glyph": "த்", "name": "th",  "exampleWord": "தண்ணீர்" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "கல் எந்த ஒலியில் தொடங்கும்?", "options": ["க்","ச்","ட்","த்"], "answer": "க்" }
+      ]
+    },
+    {
+      "id": "ta-p1-l4",
+      "title": "வல்லினம் (Hard consonants)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "ப்", "name": "p", "exampleWord": "பல்" },
+        { "glyph": "ற்", "name": "rr","exampleWord": "புற்று" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "பல் எந்த ஒலியில் தொடங்கும்?", "options": ["ப்","ற்","த்","ச்"], "answer": "ப்" }
+      ]
+    },
+    {
+      "id": "ta-p1-l5",
+      "title": "மெல்லினம் (Soft / nasal consonants)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "ங்", "name": "ng", "exampleWord": "தங்கம்" },
+        { "glyph": "ஞ்", "name": "nj", "exampleWord": "மஞ்சள்" },
+        { "glyph": "ண்", "name": "N",  "exampleWord": "மண்" },
+        { "glyph": "ந்", "name": "n",  "exampleWord": "நரி" },
+        { "glyph": "ம்", "name": "m",  "exampleWord": "மரம்" },
+        { "glyph": "ன்", "name": "nn", "exampleWord": "மீன்" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "மரம் எந்த ஒலியில் தொடங்கும்?", "options": ["ம்","ன்","ந்","ண்"], "answer": "ம்" }
+      ]
+    },
+    {
+      "id": "ta-p1-l6",
+      "title": "இடையினம் (Medial consonants)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "ய்", "name": "y",  "exampleWord": "வாய்" },
+        { "glyph": "ர்", "name": "r",  "exampleWord": "மரம்" },
+        { "glyph": "ல்", "name": "l",  "exampleWord": "பல்" },
+        { "glyph": "வ்", "name": "v",  "exampleWord": "வண்டி" },
+        { "glyph": "ழ்", "name": "zh", "exampleWord": "தமிழ்" },
+        { "glyph": "ள்", "name": "L",  "exampleWord": "வாள்" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "தமிழ் எந்த எழுத்தோடு முடியும்?", "options": ["ழ்","ள்","ல்","ர்"], "answer": "ழ்" },
+        { "kind": "tap-the-sound", "prompt": "வண்டி எந்த ஒலியில் தொடங்கும்?", "options": ["வ்","ய்","ர்","ல்"], "answer": "வ்" }
       ]
     }
   ]

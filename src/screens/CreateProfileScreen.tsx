@@ -2,7 +2,8 @@ import React, { useState } from 'react';
 import { View, Text, TextInput, StyleSheet, Pressable, FlatList, Alert } from 'react-native';
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { RootStackParamList } from '@/navigation/types';
-import { useProfileStore } from '@/store/profileStore';
+import { useAppDispatch } from '@/store/hooks';
+import { addProfile } from '@/store/slices/profilesSlice';
 import { Avatar, AVATAR_CHOICES } from '@/components/Avatar';
 import { BigButton } from '@/components/BigButton';
 import { colors, fontSizes, radii, spacing } from '@/theme';
@@ -10,17 +11,17 @@ import { colors, fontSizes, radii, spacing } from '@/theme';
 type Props = NativeStackScreenProps<RootStackParamList, 'CreateProfile'>;
 
 export function CreateProfileScreen({ navigation }: Props) {
-  const createProfile = useProfileStore((s) => s.createProfile);
+  const dispatch = useAppDispatch();
   const [name, setName] = useState('');
   const [age, setAge] = useState('');
   const [avatar, setAvatar] = useState(AVATAR_CHOICES[0]);
 
-  const onCreate = async () => {
+  const onCreate = () => {
     if (!name.trim()) {
       Alert.alert('Name required', 'Please type a name first.');
       return;
     }
-    await createProfile({ name: name.trim(), age: age ? Number(age) : undefined, avatar });
+    dispatch(addProfile({ name: name.trim(), age: age ? Number(age) : undefined, avatar }));
     navigation.replace('Home');
   };
 
@@ -91,8 +92,5 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
-  avatarActive: {
-    borderWidth: 3,
-    borderColor: colors.primary,
-  },
+  avatarActive: { borderWidth: 3, borderColor: colors.primary },
 });

@@ -5,18 +5,138 @@
   "lessons": [
     {
       "id": "hi-p1-l1",
-      "title": "स्वर (Vowels)",
+      "title": "स्वर 1 (Vowels 1)",
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "अ", "name": "a",  "exampleWord": "अनार" },
-        { "glyph": "आ", "name": "aa", "exampleWord": "आम" },
-        { "glyph": "इ", "name": "i",  "exampleWord": "इमली" },
-        { "glyph": "ई", "name": "ii", "exampleWord": "ईख" },
-        { "glyph": "उ", "name": "u",  "exampleWord": "उल्लू" }
+        { "glyph": "अ",  "name": "a",  "exampleWord": "अनार" },
+        { "glyph": "आ",  "name": "aa", "exampleWord": "आम" },
+        { "glyph": "इ",  "name": "i",  "exampleWord": "इमली" },
+        { "glyph": "ई",  "name": "ii", "exampleWord": "ईख" },
+        { "glyph": "उ",  "name": "u",  "exampleWord": "उल्लू" },
+        { "glyph": "ऊ",  "name": "uu", "exampleWord": "ऊन" }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "अनार किस अक्षर से शुरू होता है?", "options": ["अ","आ","इ","उ"], "answer": "अ" }
+        { "kind": "tap-the-sound", "prompt": "अनार किस अक्षर से शुरू होता है?", "options": ["अ","आ","इ","उ"], "answer": "अ" },
+        { "kind": "tap-the-sound", "prompt": "उल्लू किस अक्षर से शुरू होता है?", "options": ["ऊ","उ","आ","ई"], "answer": "उ" }
+      ]
+    },
+    {
+      "id": "hi-p1-l2",
+      "title": "स्वर 2 (Vowels 2)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "ऋ",  "name": "ri", "exampleWord": "ऋषि" },
+        { "glyph": "ए",  "name": "e",  "exampleWord": "एक" },
+        { "glyph": "ऐ",  "name": "ai", "exampleWord": "ऐनक" },
+        { "glyph": "ओ",  "name": "o",  "exampleWord": "ओखली" },
+        { "glyph": "औ",  "name": "au", "exampleWord": "औरत" },
+        { "glyph": "अं", "name": "an", "exampleWord": "अंगूर" },
+        { "glyph": "अः", "name": "ah", "exampleWord": "प्रातः" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "एक किस अक्षर से शुरू होता है?", "options": ["ए","ऐ","ओ","औ"], "answer": "ए" }
+      ]
+    },
+    {
+      "id": "hi-p1-l3",
+      "title": "क वर्ग (K-group)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "क", "name": "ka",  "exampleWord": "कमल" },
+        { "glyph": "ख", "name": "kha", "exampleWord": "खरगोश" },
+        { "glyph": "ग", "name": "ga",  "exampleWord": "गमला" },
+        { "glyph": "घ", "name": "gha", "exampleWord": "घड़ी" },
+        { "glyph": "ङ", "name": "nga", "exampleWord": "वाङ्मय" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "कमल किस अक्षर से शुरू होता है?", "options": ["क","ख","ग","घ"], "answer": "क" }
+      ]
+    },
+    {
+      "id": "hi-p1-l4",
+      "title": "च वर्ग (Ch-group)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "च", "name": "cha",   "exampleWord": "चमचा" },
+        { "glyph": "छ", "name": "chha",  "exampleWord": "छतरी" },
+        { "glyph": "ज", "name": "ja",    "exampleWord": "जग" },
+        { "glyph": "झ", "name": "jha",   "exampleWord": "झंडा" },
+        { "glyph": "ञ", "name": "nya",   "exampleWord": "ज्ञान" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "जग किस अक्षर से शुरू होता है?", "options": ["ज","झ","च","छ"], "answer": "ज" }
+      ]
+    },
+    {
+      "id": "hi-p1-l5",
+      "title": "ट वर्ग (T-group)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "ट", "name": "Ta",   "exampleWord": "टमाटर" },
+        { "glyph": "ठ", "name": "Tha",  "exampleWord": "ठग" },
+        { "glyph": "ड", "name": "Da",   "exampleWord": "डमरू" },
+        { "glyph": "ढ", "name": "Dha",  "exampleWord": "ढोल" },
+        { "glyph": "ण", "name": "Na",   "exampleWord": "गणेश" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "टमाटर किस अक्षर से शुरू होता है?", "options": ["ट","ठ","ड","ढ"], "answer": "ट" }
+      ]
+    },
+    {
+      "id": "hi-p1-l6",
+      "title": "त वर्ग (Th-group)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "त", "name": "ta",  "exampleWord": "तरबूज़" },
+        { "glyph": "थ", "name": "tha", "exampleWord": "थैला" },
+        { "glyph": "द", "name": "da",  "exampleWord": "दीपक" },
+        { "glyph": "ध", "name": "dha", "exampleWord": "धनुष" },
+        { "glyph": "न", "name": "na",  "exampleWord": "नल" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "नल किस अक्षर से शुरू होता है?", "options": ["न","त","ध","द"], "answer": "न" }
+      ]
+    },
+    {
+      "id": "hi-p1-l7",
+      "title": "प वर्ग (P-group)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "प", "name": "pa",  "exampleWord": "पतंग" },
+        { "glyph": "फ", "name": "pha", "exampleWord": "फल" },
+        { "glyph": "ब", "name": "ba",  "exampleWord": "बकरी" },
+        { "glyph": "भ", "name": "bha", "exampleWord": "भालू" },
+        { "glyph": "म", "name": "ma",  "exampleWord": "मछली" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "मछली किस अक्षर से शुरू होती है?", "options": ["म","भ","ब","प"], "answer": "म" }
+      ]
+    },
+    {
+      "id": "hi-p1-l8",
+      "title": "य र ल व श ष स ह",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "य", "name": "ya",  "exampleWord": "यज्ञ" },
+        { "glyph": "र", "name": "ra",  "exampleWord": "रथ" },
+        { "glyph": "ल", "name": "la",  "exampleWord": "लड्डू" },
+        { "glyph": "व", "name": "va",  "exampleWord": "वन" },
+        { "glyph": "श", "name": "sha", "exampleWord": "शेर" },
+        { "glyph": "ष", "name": "Sha", "exampleWord": "षट्कोण" },
+        { "glyph": "स", "name": "sa",  "exampleWord": "सूरज" },
+        { "glyph": "ह", "name": "ha",  "exampleWord": "हाथी" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "हाथी किस अक्षर से शुरू होता है?", "options": ["ह","य","श","स"], "answer": "ह" },
+        { "kind": "tap-the-sound", "prompt": "सूरज किस अक्षर से शुरू होता है?", "options": ["श","स","ष","य"], "answer": "स" }
       ]
     }
   ]

@@ -4,9 +4,10 @@ import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import ReactNativeHapticFeedback from 'react-native-haptic-feedback';
 import { RootStackParamList } from '@/navigation/types';
 import { getPhasePack } from '@/content';
-import { useProfileStore } from '@/store/profileStore';
-import { useProgressStore, medalFor } from '@/store/progressStore';
-import { useWalletStore } from '@/store/walletStore';
+import { useAppDispatch, useAppSelector } from '@/store/hooks';
+import { selectActiveProfileId } from '@/store/selectors';
+import { medalFor, recordLessonResult } from '@/store/slices/pointsSlice';
+import { earnFromPoints } from '@/store/slices/walletSlice';
 import { BigButton } from '@/components/BigButton';
 import { colors, fontSizes, radii, shadow, spacing } from '@/theme';
 
@@ -22,12 +23,10 @@ export function LessonScreen({ navigation, route }: Props) {
   const [correct, setCorrect] = useState(0);
   const [picked, setPicked] = useState<string | null>(null);
 
-  const activeProfileId = useProfileStore((s) => s.activeProfileId);
-  const recordResult = useProgressStore((s) => s.recordResult);
-  const earnFromPoints = useWalletStore((s) => s.earnFromPoints);
+  const dispatch = useAppDispatch();
+  const activeProfileId = useAppSelector(selectActiveProfileId);
 
   const quiz = lesson?.quiz ?? [];
-
   const items = useMemo(() => lesson?.items ?? [], [lesson]);
 
   if (!lesson) {
@@ -38,25 +37,25 @@ export function LessonScreen({ navigation, route }: Props) {
     );
   }
 
-  const finalize = async (right: number) => {
+  const finalize = (right: number) => {
     if (!activeProfileId) return;
     const pct = quiz.length === 0 ? 100 : Math.round((right / quiz.length) * 100);
-    const { tier, points } = medalFor(pct);
-    await recordResult(activeProfileId, language, {
-      lessonId: lesson.id,
-      scorePct: pct,
-      medal: tier,
-      points,
-      attempts: 1,
-      lastAt: Date.now(),
-    });
-    const moneyEarnedCents = await earnFromPoints(activeProfileId, points);
+    const { points } = medalFor(pct);
+    dispatch(
+      recordLessonResult({
+        studentId: activeProfileId,
+        language,
+        phase,
+        lessonId: lesson.id,
+        scorePct: pct,
+      }),
+    );
+    dispatch(earnFromPoints({ studentId: activeProfileId, points }));
     navigation.replace('LessonComplete', {
       language,
       lessonId: lesson.id,
       scorePct: pct,
       pointsEarned: points,
-      moneyEarnedCents,
     });
   };
 
@@ -85,57 +84,51 @@ export function LessonScreen({ navigation, route }: Props) {
     );
   }
 
-  if (stage === 'quiz') {
-    const q = quiz[qIdx];
-    const onPick = (opt: string) => {
-      if (picked) return;
-      setPicked(opt);
-      const isRight = opt === q.answer;
-      ReactNativeHapticFeedback.trigger(
-        isRight ? 'notificationSuccess' : 'notificationError',
-        { enableVibrateFallback: true, ignoreAndroidSystemSettings: false },
-      );
-      if (isRight) setCorrect((c) => c + 1);
-      setTimeout(() => {
-        setPicked(null);
-        if (qIdx + 1 >= quiz.length) {
-          finalize(correct + (isRight ? 1 : 0));
-        } else {
-          setQIdx((i) => i + 1);
-        }
-      }, 700);
-    };
-
-    return (
-      <View style={styles.quizContainer}>
-        <Text style={styles.progress}>
-          {qIdx + 1} / {quiz.length}
-        </Text>
-        <Text style={styles.prompt}>{q.prompt}</Text>
-        <View style={styles.optionsGrid}>
-          {q.options.map((opt) => {
-            const isPickedRight = picked === opt && opt === q.answer;
-            const isPickedWrong = picked === opt && opt !== q.answer;
-            return (
-              <Pressable
-                key={opt}
-                style={[
-                  styles.option,
-                  isPickedRight && { backgroundColor: colors.grass },
-                  isPickedWrong && { backgroundColor: colors.danger },
-                ]}
-                onPress={() => onPick(opt)}
-              >
-                <Text style={styles.optionText}>{opt}</Text>
-              </Pressable>
-            );
-          })}
-        </View>
-      </View>
+  const q = quiz[qIdx];
+  const onPick = (opt: string) => {
+    if (picked) return;
+    setPicked(opt);
+    const isRight = opt === q.answer;
+    ReactNativeHapticFeedback.trigger(
+      isRight ? 'notificationSuccess' : 'notificationError',
+      { enableVibrateFallback: true, ignoreAndroidSystemSettings: false },
     );
-  }
+    if (isRight) setCorrect((c) => c + 1);
+    setTimeout(() => {
+      setPicked(null);
+      if (qIdx + 1 >= quiz.length) {
+        finalize(correct + (isRight ? 1 : 0));
+      } else {
+        setQIdx((i) => i + 1);
+      }
+    }, 700);
+  };
 
-  return <View style={styles.center} />;
+  return (
+    <View style={styles.quizContainer}>
+      <Text style={styles.progress}>{qIdx + 1} / {quiz.length}</Text>
+      <Text style={styles.prompt}>{q.prompt}</Text>
+      <View style={styles.optionsGrid}>
+        {q.options.map((opt) => {
+          const isPickedRight = picked === opt && opt === q.answer;
+          const isPickedWrong = picked === opt && opt !== q.answer;
+          return (
+            <Pressable
+              key={opt}
+              style={[
+                styles.option,
+                isPickedRight && { backgroundColor: colors.grass },
+                isPickedWrong && { backgroundColor: colors.danger },
+              ]}
+              onPress={() => onPick(opt)}
+            >
+              <Text style={styles.optionText}>{opt}</Text>
+            </Pressable>
+          );
+        })}
+      </View>
+    </View>
+  );
 }
 
 const styles = StyleSheet.create({

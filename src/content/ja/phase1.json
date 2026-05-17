@@ -18,6 +18,146 @@
       "quiz": [
         { "kind": "tap-the-sound", "prompt": "Which one is 'a'?", "options": ["あ","い","う","え"], "answer": "あ" }
       ]
+    },
+    {
+      "id": "ja-p1-l2",
+      "title": "か行 (Ka row)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "か", "name": "ka", "exampleWord": "かさ (umbrella)" },
+        { "glyph": "き", "name": "ki", "exampleWord": "き (tree)" },
+        { "glyph": "く", "name": "ku", "exampleWord": "くつ (shoe)" },
+        { "glyph": "け", "name": "ke", "exampleWord": "けむり (smoke)" },
+        { "glyph": "こ", "name": "ko", "exampleWord": "こども (child)" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "Which one is 'ko'?", "options": ["か","き","こ","く"], "answer": "こ" }
+      ]
+    },
+    {
+      "id": "ja-p1-l3",
+      "title": "さ行 (Sa row)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "さ", "name": "sa",  "exampleWord": "さかな (fish)" },
+        { "glyph": "し", "name": "shi", "exampleWord": "しろ (white)" },
+        { "glyph": "す", "name": "su",  "exampleWord": "すいか (watermelon)" },
+        { "glyph": "せ", "name": "se",  "exampleWord": "せみ (cicada)" },
+        { "glyph": "そ", "name": "so",  "exampleWord": "そら (sky)" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "Which one is 'shi'?", "options": ["さ","し","す","せ"], "answer": "し" }
+      ]
+    },
+    {
+      "id": "ja-p1-l4",
+      "title": "た行 (Ta row)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "た", "name": "ta",   "exampleWord": "たまご (egg)" },
+        { "glyph": "ち", "name": "chi",  "exampleWord": "ちず (map)" },
+        { "glyph": "つ", "name": "tsu",  "exampleWord": "つき (moon)" },
+        { "glyph": "て", "name": "te",   "exampleWord": "て (hand)" },
+        { "glyph": "と", "name": "to",   "exampleWord": "とり (bird)" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "Which one is 'tsu'?", "options": ["た","ち","つ","と"], "answer": "つ" }
+      ]
+    },
+    {
+      "id": "ja-p1-l5",
+      "title": "な行 (Na row)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "な", "name": "na", "exampleWord": "なつ (summer)" },
+        { "glyph": "に", "name": "ni", "exampleWord": "にく (meat)" },
+        { "glyph": "ぬ", "name": "nu", "exampleWord": "ぬの (cloth)" },
+        { "glyph": "ね", "name": "ne", "exampleWord": "ねこ (cat)" },
+        { "glyph": "の", "name": "no", "exampleWord": "のり (seaweed)" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "Which one is 'ne'?", "options": ["な","に","ね","の"], "answer": "ね" }
+      ]
+    },
+    {
+      "id": "ja-p1-l6",
+      "title": "は行 (Ha row)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "は", "name": "ha", "exampleWord": "はな (flower)" },
+        { "glyph": "ひ", "name": "hi", "exampleWord": "ひと (person)" },
+        { "glyph": "ふ", "name": "fu", "exampleWord": "ふね (boat)" },
+        { "glyph": "へ", "name": "he", "exampleWord": "へや (room)" },
+        { "glyph": "ほ", "name": "ho", "exampleWord": "ほし (star)" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "Which one is 'fu'?", "options": ["は","ひ","ふ","ほ"], "answer": "ふ" }
+      ]
+    },
+    {
+      "id": "ja-p1-l7",
+      "title": "ま行 (Ma row)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "ま", "name": "ma", "exampleWord": "まめ (bean)" },
+        { "glyph": "み", "name": "mi", "exampleWord": "みず (water)" },
+        { "glyph": "む", "name": "mu", "exampleWord": "むし (bug)" },
+        { "glyph": "め", "name": "me", "exampleWord": "め (eye)" },
+        { "glyph": "も", "name": "mo", "exampleWord": "もも (peach)" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "Which one is 'mi'?", "options": ["ま","み","む","も"], "answer": "み" }
+      ]
+    },
+    {
+      "id": "ja-p1-l8",
+      "title": "や行 (Ya row)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "や", "name": "ya", "exampleWord": "やま (mountain)" },
+        { "glyph": "ゆ", "name": "yu", "exampleWord": "ゆき (snow)" },
+        { "glyph": "よ", "name": "yo", "exampleWord": "よる (night)" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "Which one is 'yu'?", "options": ["や","ゆ","よ","お"], "answer": "ゆ" }
+      ]
+    },
+    {
+      "id": "ja-p1-l9",
+      "title": "ら行 (Ra row)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "ら", "name": "ra", "exampleWord": "らくだ (camel)" },
+        { "glyph": "り", "name": "ri", "exampleWord": "りんご (apple)" },
+        { "glyph": "る", "name": "ru", "exampleWord": "るす (absent)" },
+        { "glyph": "れ", "name": "re", "exampleWord": "れもん (lemon)" },
+        { "glyph": "ろ", "name": "ro", "exampleWord": "ろば (donkey)" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "Which one is 'ri'?", "options": ["ら","り","る","れ"], "answer": "り" }
+      ]
+    },
+    {
+      "id": "ja-p1-l10",
+      "title": "わ行 + ん (Wa row + n)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "わ", "name": "wa", "exampleWord": "わに (crocodile)" },
+        { "glyph": "を", "name": "wo", "exampleWord": "を (particle)" },
+        { "glyph": "ん", "name": "n",  "exampleWord": "ほん (book)" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "Which one is 'n'?", "options": ["わ","を","ん","の"], "answer": "ん" }
+      ]
     }
   ]
 }

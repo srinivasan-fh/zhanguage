@@ -1,44 +1,44 @@
 import React, { useState } from 'react';
 import { View, Text, StyleSheet, TextInput, FlatList, Alert } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import { useProfileStore } from '@/store/profileStore';
-import { useWalletStore } from '@/store/walletStore';
+import { useAppDispatch, useAppSelector } from '@/store/hooks';
+import { selectProfiles, selectWallet, selectTotalPointsFor } from '@/store/selectors';
+import { deposit, setRate } from '@/store/slices/walletSlice';
 import { BigButton } from '@/components/BigButton';
 import { Avatar } from '@/components/Avatar';
 import { colors, fontSizes, radii, shadow, spacing } from '@/theme';
 
 export function ParentDashboardScreen() {
-  const profiles = useProfileStore((s) => s.profiles);
-  const byProfile = useWalletStore((s) => s.byProfile);
-  const deposit = useWalletStore((s) => s.deposit);
-  const setRate = useWalletStore((s) => s.setRate);
+  const profiles = useAppSelector(selectProfiles);
+  const dispatch = useAppDispatch();
 
   const [selectedId, setSelectedId] = useState<string | null>(profiles[0]?.id ?? null);
+  const wallet = useAppSelector(selectWallet(selectedId));
+  const totalPoints = useAppSelector(selectTotalPointsFor(selectedId));
+
   const [amount, setAmount] = useState('');
   const [rate, setRateInput] = useState('');
 
-  const wallet = selectedId ? byProfile[selectedId] : undefined;
-
-  const onDeposit = async () => {
+  const onDeposit = () => {
     if (!selectedId) return;
     const cents = Math.round(Number(amount) * 100);
     if (!cents || cents <= 0) {
       Alert.alert('Enter an amount');
       return;
     }
-    await deposit(selectedId, cents);
+    dispatch(deposit({ studentId: selectedId, amountCents: cents }));
     setAmount('');
     Alert.alert('Top-up added', `${(cents / 100).toFixed(2)} added to wallet.`);
   };
 
-  const onSetRate = async () => {
+  const onSetRate = () => {
     if (!selectedId) return;
     const cents = Math.round(Number(rate) * 100);
     if (!cents || cents <= 0) {
       Alert.alert('Enter a rate per point');
       return;
     }
-    await setRate(selectedId, cents);
+    dispatch(setRate({ studentId: selectedId, rateCentsPerPoint: cents }));
     setRateInput('');
     Alert.alert('Rate updated');
   };
@@ -71,7 +71,7 @@ export function ParentDashboardScreen() {
           <View style={styles.summary}>
             <Stat label="Balance" value={(wallet.balanceCents / 100).toFixed(2)} />
             <Stat label="Rate / pt" value={(wallet.rateCentsPerPoint / 100).toFixed(2)} />
-            <Stat label="Entries" value={String(wallet.ledger.length)} />
+            <Stat label="Points" value={String(totalPoints)} />
           </View>
 
           <Text style={styles.heading}>Top up pocket money</Text>

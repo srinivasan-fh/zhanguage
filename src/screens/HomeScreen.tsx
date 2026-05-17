@@ -3,34 +3,30 @@ import { View, Text, FlatList, StyleSheet, Pressable } from 'react-native';
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { RootStackParamList } from '@/navigation/types';
 import { LANGUAGES } from '@/content/languages';
-import { useProfileStore } from '@/store/profileStore';
-import { useWalletStore } from '@/store/walletStore';
+import { useAppSelector } from '@/store/hooks';
+import { selectActiveProfile, selectActiveProfileId, selectWallet, selectTotalPointsFor } from '@/store/selectors';
 import { Avatar } from '@/components/Avatar';
 import { colors, fontSizes, radii, shadow, spacing } from '@/theme';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'Home'>;
 
 export function HomeScreen({ navigation }: Props) {
-  const { activeProfileId, profiles } = useProfileStore();
-  const wallet = useWalletStore((s) =>
-    activeProfileId ? s.byProfile[activeProfileId] : null,
-  );
-  const profile = profiles.find((p) => p.id === activeProfileId);
+  const profile = useAppSelector(selectActiveProfile);
+  const activeId = useAppSelector(selectActiveProfileId);
+  const wallet = useAppSelector(selectWallet(activeId));
+  const totalPoints = useAppSelector(selectTotalPointsFor(activeId));
 
   return (
     <View style={styles.container}>
-      <Pressable
-        style={styles.header}
-        onPress={() => navigation.navigate('ProfileSelect')}
-      >
+      <Pressable style={styles.header} onPress={() => navigation.navigate('ProfileSelect')}>
         {profile ? <Avatar emoji={profile.avatar} size={56} /> : null}
         <View style={{ flex: 1 }}>
           <Text style={styles.hi}>Hi, {profile?.name ?? 'friend'}!</Text>
-          <Text style={styles.sub}>Tap to switch player</Text>
+          <Text style={styles.sub}>{totalPoints} points • tap to switch</Text>
         </View>
         <View style={styles.wallet}>
           <Text style={styles.walletAmount}>
-            {wallet ? formatMoney(wallet.balanceCents) : '—'}
+            {wallet ? (wallet.balanceCents / 100).toFixed(2) : '—'}
           </Text>
           <Text style={styles.walletLabel}>wallet</Text>
         </View>
@@ -70,10 +66,6 @@ export function HomeScreen({ navigation }: Props) {
       />
     </View>
   );
-}
-
-function formatMoney(cents: number): string {
-  return `${(cents / 100).toFixed(2)}`;
 }
 
 const styles = StyleSheet.create({

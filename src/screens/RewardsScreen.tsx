@@ -1,43 +1,37 @@
 import React, { useMemo } from 'react';
 import { View, Text, FlatList, StyleSheet } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import { useProfileStore } from '@/store/profileStore';
-import { useProgressStore } from '@/store/progressStore';
-import { useWalletStore } from '@/store/walletStore';
+import { useAppSelector } from '@/store/hooks';
+import {
+  selectActiveProfileId,
+  selectStudentLessonResults,
+  selectTotalPointsFor,
+  selectWallet,
+} from '@/store/selectors';
 import { Medal } from '@/components/Medal';
-import { LessonResult, MedalTier } from '@/types/profile';
+import { MedalTier } from '@/types/profile';
 import { colors, fontSizes, radii, shadow, spacing } from '@/theme';
 
 const TIERS: MedalTier[] = ['emerald', 'diamond', 'gold', 'silver', 'bronze'];
 
 export function RewardsScreen() {
-  const activeProfileId = useProfileStore((s) => s.activeProfileId);
-  const byProfile = useProgressStore((s) => s.byProfile);
-  const wallet = useWalletStore((s) =>
-    activeProfileId ? s.byProfile[activeProfileId] : null,
-  );
+  const activeId = useAppSelector(selectActiveProfileId);
+  const results = useAppSelector(selectStudentLessonResults(activeId));
+  const totalPoints = useAppSelector(selectTotalPointsFor(activeId));
+  const wallet = useAppSelector(selectWallet(activeId));
 
-  const allResults: LessonResult[] = useMemo(() => {
-    if (!activeProfileId) return [];
-    const langs = byProfile[activeProfileId] ?? {};
-    return Object.values(langs).flatMap((lang) => Object.values(lang ?? {}));
-  }, [activeProfileId, byProfile]);
-
-  const counts: Record<MedalTier, number> = {
-    bronze: 0, silver: 0, gold: 0, diamond: 0, emerald: 0,
-  };
-  let totalPoints = 0;
-  for (const r of allResults) {
-    counts[r.medal] += 1;
-    totalPoints += r.points;
-  }
+  const counts: Record<MedalTier, number> = useMemo(() => {
+    const c: Record<MedalTier, number> = { bronze: 0, silver: 0, gold: 0, diamond: 0, emerald: 0 };
+    results.forEach((r) => { c[r.medal] += 1; });
+    return c;
+  }, [results]);
 
   return (
     <SafeAreaView style={styles.safe}>
       <View style={styles.summary}>
         <Stat label="Total points" value={String(totalPoints)} />
         <Stat label="Wallet" value={wallet ? (wallet.balanceCents / 100).toFixed(2) : '—'} />
-        <Stat label="Lessons" value={String(allResults.length)} />
+        <Stat label="Lessons" value={String(results.length)} />
       </View>
 
       <Text style={styles.heading}>Medals</Text>
@@ -52,7 +46,7 @@ export function RewardsScreen() {
 
       <Text style={styles.heading}>Recent lessons</Text>
       <FlatList
-        data={[...allResults].sort((a, b) => b.lastAt - a.lastAt).slice(0, 20)}
+        data={[...results].sort((a, b) => b.lastAt - a.lastAt).slice(0, 20)}
         keyExtractor={(r) => r.lessonId + r.lastAt}
         contentContainerStyle={{ gap: spacing.sm, paddingBottom: spacing.xl }}
         renderItem={({ item }) => (
@@ -73,7 +67,7 @@ export function RewardsScreen() {
 
 function Stat({ label, value }: { label: string; value: string }) {
   return (
-    <View style={styles.statBox}>
+    <View style={{ alignItems: 'center' }}>
       <Text style={styles.statValue}>{value}</Text>
       <Text style={styles.statLabel}>{label}</Text>
     </View>
@@ -90,7 +84,6 @@ const styles = StyleSheet.create({
     borderRadius: radii.lg,
     ...shadow.card,
   },
-  statBox: { alignItems: 'center' },
   statValue: { fontSize: 28, fontWeight: '900', color: colors.ink },
   statLabel: { color: colors.inkSoft },
   heading: { fontSize: fontSizes.title, fontWeight: '900', color: colors.ink, marginTop: spacing.lg },

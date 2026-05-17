@@ -12,7 +12,6 @@ export type RootStackParamList = {
     lessonId: string;
     scorePct: number;
     pointsEarned: number;
-    moneyEarnedCents: number;
   };
   Rewards: undefined;
   ParentGate: undefined;
