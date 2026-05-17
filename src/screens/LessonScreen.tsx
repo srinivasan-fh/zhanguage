@@ -15,12 +15,17 @@ type Props = NativeStackScreenProps<RootStackParamList, 'Lesson'>;
 
 // Pick a glyph fontSize from the codepoint count so 1-char letters stay big
 // and 2/3-char composites still fit inside a 2x2 card.
+// Some 1-codepoint glyphs render visually wider than their siblings (ஔ, ㅘ
+// etc.) and need the same downsize as 2-codepoint composites.
+const WIDE_SINGLE_GLYPHS = new Set(['ஔ', 'ㅘ', 'ㅙ', 'ㅚ', 'ㅝ', 'ㅞ', 'ㅢ']);
+
 function fontSizeFor(glyph: string): number {
-  const n = [...glyph].length; // codepoints, not UTF-16 code units
-  if (n <= 1) return 96;
-  if (n === 2) return 64;
-  if (n === 3) return 52;
-  return 44;
+  const cps = [...glyph]; // codepoints, not UTF-16 code units
+  const n = cps.length;
+  if (n <= 1) return WIDE_SINGLE_GLYPHS.has(glyph) ? 58 : 96;
+  if (n === 2) return 58;
+  if (n === 3) return 48;
+  return 40;
 }
 
 export function LessonScreen({ navigation, route }: Props) {
