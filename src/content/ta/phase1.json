@@ -1,0 +1,23 @@
+{
+  "language": "ta",
+  "phase": 1,
+  "title": "எழுத்துக்கள் & ஒலிகள்",
+  "lessons": [
+    {
+      "id": "ta-p1-l1",
+      "title": "உயிர் எழுத்துக்கள் (Short vowels)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "அ", "name": "a",  "exampleWord": "அம்மா" },
+        { "glyph": "இ", "name": "i",  "exampleWord": "இலை" },
+        { "glyph": "உ", "name": "u",  "exampleWord": "உப்பு" },
+        { "glyph": "எ", "name": "e",  "exampleWord": "எலி" },
+        { "glyph": "ஒ", "name": "o",  "exampleWord": "ஒட்டகம்" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "எந்த எழுத்து 'அ' ஒலி கொடுக்கும்?", "options": ["அ","இ","உ","எ"], "answer": "அ" }
+      ]
+    }
+  ]
+}

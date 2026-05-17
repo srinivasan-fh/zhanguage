@@ -1,0 +1,24 @@
+{
+  "language": "zh",
+  "phase": 1,
+  "title": "拼音 (Pinyin Basics)",
+  "lessons": [
+    {
+      "id": "zh-p1-l1",
+      "title": "Single vowels: a o e i u ü",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "a", "name": "ah",  "exampleWord": "妈 (mā)" },
+        { "glyph": "o", "name": "oh",  "exampleWord": "我 (wǒ)" },
+        { "glyph": "e", "name": "uh",  "exampleWord": "鹅 (é)" },
+        { "glyph": "i", "name": "ee",  "exampleWord": "一 (yī)" },
+        { "glyph": "u", "name": "oo",  "exampleWord": "五 (wǔ)" },
+        { "glyph": "ü", "name": "yu",  "exampleWord": "鱼 (yú)" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "Which one is 'ah'?", "options": ["a","o","e","i"], "answer": "a" }
+      ]
+    }
+  ]
+}

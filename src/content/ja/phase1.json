@@ -1,0 +1,23 @@
+{
+  "language": "ja",
+  "phase": 1,
+  "title": "ひらがな (Hiragana)",
+  "lessons": [
+    {
+      "id": "ja-p1-l1",
+      "title": "あ行 (A row)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "あ", "name": "a", "exampleWord": "あめ (rain)" },
+        { "glyph": "い", "name": "i", "exampleWord": "いぬ (dog)" },
+        { "glyph": "う", "name": "u", "exampleWord": "うみ (sea)" },
+        { "glyph": "え", "name": "e", "exampleWord": "えき (station)" },
+        { "glyph": "お", "name": "o", "exampleWord": "おに (demon)" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "Which one is 'a'?", "options": ["あ","い","う","え"], "answer": "あ" }
+      ]
+    }
+  ]
+}

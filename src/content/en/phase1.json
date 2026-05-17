@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "phase": 1,
+  "title": "Letters & Sounds",
+  "lessons": [
+    {
+      "id": "en-p1-l1",
+      "title": "Vowels A E I O U",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "A", "name": "ay",  "exampleWord": "Apple",  "exampleImage": "img/apple.png" },
+        { "glyph": "E", "name": "ee",  "exampleWord": "Egg",    "exampleImage": "img/egg.png" },
+        { "glyph": "I", "name": "eye", "exampleWord": "Ice",    "exampleImage": "img/ice.png" },
+        { "glyph": "O", "name": "oh",  "exampleWord": "Orange", "exampleImage": "img/orange.png" },
+        { "glyph": "U", "name": "you", "exampleWord": "Umbrella","exampleImage": "img/umbrella.png" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "Which letter says /a/?", "options": ["A","E","I","O"], "answer": "A" },
+        { "kind": "tap-the-sound", "prompt": "Which letter says /o/?", "options": ["U","O","E","I"], "answer": "O" }
+      ]
+    },
+    {
+      "id": "en-p1-l2",
+      "title": "Consonants B C D F G",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "B", "name": "bee",  "exampleWord": "Ball" },
+        { "glyph": "C", "name": "see",  "exampleWord": "Cat" },
+        { "glyph": "D", "name": "dee",  "exampleWord": "Dog" },
+        { "glyph": "F", "name": "ef",   "exampleWord": "Fish" },
+        { "glyph": "G", "name": "gee",  "exampleWord": "Goat" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "Which letter starts CAT?", "options": ["B","C","D","F"], "answer": "C" }
+      ]
+    }
+  ]
+}

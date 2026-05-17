@@ -1,0 +1,23 @@
+{
+  "language": "hi",
+  "phase": 1,
+  "title": "अक्षर और ध्वनियाँ",
+  "lessons": [
+    {
+      "id": "hi-p1-l1",
+      "title": "स्वर (Vowels)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "अ", "name": "a",  "exampleWord": "अनार" },
+        { "glyph": "आ", "name": "aa", "exampleWord": "आम" },
+        { "glyph": "इ", "name": "i",  "exampleWord": "इमली" },
+        { "glyph": "ई", "name": "ii", "exampleWord": "ईख" },
+        { "glyph": "उ", "name": "u",  "exampleWord": "उल्लू" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "अनार किस अक्षर से शुरू होता है?", "options": ["अ","आ","इ","उ"], "answer": "अ" }
+      ]
+    }
+  ]
+}

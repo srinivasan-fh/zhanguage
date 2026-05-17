@@ -1,0 +1,24 @@
+{
+  "language": "ko",
+  "phase": 1,
+  "title": "한글 자모 (Hangul Jamo)",
+  "lessons": [
+    {
+      "id": "ko-p1-l1",
+      "title": "기본 모음 (Basic vowels)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "ㅏ", "name": "a",  "exampleWord": "아빠" },
+        { "glyph": "ㅓ", "name": "eo", "exampleWord": "어머니" },
+        { "glyph": "ㅗ", "name": "o",  "exampleWord": "오리" },
+        { "glyph": "ㅜ", "name": "u",  "exampleWord": "우유" },
+        { "glyph": "ㅡ", "name": "eu", "exampleWord": "그림" },
+        { "glyph": "ㅣ", "name": "i",  "exampleWord": "이름" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "Which one says 'a'?", "options": ["ㅏ","ㅓ","ㅗ","ㅜ"], "answer": "ㅏ" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "language": "de",
+  "phase": 1,
+  "title": "Buchstaben & Laute",
+  "lessons": [
+    {
+      "id": "de-p1-l1",
+      "title": "Vokale & Umlaute",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        { "glyph": "A", "name": "ah",  "exampleWord": "Affe" },
+        { "glyph": "E", "name": "eh",  "exampleWord": "Esel" },
+        { "glyph": "I", "name": "ee",  "exampleWord": "Igel" },
+        { "glyph": "O", "name": "oh",  "exampleWord": "Ofen" },
+        { "glyph": "U", "name": "oo",  "exampleWord": "Uhr" },
+        { "glyph": "Ä", "name": "ae",  "exampleWord": "Äpfel" },
+        { "glyph": "Ö", "name": "oe",  "exampleWord": "Öl" },
+        { "glyph": "Ü", "name": "ue",  "exampleWord": "Übung" },
+        { "glyph": "ß", "name": "ess", "exampleWord": "Straße" }
+      ],
+      "quiz": [
+        { "kind": "tap-the-sound", "prompt": "Welcher Buchstabe sagt /ä/?", "options": ["A","Ä","O","Ü"], "answer": "Ä" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+import React from 'react';
+import { FlatList, View, StyleSheet } from 'react-native';
+import { NativeStackScreenProps } from '@react-navigation/native-stack';
+import { RootStackParamList } from '@/navigation/types';
+import { PHASES } from '@/content/languages';
+import { hasPhase } from '@/content';
+import { Card } from '@/components/Card';
+import { colors, spacing } from '@/theme';
+
+type Props = NativeStackScreenProps<RootStackParamList, 'PhaseList'>;
+
+export function PhaseListScreen({ navigation, route }: Props) {
+  const { language } = route.params;
+
+  return (
+    <FlatList
+      data={PHASES}
+      keyExtractor={(p) => String(p.id)}
+      contentContainerStyle={styles.list}
+      ItemSeparatorComponent={() => <View style={{ height: spacing.md }} />}
+      renderItem={({ item }) => {
+        const available = hasPhase(language, item.id);
+        return (
+          <Card
+            title={`Phase ${item.id}`}
+            subtitle={item.title}
+            emoji={item.emoji}
+            locked={!available}
+            onPress={() => navigation.navigate('LessonList', { language, phase: item.id })}
+          />
+        );
+      }}
+    />
+  );
+}
+
+const styles = StyleSheet.create({
+  list: { padding: spacing.lg, backgroundColor: colors.cream, flexGrow: 1 },
+});
