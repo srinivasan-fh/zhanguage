@@ -107,6 +107,16 @@ android {
     }
 }
 
+// Pin androidx.core down. Some RN libs transitively pull androidx.core 1.16+,
+// which demands compileSdk 35 + AGP 8.6. RN 0.75 ships compileSdk 34 + AGP 8.5,
+// so force a compatible 1.13.x build.
+configurations.all {
+    resolutionStrategy {
+        force "androidx.core:core:1.13.1"
+        force "androidx.core:core-ktx:1.13.1"
+    }
+}
+
 dependencies {
     // The version of react-native is set by the React Native Gradle Plugin
     implementation("com.facebook.react:react-android")
