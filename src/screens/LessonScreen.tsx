@@ -13,6 +13,16 @@ import { colors, fontSizes, radii, shadow, spacing } from '@/theme';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'Lesson'>;
 
+// Pick a glyph fontSize from the codepoint count so 1-char letters stay big
+// and 2/3-char composites still fit inside a 2x2 card.
+function fontSizeFor(glyph: string): number {
+  const n = [...glyph].length; // codepoints, not UTF-16 code units
+  if (n <= 1) return 96;
+  if (n === 2) return 64;
+  if (n === 3) return 52;
+  return 44;
+}
+
 export function LessonScreen({ navigation, route }: Props) {
   const { language, phase, lessonId } = route.params;
   const pack = getPhasePack(language, phase);
@@ -68,10 +78,8 @@ export function LessonScreen({ navigation, route }: Props) {
             <View key={item.glyph} style={styles.flashcard}>
               <View style={styles.glyphBox}>
                 <Text
-                  style={styles.glyph}
+                  style={[styles.glyph, { fontSize: fontSizeFor(item.glyph) }]}
                   numberOfLines={1}
-                  adjustsFontSizeToFit
-                  minimumFontScale={0.3}
                   allowFontScaling={false}
                 >
                   {item.glyph}
@@ -171,18 +179,14 @@ const styles = StyleSheet.create({
   glyphBox: {
     flex: 1,
     alignSelf: 'stretch',
-    width: '100%',
     alignItems: 'center',
     justifyContent: 'center',
-    overflow: 'hidden',
   },
   glyph: {
-    fontSize: 72,
     color: colors.primary,
     fontWeight: '900',
     textAlign: 'center',
     includeFontPadding: false,
-    width: '100%',
   },
   glyphName: { fontSize: 16, color: colors.ink, fontWeight: '700', textAlign: 'center' },
   example: { fontSize: 12, color: colors.inkSoft, textAlign: 'center', marginTop: 2 },
