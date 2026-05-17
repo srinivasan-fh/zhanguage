@@ -63,28 +63,20 @@ export function LessonScreen({ navigation, route }: Props) {
     return (
       <ScrollView contentContainerStyle={styles.studyContent}>
         <Text style={styles.title}>{lesson.title}</Text>
-        <View style={styles.cardsGrid}>
+        <View style={styles.cardsList}>
           {items.map((item) => (
             <View key={item.glyph} style={styles.flashcard}>
               <View style={styles.glyphBox}>
-                <Text
-                  style={styles.glyph}
-                  numberOfLines={1}
-                  adjustsFontSizeToFit
-                  minimumFontScale={0.4}
-                  allowFontScaling={false}
-                >
+                <Text style={styles.glyph} numberOfLines={1} ellipsizeMode="clip">
                   {item.glyph}
                 </Text>
               </View>
-              <Text style={styles.glyphName} numberOfLines={1} adjustsFontSizeToFit>
-                {item.name}
-              </Text>
-              {item.exampleWord ? (
-                <Text style={styles.example} numberOfLines={1} adjustsFontSizeToFit>
-                  {item.exampleWord}
-                </Text>
-              ) : null}
+              <View style={styles.textBox}>
+                <Text style={styles.glyphName} numberOfLines={1}>{item.name}</Text>
+                {item.exampleWord ? (
+                  <Text style={styles.example} numberOfLines={1}>{item.exampleWord}</Text>
+                ) : null}
+              </View>
             </View>
           ))}
         </View>
@@ -151,35 +143,34 @@ const styles = StyleSheet.create({
   center: { flex: 1, alignItems: 'center', justifyContent: 'center', backgroundColor: colors.cream },
   studyContent: { padding: spacing.lg, gap: spacing.lg, backgroundColor: colors.cream },
   title: { fontSize: fontSizes.title, fontWeight: '900', color: colors.ink },
-  cardsGrid: { flexDirection: 'row', flexWrap: 'wrap', gap: spacing.md },
+  cardsList: { gap: spacing.md },
   flashcard: {
     backgroundColor: colors.paper,
-    width: '47%',
-    aspectRatio: 1,
-    borderRadius: radii.lg,
+    flexDirection: 'row',
     alignItems: 'center',
-    justifyContent: 'center',
-    paddingHorizontal: spacing.sm,
-    paddingVertical: spacing.sm,
-    gap: 4,
+    borderRadius: radii.lg,
+    paddingHorizontal: spacing.lg,
+    paddingVertical: spacing.md,
+    minHeight: 110,
     ...shadow.card,
   },
   glyphBox: {
-    flex: 1,
-    alignSelf: 'stretch',
+    width: 110,
+    height: 90,
     alignItems: 'center',
     justifyContent: 'center',
+    marginRight: spacing.md,
   },
   glyph: {
-    fontSize: 80,
-    lineHeight: 96,
+    fontSize: 64,
     color: colors.primary,
     fontWeight: '900',
     textAlign: 'center',
     includeFontPadding: false,
   },
-  glyphName: { fontSize: 16, color: colors.ink, fontWeight: '700', textAlign: 'center' },
-  example: { fontSize: 12, color: colors.inkSoft, textAlign: 'center' },
+  textBox: { flex: 1, gap: 4 },
+  glyphName: { fontSize: 22, color: colors.ink, fontWeight: '800' },
+  example: { fontSize: 16, color: colors.inkSoft },
   quizContainer: { flex: 1, padding: spacing.lg, gap: spacing.lg, backgroundColor: colors.cream },
   progress: { fontWeight: '800', color: colors.inkSoft, textAlign: 'center' },
   prompt: { fontSize: fontSizes.title, fontWeight: '900', color: colors.ink, textAlign: 'center', marginVertical: spacing.lg },
