@@ -5,514 +5,1610 @@
   "lessons": [
     {
       "id": "ta-p1-l1",
-      "title": "குறில் உயிர் (Short vowels)",
+      "title": "உயிர் எழுத்து + ஆய்தம் (Vowels + Aytham)",
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "அ", "name": "a", "exampleWord": "அம்மா" },
-        { "glyph": "இ", "name": "i", "exampleWord": "இலை" },
-        { "glyph": "உ", "name": "u", "exampleWord": "உப்பு" },
-        { "glyph": "எ", "name": "e", "exampleWord": "எலி" },
-        { "glyph": "ஒ", "name": "o", "exampleWord": "ஒட்டகம்" }
+        {
+          "glyph": "அ",
+          "name": "a",
+          "exampleWord": "அம்மா"
+        },
+        {
+          "glyph": "ஆ",
+          "name": "aa",
+          "exampleWord": "ஆடு"
+        },
+        {
+          "glyph": "இ",
+          "name": "i",
+          "exampleWord": "இலை"
+        },
+        {
+          "glyph": "ஈ",
+          "name": "ii",
+          "exampleWord": "ஈர்க்கு"
+        },
+        {
+          "glyph": "உ",
+          "name": "u",
+          "exampleWord": "உப்பு"
+        },
+        {
+          "glyph": "ஊ",
+          "name": "uu",
+          "exampleWord": "ஊசி"
+        },
+        {
+          "glyph": "எ",
+          "name": "e",
+          "exampleWord": "எலி"
+        },
+        {
+          "glyph": "ஏ",
+          "name": "ee",
+          "exampleWord": "ஏணி"
+        },
+        {
+          "glyph": "ஐ",
+          "name": "ai",
+          "exampleWord": "ஐந்து"
+        },
+        {
+          "glyph": "ஒ",
+          "name": "o",
+          "exampleWord": "ஒட்டகம்"
+        },
+        {
+          "glyph": "ஓ",
+          "name": "oo",
+          "exampleWord": "ஓடு"
+        },
+        {
+          "glyph": "ஔ",
+          "name": "au",
+          "exampleWord": "ஔடதம்"
+        },
+        {
+          "glyph": "ஃ",
+          "name": "akh",
+          "exampleWord": "எஃகு"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "எந்த எழுத்து 'அ' ஒலி கொடுக்கும்?", "options": ["அ","இ","உ","எ"], "answer": "அ" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "எந்த எழுத்து 'அ' ஒலி கொடுக்கும்?",
+          "options": [
+            "அ",
+            "இ",
+            "உ",
+            "எ"
+          ],
+          "answer": "அ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ஆடு எந்த எழுத்தில் தொடங்கும்?",
+          "options": [
+            "ஆ",
+            "ஈ",
+            "ஊ",
+            "ஏ"
+          ],
+          "answer": "ஆ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "எஃகு என்ற சொல்லில் இருக்கும் சிறப்பு எழுத்து?",
+          "options": [
+            "ஃ",
+            "அ",
+            "இ",
+            "உ"
+          ],
+          "answer": "ஃ"
+        }
       ]
     },
     {
       "id": "ta-p1-l2",
-      "title": "நெடில் உயிர் (Long vowels)",
-      "type": "letters",
-      "maxPoints": 100,
-      "items": [
-        { "glyph": "ஆ", "name": "aa", "exampleWord": "ஆடு" },
-        { "glyph": "ஈ", "name": "ii", "exampleWord": "ஈர்க்கு" },
-        { "glyph": "ஊ", "name": "uu", "exampleWord": "ஊசி" },
-        { "glyph": "ஏ", "name": "ee", "exampleWord": "ஏணி" },
-        { "glyph": "ஐ", "name": "ai", "exampleWord": "ஐந்து" },
-        { "glyph": "ஓ", "name": "oo", "exampleWord": "ஓடு" },
-        { "glyph": "ஔ", "name": "au", "exampleWord": "ஔடதம்" }
-      ],
-      "quiz": [
-        { "kind": "tap-the-sound", "prompt": "ஆடு எந்த எழுத்தில் தொடங்கும்?", "options": ["ஆ","ஈ","ஊ","ஏ"], "answer": "ஆ" }
-      ]
-    },
-    {
-      "id": "ta-p1-l3",
-      "title": "ஆய்தம் (Aytham)",
-      "type": "letters",
-      "maxPoints": 100,
-      "items": [
-        { "glyph": "ஃ", "name": "akh", "exampleWord": "எஃகு" }
-      ],
-      "quiz": [
-        { "kind": "tap-the-sound", "prompt": "எஃகு என்ற சொல்லில் இருக்கும் சிறப்பு எழுத்து?", "options": ["ஃ","அ","இ","உ"], "answer": "ஃ" }
-      ]
-    },
-    {
-      "id": "ta-p1-l4",
       "title": "மெய் வல்லினம் (Hard consonants)",
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "க்", "name": "k",  "exampleWord": "கல்" },
-        { "glyph": "ச்", "name": "ch", "exampleWord": "சட்டை" },
-        { "glyph": "ட்", "name": "T",  "exampleWord": "டப்பா" },
-        { "glyph": "த்", "name": "th", "exampleWord": "தண்ணீர்" },
-        { "glyph": "ப்", "name": "p",  "exampleWord": "பல்" },
-        { "glyph": "ற்", "name": "RR", "exampleWord": "புற்று" }
+        {
+          "glyph": "க்",
+          "name": "k",
+          "exampleWord": "கல்"
+        },
+        {
+          "glyph": "ச்",
+          "name": "ch",
+          "exampleWord": "சட்டை"
+        },
+        {
+          "glyph": "ட்",
+          "name": "T",
+          "exampleWord": "டப்பா"
+        },
+        {
+          "glyph": "த்",
+          "name": "th",
+          "exampleWord": "தண்ணீர்"
+        },
+        {
+          "glyph": "ப்",
+          "name": "p",
+          "exampleWord": "பல்"
+        },
+        {
+          "glyph": "ற்",
+          "name": "RR",
+          "exampleWord": "புற்று"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "கல் எந்த ஒலியில் தொடங்கும்?", "options": ["க்","ச்","ட்","த்"], "answer": "க்" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "கல் எந்த ஒலியில் தொடங்கும்?",
+          "options": [
+            "க்",
+            "ச்",
+            "ட்",
+            "த்"
+          ],
+          "answer": "க்"
+        }
       ]
     },
     {
-      "id": "ta-p1-l5",
+      "id": "ta-p1-l3",
       "title": "மெய் மெல்லினம் (Soft / nasal consonants)",
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "ங்", "name": "ng", "exampleWord": "தங்கம்" },
-        { "glyph": "ஞ்", "name": "nj", "exampleWord": "மஞ்சள்" },
-        { "glyph": "ண்", "name": "N",  "exampleWord": "மண்" },
-        { "glyph": "ந்", "name": "n",  "exampleWord": "நரி" },
-        { "glyph": "ம்", "name": "m",  "exampleWord": "மரம்" },
-        { "glyph": "ன்", "name": "nn", "exampleWord": "மீன்" }
+        {
+          "glyph": "ங்",
+          "name": "ng",
+          "exampleWord": "தங்கம்"
+        },
+        {
+          "glyph": "ஞ்",
+          "name": "nj",
+          "exampleWord": "மஞ்சள்"
+        },
+        {
+          "glyph": "ண்",
+          "name": "N",
+          "exampleWord": "மண்"
+        },
+        {
+          "glyph": "ந்",
+          "name": "n",
+          "exampleWord": "நரி"
+        },
+        {
+          "glyph": "ம்",
+          "name": "m",
+          "exampleWord": "மரம்"
+        },
+        {
+          "glyph": "ன்",
+          "name": "nn",
+          "exampleWord": "மீன்"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "மரம் எந்த ஒலியில் தொடங்கும்?", "options": ["ம்","ன்","ந்","ண்"], "answer": "ம்" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "மரம் எந்த ஒலியில் தொடங்கும்?",
+          "options": [
+            "ம்",
+            "ன்",
+            "ந்",
+            "ண்"
+          ],
+          "answer": "ம்"
+        }
       ]
     },
     {
-      "id": "ta-p1-l6",
+      "id": "ta-p1-l4",
       "title": "மெய் இடையினம் (Medial consonants)",
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "ய்", "name": "y",  "exampleWord": "வாய்" },
-        { "glyph": "ர்", "name": "r",  "exampleWord": "மரம்" },
-        { "glyph": "ல்", "name": "l",  "exampleWord": "பல்" },
-        { "glyph": "வ்", "name": "v",  "exampleWord": "வண்டி" },
-        { "glyph": "ழ்", "name": "zh", "exampleWord": "தமிழ்" },
-        { "glyph": "ள்", "name": "L",  "exampleWord": "வாள்" }
+        {
+          "glyph": "ய்",
+          "name": "y",
+          "exampleWord": "வாய்"
+        },
+        {
+          "glyph": "ர்",
+          "name": "r",
+          "exampleWord": "மரம்"
+        },
+        {
+          "glyph": "ல்",
+          "name": "l",
+          "exampleWord": "பல்"
+        },
+        {
+          "glyph": "வ்",
+          "name": "v",
+          "exampleWord": "வண்டி"
+        },
+        {
+          "glyph": "ழ்",
+          "name": "zh",
+          "exampleWord": "தமிழ்"
+        },
+        {
+          "glyph": "ள்",
+          "name": "L",
+          "exampleWord": "வாள்"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "தமிழ் எந்த எழுத்தோடு முடியும்?", "options": ["ழ்","ள்","ல்","ர்"], "answer": "ழ்" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "தமிழ் எந்த எழுத்தோடு முடியும்?",
+          "options": [
+            "ழ்",
+            "ள்",
+            "ல்",
+            "ர்"
+          ],
+          "answer": "ழ்"
+        }
       ]
     },
     {
-      "id": "ta-p1-l7",
+      "id": "ta-p1-l5",
       "title": "உயிர்மெய்: க வரிசை (Ka series)",
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "க",  "name": "ka",   "exampleWord": "கல்" },
-        { "glyph": "கா", "name": "kaa",  "exampleWord": "காகம்" },
-        { "glyph": "கி", "name": "ki",   "exampleWord": "கிளி" },
-        { "glyph": "கீ", "name": "kii",  "exampleWord": "கீரை" },
-        { "glyph": "கு", "name": "ku",   "exampleWord": "குரங்கு" },
-        { "glyph": "கூ", "name": "kuu",  "exampleWord": "கூடு" },
-        { "glyph": "கெ", "name": "ke" },
-        { "glyph": "கே", "name": "kee",  "exampleWord": "கேடயம்" },
-        { "glyph": "கை", "name": "kai",  "exampleWord": "கை" },
-        { "glyph": "கொ", "name": "ko",   "exampleWord": "கொடி" },
-        { "glyph": "கோ", "name": "koo",  "exampleWord": "கோழி" },
-        { "glyph": "கௌ", "name": "kau",  "exampleWord": "கௌரவம்" }
+        {
+          "glyph": "க",
+          "name": "ka",
+          "exampleWord": "கல்"
+        },
+        {
+          "glyph": "கா",
+          "name": "kaa",
+          "exampleWord": "காகம்"
+        },
+        {
+          "glyph": "கி",
+          "name": "ki",
+          "exampleWord": "கிளி"
+        },
+        {
+          "glyph": "கீ",
+          "name": "kii",
+          "exampleWord": "கீரை"
+        },
+        {
+          "glyph": "கு",
+          "name": "ku",
+          "exampleWord": "குரங்கு"
+        },
+        {
+          "glyph": "கூ",
+          "name": "kuu",
+          "exampleWord": "கூடு"
+        },
+        {
+          "glyph": "கெ",
+          "name": "ke"
+        },
+        {
+          "glyph": "கே",
+          "name": "kee",
+          "exampleWord": "கேடயம்"
+        },
+        {
+          "glyph": "கை",
+          "name": "kai",
+          "exampleWord": "கை"
+        },
+        {
+          "glyph": "கொ",
+          "name": "ko",
+          "exampleWord": "கொடி"
+        },
+        {
+          "glyph": "கோ",
+          "name": "koo",
+          "exampleWord": "கோழி"
+        },
+        {
+          "glyph": "கௌ",
+          "name": "kau",
+          "exampleWord": "கௌரவம்"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "கல் எந்த எழுத்தில் தொடங்கும்?", "options": ["க","கா","கி","கு"], "answer": "க" },
-        { "kind": "tap-the-sound", "prompt": "கூடு எந்த எழுத்தில் தொடங்கும்?", "options": ["கு","கூ","கோ","கை"], "answer": "கூ" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "கல் எந்த எழுத்தில் தொடங்கும்?",
+          "options": [
+            "க",
+            "கா",
+            "கி",
+            "கு"
+          ],
+          "answer": "க"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "கூடு எந்த எழுத்தில் தொடங்கும்?",
+          "options": [
+            "கு",
+            "கூ",
+            "கோ",
+            "கை"
+          ],
+          "answer": "கூ"
+        }
       ]
     },
     {
-      "id": "ta-p1-l8",
+      "id": "ta-p1-l6",
       "title": "உயிர்மெய்: ச வரிசை (Cha series)",
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "ச",  "name": "cha",   "exampleWord": "சட்டை" },
-        { "glyph": "சா", "name": "chaa",  "exampleWord": "சாவி" },
-        { "glyph": "சி", "name": "chi",   "exampleWord": "சிறு" },
-        { "glyph": "சீ", "name": "chii",  "exampleWord": "சீட்டு" },
-        { "glyph": "சு", "name": "chu",   "exampleWord": "சுவர்" },
-        { "glyph": "சூ", "name": "chuu",  "exampleWord": "சூரியன்" },
-        { "glyph": "செ", "name": "che" },
-        { "glyph": "சே", "name": "chee",  "exampleWord": "சேலை" },
-        { "glyph": "சை", "name": "chai" },
-        { "glyph": "சொ", "name": "cho",   "exampleWord": "சொல்" },
-        { "glyph": "சோ", "name": "choo",  "exampleWord": "சோறு" },
-        { "glyph": "சௌ", "name": "chau" }
+        {
+          "glyph": "ச",
+          "name": "cha",
+          "exampleWord": "சட்டை"
+        },
+        {
+          "glyph": "சா",
+          "name": "chaa",
+          "exampleWord": "சாவி"
+        },
+        {
+          "glyph": "சி",
+          "name": "chi",
+          "exampleWord": "சிறு"
+        },
+        {
+          "glyph": "சீ",
+          "name": "chii",
+          "exampleWord": "சீட்டு"
+        },
+        {
+          "glyph": "சு",
+          "name": "chu",
+          "exampleWord": "சுவர்"
+        },
+        {
+          "glyph": "சூ",
+          "name": "chuu",
+          "exampleWord": "சூரியன்"
+        },
+        {
+          "glyph": "செ",
+          "name": "che"
+        },
+        {
+          "glyph": "சே",
+          "name": "chee",
+          "exampleWord": "சேலை"
+        },
+        {
+          "glyph": "சை",
+          "name": "chai"
+        },
+        {
+          "glyph": "சொ",
+          "name": "cho",
+          "exampleWord": "சொல்"
+        },
+        {
+          "glyph": "சோ",
+          "name": "choo",
+          "exampleWord": "சோறு"
+        },
+        {
+          "glyph": "சௌ",
+          "name": "chau"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "சூரியன் எந்த எழுத்தில் தொடங்கும்?", "options": ["சு","சூ","சா","சோ"], "answer": "சூ" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "சூரியன் எந்த எழுத்தில் தொடங்கும்?",
+          "options": [
+            "சு",
+            "சூ",
+            "சா",
+            "சோ"
+          ],
+          "answer": "சூ"
+        }
       ]
     },
     {
-      "id": "ta-p1-l9",
+      "id": "ta-p1-l7",
       "title": "உயிர்மெய்: ட வரிசை (Ta series)",
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "ட",  "name": "Ta",   "exampleWord": "டப்பா" },
-        { "glyph": "டா", "name": "Taa",  "exampleWord": "டாக்டர்" },
-        { "glyph": "டி", "name": "Ti",   "exampleWord": "டிசம்பர்" },
-        { "glyph": "டீ", "name": "Tii",  "exampleWord": "டீ" },
-        { "glyph": "டு", "name": "Tu",   "exampleWord": "பாடு" },
-        { "glyph": "டூ", "name": "Tuu" },
-        { "glyph": "டெ", "name": "Te" },
-        { "glyph": "டே", "name": "Tee" },
-        { "glyph": "டை", "name": "Tai",  "exampleWord": "பழைய" },
-        { "glyph": "டொ", "name": "To" },
-        { "glyph": "டோ", "name": "Too" },
-        { "glyph": "டௌ", "name": "Tau" }
+        {
+          "glyph": "ட",
+          "name": "Ta",
+          "exampleWord": "டப்பா"
+        },
+        {
+          "glyph": "டா",
+          "name": "Taa",
+          "exampleWord": "டாக்டர்"
+        },
+        {
+          "glyph": "டி",
+          "name": "Ti",
+          "exampleWord": "டிசம்பர்"
+        },
+        {
+          "glyph": "டீ",
+          "name": "Tii",
+          "exampleWord": "டீ"
+        },
+        {
+          "glyph": "டு",
+          "name": "Tu",
+          "exampleWord": "பாடு"
+        },
+        {
+          "glyph": "டூ",
+          "name": "Tuu"
+        },
+        {
+          "glyph": "டெ",
+          "name": "Te"
+        },
+        {
+          "glyph": "டே",
+          "name": "Tee"
+        },
+        {
+          "glyph": "டை",
+          "name": "Tai",
+          "exampleWord": "பழைய"
+        },
+        {
+          "glyph": "டொ",
+          "name": "To"
+        },
+        {
+          "glyph": "டோ",
+          "name": "Too"
+        },
+        {
+          "glyph": "டௌ",
+          "name": "Tau"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "டாக்டர் எந்த எழுத்தில் தொடங்கும்?", "options": ["ட","டா","டி","டீ"], "answer": "டா" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "டாக்டர் எந்த எழுத்தில் தொடங்கும்?",
+          "options": [
+            "ட",
+            "டா",
+            "டி",
+            "டீ"
+          ],
+          "answer": "டா"
+        }
       ]
     },
     {
-      "id": "ta-p1-l10",
+      "id": "ta-p1-l8",
       "title": "உயிர்மெய்: த வரிசை (Tha series)",
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "த",  "name": "tha",   "exampleWord": "தலை" },
-        { "glyph": "தா", "name": "thaa",  "exampleWord": "தாமரை" },
-        { "glyph": "தி", "name": "thi",   "exampleWord": "திங்கள்" },
-        { "glyph": "தீ", "name": "thii",  "exampleWord": "தீ" },
-        { "glyph": "து", "name": "thu",   "exampleWord": "துணி" },
-        { "glyph": "தூ", "name": "thuu",  "exampleWord": "தூக்கம்" },
-        { "glyph": "தெ", "name": "the",   "exampleWord": "தென்றல்" },
-        { "glyph": "தே", "name": "thee",  "exampleWord": "தேன்" },
-        { "glyph": "தை", "name": "thai",  "exampleWord": "தைப்பொங்கல்" },
-        { "glyph": "தொ", "name": "tho",   "exampleWord": "தொட்டில்" },
-        { "glyph": "தோ", "name": "thoo",  "exampleWord": "தோல்" },
-        { "glyph": "தௌ", "name": "thau" }
+        {
+          "glyph": "த",
+          "name": "tha",
+          "exampleWord": "தலை"
+        },
+        {
+          "glyph": "தா",
+          "name": "thaa",
+          "exampleWord": "தாமரை"
+        },
+        {
+          "glyph": "தி",
+          "name": "thi",
+          "exampleWord": "திங்கள்"
+        },
+        {
+          "glyph": "தீ",
+          "name": "thii",
+          "exampleWord": "தீ"
+        },
+        {
+          "glyph": "து",
+          "name": "thu",
+          "exampleWord": "துணி"
+        },
+        {
+          "glyph": "தூ",
+          "name": "thuu",
+          "exampleWord": "தூக்கம்"
+        },
+        {
+          "glyph": "தெ",
+          "name": "the",
+          "exampleWord": "தென்றல்"
+        },
+        {
+          "glyph": "தே",
+          "name": "thee",
+          "exampleWord": "தேன்"
+        },
+        {
+          "glyph": "தை",
+          "name": "thai",
+          "exampleWord": "தைப்பொங்கல்"
+        },
+        {
+          "glyph": "தொ",
+          "name": "tho",
+          "exampleWord": "தொட்டில்"
+        },
+        {
+          "glyph": "தோ",
+          "name": "thoo",
+          "exampleWord": "தோல்"
+        },
+        {
+          "glyph": "தௌ",
+          "name": "thau"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "தேன் எந்த எழுத்தில் தொடங்கும்?", "options": ["த","தா","தே","தோ"], "answer": "தே" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "தேன் எந்த எழுத்தில் தொடங்கும்?",
+          "options": [
+            "த",
+            "தா",
+            "தே",
+            "தோ"
+          ],
+          "answer": "தே"
+        }
       ]
     },
     {
-      "id": "ta-p1-l11",
+      "id": "ta-p1-l9",
       "title": "உயிர்மெய்: ப வரிசை (Pa series)",
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "ப",  "name": "pa",   "exampleWord": "பல்" },
-        { "glyph": "பா", "name": "paa",  "exampleWord": "பாம்பு" },
-        { "glyph": "பி", "name": "pi",   "exampleWord": "பிரியம்" },
-        { "glyph": "பீ", "name": "pii",  "exampleWord": "பீடம்" },
-        { "glyph": "பு", "name": "pu",   "exampleWord": "புலி" },
-        { "glyph": "பூ", "name": "puu",  "exampleWord": "பூ" },
-        { "glyph": "பெ", "name": "pe",   "exampleWord": "பெண்" },
-        { "glyph": "பே", "name": "pee",  "exampleWord": "பேனா" },
-        { "glyph": "பை", "name": "pai",  "exampleWord": "பை" },
-        { "glyph": "பொ", "name": "po",   "exampleWord": "பொன்" },
-        { "glyph": "போ", "name": "poo",  "exampleWord": "போர்" },
-        { "glyph": "பௌ", "name": "pau" }
+        {
+          "glyph": "ப",
+          "name": "pa",
+          "exampleWord": "பல்"
+        },
+        {
+          "glyph": "பா",
+          "name": "paa",
+          "exampleWord": "பாம்பு"
+        },
+        {
+          "glyph": "பி",
+          "name": "pi",
+          "exampleWord": "பிரியம்"
+        },
+        {
+          "glyph": "பீ",
+          "name": "pii",
+          "exampleWord": "பீடம்"
+        },
+        {
+          "glyph": "பு",
+          "name": "pu",
+          "exampleWord": "புலி"
+        },
+        {
+          "glyph": "பூ",
+          "name": "puu",
+          "exampleWord": "பூ"
+        },
+        {
+          "glyph": "பெ",
+          "name": "pe",
+          "exampleWord": "பெண்"
+        },
+        {
+          "glyph": "பே",
+          "name": "pee",
+          "exampleWord": "பேனா"
+        },
+        {
+          "glyph": "பை",
+          "name": "pai",
+          "exampleWord": "பை"
+        },
+        {
+          "glyph": "பொ",
+          "name": "po",
+          "exampleWord": "பொன்"
+        },
+        {
+          "glyph": "போ",
+          "name": "poo",
+          "exampleWord": "போர்"
+        },
+        {
+          "glyph": "பௌ",
+          "name": "pau"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "புலி எந்த எழுத்தில் தொடங்கும்?", "options": ["ப","பா","பு","பூ"], "answer": "பு" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "புலி எந்த எழுத்தில் தொடங்கும்?",
+          "options": [
+            "ப",
+            "பா",
+            "பு",
+            "பூ"
+          ],
+          "answer": "பு"
+        }
       ]
     },
     {
-      "id": "ta-p1-l12",
+      "id": "ta-p1-l10",
       "title": "உயிர்மெய்: ற வரிசை (RRa series)",
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "ற",  "name": "RRa",   "exampleWord": "புற்று" },
-        { "glyph": "றா", "name": "RRaa" },
-        { "glyph": "றி", "name": "RRi" },
-        { "glyph": "றீ", "name": "RRii" },
-        { "glyph": "று", "name": "RRu",   "exampleWord": "வெறும்" },
-        { "glyph": "றூ", "name": "RRuu" },
-        { "glyph": "றெ", "name": "RRe" },
-        { "glyph": "றே", "name": "RRee" },
-        { "glyph": "றை", "name": "RRai" },
-        { "glyph": "றொ", "name": "RRo" },
-        { "glyph": "றோ", "name": "RRoo" },
-        { "glyph": "றௌ", "name": "RRau" }
+        {
+          "glyph": "ற",
+          "name": "RRa",
+          "exampleWord": "புற்று"
+        },
+        {
+          "glyph": "றா",
+          "name": "RRaa"
+        },
+        {
+          "glyph": "றி",
+          "name": "RRi"
+        },
+        {
+          "glyph": "றீ",
+          "name": "RRii"
+        },
+        {
+          "glyph": "று",
+          "name": "RRu",
+          "exampleWord": "வெறும்"
+        },
+        {
+          "glyph": "றூ",
+          "name": "RRuu"
+        },
+        {
+          "glyph": "றெ",
+          "name": "RRe"
+        },
+        {
+          "glyph": "றே",
+          "name": "RRee"
+        },
+        {
+          "glyph": "றை",
+          "name": "RRai"
+        },
+        {
+          "glyph": "றொ",
+          "name": "RRo"
+        },
+        {
+          "glyph": "றோ",
+          "name": "RRoo"
+        },
+        {
+          "glyph": "றௌ",
+          "name": "RRau"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "ற வரிசையில் முதல் எழுத்து எது?", "options": ["ற","றா","றி","று"], "answer": "ற" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ற வரிசையில் முதல் எழுத்து எது?",
+          "options": [
+            "ற",
+            "றா",
+            "றி",
+            "று"
+          ],
+          "answer": "ற"
+        }
       ]
     },
     {
-      "id": "ta-p1-l13",
+      "id": "ta-p1-l11",
       "title": "உயிர்மெய்: ங வரிசை (Nga series)",
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "ங",  "name": "nga" },
-        { "glyph": "ஙா", "name": "ngaa" },
-        { "glyph": "ஙி", "name": "ngi" },
-        { "glyph": "ஙீ", "name": "ngii" },
-        { "glyph": "ஙு", "name": "ngu" },
-        { "glyph": "ஙூ", "name": "nguu" },
-        { "glyph": "ஙெ", "name": "nge" },
-        { "glyph": "ஙே", "name": "ngee" },
-        { "glyph": "ஙை", "name": "ngai" },
-        { "glyph": "ஙொ", "name": "ngo" },
-        { "glyph": "ஙோ", "name": "ngoo" },
-        { "glyph": "ஙௌ", "name": "ngau" }
+        {
+          "glyph": "ங",
+          "name": "nga"
+        },
+        {
+          "glyph": "ஙா",
+          "name": "ngaa"
+        },
+        {
+          "glyph": "ஙி",
+          "name": "ngi"
+        },
+        {
+          "glyph": "ஙீ",
+          "name": "ngii"
+        },
+        {
+          "glyph": "ஙு",
+          "name": "ngu"
+        },
+        {
+          "glyph": "ஙூ",
+          "name": "nguu"
+        },
+        {
+          "glyph": "ஙெ",
+          "name": "nge"
+        },
+        {
+          "glyph": "ஙே",
+          "name": "ngee"
+        },
+        {
+          "glyph": "ஙை",
+          "name": "ngai"
+        },
+        {
+          "glyph": "ஙொ",
+          "name": "ngo"
+        },
+        {
+          "glyph": "ஙோ",
+          "name": "ngoo"
+        },
+        {
+          "glyph": "ஙௌ",
+          "name": "ngau"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "ங வரிசையில் முதல் எழுத்து எது?", "options": ["ங","ஙா","ஙி","ஙு"], "answer": "ங" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ங வரிசையில் முதல் எழுத்து எது?",
+          "options": [
+            "ங",
+            "ஙா",
+            "ஙி",
+            "ஙு"
+          ],
+          "answer": "ங"
+        }
       ]
     },
     {
-      "id": "ta-p1-l14",
+      "id": "ta-p1-l12",
       "title": "உயிர்மெய்: ஞ வரிசை (Nja series)",
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "ஞ",  "name": "nja",   "exampleWord": "ஞாயிறு" },
-        { "glyph": "ஞா", "name": "njaa",  "exampleWord": "ஞாபகம்" },
-        { "glyph": "ஞி", "name": "nji" },
-        { "glyph": "ஞீ", "name": "njii" },
-        { "glyph": "ஞு", "name": "nju" },
-        { "glyph": "ஞூ", "name": "njuu" },
-        { "glyph": "ஞெ", "name": "nje" },
-        { "glyph": "ஞே", "name": "njee" },
-        { "glyph": "ஞை", "name": "njai" },
-        { "glyph": "ஞொ", "name": "njo" },
-        { "glyph": "ஞோ", "name": "njoo" },
-        { "glyph": "ஞௌ", "name": "njau" }
+        {
+          "glyph": "ஞ",
+          "name": "nja",
+          "exampleWord": "ஞாயிறு"
+        },
+        {
+          "glyph": "ஞா",
+          "name": "njaa",
+          "exampleWord": "ஞாபகம்"
+        },
+        {
+          "glyph": "ஞி",
+          "name": "nji"
+        },
+        {
+          "glyph": "ஞீ",
+          "name": "njii"
+        },
+        {
+          "glyph": "ஞு",
+          "name": "nju"
+        },
+        {
+          "glyph": "ஞூ",
+          "name": "njuu"
+        },
+        {
+          "glyph": "ஞெ",
+          "name": "nje"
+        },
+        {
+          "glyph": "ஞே",
+          "name": "njee"
+        },
+        {
+          "glyph": "ஞை",
+          "name": "njai"
+        },
+        {
+          "glyph": "ஞொ",
+          "name": "njo"
+        },
+        {
+          "glyph": "ஞோ",
+          "name": "njoo"
+        },
+        {
+          "glyph": "ஞௌ",
+          "name": "njau"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "ஞாயிறு எந்த எழுத்தில் தொடங்கும்?", "options": ["ஞ","ஞா","ஞி","ஞு"], "answer": "ஞா" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ஞாயிறு எந்த எழுத்தில் தொடங்கும்?",
+          "options": [
+            "ஞ",
+            "ஞா",
+            "ஞி",
+            "ஞு"
+          ],
+          "answer": "ஞா"
+        }
       ]
     },
     {
-      "id": "ta-p1-l15",
+      "id": "ta-p1-l13",
       "title": "உயிர்மெய்: ண வரிசை (Na series)",
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "ண",  "name": "Na" },
-        { "glyph": "ணா", "name": "Naa" },
-        { "glyph": "ணி", "name": "Ni",   "exampleWord": "மணி" },
-        { "glyph": "ணீ", "name": "Nii" },
-        { "glyph": "ணு", "name": "Nu",   "exampleWord": "அணு" },
-        { "glyph": "ணூ", "name": "Nuu" },
-        { "glyph": "ணெ", "name": "Ne" },
-        { "glyph": "ணே", "name": "Nee" },
-        { "glyph": "ணை", "name": "Nai",  "exampleWord": "காதணை" },
-        { "glyph": "ணொ", "name": "No" },
-        { "glyph": "ணோ", "name": "Noo" },
-        { "glyph": "ணௌ", "name": "Nau" }
+        {
+          "glyph": "ண",
+          "name": "Na"
+        },
+        {
+          "glyph": "ணா",
+          "name": "Naa"
+        },
+        {
+          "glyph": "ணி",
+          "name": "Ni",
+          "exampleWord": "மணி"
+        },
+        {
+          "glyph": "ணீ",
+          "name": "Nii"
+        },
+        {
+          "glyph": "ணு",
+          "name": "Nu",
+          "exampleWord": "அணு"
+        },
+        {
+          "glyph": "ணூ",
+          "name": "Nuu"
+        },
+        {
+          "glyph": "ணெ",
+          "name": "Ne"
+        },
+        {
+          "glyph": "ணே",
+          "name": "Nee"
+        },
+        {
+          "glyph": "ணை",
+          "name": "Nai",
+          "exampleWord": "காதணை"
+        },
+        {
+          "glyph": "ணொ",
+          "name": "No"
+        },
+        {
+          "glyph": "ணோ",
+          "name": "Noo"
+        },
+        {
+          "glyph": "ணௌ",
+          "name": "Nau"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "மணி இல் கடைசி எழுத்து எது?", "options": ["ண","ணா","ணி","ணு"], "answer": "ணி" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "மணி இல் கடைசி எழுத்து எது?",
+          "options": [
+            "ண",
+            "ணா",
+            "ணி",
+            "ணு"
+          ],
+          "answer": "ணி"
+        }
       ]
     },
     {
-      "id": "ta-p1-l16",
+      "id": "ta-p1-l14",
       "title": "உயிர்மெய்: ந வரிசை (Na series soft)",
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "ந",  "name": "na",   "exampleWord": "நரி" },
-        { "glyph": "நா", "name": "naa",  "exampleWord": "நாய்" },
-        { "glyph": "நி", "name": "ni",   "exampleWord": "நிலா" },
-        { "glyph": "நீ", "name": "nii",  "exampleWord": "நீர்" },
-        { "glyph": "நு", "name": "nu",   "exampleWord": "நுனி" },
-        { "glyph": "நூ", "name": "nuu",  "exampleWord": "நூல்" },
-        { "glyph": "நெ", "name": "ne",   "exampleWord": "நெல்" },
-        { "glyph": "நே", "name": "nee",  "exampleWord": "நேரம்" },
-        { "glyph": "நை", "name": "nai" },
-        { "glyph": "நொ", "name": "no" },
-        { "glyph": "நோ", "name": "noo",  "exampleWord": "நோய்" },
-        { "glyph": "நௌ", "name": "nau" }
+        {
+          "glyph": "ந",
+          "name": "na",
+          "exampleWord": "நரி"
+        },
+        {
+          "glyph": "நா",
+          "name": "naa",
+          "exampleWord": "நாய்"
+        },
+        {
+          "glyph": "நி",
+          "name": "ni",
+          "exampleWord": "நிலா"
+        },
+        {
+          "glyph": "நீ",
+          "name": "nii",
+          "exampleWord": "நீர்"
+        },
+        {
+          "glyph": "நு",
+          "name": "nu",
+          "exampleWord": "நுனி"
+        },
+        {
+          "glyph": "நூ",
+          "name": "nuu",
+          "exampleWord": "நூல்"
+        },
+        {
+          "glyph": "நெ",
+          "name": "ne",
+          "exampleWord": "நெல்"
+        },
+        {
+          "glyph": "நே",
+          "name": "nee",
+          "exampleWord": "நேரம்"
+        },
+        {
+          "glyph": "நை",
+          "name": "nai"
+        },
+        {
+          "glyph": "நொ",
+          "name": "no"
+        },
+        {
+          "glyph": "நோ",
+          "name": "noo",
+          "exampleWord": "நோய்"
+        },
+        {
+          "glyph": "நௌ",
+          "name": "nau"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "நாய் எந்த எழுத்தில் தொடங்கும்?", "options": ["ந","நா","நி","நீ"], "answer": "நா" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "நாய் எந்த எழுத்தில் தொடங்கும்?",
+          "options": [
+            "ந",
+            "நா",
+            "நி",
+            "நீ"
+          ],
+          "answer": "நா"
+        }
       ]
     },
     {
-      "id": "ta-p1-l17",
+      "id": "ta-p1-l15",
       "title": "உயிர்மெய்: ம வரிசை (Ma series)",
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "ம",  "name": "ma",   "exampleWord": "மரம்" },
-        { "glyph": "மா", "name": "maa",  "exampleWord": "மாடு" },
-        { "glyph": "மி", "name": "mi",   "exampleWord": "மிளகு" },
-        { "glyph": "மீ", "name": "mii",  "exampleWord": "மீன்" },
-        { "glyph": "மு", "name": "mu",   "exampleWord": "முயல்" },
-        { "glyph": "மூ", "name": "muu",  "exampleWord": "மூக்கு" },
-        { "glyph": "மெ", "name": "me",   "exampleWord": "மெல்ல" },
-        { "glyph": "மே", "name": "mee",  "exampleWord": "மேகம்" },
-        { "glyph": "மை", "name": "mai",  "exampleWord": "மை" },
-        { "glyph": "மொ", "name": "mo",   "exampleWord": "மொட்டு" },
-        { "glyph": "மோ", "name": "moo",  "exampleWord": "மோதிரம்" },
-        { "glyph": "மௌ", "name": "mau",  "exampleWord": "மௌனம்" }
+        {
+          "glyph": "ம",
+          "name": "ma",
+          "exampleWord": "மரம்"
+        },
+        {
+          "glyph": "மா",
+          "name": "maa",
+          "exampleWord": "மாடு"
+        },
+        {
+          "glyph": "மி",
+          "name": "mi",
+          "exampleWord": "மிளகு"
+        },
+        {
+          "glyph": "மீ",
+          "name": "mii",
+          "exampleWord": "மீன்"
+        },
+        {
+          "glyph": "மு",
+          "name": "mu",
+          "exampleWord": "முயல்"
+        },
+        {
+          "glyph": "மூ",
+          "name": "muu",
+          "exampleWord": "மூக்கு"
+        },
+        {
+          "glyph": "மெ",
+          "name": "me",
+          "exampleWord": "மெல்ல"
+        },
+        {
+          "glyph": "மே",
+          "name": "mee",
+          "exampleWord": "மேகம்"
+        },
+        {
+          "glyph": "மை",
+          "name": "mai",
+          "exampleWord": "மை"
+        },
+        {
+          "glyph": "மொ",
+          "name": "mo",
+          "exampleWord": "மொட்டு"
+        },
+        {
+          "glyph": "மோ",
+          "name": "moo",
+          "exampleWord": "மோதிரம்"
+        },
+        {
+          "glyph": "மௌ",
+          "name": "mau",
+          "exampleWord": "மௌனம்"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "மீன் எந்த எழுத்தில் தொடங்கும்?", "options": ["ம","மா","மீ","மு"], "answer": "மீ" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "மீன் எந்த எழுத்தில் தொடங்கும்?",
+          "options": [
+            "ம",
+            "மா",
+            "மீ",
+            "மு"
+          ],
+          "answer": "மீ"
+        }
       ]
     },
     {
-      "id": "ta-p1-l18",
+      "id": "ta-p1-l16",
       "title": "உயிர்மெய்: ன வரிசை (Nna series)",
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "ன",  "name": "nna" },
-        { "glyph": "னா", "name": "nnaa" },
-        { "glyph": "னி", "name": "nni" },
-        { "glyph": "னீ", "name": "nnii" },
-        { "glyph": "னு", "name": "nnu" },
-        { "glyph": "னூ", "name": "nnuu" },
-        { "glyph": "னெ", "name": "nne" },
-        { "glyph": "னே", "name": "nnee" },
-        { "glyph": "னை", "name": "nnai" },
-        { "glyph": "னொ", "name": "nno" },
-        { "glyph": "னோ", "name": "nnoo" },
-        { "glyph": "னௌ", "name": "nnau" }
+        {
+          "glyph": "ன",
+          "name": "nna"
+        },
+        {
+          "glyph": "னா",
+          "name": "nnaa"
+        },
+        {
+          "glyph": "னி",
+          "name": "nni"
+        },
+        {
+          "glyph": "னீ",
+          "name": "nnii"
+        },
+        {
+          "glyph": "னு",
+          "name": "nnu"
+        },
+        {
+          "glyph": "னூ",
+          "name": "nnuu"
+        },
+        {
+          "glyph": "னெ",
+          "name": "nne"
+        },
+        {
+          "glyph": "னே",
+          "name": "nnee"
+        },
+        {
+          "glyph": "னை",
+          "name": "nnai"
+        },
+        {
+          "glyph": "னொ",
+          "name": "nno"
+        },
+        {
+          "glyph": "னோ",
+          "name": "nnoo"
+        },
+        {
+          "glyph": "னௌ",
+          "name": "nnau"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "ன வரிசையில் முதல் எழுத்து எது?", "options": ["ன","னா","னி","னு"], "answer": "ன" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ன வரிசையில் முதல் எழுத்து எது?",
+          "options": [
+            "ன",
+            "னா",
+            "னி",
+            "னு"
+          ],
+          "answer": "ன"
+        }
       ]
     },
     {
-      "id": "ta-p1-l19",
+      "id": "ta-p1-l17",
       "title": "உயிர்மெய்: ய வரிசை (Ya series)",
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "ய",  "name": "ya" },
-        { "glyph": "யா", "name": "yaa",   "exampleWord": "யானை" },
-        { "glyph": "யி", "name": "yi" },
-        { "glyph": "யீ", "name": "yii" },
-        { "glyph": "யு", "name": "yu" },
-        { "glyph": "யூ", "name": "yuu" },
-        { "glyph": "யெ", "name": "ye" },
-        { "glyph": "யே", "name": "yee" },
-        { "glyph": "யை", "name": "yai" },
-        { "glyph": "யொ", "name": "yo" },
-        { "glyph": "யோ", "name": "yoo" },
-        { "glyph": "யௌ", "name": "yau" }
+        {
+          "glyph": "ய",
+          "name": "ya"
+        },
+        {
+          "glyph": "யா",
+          "name": "yaa",
+          "exampleWord": "யானை"
+        },
+        {
+          "glyph": "யி",
+          "name": "yi"
+        },
+        {
+          "glyph": "யீ",
+          "name": "yii"
+        },
+        {
+          "glyph": "யு",
+          "name": "yu"
+        },
+        {
+          "glyph": "யூ",
+          "name": "yuu"
+        },
+        {
+          "glyph": "யெ",
+          "name": "ye"
+        },
+        {
+          "glyph": "யே",
+          "name": "yee"
+        },
+        {
+          "glyph": "யை",
+          "name": "yai"
+        },
+        {
+          "glyph": "யொ",
+          "name": "yo"
+        },
+        {
+          "glyph": "யோ",
+          "name": "yoo"
+        },
+        {
+          "glyph": "யௌ",
+          "name": "yau"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "யானை எந்த எழுத்தில் தொடங்கும்?", "options": ["ய","யா","யி","யு"], "answer": "யா" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "யானை எந்த எழுத்தில் தொடங்கும்?",
+          "options": [
+            "ய",
+            "யா",
+            "யி",
+            "யு"
+          ],
+          "answer": "யா"
+        }
       ]
     },
     {
-      "id": "ta-p1-l20",
+      "id": "ta-p1-l18",
       "title": "உயிர்மெய்: ர வரிசை (Ra series)",
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "ர",  "name": "ra" },
-        { "glyph": "ரா", "name": "raa",   "exampleWord": "ராஜா" },
-        { "glyph": "ரி", "name": "ri",    "exampleWord": "அரிசி" },
-        { "glyph": "ரீ", "name": "rii" },
-        { "glyph": "ரு", "name": "ru",    "exampleWord": "உருளை" },
-        { "glyph": "ரூ", "name": "ruu" },
-        { "glyph": "ரெ", "name": "re" },
-        { "glyph": "ரே", "name": "ree" },
-        { "glyph": "ரை", "name": "rai" },
-        { "glyph": "ரொ", "name": "ro" },
-        { "glyph": "ரோ", "name": "roo" },
-        { "glyph": "ரௌ", "name": "rau" }
+        {
+          "glyph": "ர",
+          "name": "ra"
+        },
+        {
+          "glyph": "ரா",
+          "name": "raa",
+          "exampleWord": "ராஜா"
+        },
+        {
+          "glyph": "ரி",
+          "name": "ri",
+          "exampleWord": "அரிசி"
+        },
+        {
+          "glyph": "ரீ",
+          "name": "rii"
+        },
+        {
+          "glyph": "ரு",
+          "name": "ru",
+          "exampleWord": "உருளை"
+        },
+        {
+          "glyph": "ரூ",
+          "name": "ruu"
+        },
+        {
+          "glyph": "ரெ",
+          "name": "re"
+        },
+        {
+          "glyph": "ரே",
+          "name": "ree"
+        },
+        {
+          "glyph": "ரை",
+          "name": "rai"
+        },
+        {
+          "glyph": "ரொ",
+          "name": "ro"
+        },
+        {
+          "glyph": "ரோ",
+          "name": "roo"
+        },
+        {
+          "glyph": "ரௌ",
+          "name": "rau"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "ராஜா எந்த எழுத்தில் தொடங்கும்?", "options": ["ர","ரா","ரி","ரு"], "answer": "ரா" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ராஜா எந்த எழுத்தில் தொடங்கும்?",
+          "options": [
+            "ர",
+            "ரா",
+            "ரி",
+            "ரு"
+          ],
+          "answer": "ரா"
+        }
       ]
     },
     {
-      "id": "ta-p1-l21",
+      "id": "ta-p1-l19",
       "title": "உயிர்மெய்: ல வரிசை (La series)",
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "ல",  "name": "la" },
-        { "glyph": "லா", "name": "laa",   "exampleWord": "லாபம்" },
-        { "glyph": "லி", "name": "li" },
-        { "glyph": "லீ", "name": "lii" },
-        { "glyph": "லு", "name": "lu",    "exampleWord": "புலு" },
-        { "glyph": "லூ", "name": "luu" },
-        { "glyph": "லெ", "name": "le" },
-        { "glyph": "லே", "name": "lee" },
-        { "glyph": "லை", "name": "lai",   "exampleWord": "இலை" },
-        { "glyph": "லொ", "name": "lo" },
-        { "glyph": "லோ", "name": "loo" },
-        { "glyph": "லௌ", "name": "lau" }
+        {
+          "glyph": "ல",
+          "name": "la"
+        },
+        {
+          "glyph": "லா",
+          "name": "laa",
+          "exampleWord": "லாபம்"
+        },
+        {
+          "glyph": "லி",
+          "name": "li"
+        },
+        {
+          "glyph": "லீ",
+          "name": "lii"
+        },
+        {
+          "glyph": "லு",
+          "name": "lu",
+          "exampleWord": "புலு"
+        },
+        {
+          "glyph": "லூ",
+          "name": "luu"
+        },
+        {
+          "glyph": "லெ",
+          "name": "le"
+        },
+        {
+          "glyph": "லே",
+          "name": "lee"
+        },
+        {
+          "glyph": "லை",
+          "name": "lai",
+          "exampleWord": "இலை"
+        },
+        {
+          "glyph": "லொ",
+          "name": "lo"
+        },
+        {
+          "glyph": "லோ",
+          "name": "loo"
+        },
+        {
+          "glyph": "லௌ",
+          "name": "lau"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "லாபம் எந்த எழுத்தில் தொடங்கும்?", "options": ["ல","லா","லி","லு"], "answer": "லா" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "லாபம் எந்த எழுத்தில் தொடங்கும்?",
+          "options": [
+            "ல",
+            "லா",
+            "லி",
+            "லு"
+          ],
+          "answer": "லா"
+        }
       ]
     },
     {
-      "id": "ta-p1-l22",
+      "id": "ta-p1-l20",
       "title": "உயிர்மெய்: வ வரிசை (Va series)",
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "வ",  "name": "va",   "exampleWord": "வண்டி" },
-        { "glyph": "வா", "name": "vaa",  "exampleWord": "வாழை" },
-        { "glyph": "வி", "name": "vi",   "exampleWord": "விலை" },
-        { "glyph": "வீ", "name": "vii",  "exampleWord": "வீடு" },
-        { "glyph": "வு", "name": "vu" },
-        { "glyph": "வூ", "name": "vuu" },
-        { "glyph": "வெ", "name": "ve",   "exampleWord": "வெண்மை" },
-        { "glyph": "வே", "name": "vee",  "exampleWord": "வேகம்" },
-        { "glyph": "வை", "name": "vai",  "exampleWord": "வைகாசி" },
-        { "glyph": "வொ", "name": "vo" },
-        { "glyph": "வோ", "name": "voo" },
-        { "glyph": "வௌ", "name": "vau" }
+        {
+          "glyph": "வ",
+          "name": "va",
+          "exampleWord": "வண்டி"
+        },
+        {
+          "glyph": "வா",
+          "name": "vaa",
+          "exampleWord": "வாழை"
+        },
+        {
+          "glyph": "வி",
+          "name": "vi",
+          "exampleWord": "விலை"
+        },
+        {
+          "glyph": "வீ",
+          "name": "vii",
+          "exampleWord": "வீடு"
+        },
+        {
+          "glyph": "வு",
+          "name": "vu"
+        },
+        {
+          "glyph": "வூ",
+          "name": "vuu"
+        },
+        {
+          "glyph": "வெ",
+          "name": "ve",
+          "exampleWord": "வெண்மை"
+        },
+        {
+          "glyph": "வே",
+          "name": "vee",
+          "exampleWord": "வேகம்"
+        },
+        {
+          "glyph": "வை",
+          "name": "vai",
+          "exampleWord": "வைகாசி"
+        },
+        {
+          "glyph": "வொ",
+          "name": "vo"
+        },
+        {
+          "glyph": "வோ",
+          "name": "voo"
+        },
+        {
+          "glyph": "வௌ",
+          "name": "vau"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "வீடு எந்த எழுத்தில் தொடங்கும்?", "options": ["வ","வா","வி","வீ"], "answer": "வீ" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "வீடு எந்த எழுத்தில் தொடங்கும்?",
+          "options": [
+            "வ",
+            "வா",
+            "வி",
+            "வீ"
+          ],
+          "answer": "வீ"
+        }
       ]
     },
     {
-      "id": "ta-p1-l23",
+      "id": "ta-p1-l21",
       "title": "உயிர்மெய்: ழ வரிசை (Zha series)",
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "ழ",  "name": "zha" },
-        { "glyph": "ழா", "name": "zhaa" },
-        { "glyph": "ழி", "name": "zhi",   "exampleWord": "மொழி" },
-        { "glyph": "ழீ", "name": "zhii" },
-        { "glyph": "ழு", "name": "zhu",   "exampleWord": "எழுது" },
-        { "glyph": "ழூ", "name": "zhuu" },
-        { "glyph": "ழெ", "name": "zhe" },
-        { "glyph": "ழே", "name": "zhee" },
-        { "glyph": "ழை", "name": "zhai",  "exampleWord": "வாழை" },
-        { "glyph": "ழொ", "name": "zho" },
-        { "glyph": "ழோ", "name": "zhoo" },
-        { "glyph": "ழௌ", "name": "zhau" }
+        {
+          "glyph": "ழ",
+          "name": "zha"
+        },
+        {
+          "glyph": "ழா",
+          "name": "zhaa"
+        },
+        {
+          "glyph": "ழி",
+          "name": "zhi",
+          "exampleWord": "மொழி"
+        },
+        {
+          "glyph": "ழீ",
+          "name": "zhii"
+        },
+        {
+          "glyph": "ழு",
+          "name": "zhu",
+          "exampleWord": "எழுது"
+        },
+        {
+          "glyph": "ழூ",
+          "name": "zhuu"
+        },
+        {
+          "glyph": "ழெ",
+          "name": "zhe"
+        },
+        {
+          "glyph": "ழே",
+          "name": "zhee"
+        },
+        {
+          "glyph": "ழை",
+          "name": "zhai",
+          "exampleWord": "வாழை"
+        },
+        {
+          "glyph": "ழொ",
+          "name": "zho"
+        },
+        {
+          "glyph": "ழோ",
+          "name": "zhoo"
+        },
+        {
+          "glyph": "ழௌ",
+          "name": "zhau"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "வாழை இல் கடைசி எழுத்து எது?", "options": ["ழ","ழா","ழை","ழு"], "answer": "ழை" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "வாழை இல் கடைசி எழுத்து எது?",
+          "options": [
+            "ழ",
+            "ழா",
+            "ழை",
+            "ழு"
+          ],
+          "answer": "ழை"
+        }
       ]
     },
     {
-      "id": "ta-p1-l24",
+      "id": "ta-p1-l22",
       "title": "உயிர்மெய்: ள வரிசை (La series retroflex)",
       "type": "letters",
       "maxPoints": 100,
       "items": [
-        { "glyph": "ள",  "name": "La" },
-        { "glyph": "ளா", "name": "Laa" },
-        { "glyph": "ளி", "name": "Li" },
-        { "glyph": "ளீ", "name": "Lii" },
-        { "glyph": "ளு", "name": "Lu" },
-        { "glyph": "ளூ", "name": "Luu" },
-        { "glyph": "ளெ", "name": "Le" },
-        { "glyph": "ளே", "name": "Lee" },
-        { "glyph": "ளை", "name": "Lai",  "exampleWord": "புளி" },
-        { "glyph": "ளொ", "name": "Lo" },
-        { "glyph": "ளோ", "name": "Loo" },
-        { "glyph": "ளௌ", "name": "Lau" }
+        {
+          "glyph": "ள",
+          "name": "La"
+        },
+        {
+          "glyph": "ளா",
+          "name": "Laa"
+        },
+        {
+          "glyph": "ளி",
+          "name": "Li"
+        },
+        {
+          "glyph": "ளீ",
+          "name": "Lii"
+        },
+        {
+          "glyph": "ளு",
+          "name": "Lu"
+        },
+        {
+          "glyph": "ளூ",
+          "name": "Luu"
+        },
+        {
+          "glyph": "ளெ",
+          "name": "Le"
+        },
+        {
+          "glyph": "ளே",
+          "name": "Lee"
+        },
+        {
+          "glyph": "ளை",
+          "name": "Lai",
+          "exampleWord": "புளி"
+        },
+        {
+          "glyph": "ளொ",
+          "name": "Lo"
+        },
+        {
+          "glyph": "ளோ",
+          "name": "Loo"
+        },
+        {
+          "glyph": "ளௌ",
+          "name": "Lau"
+        }
       ],
       "quiz": [
-        { "kind": "tap-the-sound", "prompt": "ள வரிசையில் முதல் எழுத்து எது?", "options": ["ள","ளா","ளி","ளு"], "answer": "ள" }
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ள வரிசையில் முதல் எழுத்து எது?",
+          "options": [
+            "ள",
+            "ளா",
+            "ளி",
+            "ளு"
+          ],
+          "answer": "ள"
+        }
       ]
     }
   ]
