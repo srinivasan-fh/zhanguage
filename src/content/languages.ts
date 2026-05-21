@@ -1,14 +1,24 @@
 import { LanguageMeta } from '@/types/content';
 
 export const LANGUAGES: LanguageMeta[] = [
-  { code: 'ta', name: 'Tamil',    nativeName: 'தமிழ்',     flag: '🇮🇳' },
-  { code: 'en', name: 'English',  nativeName: 'English',  flag: '🇬🇧' },
-  { code: 'hi', name: 'Hindi',    nativeName: 'हिन्दी',    flag: '🇮🇳' },
-  { code: 'zh', name: 'Mandarin', nativeName: '中文',      flag: '🇨🇳' },
-  { code: 'ko', name: 'Korean',   nativeName: '한국어',     flag: '🇰🇷' },
-  { code: 'ja', name: 'Japanese', nativeName: '日本語',    flag: '🇯🇵' },
-  { code: 'de', name: 'German',   nativeName: 'Deutsch',  flag: '🇩🇪' },
+  // Primary
+  { code: 'ta', name: 'Tamil',     nativeName: 'தமிழ்',     flag: '🇮🇳', tier: 'primary' },
+  { code: 'en', name: 'English',   nativeName: 'English',   flag: '🇬🇧', tier: 'primary' },
+  { code: 'hi', name: 'Hindi',     nativeName: 'हिन्दी',    flag: '🇮🇳', tier: 'primary' },
+  { code: 'zh', name: 'Mandarin',  nativeName: '中文',      flag: '🇨🇳', tier: 'primary' },
+  { code: 'ko', name: 'Korean',    nativeName: '한국어',     flag: '🇰🇷', tier: 'primary' },
+  { code: 'ja', name: 'Japanese',  nativeName: '日本語',     flag: '🇯🇵', tier: 'primary' },
+  { code: 'de', name: 'German',    nativeName: 'Deutsch',   flag: '🇩🇪', tier: 'primary' },
+  // Secondary
+  { code: 'es', name: 'Spanish',    nativeName: 'Español',   flag: '🇪🇸', tier: 'secondary' },
+  { code: 'fr', name: 'French',     nativeName: 'Français',  flag: '🇫🇷', tier: 'secondary' },
+  { code: 'ar', name: 'Arabic',     nativeName: 'العربية',   flag: '🇸🇦', tier: 'secondary' },
+  { code: 'pt', name: 'Portuguese', nativeName: 'Português', flag: '🇵🇹', tier: 'secondary' },
+  { code: 'ru', name: 'Russian',    nativeName: 'Русский',   flag: '🇷🇺', tier: 'secondary' },
 ];
+
+export const PRIMARY_LANGUAGES = LANGUAGES.filter((l) => l.tier !== 'secondary');
+export const SECONDARY_LANGUAGES = LANGUAGES.filter((l) => l.tier === 'secondary');
 
 export const PHASES: { id: number; title: string; emoji: string }[] = [
   { id: 1,  title: 'Letters & Sounds',        emoji: '🔤' },

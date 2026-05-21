@@ -1,0 +1,274 @@
+{
+  "language": "ru",
+  "phase": 1,
+  "title": "Русский алфавит",
+  "lessons": [
+    {
+      "id": "ru-p1-l1",
+      "title": "А–Ж",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "А",
+          "name": "ah",
+          "exampleWord": "Арбуз"
+        },
+        {
+          "glyph": "Б",
+          "name": "beh",
+          "exampleWord": "Банан"
+        },
+        {
+          "glyph": "В",
+          "name": "veh",
+          "exampleWord": "Волк"
+        },
+        {
+          "glyph": "Г",
+          "name": "geh",
+          "exampleWord": "Гриб"
+        },
+        {
+          "glyph": "Д",
+          "name": "deh",
+          "exampleWord": "Дом"
+        },
+        {
+          "glyph": "Е",
+          "name": "yeh",
+          "exampleWord": "Ель"
+        },
+        {
+          "glyph": "Ё",
+          "name": "yo",
+          "exampleWord": "Ёлка"
+        },
+        {
+          "glyph": "Ж",
+          "name": "zheh",
+          "exampleWord": "Жираф"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "А",
+            "Б",
+            "В",
+            "Г"
+          ],
+          "answer": "А"
+        }
+      ]
+    },
+    {
+      "id": "ru-p1-l2",
+      "title": "З–Н",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "З",
+          "name": "zeh",
+          "exampleWord": "Зебра"
+        },
+        {
+          "glyph": "И",
+          "name": "ee",
+          "exampleWord": "Игра"
+        },
+        {
+          "glyph": "Й",
+          "name": "ee kratkoye",
+          "exampleWord": "Йогурт"
+        },
+        {
+          "glyph": "К",
+          "name": "kah",
+          "exampleWord": "Кот"
+        },
+        {
+          "glyph": "Л",
+          "name": "el",
+          "exampleWord": "Лев"
+        },
+        {
+          "glyph": "М",
+          "name": "em",
+          "exampleWord": "Мама"
+        },
+        {
+          "glyph": "Н",
+          "name": "en",
+          "exampleWord": "Нос"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'zeh'?",
+          "options": [
+            "З",
+            "И",
+            "Й",
+            "К"
+          ],
+          "answer": "З"
+        }
+      ]
+    },
+    {
+      "id": "ru-p1-l3",
+      "title": "О–У",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "О",
+          "name": "oh",
+          "exampleWord": "Облако"
+        },
+        {
+          "glyph": "П",
+          "name": "peh",
+          "exampleWord": "Папа"
+        },
+        {
+          "glyph": "Р",
+          "name": "er",
+          "exampleWord": "Рыба"
+        },
+        {
+          "glyph": "С",
+          "name": "es",
+          "exampleWord": "Солнце"
+        },
+        {
+          "glyph": "Т",
+          "name": "teh",
+          "exampleWord": "Тигр"
+        },
+        {
+          "glyph": "У",
+          "name": "oo",
+          "exampleWord": "Утка"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "О",
+            "П",
+            "Р",
+            "С"
+          ],
+          "answer": "О"
+        }
+      ]
+    },
+    {
+      "id": "ru-p1-l4",
+      "title": "Ф–Ч",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ф",
+          "name": "ef",
+          "exampleWord": "Флаг"
+        },
+        {
+          "glyph": "Х",
+          "name": "khah",
+          "exampleWord": "Хлеб"
+        },
+        {
+          "glyph": "Ц",
+          "name": "tseh",
+          "exampleWord": "Цветок"
+        },
+        {
+          "glyph": "Ч",
+          "name": "cheh",
+          "exampleWord": "Чай"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ef'?",
+          "options": [
+            "Ф",
+            "Х",
+            "Ц",
+            "Ч"
+          ],
+          "answer": "Ф"
+        }
+      ]
+    },
+    {
+      "id": "ru-p1-l5",
+      "title": "Ш–Я",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ш",
+          "name": "sha",
+          "exampleWord": "Шар"
+        },
+        {
+          "glyph": "Щ",
+          "name": "shcha",
+          "exampleWord": "Щенок"
+        },
+        {
+          "glyph": "Ъ",
+          "name": "tvyordy znak"
+        },
+        {
+          "glyph": "Ы",
+          "name": "y"
+        },
+        {
+          "glyph": "Ь",
+          "name": "myagky znak"
+        },
+        {
+          "glyph": "Э",
+          "name": "eh",
+          "exampleWord": "Эхо"
+        },
+        {
+          "glyph": "Ю",
+          "name": "yoo",
+          "exampleWord": "Юла"
+        },
+        {
+          "glyph": "Я",
+          "name": "yah",
+          "exampleWord": "Яблоко"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'sha'?",
+          "options": [
+            "Ш",
+            "Щ",
+            "Ъ",
+            "Ы"
+          ],
+          "answer": "Ш"
+        }
+      ]
+    }
+  ]
+}

@@ -7,6 +7,11 @@ import jaP1 from './ja/phase1.json';
 import deP1 from './de/phase1.json';
 import zhP1 from './zh/phase1.json';
 import koP1 from './ko/phase1.json';
+import esP1 from './es/phase1.json';
+import frP1 from './fr/phase1.json';
+import arP1 from './ar/phase1.json';
+import ptP1 from './pt/phase1.json';
+import ruP1 from './ru/phase1.json';
 
 type ContentMap = {
   [lang in LanguageCode]?: {
@@ -22,6 +27,11 @@ const CONTENT: ContentMap = {
   de: { 1: deP1 as PhasePack },
   zh: { 1: zhP1 as PhasePack },
   ko: { 1: koP1 as PhasePack },
+  es: { 1: esP1 as PhasePack },
+  fr: { 1: frP1 as PhasePack },
+  ar: { 1: arP1 as PhasePack },
+  pt: { 1: ptP1 as PhasePack },
+  ru: { 1: ruP1 as PhasePack },
 };
 
 export function getPhasePack(lang: LanguageCode, phase: number): PhasePack | null {

@@ -1,0 +1,262 @@
+{
+  "language": "pt",
+  "phase": 1,
+  "title": "Letras e sons",
+  "lessons": [
+    {
+      "id": "pt-p1-l1",
+      "title": "Letras A–G",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Abelha"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Bola"
+        },
+        {
+          "glyph": "C",
+          "name": "seh",
+          "exampleWord": "Cão"
+        },
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Dado"
+        },
+        {
+          "glyph": "E",
+          "name": "eh",
+          "exampleWord": "Elefante"
+        },
+        {
+          "glyph": "F",
+          "name": "efeh",
+          "exampleWord": "Flor"
+        },
+        {
+          "glyph": "G",
+          "name": "jeh",
+          "exampleWord": "Gato"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "pt-p1-l2",
+      "title": "Letras H–N",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "H",
+          "name": "agah",
+          "exampleWord": "Hipopótamo"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Igreja"
+        },
+        {
+          "glyph": "J",
+          "name": "jota",
+          "exampleWord": "Janela"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Karaokê"
+        },
+        {
+          "glyph": "L",
+          "name": "eleh",
+          "exampleWord": "Leão"
+        },
+        {
+          "glyph": "M",
+          "name": "emeh",
+          "exampleWord": "Maçã"
+        },
+        {
+          "glyph": "N",
+          "name": "eneh",
+          "exampleWord": "Nuvem"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'agah'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "pt-p1-l3",
+      "title": "Letras O–T",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Ovo"
+        },
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pato"
+        },
+        {
+          "glyph": "Q",
+          "name": "keh",
+          "exampleWord": "Queijo"
+        },
+        {
+          "glyph": "R",
+          "name": "erreh",
+          "exampleWord": "Rato"
+        },
+        {
+          "glyph": "S",
+          "name": "esseh",
+          "exampleWord": "Sol"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Tigre"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        }
+      ]
+    },
+    {
+      "id": "pt-p1-l4",
+      "title": "Letras U–Z",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "U",
+          "name": "oo",
+          "exampleWord": "Uva"
+        },
+        {
+          "glyph": "V",
+          "name": "veh",
+          "exampleWord": "Vaca"
+        },
+        {
+          "glyph": "W",
+          "name": "dahb-loo veh",
+          "exampleWord": "Wi-fi"
+        },
+        {
+          "glyph": "X",
+          "name": "sheesh",
+          "exampleWord": "Xícara"
+        },
+        {
+          "glyph": "Y",
+          "name": "eep-see-lon",
+          "exampleWord": "Yoga"
+        },
+        {
+          "glyph": "Z",
+          "name": "zeh",
+          "exampleWord": "Zebra"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oo'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        }
+      ]
+    },
+    {
+      "id": "pt-p1-l5",
+      "title": "Ç + acentos",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ç",
+          "name": "seh ce-dee-lha",
+          "exampleWord": "Coração"
+        },
+        {
+          "glyph": "Ã",
+          "name": "ah til",
+          "exampleWord": "Mãe"
+        },
+        {
+          "glyph": "Õ",
+          "name": "oh til",
+          "exampleWord": "Coração"
+        },
+        {
+          "glyph": "Á",
+          "name": "ah agudo",
+          "exampleWord": "Água"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'seh ce-dee-lha'?",
+          "options": [
+            "Ç",
+            "Ã",
+            "Õ",
+            "Á"
+          ],
+          "answer": "Ç"
+        }
+      ]
+    }
+  ]
+}

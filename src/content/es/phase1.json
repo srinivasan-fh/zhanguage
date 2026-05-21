@@ -1,0 +1,226 @@
+{
+  "language": "es",
+  "phase": 1,
+  "title": "Letras y sonidos",
+  "lessons": [
+    {
+      "id": "es-p1-l1",
+      "title": "Letras A–G",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Avión"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ballena"
+        },
+        {
+          "glyph": "C",
+          "name": "seh",
+          "exampleWord": "Casa"
+        },
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Dado"
+        },
+        {
+          "glyph": "E",
+          "name": "eh",
+          "exampleWord": "Elefante"
+        },
+        {
+          "glyph": "F",
+          "name": "efeh",
+          "exampleWord": "Foca"
+        },
+        {
+          "glyph": "G",
+          "name": "heh",
+          "exampleWord": "Gato"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "es-p1-l2",
+      "title": "Letras H–N + Ñ",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "H",
+          "name": "ah-cheh",
+          "exampleWord": "Hipopótamo"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Iglú"
+        },
+        {
+          "glyph": "J",
+          "name": "hota",
+          "exampleWord": "Jirafa"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Koala"
+        },
+        {
+          "glyph": "L",
+          "name": "eleh",
+          "exampleWord": "León"
+        },
+        {
+          "glyph": "M",
+          "name": "emeh",
+          "exampleWord": "Mariposa"
+        },
+        {
+          "glyph": "N",
+          "name": "eneh",
+          "exampleWord": "Nido"
+        },
+        {
+          "glyph": "Ñ",
+          "name": "eñeh",
+          "exampleWord": "Niño"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah-cheh'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "es-p1-l3",
+      "title": "Letras O–T",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Oso"
+        },
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pato"
+        },
+        {
+          "glyph": "Q",
+          "name": "koo",
+          "exampleWord": "Queso"
+        },
+        {
+          "glyph": "R",
+          "name": "ereh",
+          "exampleWord": "Rana"
+        },
+        {
+          "glyph": "S",
+          "name": "eseh",
+          "exampleWord": "Sol"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Tigre"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        }
+      ]
+    },
+    {
+      "id": "es-p1-l4",
+      "title": "Letras U–Z",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "U",
+          "name": "oo",
+          "exampleWord": "Uva"
+        },
+        {
+          "glyph": "V",
+          "name": "oo-veh",
+          "exampleWord": "Vaca"
+        },
+        {
+          "glyph": "W",
+          "name": "doble veh",
+          "exampleWord": "Wifi"
+        },
+        {
+          "glyph": "X",
+          "name": "ekees",
+          "exampleWord": "Xilófono"
+        },
+        {
+          "glyph": "Y",
+          "name": "ee griega",
+          "exampleWord": "Yate"
+        },
+        {
+          "glyph": "Z",
+          "name": "seta",
+          "exampleWord": "Zorro"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oo'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        }
+      ]
+    }
+  ]
+}

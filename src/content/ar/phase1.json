@@ -1,0 +1,231 @@
+{
+  "language": "ar",
+  "phase": 1,
+  "title": "الحروف العربية",
+  "lessons": [
+    {
+      "id": "ar-p1-l1",
+      "title": "Letters 1–7",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ا",
+          "name": "alif",
+          "exampleWord": "أسد"
+        },
+        {
+          "glyph": "ب",
+          "name": "baa",
+          "exampleWord": "بطة"
+        },
+        {
+          "glyph": "ت",
+          "name": "taa",
+          "exampleWord": "تفاحة"
+        },
+        {
+          "glyph": "ث",
+          "name": "thaa",
+          "exampleWord": "ثعلب"
+        },
+        {
+          "glyph": "ج",
+          "name": "jeem",
+          "exampleWord": "جمل"
+        },
+        {
+          "glyph": "ح",
+          "name": "haa",
+          "exampleWord": "حصان"
+        },
+        {
+          "glyph": "خ",
+          "name": "khaa",
+          "exampleWord": "خبز"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alif'?",
+          "options": [
+            "ا",
+            "ب",
+            "ت",
+            "ث"
+          ],
+          "answer": "ا"
+        }
+      ]
+    },
+    {
+      "id": "ar-p1-l2",
+      "title": "Letters 8–14",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "د",
+          "name": "dal",
+          "exampleWord": "دب"
+        },
+        {
+          "glyph": "ذ",
+          "name": "dhal",
+          "exampleWord": "ذرة"
+        },
+        {
+          "glyph": "ر",
+          "name": "raa",
+          "exampleWord": "رمان"
+        },
+        {
+          "glyph": "ز",
+          "name": "zay",
+          "exampleWord": "زرافة"
+        },
+        {
+          "glyph": "س",
+          "name": "seen",
+          "exampleWord": "سمكة"
+        },
+        {
+          "glyph": "ش",
+          "name": "sheen",
+          "exampleWord": "شمس"
+        },
+        {
+          "glyph": "ص",
+          "name": "sad",
+          "exampleWord": "صقر"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'dal'?",
+          "options": [
+            "د",
+            "ذ",
+            "ر",
+            "ز"
+          ],
+          "answer": "د"
+        }
+      ]
+    },
+    {
+      "id": "ar-p1-l3",
+      "title": "Letters 15–21",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ض",
+          "name": "dad",
+          "exampleWord": "ضفدع"
+        },
+        {
+          "glyph": "ط",
+          "name": "taa",
+          "exampleWord": "طائر"
+        },
+        {
+          "glyph": "ظ",
+          "name": "dhaa",
+          "exampleWord": "ظبي"
+        },
+        {
+          "glyph": "ع",
+          "name": "ayn",
+          "exampleWord": "عنب"
+        },
+        {
+          "glyph": "غ",
+          "name": "ghayn",
+          "exampleWord": "غزال"
+        },
+        {
+          "glyph": "ف",
+          "name": "faa",
+          "exampleWord": "فيل"
+        },
+        {
+          "glyph": "ق",
+          "name": "qaaf",
+          "exampleWord": "قمر"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'dad'?",
+          "options": [
+            "ض",
+            "ط",
+            "ظ",
+            "ع"
+          ],
+          "answer": "ض"
+        }
+      ]
+    },
+    {
+      "id": "ar-p1-l4",
+      "title": "Letters 22–28",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ك",
+          "name": "kaaf",
+          "exampleWord": "كتاب"
+        },
+        {
+          "glyph": "ل",
+          "name": "laam",
+          "exampleWord": "ليمون"
+        },
+        {
+          "glyph": "م",
+          "name": "meem",
+          "exampleWord": "موز"
+        },
+        {
+          "glyph": "ن",
+          "name": "noon",
+          "exampleWord": "نمر"
+        },
+        {
+          "glyph": "ه",
+          "name": "haa",
+          "exampleWord": "هرم"
+        },
+        {
+          "glyph": "و",
+          "name": "waw",
+          "exampleWord": "وردة"
+        },
+        {
+          "glyph": "ي",
+          "name": "yaa",
+          "exampleWord": "يد"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'kaaf'?",
+          "options": [
+            "ك",
+            "ل",
+            "م",
+            "ن"
+          ],
+          "answer": "ك"
+        }
+      ]
+    }
+  ]
+}
