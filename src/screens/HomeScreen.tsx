@@ -46,7 +46,11 @@ export function HomeScreen({ navigation }: Props) {
         renderItem={({ item }) => (
           <Pressable
             style={({ pressed }) => [styles.tile, pressed && { transform: [{ scale: 0.97 }] }]}
-            onPress={() => navigation.navigate('PhaseList', { language: item.code })}
+            onPress={() =>
+              item.code === 'ta'
+                ? navigation.navigate('TamilAlphabet')
+                : navigation.navigate('PhaseList', { language: item.code })
+            }
           >
             <Text style={styles.flag}>{item.flag}</Text>
             <Text style={styles.native}>{item.nativeName}</Text>

@@ -16,4 +16,6 @@ export type RootStackParamList = {
   Rewards: undefined;
   ParentGate: undefined;
   ParentDashboard: undefined;
+  TamilAlphabet: undefined;
+  TamilLetter: { index: number };
 };

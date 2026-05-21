@@ -13,6 +13,8 @@ import { LessonCompleteScreen } from '@/screens/LessonCompleteScreen';
 import { RewardsScreen } from '@/screens/RewardsScreen';
 import { ParentGateScreen } from '@/screens/ParentGateScreen';
 import { ParentDashboardScreen } from '@/screens/ParentDashboardScreen';
+import { TamilAlphabetScreen } from '@/screens/TamilAlphabetScreen';
+import { TamilLetterScreen } from '@/screens/TamilLetterScreen';
 import { colors } from '@/theme';
 
 const Stack = createNativeStackNavigator<RootStackParamList>();
@@ -45,6 +47,8 @@ export function RootNavigator() {
       <Stack.Screen name="Rewards" component={RewardsScreen} options={{ title: 'My Rewards' }} />
       <Stack.Screen name="ParentGate" component={ParentGateScreen} options={{ title: 'Parents Only' }} />
       <Stack.Screen name="ParentDashboard" component={ParentDashboardScreen} options={{ title: 'Parent Dashboard' }} />
+      <Stack.Screen name="TamilAlphabet" component={TamilAlphabetScreen} options={{ title: 'Tamil Alphabet' }} />
+      <Stack.Screen name="TamilLetter" component={TamilLetterScreen} options={{ title: 'Letter', headerTransparent: true }} />
     </Stack.Navigator>
   );
 }
