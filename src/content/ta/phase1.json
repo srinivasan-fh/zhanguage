@@ -266,6 +266,128 @@
     },
     {
       "id": "ta-p1-l5",
+      "title": "மெய் (All 18 consonants)",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "க்",
+          "name": "k",
+          "exampleWord": "கல்"
+        },
+        {
+          "glyph": "ச்",
+          "name": "ch",
+          "exampleWord": "சட்டை"
+        },
+        {
+          "glyph": "ட்",
+          "name": "T",
+          "exampleWord": "டப்பா"
+        },
+        {
+          "glyph": "த்",
+          "name": "th",
+          "exampleWord": "தண்ணீர்"
+        },
+        {
+          "glyph": "ப்",
+          "name": "p",
+          "exampleWord": "பல்"
+        },
+        {
+          "glyph": "ற்",
+          "name": "RR",
+          "exampleWord": "புற்று"
+        },
+        {
+          "glyph": "ங்",
+          "name": "ng",
+          "exampleWord": "தங்கம்"
+        },
+        {
+          "glyph": "ஞ்",
+          "name": "nj",
+          "exampleWord": "மஞ்சள்"
+        },
+        {
+          "glyph": "ண்",
+          "name": "N",
+          "exampleWord": "மண்"
+        },
+        {
+          "glyph": "ந்",
+          "name": "n",
+          "exampleWord": "நரி"
+        },
+        {
+          "glyph": "ம்",
+          "name": "m",
+          "exampleWord": "மரம்"
+        },
+        {
+          "glyph": "ன்",
+          "name": "nn",
+          "exampleWord": "மீன்"
+        },
+        {
+          "glyph": "ய்",
+          "name": "y",
+          "exampleWord": "வாய்"
+        },
+        {
+          "glyph": "ர்",
+          "name": "r",
+          "exampleWord": "மரம்"
+        },
+        {
+          "glyph": "ல்",
+          "name": "l",
+          "exampleWord": "பல்"
+        },
+        {
+          "glyph": "வ்",
+          "name": "v",
+          "exampleWord": "வண்டி"
+        },
+        {
+          "glyph": "ழ்",
+          "name": "zh",
+          "exampleWord": "தமிழ்"
+        },
+        {
+          "glyph": "ள்",
+          "name": "L",
+          "exampleWord": "வாள்"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "மரம் எந்த ஒலியில் தொடங்கும்?",
+          "options": [
+            "ம்",
+            "ன்",
+            "ந்",
+            "ண்"
+          ],
+          "answer": "ம்"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "தமிழ் என்ற சொல்லில் முடியும் ஒலி?",
+          "options": [
+            "ழ்",
+            "ள்",
+            "ல்",
+            "ர்"
+          ],
+          "answer": "ழ்"
+        }
+      ]
+    },
+    {
+      "id": "ta-p1-l6",
       "title": "18 உயிர்மெய் (Base consonant + அ)",
       "type": "letters",
       "maxPoints": 100,
@@ -384,7 +506,7 @@
       ]
     },
     {
-      "id": "ta-p1-l6",
+      "id": "ta-p1-l7",
       "title": "உயிர்மெய்: ஆ வரிசை (aa row)",
       "type": "letters",
       "maxPoints": 100,
@@ -477,7 +599,7 @@
       ]
     },
     {
-      "id": "ta-p1-l7",
+      "id": "ta-p1-l8",
       "title": "உயிர்மெய்: இ வரிசை (i row)",
       "type": "letters",
       "maxPoints": 100,
@@ -570,7 +692,7 @@
       ]
     },
     {
-      "id": "ta-p1-l8",
+      "id": "ta-p1-l9",
       "title": "உயிர்மெய்: ஈ வரிசை (ii row)",
       "type": "letters",
       "maxPoints": 100,
@@ -663,7 +785,7 @@
       ]
     },
     {
-      "id": "ta-p1-l9",
+      "id": "ta-p1-l10",
       "title": "உயிர்மெய்: உ வரிசை (u row)",
       "type": "letters",
       "maxPoints": 100,
@@ -756,7 +878,7 @@
       ]
     },
     {
-      "id": "ta-p1-l10",
+      "id": "ta-p1-l11",
       "title": "உயிர்மெய்: ஊ வரிசை (uu row)",
       "type": "letters",
       "maxPoints": 100,
@@ -849,7 +971,7 @@
       ]
     },
     {
-      "id": "ta-p1-l11",
+      "id": "ta-p1-l12",
       "title": "உயிர்மெய்: எ வரிசை (e row)",
       "type": "letters",
       "maxPoints": 100,
@@ -942,7 +1064,7 @@
       ]
     },
     {
-      "id": "ta-p1-l12",
+      "id": "ta-p1-l13",
       "title": "உயிர்மெய்: ஏ வரிசை (ee row)",
       "type": "letters",
       "maxPoints": 100,
@@ -1035,7 +1157,7 @@
       ]
     },
     {
-      "id": "ta-p1-l13",
+      "id": "ta-p1-l14",
       "title": "உயிர்மெய்: ஐ வரிசை (ai row)",
       "type": "letters",
       "maxPoints": 100,
@@ -1128,7 +1250,7 @@
       ]
     },
     {
-      "id": "ta-p1-l14",
+      "id": "ta-p1-l15",
       "title": "உயிர்மெய்: ஒ வரிசை (o row)",
       "type": "letters",
       "maxPoints": 100,
@@ -1221,7 +1343,7 @@
       ]
     },
     {
-      "id": "ta-p1-l15",
+      "id": "ta-p1-l16",
       "title": "உயிர்மெய்: ஓ வரிசை (oo row)",
       "type": "letters",
       "maxPoints": 100,
@@ -1314,7 +1436,7 @@
       ]
     },
     {
-      "id": "ta-p1-l16",
+      "id": "ta-p1-l17",
       "title": "உயிர்மெய்: ஔ வரிசை (au row)",
       "type": "letters",
       "maxPoints": 100,
