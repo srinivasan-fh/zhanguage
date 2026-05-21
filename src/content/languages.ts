@@ -1,13 +1,13 @@
 import { LanguageMeta } from '@/types/content';
 
 export const LANGUAGES: LanguageMeta[] = [
-  { code: 'en', name: 'English',  nativeName: 'English',  flag: '🇬🇧' },
   { code: 'ta', name: 'Tamil',    nativeName: 'தமிழ்',     flag: '🇮🇳' },
+  { code: 'en', name: 'English',  nativeName: 'English',  flag: '🇬🇧' },
   { code: 'hi', name: 'Hindi',    nativeName: 'हिन्दी',    flag: '🇮🇳' },
-  { code: 'ja', name: 'Japanese', nativeName: '日本語',    flag: '🇯🇵' },
-  { code: 'de', name: 'German',   nativeName: 'Deutsch',  flag: '🇩🇪' },
   { code: 'zh', name: 'Mandarin', nativeName: '中文',      flag: '🇨🇳' },
   { code: 'ko', name: 'Korean',   nativeName: '한국어',     flag: '🇰🇷' },
+  { code: 'ja', name: 'Japanese', nativeName: '日本語',    flag: '🇯🇵' },
+  { code: 'de', name: 'German',   nativeName: 'Deutsch',  flag: '🇩🇪' },
 ];
 
 export const PHASES: { id: number; title: string; emoji: string }[] = [
