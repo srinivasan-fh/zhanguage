@@ -1,0 +1,142 @@
+{
+  "language": "sux",
+  "phase": 1,
+  "title": "𒅴𒂠 (Sumerian)",
+  "lessons": [
+    {
+      "id": "sux-p1-l1",
+      "title": "Common signs 1",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𒀭",
+          "name": "dingir (god/sky)"
+        },
+        {
+          "glyph": "𒆠",
+          "name": "ki (earth)"
+        },
+        {
+          "glyph": "𒈗",
+          "name": "lugal (king)"
+        },
+        {
+          "glyph": "𒀀",
+          "name": "a (water)"
+        },
+        {
+          "glyph": "𒂗",
+          "name": "en (lord)"
+        },
+        {
+          "glyph": "𒉌",
+          "name": "ni (oil)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'dingir (god/sky)'?",
+          "options": [
+            "𒀭",
+            "𒆠",
+            "𒈗",
+            "𒀀"
+          ],
+          "answer": "𒀭"
+        }
+      ]
+    },
+    {
+      "id": "sux-p1-l2",
+      "title": "Common signs 2",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𒌷",
+          "name": "uru (city)"
+        },
+        {
+          "glyph": "𒁲",
+          "name": "di (judgement)"
+        },
+        {
+          "glyph": "𒈨",
+          "name": "me (essence)"
+        },
+        {
+          "glyph": "𒅗",
+          "name": "ka (mouth)"
+        },
+        {
+          "glyph": "𒋫",
+          "name": "ta (from)"
+        },
+        {
+          "glyph": "𒀊",
+          "name": "ab (sea)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'uru (city)'?",
+          "options": [
+            "𒌷",
+            "𒁲",
+            "𒈨",
+            "𒅗"
+          ],
+          "answer": "𒌷"
+        }
+      ]
+    },
+    {
+      "id": "sux-p1-l3",
+      "title": "Common signs 3",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𒊮",
+          "name": "sha (heart)"
+        },
+        {
+          "glyph": "𒌓",
+          "name": "ud (day)"
+        },
+        {
+          "glyph": "𒅆",
+          "name": "igi (eye)"
+        },
+        {
+          "glyph": "𒊺",
+          "name": "she (barley)"
+        },
+        {
+          "glyph": "𒅗",
+          "name": "enki (ea)"
+        },
+        {
+          "glyph": "𒂗𒆠",
+          "name": "enki"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'sha (heart)'?",
+          "options": [
+            "𒊮",
+            "𒌓",
+            "𒅆",
+            "𒊺"
+          ],
+          "answer": "𒊮"
+        }
+      ]
+    }
+  ]
+}

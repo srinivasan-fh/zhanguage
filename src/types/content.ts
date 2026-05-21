@@ -1,6 +1,7 @@
 export type LanguageCode =
   | 'en' | 'ta' | 'hi' | 'ja' | 'de' | 'zh' | 'ko'
-  | 'es' | 'fr' | 'ar' | 'pt' | 'ru';
+  | 'es' | 'fr' | 'ar' | 'pt' | 'ru'
+  | 'sa' | 'he' | 'arc' | 'pi' | 'la' | 'grc' | 'egy' | 'sux' | 'akk';
 
 export type LessonType =
   | 'letters'
@@ -50,5 +51,5 @@ export interface LanguageMeta {
   name: string;
   nativeName: string;
   flag: string;
-  tier?: 'primary' | 'secondary';
+  tier?: 'primary' | 'secondary' | 'tertiary';
 }

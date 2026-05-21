@@ -2,7 +2,7 @@ import React from 'react';
 import { View, Text, ScrollView, StyleSheet, Pressable } from 'react-native';
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { RootStackParamList } from '@/navigation/types';
-import { PRIMARY_LANGUAGES, SECONDARY_LANGUAGES } from '@/content/languages';
+import { PRIMARY_LANGUAGES, SECONDARY_LANGUAGES, TERTIARY_LANGUAGES } from '@/content/languages';
 import { useAppSelector } from '@/store/hooks';
 import { selectActiveProfile, selectActiveProfileId, selectWallet, selectTotalPointsFor } from '@/store/selectors';
 import { Avatar } from '@/components/Avatar';
@@ -73,6 +73,29 @@ export function HomeScreen({ navigation }: Props) {
               <Text style={styles.secondaryFlag}>{item.flag}</Text>
               <Text style={styles.secondaryNative} numberOfLines={1}>{item.nativeName}</Text>
               <Text style={styles.secondaryName} numberOfLines={1}>{item.name}</Text>
+            </Pressable>
+          ))}
+        </View>
+
+        <View style={styles.dividerRow}>
+          <View style={[styles.divider, styles.dividerSacred]} />
+          <Text style={[styles.dividerLabel, styles.dividerLabelSacred]}>Divine · Sacred Connection</Text>
+          <View style={[styles.divider, styles.dividerSacred]} />
+        </View>
+
+        <View style={styles.tertiaryGrid}>
+          {TERTIARY_LANGUAGES.map((item) => (
+            <Pressable
+              key={item.code}
+              style={({ pressed }) => [
+                styles.tertiaryTile,
+                pressed && { transform: [{ scale: 0.96 }] },
+              ]}
+              onPress={() => openLang(item)}
+            >
+              <Text style={styles.tertiaryFlag}>{item.flag}</Text>
+              <Text style={styles.tertiaryNative} numberOfLines={1}>{item.nativeName}</Text>
+              <Text style={styles.tertiaryName} numberOfLines={1}>{item.name}</Text>
             </Pressable>
           ))}
         </View>
@@ -177,6 +200,31 @@ const styles = StyleSheet.create({
   secondaryFlag: { fontSize: 32 },
   secondaryNative: { fontSize: 15, fontWeight: '800', color: colors.ink },
   secondaryName: { fontSize: 11, color: colors.inkSoft },
+
+  // Sacred divider styling.
+  dividerSacred: { backgroundColor: 'rgba(255, 200, 69, 0.4)' },
+  dividerLabelSacred: { color: '#9A6B00', letterSpacing: 2.5 },
+
+  // Tertiary grid — sacred languages, parchment-tinted compact tiles.
+  tertiaryGrid: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: spacing.sm,
+  },
+  tertiaryTile: {
+    width: '31.5%',
+    backgroundColor: 'rgba(255, 246, 220, 0.85)',
+    borderRadius: radii.md,
+    paddingVertical: spacing.md,
+    alignItems: 'center',
+    gap: 2,
+    borderWidth: 1,
+    borderColor: 'rgba(255, 200, 69, 0.55)',
+    ...e2,
+  },
+  tertiaryFlag: { fontSize: 30, color: '#7A5A00' },
+  tertiaryNative: { fontSize: 15, fontWeight: '800', color: '#3F2A00' },
+  tertiaryName: { fontSize: 11, color: '#7A5A00' },
 
   footerRow: { flexDirection: 'row', gap: spacing.md, marginTop: spacing.lg },
   footerBtn: {

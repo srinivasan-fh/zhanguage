@@ -1,0 +1,142 @@
+{
+  "language": "akk",
+  "phase": 1,
+  "title": "𒀝𒅗𒁺𒌑 (Akkadian)",
+  "lessons": [
+    {
+      "id": "akk-p1-l1",
+      "title": "Logograms 1",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𒀭",
+          "name": "ilu (god)"
+        },
+        {
+          "glyph": "𒁹",
+          "name": "dish (vertical)"
+        },
+        {
+          "glyph": "𒂗",
+          "name": "en (lord)"
+        },
+        {
+          "glyph": "𒈗",
+          "name": "sharru (king)"
+        },
+        {
+          "glyph": "𒆠",
+          "name": "erṣetu (earth)"
+        },
+        {
+          "glyph": "𒀀",
+          "name": "mu (water)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ilu (god)'?",
+          "options": [
+            "𒀭",
+            "𒁹",
+            "𒂗",
+            "𒈗"
+          ],
+          "answer": "𒀭"
+        }
+      ]
+    },
+    {
+      "id": "akk-p1-l2",
+      "title": "Logograms 2",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𒂊",
+          "name": "e (house)"
+        },
+        {
+          "glyph": "𒉌",
+          "name": "ni (oil)"
+        },
+        {
+          "glyph": "𒌷",
+          "name": "alu (city)"
+        },
+        {
+          "glyph": "𒅔",
+          "name": "in (eye)"
+        },
+        {
+          "glyph": "𒅆",
+          "name": "igi (face)"
+        },
+        {
+          "glyph": "𒋾",
+          "name": "til (life)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'e (house)'?",
+          "options": [
+            "𒂊",
+            "𒉌",
+            "𒌷",
+            "𒅔"
+          ],
+          "answer": "𒂊"
+        }
+      ]
+    },
+    {
+      "id": "akk-p1-l3",
+      "title": "Common syllables",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𒅍",
+          "name": "tab"
+        },
+        {
+          "glyph": "𒁺",
+          "name": "du"
+        },
+        {
+          "glyph": "𒋀",
+          "name": "si"
+        },
+        {
+          "glyph": "𒈠",
+          "name": "ma"
+        },
+        {
+          "glyph": "𒈠𒀭",
+          "name": "god ma"
+        },
+        {
+          "glyph": "𒈨",
+          "name": "me"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'tab'?",
+          "options": [
+            "𒅍",
+            "𒁺",
+            "𒋀",
+            "𒈠"
+          ],
+          "answer": "𒅍"
+        }
+      ]
+    }
+  ]
+}

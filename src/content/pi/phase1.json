@@ -1,0 +1,343 @@
+{
+  "language": "pi",
+  "phase": 1,
+  "title": "पालि वर्णमाला",
+  "lessons": [
+    {
+      "id": "pi-p1-l1",
+      "title": "स्वर",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "अ",
+          "name": "a",
+          "exampleWord": "अहं"
+        },
+        {
+          "glyph": "आ",
+          "name": "aa",
+          "exampleWord": "आत्ता"
+        },
+        {
+          "glyph": "इ",
+          "name": "i",
+          "exampleWord": "इति"
+        },
+        {
+          "glyph": "ई",
+          "name": "ii",
+          "exampleWord": "ईस"
+        },
+        {
+          "glyph": "उ",
+          "name": "u",
+          "exampleWord": "उत्तर"
+        },
+        {
+          "glyph": "ऊ",
+          "name": "uu",
+          "exampleWord": "ऊन"
+        },
+        {
+          "glyph": "ए",
+          "name": "e",
+          "exampleWord": "एकं"
+        },
+        {
+          "glyph": "ओ",
+          "name": "o",
+          "exampleWord": "ओवाद"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'a'?",
+          "options": [
+            "अ",
+            "आ",
+            "इ",
+            "ई"
+          ],
+          "answer": "अ"
+        }
+      ]
+    },
+    {
+      "id": "pi-p1-l2",
+      "title": "क-वर्ग",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "क",
+          "name": "ka",
+          "exampleWord": "कम्म"
+        },
+        {
+          "glyph": "ख",
+          "name": "kha",
+          "exampleWord": "खय"
+        },
+        {
+          "glyph": "ग",
+          "name": "ga",
+          "exampleWord": "गति"
+        },
+        {
+          "glyph": "घ",
+          "name": "gha",
+          "exampleWord": "घर"
+        },
+        {
+          "glyph": "ङ",
+          "name": "nga"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ka'?",
+          "options": [
+            "क",
+            "ख",
+            "ग",
+            "घ"
+          ],
+          "answer": "क"
+        }
+      ]
+    },
+    {
+      "id": "pi-p1-l3",
+      "title": "च-वर्ग",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "च",
+          "name": "cha",
+          "exampleWord": "चित्त"
+        },
+        {
+          "glyph": "छ",
+          "name": "chha",
+          "exampleWord": "छन्द"
+        },
+        {
+          "glyph": "ज",
+          "name": "ja",
+          "exampleWord": "जाति"
+        },
+        {
+          "glyph": "झ",
+          "name": "jha",
+          "exampleWord": "झान"
+        },
+        {
+          "glyph": "ञ",
+          "name": "nya"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'cha'?",
+          "options": [
+            "च",
+            "छ",
+            "ज",
+            "झ"
+          ],
+          "answer": "च"
+        }
+      ]
+    },
+    {
+      "id": "pi-p1-l4",
+      "title": "ट-वर्ग",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ट",
+          "name": "Ta"
+        },
+        {
+          "glyph": "ठ",
+          "name": "Tha"
+        },
+        {
+          "glyph": "ड",
+          "name": "Da"
+        },
+        {
+          "glyph": "ढ",
+          "name": "Dha"
+        },
+        {
+          "glyph": "ण",
+          "name": "Na",
+          "exampleWord": "गण"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'Ta'?",
+          "options": [
+            "ट",
+            "ठ",
+            "ड",
+            "ढ"
+          ],
+          "answer": "ट"
+        }
+      ]
+    },
+    {
+      "id": "pi-p1-l5",
+      "title": "त-वर्ग",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "त",
+          "name": "ta",
+          "exampleWord": "तत"
+        },
+        {
+          "glyph": "थ",
+          "name": "tha",
+          "exampleWord": "थूप"
+        },
+        {
+          "glyph": "द",
+          "name": "da",
+          "exampleWord": "दान"
+        },
+        {
+          "glyph": "ध",
+          "name": "dha",
+          "exampleWord": "धम्म"
+        },
+        {
+          "glyph": "न",
+          "name": "na",
+          "exampleWord": "नाम"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ta'?",
+          "options": [
+            "त",
+            "थ",
+            "द",
+            "ध"
+          ],
+          "answer": "त"
+        }
+      ]
+    },
+    {
+      "id": "pi-p1-l6",
+      "title": "प-वर्ग",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "प",
+          "name": "pa",
+          "exampleWord": "पञ्ञा"
+        },
+        {
+          "glyph": "फ",
+          "name": "pha",
+          "exampleWord": "फल"
+        },
+        {
+          "glyph": "ब",
+          "name": "ba",
+          "exampleWord": "बल"
+        },
+        {
+          "glyph": "भ",
+          "name": "bha",
+          "exampleWord": "भिक्खु"
+        },
+        {
+          "glyph": "म",
+          "name": "ma",
+          "exampleWord": "मेत्ता"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'pa'?",
+          "options": [
+            "प",
+            "फ",
+            "ब",
+            "भ"
+          ],
+          "answer": "प"
+        }
+      ]
+    },
+    {
+      "id": "pi-p1-l7",
+      "title": "य–ह",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "य",
+          "name": "ya",
+          "exampleWord": "यान"
+        },
+        {
+          "glyph": "र",
+          "name": "ra",
+          "exampleWord": "रथ"
+        },
+        {
+          "glyph": "ल",
+          "name": "la",
+          "exampleWord": "लाभ"
+        },
+        {
+          "glyph": "व",
+          "name": "va",
+          "exampleWord": "वाक्"
+        },
+        {
+          "glyph": "स",
+          "name": "sa",
+          "exampleWord": "सङ्घ"
+        },
+        {
+          "glyph": "ह",
+          "name": "ha",
+          "exampleWord": "हत्थ"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ya'?",
+          "options": [
+            "य",
+            "र",
+            "ल",
+            "व"
+          ],
+          "answer": "य"
+        }
+      ]
+    }
+  ]
+}

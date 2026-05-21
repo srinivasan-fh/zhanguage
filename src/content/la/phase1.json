@@ -1,0 +1,206 @@
+{
+  "language": "la",
+  "phase": 1,
+  "title": "Alphabetum Latinum",
+  "lessons": [
+    {
+      "id": "la-p1-l1",
+      "title": "A–G",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Aqua"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Bonum"
+        },
+        {
+          "glyph": "C",
+          "name": "keh",
+          "exampleWord": "Caelum"
+        },
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Deus"
+        },
+        {
+          "glyph": "E",
+          "name": "eh",
+          "exampleWord": "Ecce"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fides"
+        },
+        {
+          "glyph": "G",
+          "name": "geh",
+          "exampleWord": "Gloria"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "la-p1-l2",
+      "title": "H–N",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "H",
+          "name": "hah",
+          "exampleWord": "Homo"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Ignis"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Kalendae"
+        },
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Lux"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Mater"
+        },
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Nox"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'hah'?",
+          "options": [
+            "H",
+            "I",
+            "K",
+            "L"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "la-p1-l3",
+      "title": "O–T",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Opus"
+        },
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pater"
+        },
+        {
+          "glyph": "Q",
+          "name": "koo",
+          "exampleWord": "Quaero"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Rex"
+        },
+        {
+          "glyph": "S",
+          "name": "es",
+          "exampleWord": "Sol"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Terra"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        }
+      ]
+    },
+    {
+      "id": "la-p1-l4",
+      "title": "V–Z",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "V",
+          "name": "weh",
+          "exampleWord": "Veritas"
+        },
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xenia"
+        },
+        {
+          "glyph": "Y",
+          "name": "ee Graeca",
+          "exampleWord": "Lyra"
+        },
+        {
+          "glyph": "Z",
+          "name": "zeta",
+          "exampleWord": "Zona"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'weh'?",
+          "options": [
+            "V",
+            "X",
+            "Y",
+            "Z"
+          ],
+          "answer": "V"
+        }
+      ]
+    }
+  ]
+}

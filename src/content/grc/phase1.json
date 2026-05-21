@@ -1,0 +1,211 @@
+{
+  "language": "grc",
+  "phase": 1,
+  "title": "Ἑλληνικὸν Ἀλφάβητον",
+  "lessons": [
+    {
+      "id": "grc-p1-l1",
+      "title": "Α–Η",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Α",
+          "name": "alpha",
+          "exampleWord": "Ἀθήνη"
+        },
+        {
+          "glyph": "Β",
+          "name": "beta",
+          "exampleWord": "Βίος"
+        },
+        {
+          "glyph": "Γ",
+          "name": "gamma",
+          "exampleWord": "Γῆ"
+        },
+        {
+          "glyph": "Δ",
+          "name": "delta",
+          "exampleWord": "Δένδρον"
+        },
+        {
+          "glyph": "Ε",
+          "name": "epsilon",
+          "exampleWord": "Ἔρως"
+        },
+        {
+          "glyph": "Ζ",
+          "name": "zeta",
+          "exampleWord": "Ζῷον"
+        },
+        {
+          "glyph": "Η",
+          "name": "eta",
+          "exampleWord": "Ἥρα"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alpha'?",
+          "options": [
+            "Α",
+            "Β",
+            "Γ",
+            "Δ"
+          ],
+          "answer": "Α"
+        }
+      ]
+    },
+    {
+      "id": "grc-p1-l2",
+      "title": "Θ–Ν",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Θ",
+          "name": "theta",
+          "exampleWord": "Θεός"
+        },
+        {
+          "glyph": "Ι",
+          "name": "iota",
+          "exampleWord": "Ἰχθύς"
+        },
+        {
+          "glyph": "Κ",
+          "name": "kappa",
+          "exampleWord": "Κόσμος"
+        },
+        {
+          "glyph": "Λ",
+          "name": "lambda",
+          "exampleWord": "Λόγος"
+        },
+        {
+          "glyph": "Μ",
+          "name": "mu",
+          "exampleWord": "Μήνη"
+        },
+        {
+          "glyph": "Ν",
+          "name": "nu",
+          "exampleWord": "Νύξ"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'theta'?",
+          "options": [
+            "Θ",
+            "Ι",
+            "Κ",
+            "Λ"
+          ],
+          "answer": "Θ"
+        }
+      ]
+    },
+    {
+      "id": "grc-p1-l3",
+      "title": "Ξ–Σ",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ξ",
+          "name": "xi",
+          "exampleWord": "Ξένος"
+        },
+        {
+          "glyph": "Ο",
+          "name": "omicron",
+          "exampleWord": "Ὀρθός"
+        },
+        {
+          "glyph": "Π",
+          "name": "pi",
+          "exampleWord": "Πάθος"
+        },
+        {
+          "glyph": "Ρ",
+          "name": "rho",
+          "exampleWord": "Ῥήτωρ"
+        },
+        {
+          "glyph": "Σ",
+          "name": "sigma",
+          "exampleWord": "Σοφία"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'xi'?",
+          "options": [
+            "Ξ",
+            "Ο",
+            "Π",
+            "Ρ"
+          ],
+          "answer": "Ξ"
+        }
+      ]
+    },
+    {
+      "id": "grc-p1-l4",
+      "title": "Τ–Ω",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Τ",
+          "name": "tau",
+          "exampleWord": "Τέλος"
+        },
+        {
+          "glyph": "Υ",
+          "name": "upsilon",
+          "exampleWord": "Ὕπνος"
+        },
+        {
+          "glyph": "Φ",
+          "name": "phi",
+          "exampleWord": "Φιλία"
+        },
+        {
+          "glyph": "Χ",
+          "name": "chi",
+          "exampleWord": "Χρόνος"
+        },
+        {
+          "glyph": "Ψ",
+          "name": "psi",
+          "exampleWord": "Ψυχή"
+        },
+        {
+          "glyph": "Ω",
+          "name": "omega",
+          "exampleWord": "Ὠκεανός"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'tau'?",
+          "options": [
+            "Τ",
+            "Υ",
+            "Φ",
+            "Χ"
+          ],
+          "answer": "Τ"
+        }
+      ]
+    }
+  ]
+}

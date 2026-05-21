@@ -1,0 +1,191 @@
+{
+  "language": "egy",
+  "phase": 1,
+  "title": "Hieroglyphs (𓂀)",
+  "lessons": [
+    {
+      "id": "egy-p1-l1",
+      "title": "Single sounds 1",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𓄿",
+          "name": "vulture (a)"
+        },
+        {
+          "glyph": "𓇋",
+          "name": "reed (i)"
+        },
+        {
+          "glyph": "𓅱",
+          "name": "quail chick (w)"
+        },
+        {
+          "glyph": "𓂝",
+          "name": "arm (ʿ)"
+        },
+        {
+          "glyph": "𓃀",
+          "name": "foot (b)"
+        },
+        {
+          "glyph": "𓊪",
+          "name": "stool (p)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'vulture (a)'?",
+          "options": [
+            "𓄿",
+            "𓇋",
+            "𓅱",
+            "𓂝"
+          ],
+          "answer": "𓄿"
+        }
+      ]
+    },
+    {
+      "id": "egy-p1-l2",
+      "title": "Single sounds 2",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𓆑",
+          "name": "viper (f)"
+        },
+        {
+          "glyph": "𓅓",
+          "name": "owl (m)"
+        },
+        {
+          "glyph": "𓈖",
+          "name": "water (n)"
+        },
+        {
+          "glyph": "𓂋",
+          "name": "mouth (r)"
+        },
+        {
+          "glyph": "𓉔",
+          "name": "house (h)"
+        },
+        {
+          "glyph": "𓎛",
+          "name": "wick (ḥ)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'viper (f)'?",
+          "options": [
+            "𓆑",
+            "𓅓",
+            "𓈖",
+            "𓂋"
+          ],
+          "answer": "𓆑"
+        }
+      ]
+    },
+    {
+      "id": "egy-p1-l3",
+      "title": "Single sounds 3",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𓐍",
+          "name": "sieve (kh)"
+        },
+        {
+          "glyph": "𓊃",
+          "name": "door bolt (z/s)"
+        },
+        {
+          "glyph": "𓋴",
+          "name": "folded cloth (s)"
+        },
+        {
+          "glyph": "𓈙",
+          "name": "garden pool (sh)"
+        },
+        {
+          "glyph": "𓎡",
+          "name": "basket (k)"
+        },
+        {
+          "glyph": "𓍿",
+          "name": "tether (ṯ)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'sieve (kh)'?",
+          "options": [
+            "𓐍",
+            "𓊃",
+            "𓋴",
+            "𓈙"
+          ],
+          "answer": "𓐍"
+        }
+      ]
+    },
+    {
+      "id": "egy-p1-l4",
+      "title": "Sacred symbols",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𓋹",
+          "name": "ankh (life)"
+        },
+        {
+          "glyph": "𓂀",
+          "name": "eye of Horus"
+        },
+        {
+          "glyph": "𓆣",
+          "name": "scarab (beetle)"
+        },
+        {
+          "glyph": "𓊽",
+          "name": "djed pillar"
+        },
+        {
+          "glyph": "𓎼",
+          "name": "jar (g)"
+        },
+        {
+          "glyph": "𓏏",
+          "name": "bread (t)"
+        },
+        {
+          "glyph": "𓂋",
+          "name": "sun ra"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ankh (life)'?",
+          "options": [
+            "𓋹",
+            "𓂀",
+            "𓆣",
+            "𓊽"
+          ],
+          "answer": "𓋹"
+        }
+      ]
+    }
+  ]
+}
