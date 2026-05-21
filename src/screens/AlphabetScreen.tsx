@@ -1,34 +1,38 @@
-import React from 'react';
+import React, { useMemo } from 'react';
 import { View, Text, StyleSheet, Pressable, ScrollView } from 'react-native';
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { RootStackParamList } from '@/navigation/types';
 import { ScreenBg } from '@/components/ScreenBg';
-import { TAMIL_LETTERS, TAMIL_SECTIONS } from '@/content/ta/letters';
+import { LANGUAGES } from '@/content/languages';
+import { getLetters, getSections } from '@/content/letters';
 import { colors, radii, spacing, e2 } from '@/theme';
 
-type Props = NativeStackScreenProps<RootStackParamList, 'TamilAlphabet'>;
+type Props = NativeStackScreenProps<RootStackParamList, 'Alphabet'>;
 
-export function TamilAlphabetScreen({ navigation }: Props) {
-  const openLetter = (globalIndex: number) =>
-    navigation.navigate('TamilLetter', { index: globalIndex });
+export function AlphabetScreen({ navigation, route }: Props) {
+  const { language } = route.params;
+  const meta = LANGUAGES.find((l) => l.code === language)!;
+  const all = useMemo(() => getLetters(language), [language]);
+  const sections = useMemo(() => getSections(language), [language]);
 
-  // Map glyph → global index in TAMIL_LETTERS for quick lookup.
-  const indexByGlyph = React.useMemo(() => {
+  const indexByGlyph = useMemo(() => {
     const m = new Map<string, number>();
-    TAMIL_LETTERS.forEach((l, i) => m.set(l.glyph + ':' + l.lessonId, i));
+    all.forEach((l, i) => m.set(l.glyph + ':' + l.lessonId, i));
     return m;
-  }, []);
+  }, [all]);
 
   return (
     <ScreenBg>
       <ScrollView contentContainerStyle={styles.content}>
         <View style={styles.heroBlock}>
-          <Text style={styles.heroLabel}>TAMIL</Text>
-          <Text style={styles.heroNative}>தமிழ்</Text>
-          <Text style={styles.heroSub}>{TAMIL_LETTERS.length} letters · tap any letter</Text>
+          <Text style={styles.heroLabel}>{meta.name.toUpperCase()}</Text>
+          <Text style={styles.heroNative}>{meta.nativeName}</Text>
+          <Text style={styles.heroSub}>
+            {all.length} letters · tap any letter
+          </Text>
         </View>
 
-        {TAMIL_SECTIONS.map((sec) => (
+        {sections.map((sec) => (
           <View key={sec.lessonId} style={styles.section}>
             <Text style={styles.sectionTitle}>{sec.title}</Text>
             <View style={styles.grid}>
@@ -36,12 +40,12 @@ export function TamilAlphabetScreen({ navigation }: Props) {
                 const gi = indexByGlyph.get(letter.glyph + ':' + sec.lessonId) ?? 0;
                 return (
                   <Pressable
-                    key={letter.glyph + sec.lessonId}
+                    key={letter.glyph + sec.lessonId + gi}
                     style={({ pressed }) => [
                       styles.cell,
                       pressed && { transform: [{ scale: 0.94 }] },
                     ]}
-                    onPress={() => openLetter(gi)}
+                    onPress={() => navigation.navigate('Letter', { language, index: gi })}
                   >
                     <Text style={styles.cellGlyph} numberOfLines={1}>{letter.glyph}</Text>
                     <Text style={styles.cellName} numberOfLines={1}>{letter.name}</Text>
@@ -77,6 +81,12 @@ const styles = StyleSheet.create({
     paddingVertical: spacing.xs,
     ...e2,
   },
-  cellGlyph: { fontSize: 28, fontWeight: '900', color: colors.primary, lineHeight: 36 },
-  cellName: { fontSize: 10, fontWeight: '700', color: colors.inkSoft, marginTop: 2, textTransform: 'uppercase' },
+  cellGlyph: { fontSize: 26, fontWeight: '900', color: colors.primary, lineHeight: 34 },
+  cellName: {
+    fontSize: 10,
+    fontWeight: '700',
+    color: colors.inkSoft,
+    marginTop: 2,
+    textTransform: 'uppercase',
+  },
 });
