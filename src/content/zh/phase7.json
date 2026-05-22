@@ -243,6 +243,1735 @@
           "answer": "冰淇淋"
         }
       ]
+    },
+    {
+      "id": "zh-p7-l8",
+      "title": "复习 1",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "安: 很高兴认识你!",
+          "name": "l3"
+        },
+        {
+          "glyph": "奶牛每天早上给我们牛奶。",
+          "name": "milk"
+        },
+        {
+          "glyph": "一只聪明的狐狸看到高处的葡萄。它跳啊跳, 还是够不到。它说: \"葡萄一定是酸的!\" 然后走了。",
+          "name": "story"
+        },
+        {
+          "glyph": "妈妈做好吃的菜。",
+          "name": "sentence 4"
+        },
+        {
+          "glyph": "农场上有一头棕色的奶牛, 一只黑色的狗, 还有很多白色的羊。",
+          "name": "setting"
+        },
+        {
+          "glyph": "天上小鸟在唱歌。",
+          "name": "birds"
+        },
+        {
+          "glyph": "林: 我叫小林。",
+          "name": "l2"
+        },
+        {
+          "glyph": "鸟在天上飞。",
+          "name": "sentence 3"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小狗什么颜色?",
+          "options": [
+            "黑色",
+            "白色",
+            "棕色",
+            "灰色"
+          ],
+          "answer": "黑色"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁给牛奶?",
+          "options": [
+            "奶牛",
+            "狗",
+            "羊",
+            "猫"
+          ],
+          "answer": "奶牛"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l9",
+      "title": "复习 2",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "小明有一只小狗,叫旺旺。旺旺是黑色的。他们每天早上一起跑步。",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "星期天我们去了公园。那里有高大的树和漂亮的花。",
+          "name": "setting"
+        },
+        {
+          "glyph": "鸟在天上飞。",
+          "name": "sentence 3"
+        },
+        {
+          "glyph": "安: 很高兴认识你!",
+          "name": "l3"
+        },
+        {
+          "glyph": "天上小鸟在唱歌。",
+          "name": "birds"
+        },
+        {
+          "glyph": "晚上她做作业。",
+          "name": "evening"
+        },
+        {
+          "glyph": "中午她和朋友一起吃饭。",
+          "name": "lunch"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小狗什么颜色?",
+          "options": [
+            "黑色",
+            "白色",
+            "棕色",
+            "灰色"
+          ],
+          "answer": "黑色"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l10",
+      "title": "复习 3",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "安: 你好! 你叫什么名字?",
+          "name": "l1"
+        },
+        {
+          "glyph": "农场上有一头棕色的奶牛, 一只黑色的狗, 还有很多白色的羊。",
+          "name": "setting"
+        },
+        {
+          "glyph": "猫坐在垫子上。",
+          "name": "sentence 1"
+        },
+        {
+          "glyph": "小明有一只小狗,叫旺旺。旺旺是黑色的。他们每天早上一起跑步。",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "鸟在天上飞。",
+          "name": "sentence 3"
+        },
+        {
+          "glyph": "中午她和朋友一起吃饭。",
+          "name": "lunch"
+        },
+        {
+          "glyph": "林: 我叫小林。",
+          "name": "l2"
+        },
+        {
+          "glyph": "奶牛每天早上给我们牛奶。",
+          "name": "milk"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "球是什么颜色?",
+          "options": [
+            "红色",
+            "蓝色",
+            "黄色",
+            "绿色"
+          ],
+          "answer": "红色"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l11",
+      "title": "复习 4",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "鸟在天上飞。",
+          "name": "sentence 3"
+        },
+        {
+          "glyph": "中午她和朋友一起吃饭。",
+          "name": "lunch"
+        },
+        {
+          "glyph": "安: 很高兴认识你!",
+          "name": "l3"
+        },
+        {
+          "glyph": "星期天我们去了公园。那里有高大的树和漂亮的花。",
+          "name": "setting"
+        },
+        {
+          "glyph": "奶牛每天早上给我们牛奶。",
+          "name": "milk"
+        },
+        {
+          "glyph": "林: 我叫小林。",
+          "name": "l2"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "我们吃了什么?",
+          "options": [
+            "冰淇淋",
+            "披萨",
+            "蛋糕",
+            "饼干"
+          ],
+          "answer": "冰淇淋"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l12",
+      "title": "复习 5",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "猫坐在垫子上。",
+          "name": "sentence 1"
+        },
+        {
+          "glyph": "妈妈做好吃的菜。",
+          "name": "sentence 4"
+        },
+        {
+          "glyph": "美拉每天上学。她最喜欢数学。",
+          "name": "school"
+        },
+        {
+          "glyph": "林: 我叫小林。",
+          "name": "l2"
+        },
+        {
+          "glyph": "我们踢足球, 吃冰淇淋。",
+          "name": "play"
+        },
+        {
+          "glyph": "我看见一个红球。",
+          "name": "sentence 2"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁坐在垫子上?",
+          "options": [
+            "猫",
+            "狗",
+            "鸟",
+            "鱼"
+          ],
+          "answer": "猫"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l13",
+      "title": "复习 6",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "安: 很高兴认识你!",
+          "name": "l3"
+        },
+        {
+          "glyph": "鸟在天上飞。",
+          "name": "sentence 3"
+        },
+        {
+          "glyph": "一只聪明的狐狸看到高处的葡萄。它跳啊跳, 还是够不到。它说: \"葡萄一定是酸的!\" 然后走了。",
+          "name": "story"
+        },
+        {
+          "glyph": "天上小鸟在唱歌。",
+          "name": "birds"
+        },
+        {
+          "glyph": "奶牛每天早上给我们牛奶。",
+          "name": "milk"
+        },
+        {
+          "glyph": "农场上有一头棕色的奶牛, 一只黑色的狗, 还有很多白色的羊。",
+          "name": "setting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁坐在垫子上?",
+          "options": [
+            "猫",
+            "狗",
+            "鸟",
+            "鱼"
+          ],
+          "answer": "猫"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l14",
+      "title": "复习 7",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我们踢足球, 吃冰淇淋。",
+          "name": "play"
+        },
+        {
+          "glyph": "奶牛每天早上给我们牛奶。",
+          "name": "milk"
+        },
+        {
+          "glyph": "鸟在天上飞。",
+          "name": "sentence 3"
+        },
+        {
+          "glyph": "妈妈做好吃的菜。",
+          "name": "sentence 4"
+        },
+        {
+          "glyph": "星期天我们去了公园。那里有高大的树和漂亮的花。",
+          "name": "setting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "美拉最喜欢什么?",
+          "options": [
+            "数学",
+            "英语",
+            "音乐",
+            "画画"
+          ],
+          "answer": "数学"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小狗叫什么?",
+          "options": [
+            "旺旺",
+            "花花",
+            "可乐",
+            "点点"
+          ],
+          "answer": "旺旺"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l15",
+      "title": "复习 8",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "奶牛每天早上给我们牛奶。",
+          "name": "milk"
+        },
+        {
+          "glyph": "星期天我们去了公园。那里有高大的树和漂亮的花。",
+          "name": "setting"
+        },
+        {
+          "glyph": "小明有一只小狗,叫旺旺。旺旺是黑色的。他们每天早上一起跑步。",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "妈妈做好吃的菜。",
+          "name": "sentence 4"
+        },
+        {
+          "glyph": "猫坐在垫子上。",
+          "name": "sentence 1"
+        },
+        {
+          "glyph": "一只聪明的狐狸看到高处的葡萄。它跳啊跳, 还是够不到。它说: \"葡萄一定是酸的!\" 然后走了。",
+          "name": "story"
+        },
+        {
+          "glyph": "狗看着羊群。",
+          "name": "dog"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "我们吃了什么?",
+          "options": [
+            "冰淇淋",
+            "披萨",
+            "蛋糕",
+            "饼干"
+          ],
+          "answer": "冰淇淋"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "球是什么颜色?",
+          "options": [
+            "红色",
+            "蓝色",
+            "黄色",
+            "绿色"
+          ],
+          "answer": "红色"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l16",
+      "title": "复习 9",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我看见一个红球。",
+          "name": "sentence 2"
+        },
+        {
+          "glyph": "妈妈做好吃的菜。",
+          "name": "sentence 4"
+        },
+        {
+          "glyph": "农场上有一头棕色的奶牛, 一只黑色的狗, 还有很多白色的羊。",
+          "name": "setting"
+        },
+        {
+          "glyph": "我们踢足球, 吃冰淇淋。",
+          "name": "play"
+        },
+        {
+          "glyph": "一只聪明的狐狸看到高处的葡萄。它跳啊跳, 还是够不到。它说: \"葡萄一定是酸的!\" 然后走了。",
+          "name": "story"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小狗叫什么?",
+          "options": [
+            "旺旺",
+            "花花",
+            "可乐",
+            "点点"
+          ],
+          "answer": "旺旺"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁坐在垫子上?",
+          "options": [
+            "猫",
+            "狗",
+            "鸟",
+            "鱼"
+          ],
+          "answer": "猫"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l17",
+      "title": "复习 10",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "猫坐在垫子上。",
+          "name": "sentence 1"
+        },
+        {
+          "glyph": "安: 很高兴认识你!",
+          "name": "l3"
+        },
+        {
+          "glyph": "中午她和朋友一起吃饭。",
+          "name": "lunch"
+        },
+        {
+          "glyph": "林: 我叫小林。",
+          "name": "l2"
+        },
+        {
+          "glyph": "鸟在天上飞。",
+          "name": "sentence 3"
+        },
+        {
+          "glyph": "安: 你好! 你叫什么名字?",
+          "name": "l1"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小狗什么颜色?",
+          "options": [
+            "黑色",
+            "白色",
+            "棕色",
+            "灰色"
+          ],
+          "answer": "黑色"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁给牛奶?",
+          "options": [
+            "奶牛",
+            "狗",
+            "羊",
+            "猫"
+          ],
+          "answer": "奶牛"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l18",
+      "title": "复习 11",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "星期天我们去了公园。那里有高大的树和漂亮的花。",
+          "name": "setting"
+        },
+        {
+          "glyph": "安: 你好! 你叫什么名字?",
+          "name": "l1"
+        },
+        {
+          "glyph": "妈妈做好吃的菜。",
+          "name": "sentence 4"
+        },
+        {
+          "glyph": "我们踢足球, 吃冰淇淋。",
+          "name": "play"
+        },
+        {
+          "glyph": "我看见一个红球。",
+          "name": "sentence 2"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "狐狸看见了什么?",
+          "options": [
+            "葡萄",
+            "苹果",
+            "香蕉",
+            "梨"
+          ],
+          "answer": "葡萄"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "球是什么颜色?",
+          "options": [
+            "红色",
+            "蓝色",
+            "黄色",
+            "绿色"
+          ],
+          "answer": "红色"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l19",
+      "title": "复习 12",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "妈妈做好吃的菜。",
+          "name": "sentence 4"
+        },
+        {
+          "glyph": "狗看着羊群。",
+          "name": "dog"
+        },
+        {
+          "glyph": "鸟在天上飞。",
+          "name": "sentence 3"
+        },
+        {
+          "glyph": "晚上她做作业。",
+          "name": "evening"
+        },
+        {
+          "glyph": "猫坐在垫子上。",
+          "name": "sentence 1"
+        },
+        {
+          "glyph": "农场上有一头棕色的奶牛, 一只黑色的狗, 还有很多白色的羊。",
+          "name": "setting"
+        },
+        {
+          "glyph": "星期天我们去了公园。那里有高大的树和漂亮的花。",
+          "name": "setting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁给牛奶?",
+          "options": [
+            "奶牛",
+            "狗",
+            "羊",
+            "猫"
+          ],
+          "answer": "奶牛"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l20",
+      "title": "复习 13",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "安: 你好! 你叫什么名字?",
+          "name": "l1"
+        },
+        {
+          "glyph": "中午她和朋友一起吃饭。",
+          "name": "lunch"
+        },
+        {
+          "glyph": "小明有一只小狗,叫旺旺。旺旺是黑色的。他们每天早上一起跑步。",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "晚上她做作业。",
+          "name": "evening"
+        },
+        {
+          "glyph": "奶牛每天早上给我们牛奶。",
+          "name": "milk"
+        },
+        {
+          "glyph": "天上小鸟在唱歌。",
+          "name": "birds"
+        },
+        {
+          "glyph": "星期天我们去了公园。那里有高大的树和漂亮的花。",
+          "name": "setting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "狐狸看见了什么?",
+          "options": [
+            "葡萄",
+            "苹果",
+            "香蕉",
+            "梨"
+          ],
+          "answer": "葡萄"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "球是什么颜色?",
+          "options": [
+            "红色",
+            "蓝色",
+            "黄色",
+            "绿色"
+          ],
+          "answer": "红色"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l21",
+      "title": "复习 14",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "星期天我们去了公园。那里有高大的树和漂亮的花。",
+          "name": "setting"
+        },
+        {
+          "glyph": "狗看着羊群。",
+          "name": "dog"
+        },
+        {
+          "glyph": "一只聪明的狐狸看到高处的葡萄。它跳啊跳, 还是够不到。它说: \"葡萄一定是酸的!\" 然后走了。",
+          "name": "story"
+        },
+        {
+          "glyph": "美拉每天上学。她最喜欢数学。",
+          "name": "school"
+        },
+        {
+          "glyph": "天上小鸟在唱歌。",
+          "name": "birds"
+        },
+        {
+          "glyph": "晚上她做作业。",
+          "name": "evening"
+        },
+        {
+          "glyph": "我看见一个红球。",
+          "name": "sentence 2"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小狗叫什么?",
+          "options": [
+            "旺旺",
+            "花花",
+            "可乐",
+            "点点"
+          ],
+          "answer": "旺旺"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l22",
+      "title": "复习 15",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "奶牛每天早上给我们牛奶。",
+          "name": "milk"
+        },
+        {
+          "glyph": "小明有一只小狗,叫旺旺。旺旺是黑色的。他们每天早上一起跑步。",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "美拉每天上学。她最喜欢数学。",
+          "name": "school"
+        },
+        {
+          "glyph": "安: 很高兴认识你!",
+          "name": "l3"
+        },
+        {
+          "glyph": "狗看着羊群。",
+          "name": "dog"
+        },
+        {
+          "glyph": "星期天我们去了公园。那里有高大的树和漂亮的花。",
+          "name": "setting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "球是什么颜色?",
+          "options": [
+            "红色",
+            "蓝色",
+            "黄色",
+            "绿色"
+          ],
+          "answer": "红色"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "我们吃了什么?",
+          "options": [
+            "冰淇淋",
+            "披萨",
+            "蛋糕",
+            "饼干"
+          ],
+          "answer": "冰淇淋"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l23",
+      "title": "复习 16",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "一只聪明的狐狸看到高处的葡萄。它跳啊跳, 还是够不到。它说: \"葡萄一定是酸的!\" 然后走了。",
+          "name": "story"
+        },
+        {
+          "glyph": "小明有一只小狗,叫旺旺。旺旺是黑色的。他们每天早上一起跑步。",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "鸟在天上飞。",
+          "name": "sentence 3"
+        },
+        {
+          "glyph": "安: 你好! 你叫什么名字?",
+          "name": "l1"
+        },
+        {
+          "glyph": "星期天我们去了公园。那里有高大的树和漂亮的花。",
+          "name": "setting"
+        },
+        {
+          "glyph": "中午她和朋友一起吃饭。",
+          "name": "lunch"
+        },
+        {
+          "glyph": "林: 我叫小林。",
+          "name": "l2"
+        },
+        {
+          "glyph": "晚上她做作业。",
+          "name": "evening"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "美拉最喜欢什么?",
+          "options": [
+            "数学",
+            "英语",
+            "音乐",
+            "画画"
+          ],
+          "answer": "数学"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁给牛奶?",
+          "options": [
+            "奶牛",
+            "狗",
+            "羊",
+            "猫"
+          ],
+          "answer": "奶牛"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l24",
+      "title": "复习 17",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "中午她和朋友一起吃饭。",
+          "name": "lunch"
+        },
+        {
+          "glyph": "奶牛每天早上给我们牛奶。",
+          "name": "milk"
+        },
+        {
+          "glyph": "小明有一只小狗,叫旺旺。旺旺是黑色的。他们每天早上一起跑步。",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "美拉每天上学。她最喜欢数学。",
+          "name": "school"
+        },
+        {
+          "glyph": "天上小鸟在唱歌。",
+          "name": "birds"
+        },
+        {
+          "glyph": "妈妈做好吃的菜。",
+          "name": "sentence 4"
+        },
+        {
+          "glyph": "林: 我叫小林。",
+          "name": "l2"
+        },
+        {
+          "glyph": "狗看着羊群。",
+          "name": "dog"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "我们吃了什么?",
+          "options": [
+            "冰淇淋",
+            "披萨",
+            "蛋糕",
+            "饼干"
+          ],
+          "answer": "冰淇淋"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "美拉最喜欢什么?",
+          "options": [
+            "数学",
+            "英语",
+            "音乐",
+            "画画"
+          ],
+          "answer": "数学"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l25",
+      "title": "复习 18",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "美拉每天上学。她最喜欢数学。",
+          "name": "school"
+        },
+        {
+          "glyph": "鸟在天上飞。",
+          "name": "sentence 3"
+        },
+        {
+          "glyph": "中午她和朋友一起吃饭。",
+          "name": "lunch"
+        },
+        {
+          "glyph": "一只聪明的狐狸看到高处的葡萄。它跳啊跳, 还是够不到。它说: \"葡萄一定是酸的!\" 然后走了。",
+          "name": "story"
+        },
+        {
+          "glyph": "农场上有一头棕色的奶牛, 一只黑色的狗, 还有很多白色的羊。",
+          "name": "setting"
+        },
+        {
+          "glyph": "我们踢足球, 吃冰淇淋。",
+          "name": "play"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "球是什么颜色?",
+          "options": [
+            "红色",
+            "蓝色",
+            "黄色",
+            "绿色"
+          ],
+          "answer": "红色"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l26",
+      "title": "复习 19",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "狗看着羊群。",
+          "name": "dog"
+        },
+        {
+          "glyph": "猫坐在垫子上。",
+          "name": "sentence 1"
+        },
+        {
+          "glyph": "林: 我叫小林。",
+          "name": "l2"
+        },
+        {
+          "glyph": "中午她和朋友一起吃饭。",
+          "name": "lunch"
+        },
+        {
+          "glyph": "天上小鸟在唱歌。",
+          "name": "birds"
+        },
+        {
+          "glyph": "安: 你好! 你叫什么名字?",
+          "name": "l1"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小狗叫什么?",
+          "options": [
+            "旺旺",
+            "花花",
+            "可乐",
+            "点点"
+          ],
+          "answer": "旺旺"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "球是什么颜色?",
+          "options": [
+            "红色",
+            "蓝色",
+            "黄色",
+            "绿色"
+          ],
+          "answer": "红色"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l27",
+      "title": "复习 20",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "狗看着羊群。",
+          "name": "dog"
+        },
+        {
+          "glyph": "我们踢足球, 吃冰淇淋。",
+          "name": "play"
+        },
+        {
+          "glyph": "小明有一只小狗,叫旺旺。旺旺是黑色的。他们每天早上一起跑步。",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "星期天我们去了公园。那里有高大的树和漂亮的花。",
+          "name": "setting"
+        },
+        {
+          "glyph": "安: 很高兴认识你!",
+          "name": "l3"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "我们吃了什么?",
+          "options": [
+            "冰淇淋",
+            "披萨",
+            "蛋糕",
+            "饼干"
+          ],
+          "answer": "冰淇淋"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l28",
+      "title": "复习 21",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "安: 很高兴认识你!",
+          "name": "l3"
+        },
+        {
+          "glyph": "林: 我叫小林。",
+          "name": "l2"
+        },
+        {
+          "glyph": "我们踢足球, 吃冰淇淋。",
+          "name": "play"
+        },
+        {
+          "glyph": "猫坐在垫子上。",
+          "name": "sentence 1"
+        },
+        {
+          "glyph": "狗看着羊群。",
+          "name": "dog"
+        },
+        {
+          "glyph": "鸟在天上飞。",
+          "name": "sentence 3"
+        },
+        {
+          "glyph": "我看见一个红球。",
+          "name": "sentence 2"
+        },
+        {
+          "glyph": "美拉每天上学。她最喜欢数学。",
+          "name": "school"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁坐在垫子上?",
+          "options": [
+            "猫",
+            "狗",
+            "鸟",
+            "鱼"
+          ],
+          "answer": "猫"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁给牛奶?",
+          "options": [
+            "奶牛",
+            "狗",
+            "羊",
+            "猫"
+          ],
+          "answer": "奶牛"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l29",
+      "title": "复习 22",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我看见一个红球。",
+          "name": "sentence 2"
+        },
+        {
+          "glyph": "妈妈做好吃的菜。",
+          "name": "sentence 4"
+        },
+        {
+          "glyph": "鸟在天上飞。",
+          "name": "sentence 3"
+        },
+        {
+          "glyph": "安: 很高兴认识你!",
+          "name": "l3"
+        },
+        {
+          "glyph": "中午她和朋友一起吃饭。",
+          "name": "lunch"
+        },
+        {
+          "glyph": "农场上有一头棕色的奶牛, 一只黑色的狗, 还有很多白色的羊。",
+          "name": "setting"
+        },
+        {
+          "glyph": "星期天我们去了公园。那里有高大的树和漂亮的花。",
+          "name": "setting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小狗叫什么?",
+          "options": [
+            "旺旺",
+            "花花",
+            "可乐",
+            "点点"
+          ],
+          "answer": "旺旺"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l30",
+      "title": "复习 23",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "小明有一只小狗,叫旺旺。旺旺是黑色的。他们每天早上一起跑步。",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "鸟在天上飞。",
+          "name": "sentence 3"
+        },
+        {
+          "glyph": "安: 很高兴认识你!",
+          "name": "l3"
+        },
+        {
+          "glyph": "我看见一个红球。",
+          "name": "sentence 2"
+        },
+        {
+          "glyph": "猫坐在垫子上。",
+          "name": "sentence 1"
+        },
+        {
+          "glyph": "农场上有一头棕色的奶牛, 一只黑色的狗, 还有很多白色的羊。",
+          "name": "setting"
+        },
+        {
+          "glyph": "林: 我叫小林。",
+          "name": "l2"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小狗叫什么?",
+          "options": [
+            "旺旺",
+            "花花",
+            "可乐",
+            "点点"
+          ],
+          "answer": "旺旺"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l31",
+      "title": "复习 24",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "小明有一只小狗,叫旺旺。旺旺是黑色的。他们每天早上一起跑步。",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "天上小鸟在唱歌。",
+          "name": "birds"
+        },
+        {
+          "glyph": "农场上有一头棕色的奶牛, 一只黑色的狗, 还有很多白色的羊。",
+          "name": "setting"
+        },
+        {
+          "glyph": "安: 很高兴认识你!",
+          "name": "l3"
+        },
+        {
+          "glyph": "林: 我叫小林。",
+          "name": "l2"
+        },
+        {
+          "glyph": "狗看着羊群。",
+          "name": "dog"
+        },
+        {
+          "glyph": "安: 你好! 你叫什么名字?",
+          "name": "l1"
+        },
+        {
+          "glyph": "晚上她做作业。",
+          "name": "evening"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "男孩叫什么?",
+          "options": [
+            "小林",
+            "小红",
+            "小明",
+            "小华"
+          ],
+          "answer": "小林"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l32",
+      "title": "复习 25",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "小明有一只小狗,叫旺旺。旺旺是黑色的。他们每天早上一起跑步。",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "我看见一个红球。",
+          "name": "sentence 2"
+        },
+        {
+          "glyph": "天上小鸟在唱歌。",
+          "name": "birds"
+        },
+        {
+          "glyph": "农场上有一头棕色的奶牛, 一只黑色的狗, 还有很多白色的羊。",
+          "name": "setting"
+        },
+        {
+          "glyph": "美拉每天上学。她最喜欢数学。",
+          "name": "school"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "我们吃了什么?",
+          "options": [
+            "冰淇淋",
+            "披萨",
+            "蛋糕",
+            "饼干"
+          ],
+          "answer": "冰淇淋"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l33",
+      "title": "复习 26",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "猫坐在垫子上。",
+          "name": "sentence 1"
+        },
+        {
+          "glyph": "美拉每天上学。她最喜欢数学。",
+          "name": "school"
+        },
+        {
+          "glyph": "中午她和朋友一起吃饭。",
+          "name": "lunch"
+        },
+        {
+          "glyph": "奶牛每天早上给我们牛奶。",
+          "name": "milk"
+        },
+        {
+          "glyph": "安: 很高兴认识你!",
+          "name": "l3"
+        },
+        {
+          "glyph": "一只聪明的狐狸看到高处的葡萄。它跳啊跳, 还是够不到。它说: \"葡萄一定是酸的!\" 然后走了。",
+          "name": "story"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "我们吃了什么?",
+          "options": [
+            "冰淇淋",
+            "披萨",
+            "蛋糕",
+            "饼干"
+          ],
+          "answer": "冰淇淋"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "男孩叫什么?",
+          "options": [
+            "小林",
+            "小红",
+            "小明",
+            "小华"
+          ],
+          "answer": "小林"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l34",
+      "title": "复习 27",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "中午她和朋友一起吃饭。",
+          "name": "lunch"
+        },
+        {
+          "glyph": "安: 你好! 你叫什么名字?",
+          "name": "l1"
+        },
+        {
+          "glyph": "一只聪明的狐狸看到高处的葡萄。它跳啊跳, 还是够不到。它说: \"葡萄一定是酸的!\" 然后走了。",
+          "name": "story"
+        },
+        {
+          "glyph": "我看见一个红球。",
+          "name": "sentence 2"
+        },
+        {
+          "glyph": "星期天我们去了公园。那里有高大的树和漂亮的花。",
+          "name": "setting"
+        },
+        {
+          "glyph": "林: 我叫小林。",
+          "name": "l2"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小狗什么颜色?",
+          "options": [
+            "黑色",
+            "白色",
+            "棕色",
+            "灰色"
+          ],
+          "answer": "黑色"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l35",
+      "title": "复习 28",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我看见一个红球。",
+          "name": "sentence 2"
+        },
+        {
+          "glyph": "安: 很高兴认识你!",
+          "name": "l3"
+        },
+        {
+          "glyph": "美拉每天上学。她最喜欢数学。",
+          "name": "school"
+        },
+        {
+          "glyph": "鸟在天上飞。",
+          "name": "sentence 3"
+        },
+        {
+          "glyph": "中午她和朋友一起吃饭。",
+          "name": "lunch"
+        },
+        {
+          "glyph": "狗看着羊群。",
+          "name": "dog"
+        },
+        {
+          "glyph": "一只聪明的狐狸看到高处的葡萄。它跳啊跳, 还是够不到。它说: \"葡萄一定是酸的!\" 然后走了。",
+          "name": "story"
+        },
+        {
+          "glyph": "农场上有一头棕色的奶牛, 一只黑色的狗, 还有很多白色的羊。",
+          "name": "setting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "美拉最喜欢什么?",
+          "options": [
+            "数学",
+            "英语",
+            "音乐",
+            "画画"
+          ],
+          "answer": "数学"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l36",
+      "title": "复习 29",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "奶牛每天早上给我们牛奶。",
+          "name": "milk"
+        },
+        {
+          "glyph": "美拉每天上学。她最喜欢数学。",
+          "name": "school"
+        },
+        {
+          "glyph": "天上小鸟在唱歌。",
+          "name": "birds"
+        },
+        {
+          "glyph": "鸟在天上飞。",
+          "name": "sentence 3"
+        },
+        {
+          "glyph": "猫坐在垫子上。",
+          "name": "sentence 1"
+        },
+        {
+          "glyph": "星期天我们去了公园。那里有高大的树和漂亮的花。",
+          "name": "setting"
+        },
+        {
+          "glyph": "安: 你好! 你叫什么名字?",
+          "name": "l1"
+        },
+        {
+          "glyph": "我们踢足球, 吃冰淇淋。",
+          "name": "play"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小狗什么颜色?",
+          "options": [
+            "黑色",
+            "白色",
+            "棕色",
+            "灰色"
+          ],
+          "answer": "黑色"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "男孩叫什么?",
+          "options": [
+            "小林",
+            "小红",
+            "小明",
+            "小华"
+          ],
+          "answer": "小林"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l37",
+      "title": "复习 30",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "妈妈做好吃的菜。",
+          "name": "sentence 4"
+        },
+        {
+          "glyph": "鸟在天上飞。",
+          "name": "sentence 3"
+        },
+        {
+          "glyph": "狗看着羊群。",
+          "name": "dog"
+        },
+        {
+          "glyph": "农场上有一头棕色的奶牛, 一只黑色的狗, 还有很多白色的羊。",
+          "name": "setting"
+        },
+        {
+          "glyph": "美拉每天上学。她最喜欢数学。",
+          "name": "school"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁坐在垫子上?",
+          "options": [
+            "猫",
+            "狗",
+            "鸟",
+            "鱼"
+          ],
+          "answer": "猫"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小狗什么颜色?",
+          "options": [
+            "黑色",
+            "白色",
+            "棕色",
+            "灰色"
+          ],
+          "answer": "黑色"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l38",
+      "title": "复习 31",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "安: 你好! 你叫什么名字?",
+          "name": "l1"
+        },
+        {
+          "glyph": "妈妈做好吃的菜。",
+          "name": "sentence 4"
+        },
+        {
+          "glyph": "鸟在天上飞。",
+          "name": "sentence 3"
+        },
+        {
+          "glyph": "天上小鸟在唱歌。",
+          "name": "birds"
+        },
+        {
+          "glyph": "农场上有一头棕色的奶牛, 一只黑色的狗, 还有很多白色的羊。",
+          "name": "setting"
+        },
+        {
+          "glyph": "猫坐在垫子上。",
+          "name": "sentence 1"
+        },
+        {
+          "glyph": "小明有一只小狗,叫旺旺。旺旺是黑色的。他们每天早上一起跑步。",
+          "name": "paragraph"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "我们吃了什么?",
+          "options": [
+            "冰淇淋",
+            "披萨",
+            "蛋糕",
+            "饼干"
+          ],
+          "answer": "冰淇淋"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l39",
+      "title": "复习 32",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我看见一个红球。",
+          "name": "sentence 2"
+        },
+        {
+          "glyph": "安: 很高兴认识你!",
+          "name": "l3"
+        },
+        {
+          "glyph": "一只聪明的狐狸看到高处的葡萄。它跳啊跳, 还是够不到。它说: \"葡萄一定是酸的!\" 然后走了。",
+          "name": "story"
+        },
+        {
+          "glyph": "我们踢足球, 吃冰淇淋。",
+          "name": "play"
+        },
+        {
+          "glyph": "农场上有一头棕色的奶牛, 一只黑色的狗, 还有很多白色的羊。",
+          "name": "setting"
+        },
+        {
+          "glyph": "中午她和朋友一起吃饭。",
+          "name": "lunch"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "美拉最喜欢什么?",
+          "options": [
+            "数学",
+            "英语",
+            "音乐",
+            "画画"
+          ],
+          "answer": "数学"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l40",
+      "title": "复习 33",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我看见一个红球。",
+          "name": "sentence 2"
+        },
+        {
+          "glyph": "奶牛每天早上给我们牛奶。",
+          "name": "milk"
+        },
+        {
+          "glyph": "鸟在天上飞。",
+          "name": "sentence 3"
+        },
+        {
+          "glyph": "小明有一只小狗,叫旺旺。旺旺是黑色的。他们每天早上一起跑步。",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "猫坐在垫子上。",
+          "name": "sentence 1"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "男孩叫什么?",
+          "options": [
+            "小林",
+            "小红",
+            "小明",
+            "小华"
+          ],
+          "answer": "小林"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁给牛奶?",
+          "options": [
+            "奶牛",
+            "狗",
+            "羊",
+            "猫"
+          ],
+          "answer": "奶牛"
+        }
+      ]
     }
   ]
 }

@@ -286,6 +286,2143 @@
           "answer": "해"
         }
       ]
+    },
+    {
+      "id": "ko-p3-l5",
+      "title": "복습 1",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "머리",
+          "name": "meori",
+          "exampleWord": "head"
+        },
+        {
+          "glyph": "비",
+          "name": "bi",
+          "exampleWord": "rain"
+        },
+        {
+          "glyph": "빵",
+          "name": "ppang",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "호랑이",
+          "name": "horangi",
+          "exampleWord": "tiger"
+        },
+        {
+          "glyph": "소",
+          "name": "so",
+          "exampleWord": "cow"
+        },
+        {
+          "glyph": "고양이",
+          "name": "goyangi",
+          "exampleWord": "cat"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "개",
+            "소",
+            "말",
+            "새"
+          ],
+          "answer": "개"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l6",
+      "title": "복습 2",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "개",
+          "name": "gae",
+          "exampleWord": "dog"
+        },
+        {
+          "glyph": "귀",
+          "name": "gwi",
+          "exampleWord": "ear"
+        },
+        {
+          "glyph": "이",
+          "name": "i",
+          "exampleWord": "tooth"
+        },
+        {
+          "glyph": "바다",
+          "name": "bada",
+          "exampleWord": "sea"
+        },
+        {
+          "glyph": "산",
+          "name": "san",
+          "exampleWord": "mountain"
+        },
+        {
+          "glyph": "곰",
+          "name": "gom",
+          "exampleWord": "bear"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'water'?",
+          "options": [
+            "물",
+            "밥",
+            "빵",
+            "차"
+          ],
+          "answer": "물"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "손",
+            "발",
+            "눈",
+            "귀"
+          ],
+          "answer": "손"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l7",
+      "title": "복습 3",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "빵",
+          "name": "ppang",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "차",
+          "name": "cha",
+          "exampleWord": "tea"
+        },
+        {
+          "glyph": "바다",
+          "name": "bada",
+          "exampleWord": "sea"
+        },
+        {
+          "glyph": "해",
+          "name": "hae",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "별",
+          "name": "byeol",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "눈",
+          "name": "nun",
+          "exampleWord": "eye"
+        },
+        {
+          "glyph": "산",
+          "name": "san",
+          "exampleWord": "mountain"
+        },
+        {
+          "glyph": "물고기",
+          "name": "mulgogi",
+          "exampleWord": "fish"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sun'?",
+          "options": [
+            "해",
+            "달",
+            "별",
+            "비"
+          ],
+          "answer": "해"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l8",
+      "title": "복습 4",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "코",
+          "name": "ko",
+          "exampleWord": "nose"
+        },
+        {
+          "glyph": "곰",
+          "name": "gom",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "바다",
+          "name": "bada",
+          "exampleWord": "sea"
+        },
+        {
+          "glyph": "호랑이",
+          "name": "horangi",
+          "exampleWord": "tiger"
+        },
+        {
+          "glyph": "물고기",
+          "name": "mulgogi",
+          "exampleWord": "fish"
+        },
+        {
+          "glyph": "비",
+          "name": "bi",
+          "exampleWord": "rain"
+        },
+        {
+          "glyph": "과일",
+          "name": "gwail",
+          "exampleWord": "fruit"
+        },
+        {
+          "glyph": "고양이",
+          "name": "goyangi",
+          "exampleWord": "cat"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sun'?",
+          "options": [
+            "해",
+            "달",
+            "별",
+            "비"
+          ],
+          "answer": "해"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l9",
+      "title": "복습 5",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "새",
+          "name": "sae",
+          "exampleWord": "bird"
+        },
+        {
+          "glyph": "꽃",
+          "name": "kkot",
+          "exampleWord": "flower"
+        },
+        {
+          "glyph": "산",
+          "name": "san",
+          "exampleWord": "mountain"
+        },
+        {
+          "glyph": "발",
+          "name": "bal",
+          "exampleWord": "foot"
+        },
+        {
+          "glyph": "소",
+          "name": "so",
+          "exampleWord": "cow"
+        },
+        {
+          "glyph": "국",
+          "name": "guk",
+          "exampleWord": "soup"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "손",
+            "발",
+            "눈",
+            "귀"
+          ],
+          "answer": "손"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'water'?",
+          "options": [
+            "물",
+            "밥",
+            "빵",
+            "차"
+          ],
+          "answer": "물"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l10",
+      "title": "복습 6",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "곰",
+          "name": "gom",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "물",
+          "name": "mul",
+          "exampleWord": "water"
+        },
+        {
+          "glyph": "계란",
+          "name": "gyeran",
+          "exampleWord": "egg"
+        },
+        {
+          "glyph": "구름",
+          "name": "gureum",
+          "exampleWord": "cloud"
+        },
+        {
+          "glyph": "산",
+          "name": "san",
+          "exampleWord": "mountain"
+        },
+        {
+          "glyph": "떡",
+          "name": "tteok",
+          "exampleWord": "rice cake"
+        },
+        {
+          "glyph": "비",
+          "name": "bi",
+          "exampleWord": "rain"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sun'?",
+          "options": [
+            "해",
+            "달",
+            "별",
+            "비"
+          ],
+          "answer": "해"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "손",
+            "발",
+            "눈",
+            "귀"
+          ],
+          "answer": "손"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l11",
+      "title": "복습 7",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "산",
+          "name": "san",
+          "exampleWord": "mountain"
+        },
+        {
+          "glyph": "토끼",
+          "name": "tokki",
+          "exampleWord": "rabbit"
+        },
+        {
+          "glyph": "나무",
+          "name": "namu",
+          "exampleWord": "tree"
+        },
+        {
+          "glyph": "해",
+          "name": "hae",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "우유",
+          "name": "uyu",
+          "exampleWord": "milk"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "개",
+            "소",
+            "말",
+            "새"
+          ],
+          "answer": "개"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l12",
+      "title": "복습 8",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "이",
+          "name": "i",
+          "exampleWord": "tooth"
+        },
+        {
+          "glyph": "우유",
+          "name": "uyu",
+          "exampleWord": "milk"
+        },
+        {
+          "glyph": "빵",
+          "name": "ppang",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "발",
+          "name": "bal",
+          "exampleWord": "foot"
+        },
+        {
+          "glyph": "새",
+          "name": "sae",
+          "exampleWord": "bird"
+        },
+        {
+          "glyph": "물고기",
+          "name": "mulgogi",
+          "exampleWord": "fish"
+        },
+        {
+          "glyph": "차",
+          "name": "cha",
+          "exampleWord": "tea"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "개",
+            "소",
+            "말",
+            "새"
+          ],
+          "answer": "개"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sun'?",
+          "options": [
+            "해",
+            "달",
+            "별",
+            "비"
+          ],
+          "answer": "해"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l13",
+      "title": "복습 9",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "곰",
+          "name": "gom",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "바다",
+          "name": "bada",
+          "exampleWord": "sea"
+        },
+        {
+          "glyph": "말",
+          "name": "mal",
+          "exampleWord": "horse"
+        },
+        {
+          "glyph": "눈",
+          "name": "nun",
+          "exampleWord": "eye"
+        },
+        {
+          "glyph": "구름",
+          "name": "gureum",
+          "exampleWord": "cloud"
+        },
+        {
+          "glyph": "이",
+          "name": "i",
+          "exampleWord": "tooth"
+        },
+        {
+          "glyph": "호랑이",
+          "name": "horangi",
+          "exampleWord": "tiger"
+        },
+        {
+          "glyph": "해",
+          "name": "hae",
+          "exampleWord": "sun"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "손",
+            "발",
+            "눈",
+            "귀"
+          ],
+          "answer": "손"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l14",
+      "title": "복습 10",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "고양이",
+          "name": "goyangi",
+          "exampleWord": "cat"
+        },
+        {
+          "glyph": "말",
+          "name": "mal",
+          "exampleWord": "horse"
+        },
+        {
+          "glyph": "달",
+          "name": "dal",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "별",
+          "name": "byeol",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "국",
+          "name": "guk",
+          "exampleWord": "soup"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sun'?",
+          "options": [
+            "해",
+            "달",
+            "별",
+            "비"
+          ],
+          "answer": "해"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'water'?",
+          "options": [
+            "물",
+            "밥",
+            "빵",
+            "차"
+          ],
+          "answer": "물"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l15",
+      "title": "복습 11",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "국",
+          "name": "guk",
+          "exampleWord": "soup"
+        },
+        {
+          "glyph": "소",
+          "name": "so",
+          "exampleWord": "cow"
+        },
+        {
+          "glyph": "새",
+          "name": "sae",
+          "exampleWord": "bird"
+        },
+        {
+          "glyph": "꽃",
+          "name": "kkot",
+          "exampleWord": "flower"
+        },
+        {
+          "glyph": "빵",
+          "name": "ppang",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "산",
+          "name": "san",
+          "exampleWord": "mountain"
+        },
+        {
+          "glyph": "코",
+          "name": "ko",
+          "exampleWord": "nose"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sun'?",
+          "options": [
+            "해",
+            "달",
+            "별",
+            "비"
+          ],
+          "answer": "해"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l16",
+      "title": "복습 12",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "코",
+          "name": "ko",
+          "exampleWord": "nose"
+        },
+        {
+          "glyph": "물고기",
+          "name": "mulgogi",
+          "exampleWord": "fish"
+        },
+        {
+          "glyph": "머리",
+          "name": "meori",
+          "exampleWord": "head"
+        },
+        {
+          "glyph": "강",
+          "name": "gang",
+          "exampleWord": "river"
+        },
+        {
+          "glyph": "토끼",
+          "name": "tokki",
+          "exampleWord": "rabbit"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "개",
+            "소",
+            "말",
+            "새"
+          ],
+          "answer": "개"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "손",
+            "발",
+            "눈",
+            "귀"
+          ],
+          "answer": "손"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l17",
+      "title": "복습 13",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "눈",
+          "name": "nun",
+          "exampleWord": "eye"
+        },
+        {
+          "glyph": "빵",
+          "name": "ppang",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "발",
+          "name": "bal",
+          "exampleWord": "foot"
+        },
+        {
+          "glyph": "머리",
+          "name": "meori",
+          "exampleWord": "head"
+        },
+        {
+          "glyph": "새",
+          "name": "sae",
+          "exampleWord": "bird"
+        },
+        {
+          "glyph": "떡",
+          "name": "tteok",
+          "exampleWord": "rice cake"
+        },
+        {
+          "glyph": "국",
+          "name": "guk",
+          "exampleWord": "soup"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "개",
+            "소",
+            "말",
+            "새"
+          ],
+          "answer": "개"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l18",
+      "title": "복습 14",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "이",
+          "name": "i",
+          "exampleWord": "tooth"
+        },
+        {
+          "glyph": "산",
+          "name": "san",
+          "exampleWord": "mountain"
+        },
+        {
+          "glyph": "바다",
+          "name": "bada",
+          "exampleWord": "sea"
+        },
+        {
+          "glyph": "말",
+          "name": "mal",
+          "exampleWord": "horse"
+        },
+        {
+          "glyph": "개",
+          "name": "gae",
+          "exampleWord": "dog"
+        },
+        {
+          "glyph": "떡",
+          "name": "tteok",
+          "exampleWord": "rice cake"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "개",
+            "소",
+            "말",
+            "새"
+          ],
+          "answer": "개"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l19",
+      "title": "복습 15",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "물고기",
+          "name": "mulgogi",
+          "exampleWord": "fish"
+        },
+        {
+          "glyph": "얼굴",
+          "name": "eolgul",
+          "exampleWord": "face"
+        },
+        {
+          "glyph": "밥",
+          "name": "bap",
+          "exampleWord": "rice"
+        },
+        {
+          "glyph": "계란",
+          "name": "gyeran",
+          "exampleWord": "egg"
+        },
+        {
+          "glyph": "말",
+          "name": "mal",
+          "exampleWord": "horse"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "손",
+            "발",
+            "눈",
+            "귀"
+          ],
+          "answer": "손"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sun'?",
+          "options": [
+            "해",
+            "달",
+            "별",
+            "비"
+          ],
+          "answer": "해"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l20",
+      "title": "복습 16",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "계란",
+          "name": "gyeran",
+          "exampleWord": "egg"
+        },
+        {
+          "glyph": "물고기",
+          "name": "mulgogi",
+          "exampleWord": "fish"
+        },
+        {
+          "glyph": "입",
+          "name": "ip",
+          "exampleWord": "mouth"
+        },
+        {
+          "glyph": "해",
+          "name": "hae",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "토끼",
+          "name": "tokki",
+          "exampleWord": "rabbit"
+        },
+        {
+          "glyph": "곰",
+          "name": "gom",
+          "exampleWord": "bear"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "손",
+            "발",
+            "눈",
+            "귀"
+          ],
+          "answer": "손"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l21",
+      "title": "복습 17",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "달",
+          "name": "dal",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "눈",
+          "name": "nun",
+          "exampleWord": "eye"
+        },
+        {
+          "glyph": "국",
+          "name": "guk",
+          "exampleWord": "soup"
+        },
+        {
+          "glyph": "얼굴",
+          "name": "eolgul",
+          "exampleWord": "face"
+        },
+        {
+          "glyph": "과일",
+          "name": "gwail",
+          "exampleWord": "fruit"
+        },
+        {
+          "glyph": "귀",
+          "name": "gwi",
+          "exampleWord": "ear"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'water'?",
+          "options": [
+            "물",
+            "밥",
+            "빵",
+            "차"
+          ],
+          "answer": "물"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "손",
+            "발",
+            "눈",
+            "귀"
+          ],
+          "answer": "손"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l22",
+      "title": "복습 18",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "손",
+          "name": "son",
+          "exampleWord": "hand"
+        },
+        {
+          "glyph": "산",
+          "name": "san",
+          "exampleWord": "mountain"
+        },
+        {
+          "glyph": "별",
+          "name": "byeol",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "고양이",
+          "name": "goyangi",
+          "exampleWord": "cat"
+        },
+        {
+          "glyph": "새",
+          "name": "sae",
+          "exampleWord": "bird"
+        },
+        {
+          "glyph": "눈",
+          "name": "nun",
+          "exampleWord": "eye"
+        },
+        {
+          "glyph": "이",
+          "name": "i",
+          "exampleWord": "tooth"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "손",
+            "발",
+            "눈",
+            "귀"
+          ],
+          "answer": "손"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "개",
+            "소",
+            "말",
+            "새"
+          ],
+          "answer": "개"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l23",
+      "title": "복습 19",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "물고기",
+          "name": "mulgogi",
+          "exampleWord": "fish"
+        },
+        {
+          "glyph": "비",
+          "name": "bi",
+          "exampleWord": "rain"
+        },
+        {
+          "glyph": "국",
+          "name": "guk",
+          "exampleWord": "soup"
+        },
+        {
+          "glyph": "과일",
+          "name": "gwail",
+          "exampleWord": "fruit"
+        },
+        {
+          "glyph": "강",
+          "name": "gang",
+          "exampleWord": "river"
+        },
+        {
+          "glyph": "차",
+          "name": "cha",
+          "exampleWord": "tea"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "손",
+            "발",
+            "눈",
+            "귀"
+          ],
+          "answer": "손"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l24",
+      "title": "복습 20",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "말",
+          "name": "mal",
+          "exampleWord": "horse"
+        },
+        {
+          "glyph": "떡",
+          "name": "tteok",
+          "exampleWord": "rice cake"
+        },
+        {
+          "glyph": "얼굴",
+          "name": "eolgul",
+          "exampleWord": "face"
+        },
+        {
+          "glyph": "다리",
+          "name": "dari",
+          "exampleWord": "leg"
+        },
+        {
+          "glyph": "토끼",
+          "name": "tokki",
+          "exampleWord": "rabbit"
+        },
+        {
+          "glyph": "소",
+          "name": "so",
+          "exampleWord": "cow"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "개",
+            "소",
+            "말",
+            "새"
+          ],
+          "answer": "개"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'water'?",
+          "options": [
+            "물",
+            "밥",
+            "빵",
+            "차"
+          ],
+          "answer": "물"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l25",
+      "title": "복습 21",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "나무",
+          "name": "namu",
+          "exampleWord": "tree"
+        },
+        {
+          "glyph": "코",
+          "name": "ko",
+          "exampleWord": "nose"
+        },
+        {
+          "glyph": "과일",
+          "name": "gwail",
+          "exampleWord": "fruit"
+        },
+        {
+          "glyph": "호랑이",
+          "name": "horangi",
+          "exampleWord": "tiger"
+        },
+        {
+          "glyph": "새",
+          "name": "sae",
+          "exampleWord": "bird"
+        },
+        {
+          "glyph": "사과",
+          "name": "sagwa",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "꽃",
+          "name": "kkot",
+          "exampleWord": "flower"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "개",
+            "소",
+            "말",
+            "새"
+          ],
+          "answer": "개"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'water'?",
+          "options": [
+            "물",
+            "밥",
+            "빵",
+            "차"
+          ],
+          "answer": "물"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l26",
+      "title": "복습 22",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "얼굴",
+          "name": "eolgul",
+          "exampleWord": "face"
+        },
+        {
+          "glyph": "말",
+          "name": "mal",
+          "exampleWord": "horse"
+        },
+        {
+          "glyph": "국",
+          "name": "guk",
+          "exampleWord": "soup"
+        },
+        {
+          "glyph": "차",
+          "name": "cha",
+          "exampleWord": "tea"
+        },
+        {
+          "glyph": "코",
+          "name": "ko",
+          "exampleWord": "nose"
+        },
+        {
+          "glyph": "밥",
+          "name": "bap",
+          "exampleWord": "rice"
+        },
+        {
+          "glyph": "머리",
+          "name": "meori",
+          "exampleWord": "head"
+        },
+        {
+          "glyph": "새",
+          "name": "sae",
+          "exampleWord": "bird"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "개",
+            "소",
+            "말",
+            "새"
+          ],
+          "answer": "개"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "손",
+            "발",
+            "눈",
+            "귀"
+          ],
+          "answer": "손"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l27",
+      "title": "복습 23",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "소",
+          "name": "so",
+          "exampleWord": "cow"
+        },
+        {
+          "glyph": "꽃",
+          "name": "kkot",
+          "exampleWord": "flower"
+        },
+        {
+          "glyph": "발",
+          "name": "bal",
+          "exampleWord": "foot"
+        },
+        {
+          "glyph": "우유",
+          "name": "uyu",
+          "exampleWord": "milk"
+        },
+        {
+          "glyph": "차",
+          "name": "cha",
+          "exampleWord": "tea"
+        },
+        {
+          "glyph": "구름",
+          "name": "gureum",
+          "exampleWord": "cloud"
+        },
+        {
+          "glyph": "나무",
+          "name": "namu",
+          "exampleWord": "tree"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sun'?",
+          "options": [
+            "해",
+            "달",
+            "별",
+            "비"
+          ],
+          "answer": "해"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "손",
+            "발",
+            "눈",
+            "귀"
+          ],
+          "answer": "손"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l28",
+      "title": "복습 24",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "고양이",
+          "name": "goyangi",
+          "exampleWord": "cat"
+        },
+        {
+          "glyph": "강",
+          "name": "gang",
+          "exampleWord": "river"
+        },
+        {
+          "glyph": "코",
+          "name": "ko",
+          "exampleWord": "nose"
+        },
+        {
+          "glyph": "계란",
+          "name": "gyeran",
+          "exampleWord": "egg"
+        },
+        {
+          "glyph": "산",
+          "name": "san",
+          "exampleWord": "mountain"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sun'?",
+          "options": [
+            "해",
+            "달",
+            "별",
+            "비"
+          ],
+          "answer": "해"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "손",
+            "발",
+            "눈",
+            "귀"
+          ],
+          "answer": "손"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l29",
+      "title": "복습 25",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "물",
+          "name": "mul",
+          "exampleWord": "water"
+        },
+        {
+          "glyph": "코",
+          "name": "ko",
+          "exampleWord": "nose"
+        },
+        {
+          "glyph": "다리",
+          "name": "dari",
+          "exampleWord": "leg"
+        },
+        {
+          "glyph": "떡",
+          "name": "tteok",
+          "exampleWord": "rice cake"
+        },
+        {
+          "glyph": "물고기",
+          "name": "mulgogi",
+          "exampleWord": "fish"
+        },
+        {
+          "glyph": "개",
+          "name": "gae",
+          "exampleWord": "dog"
+        },
+        {
+          "glyph": "사과",
+          "name": "sagwa",
+          "exampleWord": "apple"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "개",
+            "소",
+            "말",
+            "새"
+          ],
+          "answer": "개"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sun'?",
+          "options": [
+            "해",
+            "달",
+            "별",
+            "비"
+          ],
+          "answer": "해"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l30",
+      "title": "복습 26",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "발",
+          "name": "bal",
+          "exampleWord": "foot"
+        },
+        {
+          "glyph": "바다",
+          "name": "bada",
+          "exampleWord": "sea"
+        },
+        {
+          "glyph": "입",
+          "name": "ip",
+          "exampleWord": "mouth"
+        },
+        {
+          "glyph": "말",
+          "name": "mal",
+          "exampleWord": "horse"
+        },
+        {
+          "glyph": "사과",
+          "name": "sagwa",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "귀",
+          "name": "gwi",
+          "exampleWord": "ear"
+        },
+        {
+          "glyph": "강",
+          "name": "gang",
+          "exampleWord": "river"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "개",
+            "소",
+            "말",
+            "새"
+          ],
+          "answer": "개"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sun'?",
+          "options": [
+            "해",
+            "달",
+            "별",
+            "비"
+          ],
+          "answer": "해"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l31",
+      "title": "복습 27",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "바다",
+          "name": "bada",
+          "exampleWord": "sea"
+        },
+        {
+          "glyph": "손",
+          "name": "son",
+          "exampleWord": "hand"
+        },
+        {
+          "glyph": "우유",
+          "name": "uyu",
+          "exampleWord": "milk"
+        },
+        {
+          "glyph": "밥",
+          "name": "bap",
+          "exampleWord": "rice"
+        },
+        {
+          "glyph": "얼굴",
+          "name": "eolgul",
+          "exampleWord": "face"
+        },
+        {
+          "glyph": "다리",
+          "name": "dari",
+          "exampleWord": "leg"
+        },
+        {
+          "glyph": "소",
+          "name": "so",
+          "exampleWord": "cow"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "개",
+            "소",
+            "말",
+            "새"
+          ],
+          "answer": "개"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'water'?",
+          "options": [
+            "물",
+            "밥",
+            "빵",
+            "차"
+          ],
+          "answer": "물"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l32",
+      "title": "복습 28",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "눈",
+          "name": "nun",
+          "exampleWord": "eye"
+        },
+        {
+          "glyph": "해",
+          "name": "hae",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "강",
+          "name": "gang",
+          "exampleWord": "river"
+        },
+        {
+          "glyph": "차",
+          "name": "cha",
+          "exampleWord": "tea"
+        },
+        {
+          "glyph": "이",
+          "name": "i",
+          "exampleWord": "tooth"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "개",
+            "소",
+            "말",
+            "새"
+          ],
+          "answer": "개"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l33",
+      "title": "복습 29",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "구름",
+          "name": "gureum",
+          "exampleWord": "cloud"
+        },
+        {
+          "glyph": "강",
+          "name": "gang",
+          "exampleWord": "river"
+        },
+        {
+          "glyph": "손",
+          "name": "son",
+          "exampleWord": "hand"
+        },
+        {
+          "glyph": "곰",
+          "name": "gom",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "얼굴",
+          "name": "eolgul",
+          "exampleWord": "face"
+        },
+        {
+          "glyph": "밥",
+          "name": "bap",
+          "exampleWord": "rice"
+        },
+        {
+          "glyph": "우유",
+          "name": "uyu",
+          "exampleWord": "milk"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "손",
+            "발",
+            "눈",
+            "귀"
+          ],
+          "answer": "손"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'water'?",
+          "options": [
+            "물",
+            "밥",
+            "빵",
+            "차"
+          ],
+          "answer": "물"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l34",
+      "title": "복습 30",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "국",
+          "name": "guk",
+          "exampleWord": "soup"
+        },
+        {
+          "glyph": "밥",
+          "name": "bap",
+          "exampleWord": "rice"
+        },
+        {
+          "glyph": "사자",
+          "name": "saja",
+          "exampleWord": "lion"
+        },
+        {
+          "glyph": "새",
+          "name": "sae",
+          "exampleWord": "bird"
+        },
+        {
+          "glyph": "구름",
+          "name": "gureum",
+          "exampleWord": "cloud"
+        },
+        {
+          "glyph": "토끼",
+          "name": "tokki",
+          "exampleWord": "rabbit"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'water'?",
+          "options": [
+            "물",
+            "밥",
+            "빵",
+            "차"
+          ],
+          "answer": "물"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l35",
+      "title": "복습 31",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "나무",
+          "name": "namu",
+          "exampleWord": "tree"
+        },
+        {
+          "glyph": "손",
+          "name": "son",
+          "exampleWord": "hand"
+        },
+        {
+          "glyph": "말",
+          "name": "mal",
+          "exampleWord": "horse"
+        },
+        {
+          "glyph": "강",
+          "name": "gang",
+          "exampleWord": "river"
+        },
+        {
+          "glyph": "국",
+          "name": "guk",
+          "exampleWord": "soup"
+        },
+        {
+          "glyph": "새",
+          "name": "sae",
+          "exampleWord": "bird"
+        },
+        {
+          "glyph": "우유",
+          "name": "uyu",
+          "exampleWord": "milk"
+        },
+        {
+          "glyph": "비",
+          "name": "bi",
+          "exampleWord": "rain"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "손",
+            "발",
+            "눈",
+            "귀"
+          ],
+          "answer": "손"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l36",
+      "title": "복습 32",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "꽃",
+          "name": "kkot",
+          "exampleWord": "flower"
+        },
+        {
+          "glyph": "떡",
+          "name": "tteok",
+          "exampleWord": "rice cake"
+        },
+        {
+          "glyph": "눈",
+          "name": "nun",
+          "exampleWord": "eye"
+        },
+        {
+          "glyph": "고양이",
+          "name": "goyangi",
+          "exampleWord": "cat"
+        },
+        {
+          "glyph": "곰",
+          "name": "gom",
+          "exampleWord": "bear"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "개",
+            "소",
+            "말",
+            "새"
+          ],
+          "answer": "개"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "손",
+            "발",
+            "눈",
+            "귀"
+          ],
+          "answer": "손"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l37",
+      "title": "복습 33",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "떡",
+          "name": "tteok",
+          "exampleWord": "rice cake"
+        },
+        {
+          "glyph": "차",
+          "name": "cha",
+          "exampleWord": "tea"
+        },
+        {
+          "glyph": "손",
+          "name": "son",
+          "exampleWord": "hand"
+        },
+        {
+          "glyph": "바다",
+          "name": "bada",
+          "exampleWord": "sea"
+        },
+        {
+          "glyph": "귀",
+          "name": "gwi",
+          "exampleWord": "ear"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "개",
+            "소",
+            "말",
+            "새"
+          ],
+          "answer": "개"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "손",
+            "발",
+            "눈",
+            "귀"
+          ],
+          "answer": "손"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l38",
+      "title": "복습 34",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "계란",
+          "name": "gyeran",
+          "exampleWord": "egg"
+        },
+        {
+          "glyph": "사자",
+          "name": "saja",
+          "exampleWord": "lion"
+        },
+        {
+          "glyph": "소",
+          "name": "so",
+          "exampleWord": "cow"
+        },
+        {
+          "glyph": "손",
+          "name": "son",
+          "exampleWord": "hand"
+        },
+        {
+          "glyph": "귀",
+          "name": "gwi",
+          "exampleWord": "ear"
+        },
+        {
+          "glyph": "발",
+          "name": "bal",
+          "exampleWord": "foot"
+        },
+        {
+          "glyph": "이",
+          "name": "i",
+          "exampleWord": "tooth"
+        },
+        {
+          "glyph": "강",
+          "name": "gang",
+          "exampleWord": "river"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "손",
+            "발",
+            "눈",
+            "귀"
+          ],
+          "answer": "손"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sun'?",
+          "options": [
+            "해",
+            "달",
+            "별",
+            "비"
+          ],
+          "answer": "해"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l39",
+      "title": "복습 35",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "물",
+          "name": "mul",
+          "exampleWord": "water"
+        },
+        {
+          "glyph": "귀",
+          "name": "gwi",
+          "exampleWord": "ear"
+        },
+        {
+          "glyph": "말",
+          "name": "mal",
+          "exampleWord": "horse"
+        },
+        {
+          "glyph": "계란",
+          "name": "gyeran",
+          "exampleWord": "egg"
+        },
+        {
+          "glyph": "사자",
+          "name": "saja",
+          "exampleWord": "lion"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "개",
+            "소",
+            "말",
+            "새"
+          ],
+          "answer": "개"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l40",
+      "title": "복습 36",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "손",
+          "name": "son",
+          "exampleWord": "hand"
+        },
+        {
+          "glyph": "별",
+          "name": "byeol",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "꽃",
+          "name": "kkot",
+          "exampleWord": "flower"
+        },
+        {
+          "glyph": "눈",
+          "name": "nun",
+          "exampleWord": "eye"
+        },
+        {
+          "glyph": "차",
+          "name": "cha",
+          "exampleWord": "tea"
+        },
+        {
+          "glyph": "코",
+          "name": "ko",
+          "exampleWord": "nose"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'water'?",
+          "options": [
+            "물",
+            "밥",
+            "빵",
+            "차"
+          ],
+          "answer": "물"
+        }
+      ]
     }
   ]
 }

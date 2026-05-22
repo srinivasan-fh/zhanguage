@@ -243,6 +243,1777 @@
           "answer": "아이스크림"
         }
       ]
+    },
+    {
+      "id": "ko-p7-l8",
+      "title": "복습 1",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "개는 양 떼를 지켜봐요.",
+          "name": "dog"
+        },
+        {
+          "glyph": "영리한 여우가 높은 덩굴에 포도를 보았어요. 펄쩍펄쩍 뛰어도 닿을 수 없었어요. \"저 포도는 시어!\"라고 말하고 가버렸어요.",
+          "name": "story"
+        },
+        {
+          "glyph": "점심에는 친구들과 함께 먹어요.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "수민: 안녕! 이름이 뭐예요?",
+          "name": "l1"
+        },
+        {
+          "glyph": "소는 매일 아침 우유를 줘요.",
+          "name": "milk"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "누가 매트 위에 있나요?",
+          "options": [
+            "고양이",
+            "강아지",
+            "새",
+            "물고기"
+          ],
+          "answer": "고양이"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "소년의 이름은?",
+          "options": [
+            "현우",
+            "민호",
+            "준수",
+            "지호"
+          ],
+          "answer": "현우"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l9",
+      "title": "복습 2",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "농장에는 갈색 소, 검은 개, 흰 양들이 많아요.",
+          "name": "setting"
+        },
+        {
+          "glyph": "개는 양 떼를 지켜봐요.",
+          "name": "dog"
+        },
+        {
+          "glyph": "점심에는 친구들과 함께 먹어요.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "고양이가 매트 위에 앉아 있어요.",
+          "name": "s1"
+        },
+        {
+          "glyph": "수민: 만나서 반가워요!",
+          "name": "l3"
+        },
+        {
+          "glyph": "수민: 안녕! 이름이 뭐예요?",
+          "name": "l1"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "누가 매트 위에 있나요?",
+          "options": [
+            "고양이",
+            "강아지",
+            "새",
+            "물고기"
+          ],
+          "answer": "고양이"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "공의 색깔은?",
+          "options": [
+            "빨간색",
+            "파란색",
+            "노란색",
+            "초록색"
+          ],
+          "answer": "빨간색"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l10",
+      "title": "복습 3",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "저는 빨간 공을 봅니다.",
+          "name": "s2"
+        },
+        {
+          "glyph": "미라는 매일 학교에 가요. 수학을 가장 좋아해요.",
+          "name": "school"
+        },
+        {
+          "glyph": "수민: 만나서 반가워요!",
+          "name": "l3"
+        },
+        {
+          "glyph": "새들이 하늘을 날아요.",
+          "name": "s3"
+        },
+        {
+          "glyph": "축구를 하고 아이스크림을 먹었어요.",
+          "name": "play"
+        },
+        {
+          "glyph": "영리한 여우가 높은 덩굴에 포도를 보았어요. 펄쩍펄쩍 뛰어도 닿을 수 없었어요. \"저 포도는 시어!\"라고 말하고 가버렸어요.",
+          "name": "story"
+        },
+        {
+          "glyph": "점심에는 친구들과 함께 먹어요.",
+          "name": "lunch"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "강아지 이름은?",
+          "options": [
+            "까미",
+            "보비",
+            "초코",
+            "구름"
+          ],
+          "answer": "까미"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l11",
+      "title": "복습 4",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "점심에는 친구들과 함께 먹어요.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "영리한 여우가 높은 덩굴에 포도를 보았어요. 펄쩍펄쩍 뛰어도 닿을 수 없었어요. \"저 포도는 시어!\"라고 말하고 가버렸어요.",
+          "name": "story"
+        },
+        {
+          "glyph": "개는 양 떼를 지켜봐요.",
+          "name": "dog"
+        },
+        {
+          "glyph": "수민: 만나서 반가워요!",
+          "name": "l3"
+        },
+        {
+          "glyph": "일요일에 공원에 갔어요. 큰 나무와 예쁜 꽃이 있었어요.",
+          "name": "setting"
+        },
+        {
+          "glyph": "농장에는 갈색 소, 검은 개, 흰 양들이 많아요.",
+          "name": "setting"
+        },
+        {
+          "glyph": "엄마는 맛있는 음식을 만들어요.",
+          "name": "s4"
+        },
+        {
+          "glyph": "하늘에서 새가 노래했어요.",
+          "name": "birds"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "누가 매트 위에 있나요?",
+          "options": [
+            "고양이",
+            "강아지",
+            "새",
+            "물고기"
+          ],
+          "answer": "고양이"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "공의 색깔은?",
+          "options": [
+            "빨간색",
+            "파란색",
+            "노란색",
+            "초록색"
+          ],
+          "answer": "빨간색"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l12",
+      "title": "복습 5",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "개는 양 떼를 지켜봐요.",
+          "name": "dog"
+        },
+        {
+          "glyph": "저는 빨간 공을 봅니다.",
+          "name": "s2"
+        },
+        {
+          "glyph": "지민이는 강아지가 있어요. 이름은 까미예요. 까미는 까만색이고 친절해요. 매일 저녁 공원에서 같이 뛰어요.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "농장에는 갈색 소, 검은 개, 흰 양들이 많아요.",
+          "name": "setting"
+        },
+        {
+          "glyph": "축구를 하고 아이스크림을 먹었어요.",
+          "name": "play"
+        },
+        {
+          "glyph": "소는 매일 아침 우유를 줘요.",
+          "name": "milk"
+        },
+        {
+          "glyph": "하늘에서 새가 노래했어요.",
+          "name": "birds"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "무엇을 먹었어요?",
+          "options": [
+            "아이스크림",
+            "피자",
+            "케이크",
+            "쿠키"
+          ],
+          "answer": "아이스크림"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "공의 색깔은?",
+          "options": [
+            "빨간색",
+            "파란색",
+            "노란색",
+            "초록색"
+          ],
+          "answer": "빨간색"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l13",
+      "title": "복습 6",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "농장에는 갈색 소, 검은 개, 흰 양들이 많아요.",
+          "name": "setting"
+        },
+        {
+          "glyph": "점심에는 친구들과 함께 먹어요.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "미라는 매일 학교에 가요. 수학을 가장 좋아해요.",
+          "name": "school"
+        },
+        {
+          "glyph": "고양이가 매트 위에 앉아 있어요.",
+          "name": "s1"
+        },
+        {
+          "glyph": "새들이 하늘을 날아요.",
+          "name": "s3"
+        },
+        {
+          "glyph": "개는 양 떼를 지켜봐요.",
+          "name": "dog"
+        },
+        {
+          "glyph": "지민이는 강아지가 있어요. 이름은 까미예요. 까미는 까만색이고 친절해요. 매일 저녁 공원에서 같이 뛰어요.",
+          "name": "paragraph"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "누가 우유를 줘요?",
+          "options": [
+            "소",
+            "개",
+            "양",
+            "고양이"
+          ],
+          "answer": "소"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l14",
+      "title": "복습 7",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "현우: 저는 현우예요.",
+          "name": "l2"
+        },
+        {
+          "glyph": "영리한 여우가 높은 덩굴에 포도를 보았어요. 펄쩍펄쩍 뛰어도 닿을 수 없었어요. \"저 포도는 시어!\"라고 말하고 가버렸어요.",
+          "name": "story"
+        },
+        {
+          "glyph": "농장에는 갈색 소, 검은 개, 흰 양들이 많아요.",
+          "name": "setting"
+        },
+        {
+          "glyph": "일요일에 공원에 갔어요. 큰 나무와 예쁜 꽃이 있었어요.",
+          "name": "setting"
+        },
+        {
+          "glyph": "하늘에서 새가 노래했어요.",
+          "name": "birds"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "누가 매트 위에 있나요?",
+          "options": [
+            "고양이",
+            "강아지",
+            "새",
+            "물고기"
+          ],
+          "answer": "고양이"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l15",
+      "title": "복습 8",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "일요일에 공원에 갔어요. 큰 나무와 예쁜 꽃이 있었어요.",
+          "name": "setting"
+        },
+        {
+          "glyph": "현우: 저는 현우예요.",
+          "name": "l2"
+        },
+        {
+          "glyph": "점심에는 친구들과 함께 먹어요.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "지민이는 강아지가 있어요. 이름은 까미예요. 까미는 까만색이고 친절해요. 매일 저녁 공원에서 같이 뛰어요.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "개는 양 떼를 지켜봐요.",
+          "name": "dog"
+        },
+        {
+          "glyph": "축구를 하고 아이스크림을 먹었어요.",
+          "name": "play"
+        },
+        {
+          "glyph": "새들이 하늘을 날아요.",
+          "name": "s3"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "무엇을 먹었어요?",
+          "options": [
+            "아이스크림",
+            "피자",
+            "케이크",
+            "쿠키"
+          ],
+          "answer": "아이스크림"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "누가 매트 위에 있나요?",
+          "options": [
+            "고양이",
+            "강아지",
+            "새",
+            "물고기"
+          ],
+          "answer": "고양이"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l16",
+      "title": "복습 9",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "수민: 안녕! 이름이 뭐예요?",
+          "name": "l1"
+        },
+        {
+          "glyph": "농장에는 갈색 소, 검은 개, 흰 양들이 많아요.",
+          "name": "setting"
+        },
+        {
+          "glyph": "영리한 여우가 높은 덩굴에 포도를 보았어요. 펄쩍펄쩍 뛰어도 닿을 수 없었어요. \"저 포도는 시어!\"라고 말하고 가버렸어요.",
+          "name": "story"
+        },
+        {
+          "glyph": "고양이가 매트 위에 앉아 있어요.",
+          "name": "s1"
+        },
+        {
+          "glyph": "현우: 저는 현우예요.",
+          "name": "l2"
+        },
+        {
+          "glyph": "엄마는 맛있는 음식을 만들어요.",
+          "name": "s4"
+        },
+        {
+          "glyph": "저녁에는 숙제를 해요.",
+          "name": "evening"
+        },
+        {
+          "glyph": "점심에는 친구들과 함께 먹어요.",
+          "name": "lunch"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "소년의 이름은?",
+          "options": [
+            "현우",
+            "민호",
+            "준수",
+            "지호"
+          ],
+          "answer": "현우"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l17",
+      "title": "복습 10",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "저녁에는 숙제를 해요.",
+          "name": "evening"
+        },
+        {
+          "glyph": "소는 매일 아침 우유를 줘요.",
+          "name": "milk"
+        },
+        {
+          "glyph": "엄마는 맛있는 음식을 만들어요.",
+          "name": "s4"
+        },
+        {
+          "glyph": "일요일에 공원에 갔어요. 큰 나무와 예쁜 꽃이 있었어요.",
+          "name": "setting"
+        },
+        {
+          "glyph": "축구를 하고 아이스크림을 먹었어요.",
+          "name": "play"
+        },
+        {
+          "glyph": "고양이가 매트 위에 앉아 있어요.",
+          "name": "s1"
+        },
+        {
+          "glyph": "개는 양 떼를 지켜봐요.",
+          "name": "dog"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "까미는 무슨 색?",
+          "options": [
+            "까만색",
+            "흰색",
+            "갈색",
+            "회색"
+          ],
+          "answer": "까만색"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "공의 색깔은?",
+          "options": [
+            "빨간색",
+            "파란색",
+            "노란색",
+            "초록색"
+          ],
+          "answer": "빨간색"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l18",
+      "title": "복습 11",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "저녁에는 숙제를 해요.",
+          "name": "evening"
+        },
+        {
+          "glyph": "점심에는 친구들과 함께 먹어요.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "소는 매일 아침 우유를 줘요.",
+          "name": "milk"
+        },
+        {
+          "glyph": "영리한 여우가 높은 덩굴에 포도를 보았어요. 펄쩍펄쩍 뛰어도 닿을 수 없었어요. \"저 포도는 시어!\"라고 말하고 가버렸어요.",
+          "name": "story"
+        },
+        {
+          "glyph": "현우: 저는 현우예요.",
+          "name": "l2"
+        },
+        {
+          "glyph": "수민: 만나서 반가워요!",
+          "name": "l3"
+        },
+        {
+          "glyph": "축구를 하고 아이스크림을 먹었어요.",
+          "name": "play"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "여우가 본 것은?",
+          "options": [
+            "포도",
+            "사과",
+            "바나나",
+            "감"
+          ],
+          "answer": "포도"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l19",
+      "title": "복습 12",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "소는 매일 아침 우유를 줘요.",
+          "name": "milk"
+        },
+        {
+          "glyph": "개는 양 떼를 지켜봐요.",
+          "name": "dog"
+        },
+        {
+          "glyph": "저녁에는 숙제를 해요.",
+          "name": "evening"
+        },
+        {
+          "glyph": "새들이 하늘을 날아요.",
+          "name": "s3"
+        },
+        {
+          "glyph": "수민: 만나서 반가워요!",
+          "name": "l3"
+        },
+        {
+          "glyph": "하늘에서 새가 노래했어요.",
+          "name": "birds"
+        },
+        {
+          "glyph": "점심에는 친구들과 함께 먹어요.",
+          "name": "lunch"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "무엇을 먹었어요?",
+          "options": [
+            "아이스크림",
+            "피자",
+            "케이크",
+            "쿠키"
+          ],
+          "answer": "아이스크림"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l20",
+      "title": "복습 13",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "미라는 매일 학교에 가요. 수학을 가장 좋아해요.",
+          "name": "school"
+        },
+        {
+          "glyph": "영리한 여우가 높은 덩굴에 포도를 보았어요. 펄쩍펄쩍 뛰어도 닿을 수 없었어요. \"저 포도는 시어!\"라고 말하고 가버렸어요.",
+          "name": "story"
+        },
+        {
+          "glyph": "축구를 하고 아이스크림을 먹었어요.",
+          "name": "play"
+        },
+        {
+          "glyph": "고양이가 매트 위에 앉아 있어요.",
+          "name": "s1"
+        },
+        {
+          "glyph": "소는 매일 아침 우유를 줘요.",
+          "name": "milk"
+        },
+        {
+          "glyph": "농장에는 갈색 소, 검은 개, 흰 양들이 많아요.",
+          "name": "setting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "미라가 좋아하는 과목?",
+          "options": [
+            "수학",
+            "영어",
+            "음악",
+            "미술"
+          ],
+          "answer": "수학"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l21",
+      "title": "복습 14",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "새들이 하늘을 날아요.",
+          "name": "s3"
+        },
+        {
+          "glyph": "현우: 저는 현우예요.",
+          "name": "l2"
+        },
+        {
+          "glyph": "개는 양 떼를 지켜봐요.",
+          "name": "dog"
+        },
+        {
+          "glyph": "지민이는 강아지가 있어요. 이름은 까미예요. 까미는 까만색이고 친절해요. 매일 저녁 공원에서 같이 뛰어요.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "저녁에는 숙제를 해요.",
+          "name": "evening"
+        },
+        {
+          "glyph": "미라는 매일 학교에 가요. 수학을 가장 좋아해요.",
+          "name": "school"
+        },
+        {
+          "glyph": "수민: 안녕! 이름이 뭐예요?",
+          "name": "l1"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "미라가 좋아하는 과목?",
+          "options": [
+            "수학",
+            "영어",
+            "음악",
+            "미술"
+          ],
+          "answer": "수학"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "누가 매트 위에 있나요?",
+          "options": [
+            "고양이",
+            "강아지",
+            "새",
+            "물고기"
+          ],
+          "answer": "고양이"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l22",
+      "title": "복습 15",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "수민: 안녕! 이름이 뭐예요?",
+          "name": "l1"
+        },
+        {
+          "glyph": "개는 양 떼를 지켜봐요.",
+          "name": "dog"
+        },
+        {
+          "glyph": "점심에는 친구들과 함께 먹어요.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "현우: 저는 현우예요.",
+          "name": "l2"
+        },
+        {
+          "glyph": "미라는 매일 학교에 가요. 수학을 가장 좋아해요.",
+          "name": "school"
+        },
+        {
+          "glyph": "고양이가 매트 위에 앉아 있어요.",
+          "name": "s1"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "무엇을 먹었어요?",
+          "options": [
+            "아이스크림",
+            "피자",
+            "케이크",
+            "쿠키"
+          ],
+          "answer": "아이스크림"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "미라가 좋아하는 과목?",
+          "options": [
+            "수학",
+            "영어",
+            "음악",
+            "미술"
+          ],
+          "answer": "수학"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l23",
+      "title": "복습 16",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "미라는 매일 학교에 가요. 수학을 가장 좋아해요.",
+          "name": "school"
+        },
+        {
+          "glyph": "지민이는 강아지가 있어요. 이름은 까미예요. 까미는 까만색이고 친절해요. 매일 저녁 공원에서 같이 뛰어요.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "축구를 하고 아이스크림을 먹었어요.",
+          "name": "play"
+        },
+        {
+          "glyph": "농장에는 갈색 소, 검은 개, 흰 양들이 많아요.",
+          "name": "setting"
+        },
+        {
+          "glyph": "점심에는 친구들과 함께 먹어요.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "저는 빨간 공을 봅니다.",
+          "name": "s2"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "누가 우유를 줘요?",
+          "options": [
+            "소",
+            "개",
+            "양",
+            "고양이"
+          ],
+          "answer": "소"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l24",
+      "title": "복습 17",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "현우: 저는 현우예요.",
+          "name": "l2"
+        },
+        {
+          "glyph": "엄마는 맛있는 음식을 만들어요.",
+          "name": "s4"
+        },
+        {
+          "glyph": "농장에는 갈색 소, 검은 개, 흰 양들이 많아요.",
+          "name": "setting"
+        },
+        {
+          "glyph": "새들이 하늘을 날아요.",
+          "name": "s3"
+        },
+        {
+          "glyph": "점심에는 친구들과 함께 먹어요.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "저녁에는 숙제를 해요.",
+          "name": "evening"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "무엇을 먹었어요?",
+          "options": [
+            "아이스크림",
+            "피자",
+            "케이크",
+            "쿠키"
+          ],
+          "answer": "아이스크림"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "누가 우유를 줘요?",
+          "options": [
+            "소",
+            "개",
+            "양",
+            "고양이"
+          ],
+          "answer": "소"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l25",
+      "title": "복습 18",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "현우: 저는 현우예요.",
+          "name": "l2"
+        },
+        {
+          "glyph": "점심에는 친구들과 함께 먹어요.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "영리한 여우가 높은 덩굴에 포도를 보았어요. 펄쩍펄쩍 뛰어도 닿을 수 없었어요. \"저 포도는 시어!\"라고 말하고 가버렸어요.",
+          "name": "story"
+        },
+        {
+          "glyph": "수민: 안녕! 이름이 뭐예요?",
+          "name": "l1"
+        },
+        {
+          "glyph": "미라는 매일 학교에 가요. 수학을 가장 좋아해요.",
+          "name": "school"
+        },
+        {
+          "glyph": "저녁에는 숙제를 해요.",
+          "name": "evening"
+        },
+        {
+          "glyph": "소는 매일 아침 우유를 줘요.",
+          "name": "milk"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "여우가 본 것은?",
+          "options": [
+            "포도",
+            "사과",
+            "바나나",
+            "감"
+          ],
+          "answer": "포도"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l26",
+      "title": "복습 19",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "수민: 만나서 반가워요!",
+          "name": "l3"
+        },
+        {
+          "glyph": "미라는 매일 학교에 가요. 수학을 가장 좋아해요.",
+          "name": "school"
+        },
+        {
+          "glyph": "일요일에 공원에 갔어요. 큰 나무와 예쁜 꽃이 있었어요.",
+          "name": "setting"
+        },
+        {
+          "glyph": "하늘에서 새가 노래했어요.",
+          "name": "birds"
+        },
+        {
+          "glyph": "축구를 하고 아이스크림을 먹었어요.",
+          "name": "play"
+        },
+        {
+          "glyph": "지민이는 강아지가 있어요. 이름은 까미예요. 까미는 까만색이고 친절해요. 매일 저녁 공원에서 같이 뛰어요.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "점심에는 친구들과 함께 먹어요.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "새들이 하늘을 날아요.",
+          "name": "s3"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "누가 우유를 줘요?",
+          "options": [
+            "소",
+            "개",
+            "양",
+            "고양이"
+          ],
+          "answer": "소"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l27",
+      "title": "복습 20",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "고양이가 매트 위에 앉아 있어요.",
+          "name": "s1"
+        },
+        {
+          "glyph": "소는 매일 아침 우유를 줘요.",
+          "name": "milk"
+        },
+        {
+          "glyph": "저녁에는 숙제를 해요.",
+          "name": "evening"
+        },
+        {
+          "glyph": "하늘에서 새가 노래했어요.",
+          "name": "birds"
+        },
+        {
+          "glyph": "새들이 하늘을 날아요.",
+          "name": "s3"
+        },
+        {
+          "glyph": "일요일에 공원에 갔어요. 큰 나무와 예쁜 꽃이 있었어요.",
+          "name": "setting"
+        },
+        {
+          "glyph": "저는 빨간 공을 봅니다.",
+          "name": "s2"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "누가 우유를 줘요?",
+          "options": [
+            "소",
+            "개",
+            "양",
+            "고양이"
+          ],
+          "answer": "소"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "무엇을 먹었어요?",
+          "options": [
+            "아이스크림",
+            "피자",
+            "케이크",
+            "쿠키"
+          ],
+          "answer": "아이스크림"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l28",
+      "title": "복습 21",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "현우: 저는 현우예요.",
+          "name": "l2"
+        },
+        {
+          "glyph": "고양이가 매트 위에 앉아 있어요.",
+          "name": "s1"
+        },
+        {
+          "glyph": "수민: 만나서 반가워요!",
+          "name": "l3"
+        },
+        {
+          "glyph": "새들이 하늘을 날아요.",
+          "name": "s3"
+        },
+        {
+          "glyph": "농장에는 갈색 소, 검은 개, 흰 양들이 많아요.",
+          "name": "setting"
+        },
+        {
+          "glyph": "점심에는 친구들과 함께 먹어요.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "영리한 여우가 높은 덩굴에 포도를 보았어요. 펄쩍펄쩍 뛰어도 닿을 수 없었어요. \"저 포도는 시어!\"라고 말하고 가버렸어요.",
+          "name": "story"
+        },
+        {
+          "glyph": "저는 빨간 공을 봅니다.",
+          "name": "s2"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "누가 매트 위에 있나요?",
+          "options": [
+            "고양이",
+            "강아지",
+            "새",
+            "물고기"
+          ],
+          "answer": "고양이"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "여우가 본 것은?",
+          "options": [
+            "포도",
+            "사과",
+            "바나나",
+            "감"
+          ],
+          "answer": "포도"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l29",
+      "title": "복습 22",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "수민: 안녕! 이름이 뭐예요?",
+          "name": "l1"
+        },
+        {
+          "glyph": "일요일에 공원에 갔어요. 큰 나무와 예쁜 꽃이 있었어요.",
+          "name": "setting"
+        },
+        {
+          "glyph": "새들이 하늘을 날아요.",
+          "name": "s3"
+        },
+        {
+          "glyph": "축구를 하고 아이스크림을 먹었어요.",
+          "name": "play"
+        },
+        {
+          "glyph": "고양이가 매트 위에 앉아 있어요.",
+          "name": "s1"
+        },
+        {
+          "glyph": "개는 양 떼를 지켜봐요.",
+          "name": "dog"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "무엇을 먹었어요?",
+          "options": [
+            "아이스크림",
+            "피자",
+            "케이크",
+            "쿠키"
+          ],
+          "answer": "아이스크림"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "까미는 무슨 색?",
+          "options": [
+            "까만색",
+            "흰색",
+            "갈색",
+            "회색"
+          ],
+          "answer": "까만색"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l30",
+      "title": "복습 23",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "저녁에는 숙제를 해요.",
+          "name": "evening"
+        },
+        {
+          "glyph": "개는 양 떼를 지켜봐요.",
+          "name": "dog"
+        },
+        {
+          "glyph": "수민: 만나서 반가워요!",
+          "name": "l3"
+        },
+        {
+          "glyph": "새들이 하늘을 날아요.",
+          "name": "s3"
+        },
+        {
+          "glyph": "일요일에 공원에 갔어요. 큰 나무와 예쁜 꽃이 있었어요.",
+          "name": "setting"
+        },
+        {
+          "glyph": "하늘에서 새가 노래했어요.",
+          "name": "birds"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "여우가 본 것은?",
+          "options": [
+            "포도",
+            "사과",
+            "바나나",
+            "감"
+          ],
+          "answer": "포도"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l31",
+      "title": "복습 24",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "농장에는 갈색 소, 검은 개, 흰 양들이 많아요.",
+          "name": "setting"
+        },
+        {
+          "glyph": "새들이 하늘을 날아요.",
+          "name": "s3"
+        },
+        {
+          "glyph": "고양이가 매트 위에 앉아 있어요.",
+          "name": "s1"
+        },
+        {
+          "glyph": "엄마는 맛있는 음식을 만들어요.",
+          "name": "s4"
+        },
+        {
+          "glyph": "축구를 하고 아이스크림을 먹었어요.",
+          "name": "play"
+        },
+        {
+          "glyph": "수민: 만나서 반가워요!",
+          "name": "l3"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "까미는 무슨 색?",
+          "options": [
+            "까만색",
+            "흰색",
+            "갈색",
+            "회색"
+          ],
+          "answer": "까만색"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "미라가 좋아하는 과목?",
+          "options": [
+            "수학",
+            "영어",
+            "음악",
+            "미술"
+          ],
+          "answer": "수학"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l32",
+      "title": "복습 25",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "수민: 안녕! 이름이 뭐예요?",
+          "name": "l1"
+        },
+        {
+          "glyph": "저녁에는 숙제를 해요.",
+          "name": "evening"
+        },
+        {
+          "glyph": "엄마는 맛있는 음식을 만들어요.",
+          "name": "s4"
+        },
+        {
+          "glyph": "미라는 매일 학교에 가요. 수학을 가장 좋아해요.",
+          "name": "school"
+        },
+        {
+          "glyph": "농장에는 갈색 소, 검은 개, 흰 양들이 많아요.",
+          "name": "setting"
+        },
+        {
+          "glyph": "축구를 하고 아이스크림을 먹었어요.",
+          "name": "play"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "까미는 무슨 색?",
+          "options": [
+            "까만색",
+            "흰색",
+            "갈색",
+            "회색"
+          ],
+          "answer": "까만색"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l33",
+      "title": "복습 26",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "새들이 하늘을 날아요.",
+          "name": "s3"
+        },
+        {
+          "glyph": "고양이가 매트 위에 앉아 있어요.",
+          "name": "s1"
+        },
+        {
+          "glyph": "저는 빨간 공을 봅니다.",
+          "name": "s2"
+        },
+        {
+          "glyph": "소는 매일 아침 우유를 줘요.",
+          "name": "milk"
+        },
+        {
+          "glyph": "저녁에는 숙제를 해요.",
+          "name": "evening"
+        },
+        {
+          "glyph": "현우: 저는 현우예요.",
+          "name": "l2"
+        },
+        {
+          "glyph": "영리한 여우가 높은 덩굴에 포도를 보았어요. 펄쩍펄쩍 뛰어도 닿을 수 없었어요. \"저 포도는 시어!\"라고 말하고 가버렸어요.",
+          "name": "story"
+        },
+        {
+          "glyph": "수민: 만나서 반가워요!",
+          "name": "l3"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "공의 색깔은?",
+          "options": [
+            "빨간색",
+            "파란색",
+            "노란색",
+            "초록색"
+          ],
+          "answer": "빨간색"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "누가 우유를 줘요?",
+          "options": [
+            "소",
+            "개",
+            "양",
+            "고양이"
+          ],
+          "answer": "소"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l34",
+      "title": "복습 27",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "축구를 하고 아이스크림을 먹었어요.",
+          "name": "play"
+        },
+        {
+          "glyph": "엄마는 맛있는 음식을 만들어요.",
+          "name": "s4"
+        },
+        {
+          "glyph": "고양이가 매트 위에 앉아 있어요.",
+          "name": "s1"
+        },
+        {
+          "glyph": "수민: 만나서 반가워요!",
+          "name": "l3"
+        },
+        {
+          "glyph": "저녁에는 숙제를 해요.",
+          "name": "evening"
+        },
+        {
+          "glyph": "개는 양 떼를 지켜봐요.",
+          "name": "dog"
+        },
+        {
+          "glyph": "일요일에 공원에 갔어요. 큰 나무와 예쁜 꽃이 있었어요.",
+          "name": "setting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "누가 우유를 줘요?",
+          "options": [
+            "소",
+            "개",
+            "양",
+            "고양이"
+          ],
+          "answer": "소"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "누가 매트 위에 있나요?",
+          "options": [
+            "고양이",
+            "강아지",
+            "새",
+            "물고기"
+          ],
+          "answer": "고양이"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l35",
+      "title": "복습 28",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "미라는 매일 학교에 가요. 수학을 가장 좋아해요.",
+          "name": "school"
+        },
+        {
+          "glyph": "하늘에서 새가 노래했어요.",
+          "name": "birds"
+        },
+        {
+          "glyph": "저녁에는 숙제를 해요.",
+          "name": "evening"
+        },
+        {
+          "glyph": "현우: 저는 현우예요.",
+          "name": "l2"
+        },
+        {
+          "glyph": "축구를 하고 아이스크림을 먹었어요.",
+          "name": "play"
+        },
+        {
+          "glyph": "저는 빨간 공을 봅니다.",
+          "name": "s2"
+        },
+        {
+          "glyph": "점심에는 친구들과 함께 먹어요.",
+          "name": "lunch"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "소년의 이름은?",
+          "options": [
+            "현우",
+            "민호",
+            "준수",
+            "지호"
+          ],
+          "answer": "현우"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l36",
+      "title": "복습 29",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "수민: 안녕! 이름이 뭐예요?",
+          "name": "l1"
+        },
+        {
+          "glyph": "개는 양 떼를 지켜봐요.",
+          "name": "dog"
+        },
+        {
+          "glyph": "점심에는 친구들과 함께 먹어요.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "소는 매일 아침 우유를 줘요.",
+          "name": "milk"
+        },
+        {
+          "glyph": "축구를 하고 아이스크림을 먹었어요.",
+          "name": "play"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "까미는 무슨 색?",
+          "options": [
+            "까만색",
+            "흰색",
+            "갈색",
+            "회색"
+          ],
+          "answer": "까만색"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l37",
+      "title": "복습 30",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "현우: 저는 현우예요.",
+          "name": "l2"
+        },
+        {
+          "glyph": "영리한 여우가 높은 덩굴에 포도를 보았어요. 펄쩍펄쩍 뛰어도 닿을 수 없었어요. \"저 포도는 시어!\"라고 말하고 가버렸어요.",
+          "name": "story"
+        },
+        {
+          "glyph": "엄마는 맛있는 음식을 만들어요.",
+          "name": "s4"
+        },
+        {
+          "glyph": "수민: 안녕! 이름이 뭐예요?",
+          "name": "l1"
+        },
+        {
+          "glyph": "소는 매일 아침 우유를 줘요.",
+          "name": "milk"
+        },
+        {
+          "glyph": "개는 양 떼를 지켜봐요.",
+          "name": "dog"
+        },
+        {
+          "glyph": "저는 빨간 공을 봅니다.",
+          "name": "s2"
+        },
+        {
+          "glyph": "수민: 만나서 반가워요!",
+          "name": "l3"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "까미는 무슨 색?",
+          "options": [
+            "까만색",
+            "흰색",
+            "갈색",
+            "회색"
+          ],
+          "answer": "까만색"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "소년의 이름은?",
+          "options": [
+            "현우",
+            "민호",
+            "준수",
+            "지호"
+          ],
+          "answer": "현우"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l38",
+      "title": "복습 31",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "농장에는 갈색 소, 검은 개, 흰 양들이 많아요.",
+          "name": "setting"
+        },
+        {
+          "glyph": "저녁에는 숙제를 해요.",
+          "name": "evening"
+        },
+        {
+          "glyph": "소는 매일 아침 우유를 줘요.",
+          "name": "milk"
+        },
+        {
+          "glyph": "미라는 매일 학교에 가요. 수학을 가장 좋아해요.",
+          "name": "school"
+        },
+        {
+          "glyph": "수민: 만나서 반가워요!",
+          "name": "l3"
+        },
+        {
+          "glyph": "개는 양 떼를 지켜봐요.",
+          "name": "dog"
+        },
+        {
+          "glyph": "지민이는 강아지가 있어요. 이름은 까미예요. 까미는 까만색이고 친절해요. 매일 저녁 공원에서 같이 뛰어요.",
+          "name": "paragraph"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "누가 매트 위에 있나요?",
+          "options": [
+            "고양이",
+            "강아지",
+            "새",
+            "물고기"
+          ],
+          "answer": "고양이"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "강아지 이름은?",
+          "options": [
+            "까미",
+            "보비",
+            "초코",
+            "구름"
+          ],
+          "answer": "까미"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l39",
+      "title": "복습 32",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "하늘에서 새가 노래했어요.",
+          "name": "birds"
+        },
+        {
+          "glyph": "농장에는 갈색 소, 검은 개, 흰 양들이 많아요.",
+          "name": "setting"
+        },
+        {
+          "glyph": "고양이가 매트 위에 앉아 있어요.",
+          "name": "s1"
+        },
+        {
+          "glyph": "엄마는 맛있는 음식을 만들어요.",
+          "name": "s4"
+        },
+        {
+          "glyph": "수민: 안녕! 이름이 뭐예요?",
+          "name": "l1"
+        },
+        {
+          "glyph": "축구를 하고 아이스크림을 먹었어요.",
+          "name": "play"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "소년의 이름은?",
+          "options": [
+            "현우",
+            "민호",
+            "준수",
+            "지호"
+          ],
+          "answer": "현우"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "무엇을 먹었어요?",
+          "options": [
+            "아이스크림",
+            "피자",
+            "케이크",
+            "쿠키"
+          ],
+          "answer": "아이스크림"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l40",
+      "title": "복습 33",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "농장에는 갈색 소, 검은 개, 흰 양들이 많아요.",
+          "name": "setting"
+        },
+        {
+          "glyph": "일요일에 공원에 갔어요. 큰 나무와 예쁜 꽃이 있었어요.",
+          "name": "setting"
+        },
+        {
+          "glyph": "저녁에는 숙제를 해요.",
+          "name": "evening"
+        },
+        {
+          "glyph": "소는 매일 아침 우유를 줘요.",
+          "name": "milk"
+        },
+        {
+          "glyph": "지민이는 강아지가 있어요. 이름은 까미예요. 까미는 까만색이고 친절해요. 매일 저녁 공원에서 같이 뛰어요.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "새들이 하늘을 날아요.",
+          "name": "s3"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "강아지 이름은?",
+          "options": [
+            "까미",
+            "보비",
+            "초코",
+            "구름"
+          ],
+          "answer": "까미"
+        }
+      ]
     }
   ]
 }

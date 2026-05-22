@@ -394,6 +394,1514 @@
         }
       ],
       "quiz": []
+    },
+    {
+      "id": "en-p6-l9",
+      "title": "Review 1",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "7",
+          "name": "trace"
+        },
+        {
+          "glyph": "m",
+          "name": "trace"
+        },
+        {
+          "glyph": "q",
+          "name": "trace"
+        },
+        {
+          "glyph": "g",
+          "name": "trace"
+        },
+        {
+          "glyph": "b",
+          "name": "trace"
+        },
+        {
+          "glyph": "ant",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "7",
+            "m",
+            "q",
+            "g"
+          ],
+          "answer": "7"
+        }
+      ]
+    },
+    {
+      "id": "en-p6-l10",
+      "title": "Review 2",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "O",
+          "name": "trace"
+        },
+        {
+          "glyph": "X",
+          "name": "trace"
+        },
+        {
+          "glyph": "3",
+          "name": "trace"
+        },
+        {
+          "glyph": "6",
+          "name": "trace"
+        },
+        {
+          "glyph": "p",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "O",
+            "X",
+            "3",
+            "6"
+          ],
+          "answer": "O"
+        }
+      ]
+    },
+    {
+      "id": "en-p6-l11",
+      "title": "Review 3",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "jam",
+          "name": "trace"
+        },
+        {
+          "glyph": "x",
+          "name": "trace"
+        },
+        {
+          "glyph": "dog",
+          "name": "trace"
+        },
+        {
+          "glyph": "fly",
+          "name": "trace"
+        },
+        {
+          "glyph": "c",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "jam",
+            "x",
+            "dog",
+            "fly"
+          ],
+          "answer": "jam"
+        }
+      ]
+    },
+    {
+      "id": "en-p6-l12",
+      "title": "Review 4",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Z",
+          "name": "trace"
+        },
+        {
+          "glyph": "N",
+          "name": "trace"
+        },
+        {
+          "glyph": "Q",
+          "name": "trace"
+        },
+        {
+          "glyph": "G",
+          "name": "trace"
+        },
+        {
+          "glyph": "x",
+          "name": "trace"
+        },
+        {
+          "glyph": "W",
+          "name": "trace"
+        },
+        {
+          "glyph": "w",
+          "name": "trace"
+        },
+        {
+          "glyph": "J",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "Z",
+            "N",
+            "Q",
+            "G"
+          ],
+          "answer": "Z"
+        }
+      ]
+    },
+    {
+      "id": "en-p6-l13",
+      "title": "Review 5",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "k",
+          "name": "trace"
+        },
+        {
+          "glyph": "F",
+          "name": "trace"
+        },
+        {
+          "glyph": "mom",
+          "name": "trace"
+        },
+        {
+          "glyph": "9",
+          "name": "trace"
+        },
+        {
+          "glyph": "d",
+          "name": "trace"
+        },
+        {
+          "glyph": "e",
+          "name": "trace"
+        },
+        {
+          "glyph": "T",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "k",
+            "F",
+            "mom",
+            "9"
+          ],
+          "answer": "k"
+        }
+      ]
+    },
+    {
+      "id": "en-p6-l14",
+      "title": "Review 6",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "m",
+          "name": "trace"
+        },
+        {
+          "glyph": "5",
+          "name": "trace"
+        },
+        {
+          "glyph": "sun",
+          "name": "trace"
+        },
+        {
+          "glyph": "N",
+          "name": "trace"
+        },
+        {
+          "glyph": "Z",
+          "name": "trace"
+        },
+        {
+          "glyph": "Q",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "m",
+            "5",
+            "sun",
+            "N"
+          ],
+          "answer": "m"
+        }
+      ]
+    },
+    {
+      "id": "en-p6-l15",
+      "title": "Review 7",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "3",
+          "name": "trace"
+        },
+        {
+          "glyph": "O",
+          "name": "trace"
+        },
+        {
+          "glyph": "m",
+          "name": "trace"
+        },
+        {
+          "glyph": "mom",
+          "name": "trace"
+        },
+        {
+          "glyph": "toy",
+          "name": "trace"
+        },
+        {
+          "glyph": "n",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "3",
+            "O",
+            "m",
+            "mom"
+          ],
+          "answer": "3"
+        }
+      ]
+    },
+    {
+      "id": "en-p6-l16",
+      "title": "Review 8",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "mom",
+          "name": "trace"
+        },
+        {
+          "glyph": "P",
+          "name": "trace"
+        },
+        {
+          "glyph": "J",
+          "name": "trace"
+        },
+        {
+          "glyph": "F",
+          "name": "trace"
+        },
+        {
+          "glyph": "f",
+          "name": "trace"
+        },
+        {
+          "glyph": "q",
+          "name": "trace"
+        },
+        {
+          "glyph": "1",
+          "name": "trace"
+        },
+        {
+          "glyph": "7",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "mom",
+            "P",
+            "J",
+            "F"
+          ],
+          "answer": "mom"
+        }
+      ]
+    },
+    {
+      "id": "en-p6-l17",
+      "title": "Review 9",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "s",
+          "name": "trace"
+        },
+        {
+          "glyph": "toy",
+          "name": "trace"
+        },
+        {
+          "glyph": "G",
+          "name": "trace"
+        },
+        {
+          "glyph": "P",
+          "name": "trace"
+        },
+        {
+          "glyph": "g",
+          "name": "trace"
+        },
+        {
+          "glyph": "sit",
+          "name": "trace"
+        },
+        {
+          "glyph": "x",
+          "name": "trace"
+        },
+        {
+          "glyph": "z",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "s",
+            "toy",
+            "G",
+            "P"
+          ],
+          "answer": "s"
+        }
+      ]
+    },
+    {
+      "id": "en-p6-l18",
+      "title": "Review 10",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "P",
+          "name": "trace"
+        },
+        {
+          "glyph": "mom",
+          "name": "trace"
+        },
+        {
+          "glyph": "bus",
+          "name": "trace"
+        },
+        {
+          "glyph": "X",
+          "name": "trace"
+        },
+        {
+          "glyph": "box",
+          "name": "trace"
+        },
+        {
+          "glyph": "v",
+          "name": "trace"
+        },
+        {
+          "glyph": "4",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "P",
+            "mom",
+            "bus",
+            "X"
+          ],
+          "answer": "P"
+        }
+      ]
+    },
+    {
+      "id": "en-p6-l19",
+      "title": "Review 11",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "N",
+          "name": "trace"
+        },
+        {
+          "glyph": "6",
+          "name": "trace"
+        },
+        {
+          "glyph": "S",
+          "name": "trace"
+        },
+        {
+          "glyph": "e",
+          "name": "trace"
+        },
+        {
+          "glyph": "V",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "N",
+            "6",
+            "S",
+            "e"
+          ],
+          "answer": "N"
+        }
+      ]
+    },
+    {
+      "id": "en-p6-l20",
+      "title": "Review 12",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "h",
+          "name": "trace"
+        },
+        {
+          "glyph": "sun",
+          "name": "trace"
+        },
+        {
+          "glyph": "k",
+          "name": "trace"
+        },
+        {
+          "glyph": "6",
+          "name": "trace"
+        },
+        {
+          "glyph": "c",
+          "name": "trace"
+        },
+        {
+          "glyph": "H",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "h",
+            "sun",
+            "k",
+            "6"
+          ],
+          "answer": "h"
+        }
+      ]
+    },
+    {
+      "id": "en-p6-l21",
+      "title": "Review 13",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Z",
+          "name": "trace"
+        },
+        {
+          "glyph": "mom",
+          "name": "trace"
+        },
+        {
+          "glyph": "b",
+          "name": "trace"
+        },
+        {
+          "glyph": "P",
+          "name": "trace"
+        },
+        {
+          "glyph": "e",
+          "name": "trace"
+        },
+        {
+          "glyph": "8",
+          "name": "trace"
+        },
+        {
+          "glyph": "J",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "Z",
+            "mom",
+            "b",
+            "P"
+          ],
+          "answer": "Z"
+        }
+      ]
+    },
+    {
+      "id": "en-p6-l22",
+      "title": "Review 14",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "bus",
+          "name": "trace"
+        },
+        {
+          "glyph": "sky",
+          "name": "trace"
+        },
+        {
+          "glyph": "S",
+          "name": "trace"
+        },
+        {
+          "glyph": "V",
+          "name": "trace"
+        },
+        {
+          "glyph": "j",
+          "name": "trace"
+        },
+        {
+          "glyph": "ice",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "bus",
+            "sky",
+            "S",
+            "V"
+          ],
+          "answer": "bus"
+        }
+      ]
+    },
+    {
+      "id": "en-p6-l23",
+      "title": "Review 15",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "O",
+          "name": "trace"
+        },
+        {
+          "glyph": "H",
+          "name": "trace"
+        },
+        {
+          "glyph": "B",
+          "name": "trace"
+        },
+        {
+          "glyph": "toy",
+          "name": "trace"
+        },
+        {
+          "glyph": "jam",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "O",
+            "H",
+            "B",
+            "toy"
+          ],
+          "answer": "O"
+        }
+      ]
+    },
+    {
+      "id": "en-p6-l24",
+      "title": "Review 16",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "toy",
+          "name": "trace"
+        },
+        {
+          "glyph": "t",
+          "name": "trace"
+        },
+        {
+          "glyph": "O",
+          "name": "trace"
+        },
+        {
+          "glyph": "3",
+          "name": "trace"
+        },
+        {
+          "glyph": "9",
+          "name": "trace"
+        },
+        {
+          "glyph": "d",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "toy",
+            "t",
+            "O",
+            "3"
+          ],
+          "answer": "toy"
+        }
+      ]
+    },
+    {
+      "id": "en-p6-l25",
+      "title": "Review 17",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "1",
+          "name": "trace"
+        },
+        {
+          "glyph": "ant",
+          "name": "trace"
+        },
+        {
+          "glyph": "r",
+          "name": "trace"
+        },
+        {
+          "glyph": "e",
+          "name": "trace"
+        },
+        {
+          "glyph": "y",
+          "name": "trace"
+        },
+        {
+          "glyph": "G",
+          "name": "trace"
+        },
+        {
+          "glyph": "D",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "1",
+            "ant",
+            "r",
+            "e"
+          ],
+          "answer": "1"
+        }
+      ]
+    },
+    {
+      "id": "en-p6-l26",
+      "title": "Review 18",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "w",
+          "name": "trace"
+        },
+        {
+          "glyph": "t",
+          "name": "trace"
+        },
+        {
+          "glyph": "1",
+          "name": "trace"
+        },
+        {
+          "glyph": "z",
+          "name": "trace"
+        },
+        {
+          "glyph": "cat",
+          "name": "trace"
+        },
+        {
+          "glyph": "j",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "w",
+            "t",
+            "1",
+            "z"
+          ],
+          "answer": "w"
+        }
+      ]
+    },
+    {
+      "id": "en-p6-l27",
+      "title": "Review 19",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "g",
+          "name": "trace"
+        },
+        {
+          "glyph": "box",
+          "name": "trace"
+        },
+        {
+          "glyph": "k",
+          "name": "trace"
+        },
+        {
+          "glyph": "r",
+          "name": "trace"
+        },
+        {
+          "glyph": "P",
+          "name": "trace"
+        },
+        {
+          "glyph": "n",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "g",
+            "box",
+            "k",
+            "r"
+          ],
+          "answer": "g"
+        }
+      ]
+    },
+    {
+      "id": "en-p6-l28",
+      "title": "Review 20",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "g",
+          "name": "trace"
+        },
+        {
+          "glyph": "pig",
+          "name": "trace"
+        },
+        {
+          "glyph": "z",
+          "name": "trace"
+        },
+        {
+          "glyph": "N",
+          "name": "trace"
+        },
+        {
+          "glyph": "a",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "g",
+            "pig",
+            "z",
+            "N"
+          ],
+          "answer": "g"
+        }
+      ]
+    },
+    {
+      "id": "en-p6-l29",
+      "title": "Review 21",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ant",
+          "name": "trace"
+        },
+        {
+          "glyph": "R",
+          "name": "trace"
+        },
+        {
+          "glyph": "K",
+          "name": "trace"
+        },
+        {
+          "glyph": "C",
+          "name": "trace"
+        },
+        {
+          "glyph": "d",
+          "name": "trace"
+        },
+        {
+          "glyph": "p",
+          "name": "trace"
+        },
+        {
+          "glyph": "t",
+          "name": "trace"
+        },
+        {
+          "glyph": "box",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "ant",
+            "R",
+            "K",
+            "C"
+          ],
+          "answer": "ant"
+        }
+      ]
+    },
+    {
+      "id": "en-p6-l30",
+      "title": "Review 22",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "h",
+          "name": "trace"
+        },
+        {
+          "glyph": "toy",
+          "name": "trace"
+        },
+        {
+          "glyph": "g",
+          "name": "trace"
+        },
+        {
+          "glyph": "Y",
+          "name": "trace"
+        },
+        {
+          "glyph": "T",
+          "name": "trace"
+        },
+        {
+          "glyph": "3",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "h",
+            "toy",
+            "g",
+            "Y"
+          ],
+          "answer": "h"
+        }
+      ]
+    },
+    {
+      "id": "en-p6-l31",
+      "title": "Review 23",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "3",
+          "name": "trace"
+        },
+        {
+          "glyph": "f",
+          "name": "trace"
+        },
+        {
+          "glyph": "box",
+          "name": "trace"
+        },
+        {
+          "glyph": "I",
+          "name": "trace"
+        },
+        {
+          "glyph": "J",
+          "name": "trace"
+        },
+        {
+          "glyph": "q",
+          "name": "trace"
+        },
+        {
+          "glyph": "4",
+          "name": "trace"
+        },
+        {
+          "glyph": "y",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "3",
+            "f",
+            "box",
+            "I"
+          ],
+          "answer": "3"
+        }
+      ]
+    },
+    {
+      "id": "en-p6-l32",
+      "title": "Review 24",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "dog",
+          "name": "trace"
+        },
+        {
+          "glyph": "sky",
+          "name": "trace"
+        },
+        {
+          "glyph": "l",
+          "name": "trace"
+        },
+        {
+          "glyph": "C",
+          "name": "trace"
+        },
+        {
+          "glyph": "run",
+          "name": "trace"
+        },
+        {
+          "glyph": "c",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "dog",
+            "sky",
+            "l",
+            "C"
+          ],
+          "answer": "dog"
+        }
+      ]
+    },
+    {
+      "id": "en-p6-l33",
+      "title": "Review 25",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "run",
+          "name": "trace"
+        },
+        {
+          "glyph": "0",
+          "name": "trace"
+        },
+        {
+          "glyph": "c",
+          "name": "trace"
+        },
+        {
+          "glyph": "8",
+          "name": "trace"
+        },
+        {
+          "glyph": "E",
+          "name": "trace"
+        },
+        {
+          "glyph": "L",
+          "name": "trace"
+        },
+        {
+          "glyph": "v",
+          "name": "trace"
+        },
+        {
+          "glyph": "Q",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "run",
+            "0",
+            "c",
+            "8"
+          ],
+          "answer": "run"
+        }
+      ]
+    },
+    {
+      "id": "en-p6-l34",
+      "title": "Review 26",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "m",
+          "name": "trace"
+        },
+        {
+          "glyph": "r",
+          "name": "trace"
+        },
+        {
+          "glyph": "box",
+          "name": "trace"
+        },
+        {
+          "glyph": "B",
+          "name": "trace"
+        },
+        {
+          "glyph": "fly",
+          "name": "trace"
+        },
+        {
+          "glyph": "C",
+          "name": "trace"
+        },
+        {
+          "glyph": "ice",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "m",
+            "r",
+            "box",
+            "B"
+          ],
+          "answer": "m"
+        }
+      ]
+    },
+    {
+      "id": "en-p6-l35",
+      "title": "Review 27",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "m",
+          "name": "trace"
+        },
+        {
+          "glyph": "mom",
+          "name": "trace"
+        },
+        {
+          "glyph": "c",
+          "name": "trace"
+        },
+        {
+          "glyph": "G",
+          "name": "trace"
+        },
+        {
+          "glyph": "p",
+          "name": "trace"
+        },
+        {
+          "glyph": "4",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "m",
+            "mom",
+            "c",
+            "G"
+          ],
+          "answer": "m"
+        }
+      ]
+    },
+    {
+      "id": "en-p6-l36",
+      "title": "Review 28",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "mom",
+          "name": "trace"
+        },
+        {
+          "glyph": "b",
+          "name": "trace"
+        },
+        {
+          "glyph": "N",
+          "name": "trace"
+        },
+        {
+          "glyph": "P",
+          "name": "trace"
+        },
+        {
+          "glyph": "K",
+          "name": "trace"
+        },
+        {
+          "glyph": "q",
+          "name": "trace"
+        },
+        {
+          "glyph": "n",
+          "name": "trace"
+        },
+        {
+          "glyph": "j",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "mom",
+            "b",
+            "N",
+            "P"
+          ],
+          "answer": "mom"
+        }
+      ]
+    },
+    {
+      "id": "en-p6-l37",
+      "title": "Review 29",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "R",
+          "name": "trace"
+        },
+        {
+          "glyph": "Z",
+          "name": "trace"
+        },
+        {
+          "glyph": "sit",
+          "name": "trace"
+        },
+        {
+          "glyph": "5",
+          "name": "trace"
+        },
+        {
+          "glyph": "r",
+          "name": "trace"
+        },
+        {
+          "glyph": "4",
+          "name": "trace"
+        },
+        {
+          "glyph": "B",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "R",
+            "Z",
+            "sit",
+            "5"
+          ],
+          "answer": "R"
+        }
+      ]
+    },
+    {
+      "id": "en-p6-l38",
+      "title": "Review 30",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "U",
+          "name": "trace"
+        },
+        {
+          "glyph": "Q",
+          "name": "trace"
+        },
+        {
+          "glyph": "i",
+          "name": "trace"
+        },
+        {
+          "glyph": "0",
+          "name": "trace"
+        },
+        {
+          "glyph": "6",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "U",
+            "Q",
+            "i",
+            "0"
+          ],
+          "answer": "U"
+        }
+      ]
+    },
+    {
+      "id": "en-p6-l39",
+      "title": "Review 31",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "S",
+          "name": "trace"
+        },
+        {
+          "glyph": "sit",
+          "name": "trace"
+        },
+        {
+          "glyph": "5",
+          "name": "trace"
+        },
+        {
+          "glyph": "Q",
+          "name": "trace"
+        },
+        {
+          "glyph": "h",
+          "name": "trace"
+        },
+        {
+          "glyph": "g",
+          "name": "trace"
+        },
+        {
+          "glyph": "T",
+          "name": "trace"
+        },
+        {
+          "glyph": "q",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "S",
+            "sit",
+            "5",
+            "Q"
+          ],
+          "answer": "S"
+        }
+      ]
+    },
+    {
+      "id": "en-p6-l40",
+      "title": "Review 32",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "bus",
+          "name": "trace"
+        },
+        {
+          "glyph": "j",
+          "name": "trace"
+        },
+        {
+          "glyph": "4",
+          "name": "trace"
+        },
+        {
+          "glyph": "5",
+          "name": "trace"
+        },
+        {
+          "glyph": "8",
+          "name": "trace"
+        },
+        {
+          "glyph": "2",
+          "name": "trace"
+        },
+        {
+          "glyph": "ice",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "bus",
+            "j",
+            "4",
+            "5"
+          ],
+          "answer": "bus"
+        }
+      ]
     }
   ]
 }

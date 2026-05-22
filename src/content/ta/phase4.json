@@ -286,6 +286,2223 @@
           "answer": "மேகம்"
         }
       ]
+    },
+    {
+      "id": "ta-p4-l5",
+      "title": "மீள்பார்வை 1",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "திராட்சை",
+          "name": "thiratchai",
+          "exampleWord": "grape"
+        },
+        {
+          "glyph": "ஆரஞ்சு",
+          "name": "aaranju",
+          "exampleWord": "orange"
+        },
+        {
+          "glyph": "தலையணை",
+          "name": "thalaiyanai",
+          "exampleWord": "pillow"
+        },
+        {
+          "glyph": "மழைக்காலம்",
+          "name": "mazhaikaalam",
+          "exampleWord": "rainy season"
+        },
+        {
+          "glyph": "பனிமலை",
+          "name": "panimalai",
+          "exampleWord": "snow mountain"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'cloud'?",
+          "options": [
+            "மேகம்",
+            "நட்சத்திரம்",
+            "கோடைகாலம்",
+            "மழைக்காலம்"
+          ],
+          "answer": "மேகம்"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'table'?",
+          "options": [
+            "மேசை",
+            "நாற்காலி",
+            "கதவு",
+            "ஜன்னல்"
+          ],
+          "answer": "மேசை"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l6",
+      "title": "மீள்பார்வை 2",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "நாற்காலி",
+          "name": "naarkaali",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "நட்சத்திரம்",
+          "name": "natchaththiram",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "கதவு",
+          "name": "kadhavu",
+          "exampleWord": "door"
+        },
+        {
+          "glyph": "காய்கறி",
+          "name": "kaaikari",
+          "exampleWord": "vegetables"
+        },
+        {
+          "glyph": "இனிப்பு",
+          "name": "inippu",
+          "exampleWord": "sweet"
+        },
+        {
+          "glyph": "தொலைபேசி",
+          "name": "tholaipesi",
+          "exampleWord": "phone"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet'?",
+          "options": [
+            "இனிப்பு",
+            "பழங்கள்",
+            "காய்கறி",
+            "சாக்லேட்"
+          ],
+          "answer": "இனிப்பு"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l7",
+      "title": "மீள்பார்வை 3",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ஒட்டகம்",
+          "name": "ottakam",
+          "exampleWord": "camel"
+        },
+        {
+          "glyph": "சாக்லேட்",
+          "name": "chocolate",
+          "exampleWord": "chocolate"
+        },
+        {
+          "glyph": "குரங்கு",
+          "name": "kurangu",
+          "exampleWord": "monkey"
+        },
+        {
+          "glyph": "கோடைகாலம்",
+          "name": "kodaikaalam",
+          "exampleWord": "summer"
+        },
+        {
+          "glyph": "இனிப்பு",
+          "name": "inippu",
+          "exampleWord": "sweet"
+        },
+        {
+          "glyph": "நரி",
+          "name": "nari",
+          "exampleWord": "fox"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "யானை",
+            "குரங்கு",
+            "சிங்கம்",
+            "கரடி"
+          ],
+          "answer": "யானை"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet'?",
+          "options": [
+            "இனிப்பு",
+            "பழங்கள்",
+            "காய்கறி",
+            "சாக்லேட்"
+          ],
+          "answer": "இனிப்பு"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l8",
+      "title": "மீள்பார்வை 4",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "கடற்கரை",
+          "name": "kadarkarai",
+          "exampleWord": "beach"
+        },
+        {
+          "glyph": "கரடி",
+          "name": "karadi",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "பனிமலை",
+          "name": "panimalai",
+          "exampleWord": "snow mountain"
+        },
+        {
+          "glyph": "கழுதை",
+          "name": "kazhuthai",
+          "exampleWord": "donkey"
+        },
+        {
+          "glyph": "குரங்கு",
+          "name": "kurangu",
+          "exampleWord": "monkey"
+        },
+        {
+          "glyph": "நதிக்கரை",
+          "name": "nathikkarai",
+          "exampleWord": "riverbank"
+        },
+        {
+          "glyph": "நரி",
+          "name": "nari",
+          "exampleWord": "fox"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'cloud'?",
+          "options": [
+            "மேகம்",
+            "நட்சத்திரம்",
+            "கோடைகாலம்",
+            "மழைக்காலம்"
+          ],
+          "answer": "மேகம்"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet'?",
+          "options": [
+            "இனிப்பு",
+            "பழங்கள்",
+            "காய்கறி",
+            "சாக்லேட்"
+          ],
+          "answer": "இனிப்பு"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l9",
+      "title": "மீள்பார்வை 5",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "காடு",
+          "name": "kaadu",
+          "exampleWord": "forest"
+        },
+        {
+          "glyph": "பால்கட்டி",
+          "name": "paalkatti",
+          "exampleWord": "cheese"
+        },
+        {
+          "glyph": "மேகம்",
+          "name": "megam",
+          "exampleWord": "cloud"
+        },
+        {
+          "glyph": "வண்ணத்துப்பூச்சி",
+          "name": "vannathupoochi",
+          "exampleWord": "butterfly"
+        },
+        {
+          "glyph": "சாக்லேட்",
+          "name": "chocolate",
+          "exampleWord": "chocolate"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'table'?",
+          "options": [
+            "மேசை",
+            "நாற்காலி",
+            "கதவு",
+            "ஜன்னல்"
+          ],
+          "answer": "மேசை"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l10",
+      "title": "மீள்பார்வை 6",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "கழுதை",
+          "name": "kazhuthai",
+          "exampleWord": "donkey"
+        },
+        {
+          "glyph": "மழைக்காலம்",
+          "name": "mazhaikaalam",
+          "exampleWord": "rainy season"
+        },
+        {
+          "glyph": "வாழைப்பழம்",
+          "name": "vaazhaippazham",
+          "exampleWord": "banana"
+        },
+        {
+          "glyph": "ஒட்டகம்",
+          "name": "ottakam",
+          "exampleWord": "camel"
+        },
+        {
+          "glyph": "சட்டி",
+          "name": "satti",
+          "exampleWord": "pot"
+        },
+        {
+          "glyph": "வானவில்",
+          "name": "vaanavil",
+          "exampleWord": "rainbow"
+        },
+        {
+          "glyph": "கோடைகாலம்",
+          "name": "kodaikaalam",
+          "exampleWord": "summer"
+        },
+        {
+          "glyph": "நரி",
+          "name": "nari",
+          "exampleWord": "fox"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "யானை",
+            "குரங்கு",
+            "சிங்கம்",
+            "கரடி"
+          ],
+          "answer": "யானை"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'cloud'?",
+          "options": [
+            "மேகம்",
+            "நட்சத்திரம்",
+            "கோடைகாலம்",
+            "மழைக்காலம்"
+          ],
+          "answer": "மேகம்"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l11",
+      "title": "மீள்பார்வை 7",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "காய்கறி",
+          "name": "kaaikari",
+          "exampleWord": "vegetables"
+        },
+        {
+          "glyph": "பனிமலை",
+          "name": "panimalai",
+          "exampleWord": "snow mountain"
+        },
+        {
+          "glyph": "வானவில்",
+          "name": "vaanavil",
+          "exampleWord": "rainbow"
+        },
+        {
+          "glyph": "பால்கட்டி",
+          "name": "paalkatti",
+          "exampleWord": "cheese"
+        },
+        {
+          "glyph": "மழைக்காலம்",
+          "name": "mazhaikaalam",
+          "exampleWord": "rainy season"
+        },
+        {
+          "glyph": "நதிக்கரை",
+          "name": "nathikkarai",
+          "exampleWord": "riverbank"
+        },
+        {
+          "glyph": "கதவு",
+          "name": "kadhavu",
+          "exampleWord": "door"
+        },
+        {
+          "glyph": "சட்டி",
+          "name": "satti",
+          "exampleWord": "pot"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet'?",
+          "options": [
+            "இனிப்பு",
+            "பழங்கள்",
+            "காய்கறி",
+            "சாக்லேட்"
+          ],
+          "answer": "இனிப்பு"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "யானை",
+            "குரங்கு",
+            "சிங்கம்",
+            "கரடி"
+          ],
+          "answer": "யானை"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l12",
+      "title": "மீள்பார்வை 8",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "சாக்லேட்",
+          "name": "chocolate",
+          "exampleWord": "chocolate"
+        },
+        {
+          "glyph": "மேகம்",
+          "name": "megam",
+          "exampleWord": "cloud"
+        },
+        {
+          "glyph": "நாற்காலி",
+          "name": "naarkaali",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "கேக்",
+          "name": "cake",
+          "exampleWord": "cake"
+        },
+        {
+          "glyph": "யானை",
+          "name": "yaanai",
+          "exampleWord": "elephant"
+        },
+        {
+          "glyph": "காடு",
+          "name": "kaadu",
+          "exampleWord": "forest"
+        },
+        {
+          "glyph": "மான்",
+          "name": "maan",
+          "exampleWord": "deer"
+        },
+        {
+          "glyph": "நரி",
+          "name": "nari",
+          "exampleWord": "fox"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet'?",
+          "options": [
+            "இனிப்பு",
+            "பழங்கள்",
+            "காய்கறி",
+            "சாக்லேட்"
+          ],
+          "answer": "இனிப்பு"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "யானை",
+            "குரங்கு",
+            "சிங்கம்",
+            "கரடி"
+          ],
+          "answer": "யானை"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l13",
+      "title": "மீள்பார்வை 9",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "கழுதை",
+          "name": "kazhuthai",
+          "exampleWord": "donkey"
+        },
+        {
+          "glyph": "பால்கட்டி",
+          "name": "paalkatti",
+          "exampleWord": "cheese"
+        },
+        {
+          "glyph": "பிரட்",
+          "name": "bread",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "தலையணை",
+          "name": "thalaiyanai",
+          "exampleWord": "pillow"
+        },
+        {
+          "glyph": "ஆரஞ்சு",
+          "name": "aaranju",
+          "exampleWord": "orange"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'cloud'?",
+          "options": [
+            "மேகம்",
+            "நட்சத்திரம்",
+            "கோடைகாலம்",
+            "மழைக்காலம்"
+          ],
+          "answer": "மேகம்"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "யானை",
+            "குரங்கு",
+            "சிங்கம்",
+            "கரடி"
+          ],
+          "answer": "யானை"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l14",
+      "title": "மீள்பார்வை 10",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "பழங்கள்",
+          "name": "pazhangal",
+          "exampleWord": "fruits"
+        },
+        {
+          "glyph": "சிங்கம்",
+          "name": "singam",
+          "exampleWord": "lion"
+        },
+        {
+          "glyph": "ஆரஞ்சு",
+          "name": "aaranju",
+          "exampleWord": "orange"
+        },
+        {
+          "glyph": "ஜன்னல்",
+          "name": "jannal",
+          "exampleWord": "window"
+        },
+        {
+          "glyph": "மேசை",
+          "name": "mesai",
+          "exampleWord": "table"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "யானை",
+            "குரங்கு",
+            "சிங்கம்",
+            "கரடி"
+          ],
+          "answer": "யானை"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'cloud'?",
+          "options": [
+            "மேகம்",
+            "நட்சத்திரம்",
+            "கோடைகாலம்",
+            "மழைக்காலம்"
+          ],
+          "answer": "மேகம்"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l15",
+      "title": "மீள்பார்வை 11",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "யானை",
+          "name": "yaanai",
+          "exampleWord": "elephant"
+        },
+        {
+          "glyph": "ஒட்டகம்",
+          "name": "ottakam",
+          "exampleWord": "camel"
+        },
+        {
+          "glyph": "இனிப்பு",
+          "name": "inippu",
+          "exampleWord": "sweet"
+        },
+        {
+          "glyph": "நாற்காலி",
+          "name": "naarkaali",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "கதவு",
+          "name": "kadhavu",
+          "exampleWord": "door"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'table'?",
+          "options": [
+            "மேசை",
+            "நாற்காலி",
+            "கதவு",
+            "ஜன்னல்"
+          ],
+          "answer": "மேசை"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'cloud'?",
+          "options": [
+            "மேகம்",
+            "நட்சத்திரம்",
+            "கோடைகாலம்",
+            "மழைக்காலம்"
+          ],
+          "answer": "மேகம்"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l16",
+      "title": "மீள்பார்வை 12",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ஜன்னல்",
+          "name": "jannal",
+          "exampleWord": "window"
+        },
+        {
+          "glyph": "நாற்காலி",
+          "name": "naarkaali",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "பழங்கள்",
+          "name": "pazhangal",
+          "exampleWord": "fruits"
+        },
+        {
+          "glyph": "நரி",
+          "name": "nari",
+          "exampleWord": "fox"
+        },
+        {
+          "glyph": "தொலைபேசி",
+          "name": "tholaipesi",
+          "exampleWord": "phone"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'cloud'?",
+          "options": [
+            "மேகம்",
+            "நட்சத்திரம்",
+            "கோடைகாலம்",
+            "மழைக்காலம்"
+          ],
+          "answer": "மேகம்"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet'?",
+          "options": [
+            "இனிப்பு",
+            "பழங்கள்",
+            "காய்கறி",
+            "சாக்லேட்"
+          ],
+          "answer": "இனிப்பு"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l17",
+      "title": "மீள்பார்வை 13",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "மேகம்",
+          "name": "megam",
+          "exampleWord": "cloud"
+        },
+        {
+          "glyph": "சட்டி",
+          "name": "satti",
+          "exampleWord": "pot"
+        },
+        {
+          "glyph": "இனிப்பு",
+          "name": "inippu",
+          "exampleWord": "sweet"
+        },
+        {
+          "glyph": "நரி",
+          "name": "nari",
+          "exampleWord": "fox"
+        },
+        {
+          "glyph": "ஒட்டகம்",
+          "name": "ottakam",
+          "exampleWord": "camel"
+        },
+        {
+          "glyph": "கரடி",
+          "name": "karadi",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "நதிக்கரை",
+          "name": "nathikkarai",
+          "exampleWord": "riverbank"
+        },
+        {
+          "glyph": "கழுதை",
+          "name": "kazhuthai",
+          "exampleWord": "donkey"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'cloud'?",
+          "options": [
+            "மேகம்",
+            "நட்சத்திரம்",
+            "கோடைகாலம்",
+            "மழைக்காலம்"
+          ],
+          "answer": "மேகம்"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'table'?",
+          "options": [
+            "மேசை",
+            "நாற்காலி",
+            "கதவு",
+            "ஜன்னல்"
+          ],
+          "answer": "மேசை"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l18",
+      "title": "மீள்பார்வை 14",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "பழங்கள்",
+          "name": "pazhangal",
+          "exampleWord": "fruits"
+        },
+        {
+          "glyph": "படுக்கை",
+          "name": "padukkai",
+          "exampleWord": "bed"
+        },
+        {
+          "glyph": "கதவு",
+          "name": "kadhavu",
+          "exampleWord": "door"
+        },
+        {
+          "glyph": "குரங்கு",
+          "name": "kurangu",
+          "exampleWord": "monkey"
+        },
+        {
+          "glyph": "ஒட்டகம்",
+          "name": "ottakam",
+          "exampleWord": "camel"
+        },
+        {
+          "glyph": "மேகம்",
+          "name": "megam",
+          "exampleWord": "cloud"
+        },
+        {
+          "glyph": "நட்சத்திரம்",
+          "name": "natchaththiram",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "நரி",
+          "name": "nari",
+          "exampleWord": "fox"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'cloud'?",
+          "options": [
+            "மேகம்",
+            "நட்சத்திரம்",
+            "கோடைகாலம்",
+            "மழைக்காலம்"
+          ],
+          "answer": "மேகம்"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "யானை",
+            "குரங்கு",
+            "சிங்கம்",
+            "கரடி"
+          ],
+          "answer": "யானை"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l19",
+      "title": "மீள்பார்வை 15",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "பால்கட்டி",
+          "name": "paalkatti",
+          "exampleWord": "cheese"
+        },
+        {
+          "glyph": "மேசை",
+          "name": "mesai",
+          "exampleWord": "table"
+        },
+        {
+          "glyph": "யானை",
+          "name": "yaanai",
+          "exampleWord": "elephant"
+        },
+        {
+          "glyph": "மழைக்காலம்",
+          "name": "mazhaikaalam",
+          "exampleWord": "rainy season"
+        },
+        {
+          "glyph": "பாலைவனம்",
+          "name": "paalaivanam",
+          "exampleWord": "desert"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'table'?",
+          "options": [
+            "மேசை",
+            "நாற்காலி",
+            "கதவு",
+            "ஜன்னல்"
+          ],
+          "answer": "மேசை"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l20",
+      "title": "மீள்பார்வை 16",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "கரண்டி",
+          "name": "karandi",
+          "exampleWord": "spoon"
+        },
+        {
+          "glyph": "கேக்",
+          "name": "cake",
+          "exampleWord": "cake"
+        },
+        {
+          "glyph": "மேகம்",
+          "name": "megam",
+          "exampleWord": "cloud"
+        },
+        {
+          "glyph": "கதவு",
+          "name": "kadhavu",
+          "exampleWord": "door"
+        },
+        {
+          "glyph": "படுக்கை",
+          "name": "padukkai",
+          "exampleWord": "bed"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "யானை",
+            "குரங்கு",
+            "சிங்கம்",
+            "கரடி"
+          ],
+          "answer": "யானை"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l21",
+      "title": "மீள்பார்வை 17",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "இனிப்பு",
+          "name": "inippu",
+          "exampleWord": "sweet"
+        },
+        {
+          "glyph": "கோடைகாலம்",
+          "name": "kodaikaalam",
+          "exampleWord": "summer"
+        },
+        {
+          "glyph": "மேகம்",
+          "name": "megam",
+          "exampleWord": "cloud"
+        },
+        {
+          "glyph": "நட்சத்திரம்",
+          "name": "natchaththiram",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "ஓநாய்",
+          "name": "onaai",
+          "exampleWord": "wolf"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'table'?",
+          "options": [
+            "மேசை",
+            "நாற்காலி",
+            "கதவு",
+            "ஜன்னல்"
+          ],
+          "answer": "மேசை"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "யானை",
+            "குரங்கு",
+            "சிங்கம்",
+            "கரடி"
+          ],
+          "answer": "யானை"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l22",
+      "title": "மீள்பார்வை 18",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "வாழைப்பழம்",
+          "name": "vaazhaippazham",
+          "exampleWord": "banana"
+        },
+        {
+          "glyph": "கரடி",
+          "name": "karadi",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "கோடைகாலம்",
+          "name": "kodaikaalam",
+          "exampleWord": "summer"
+        },
+        {
+          "glyph": "பிரட்",
+          "name": "bread",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "காடு",
+          "name": "kaadu",
+          "exampleWord": "forest"
+        },
+        {
+          "glyph": "படுக்கை",
+          "name": "padukkai",
+          "exampleWord": "bed"
+        },
+        {
+          "glyph": "தொலைபேசி",
+          "name": "tholaipesi",
+          "exampleWord": "phone"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "யானை",
+            "குரங்கு",
+            "சிங்கம்",
+            "கரடி"
+          ],
+          "answer": "யானை"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l23",
+      "title": "மீள்பார்வை 19",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "கண்ணாடி",
+          "name": "kannaadi",
+          "exampleWord": "mirror"
+        },
+        {
+          "glyph": "பாலைவனம்",
+          "name": "paalaivanam",
+          "exampleWord": "desert"
+        },
+        {
+          "glyph": "வானவில்",
+          "name": "vaanavil",
+          "exampleWord": "rainbow"
+        },
+        {
+          "glyph": "மான்",
+          "name": "maan",
+          "exampleWord": "deer"
+        },
+        {
+          "glyph": "நட்சத்திரம்",
+          "name": "natchaththiram",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "நதிக்கரை",
+          "name": "nathikkarai",
+          "exampleWord": "riverbank"
+        },
+        {
+          "glyph": "மேசை",
+          "name": "mesai",
+          "exampleWord": "table"
+        },
+        {
+          "glyph": "நரி",
+          "name": "nari",
+          "exampleWord": "fox"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "யானை",
+            "குரங்கு",
+            "சிங்கம்",
+            "கரடி"
+          ],
+          "answer": "யானை"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'cloud'?",
+          "options": [
+            "மேகம்",
+            "நட்சத்திரம்",
+            "கோடைகாலம்",
+            "மழைக்காலம்"
+          ],
+          "answer": "மேகம்"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l24",
+      "title": "மீள்பார்வை 20",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "சட்டி",
+          "name": "satti",
+          "exampleWord": "pot"
+        },
+        {
+          "glyph": "சிங்கம்",
+          "name": "singam",
+          "exampleWord": "lion"
+        },
+        {
+          "glyph": "காடு",
+          "name": "kaadu",
+          "exampleWord": "forest"
+        },
+        {
+          "glyph": "நதிக்கரை",
+          "name": "nathikkarai",
+          "exampleWord": "riverbank"
+        },
+        {
+          "glyph": "யானை",
+          "name": "yaanai",
+          "exampleWord": "elephant"
+        },
+        {
+          "glyph": "மான்",
+          "name": "maan",
+          "exampleWord": "deer"
+        },
+        {
+          "glyph": "திராட்சை",
+          "name": "thiratchai",
+          "exampleWord": "grape"
+        },
+        {
+          "glyph": "கோடைகாலம்",
+          "name": "kodaikaalam",
+          "exampleWord": "summer"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'cloud'?",
+          "options": [
+            "மேகம்",
+            "நட்சத்திரம்",
+            "கோடைகாலம்",
+            "மழைக்காலம்"
+          ],
+          "answer": "மேகம்"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l25",
+      "title": "மீள்பார்வை 21",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ஜன்னல்",
+          "name": "jannal",
+          "exampleWord": "window"
+        },
+        {
+          "glyph": "கரடி",
+          "name": "karadi",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "பிரட்",
+          "name": "bread",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "தலையணை",
+          "name": "thalaiyanai",
+          "exampleWord": "pillow"
+        },
+        {
+          "glyph": "நாற்காலி",
+          "name": "naarkaali",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "மேகம்",
+          "name": "megam",
+          "exampleWord": "cloud"
+        },
+        {
+          "glyph": "வானவில்",
+          "name": "vaanavil",
+          "exampleWord": "rainbow"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "யானை",
+            "குரங்கு",
+            "சிங்கம்",
+            "கரடி"
+          ],
+          "answer": "யானை"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'cloud'?",
+          "options": [
+            "மேகம்",
+            "நட்சத்திரம்",
+            "கோடைகாலம்",
+            "மழைக்காலம்"
+          ],
+          "answer": "மேகம்"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l26",
+      "title": "மீள்பார்வை 22",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "யானை",
+          "name": "yaanai",
+          "exampleWord": "elephant"
+        },
+        {
+          "glyph": "நாற்காலி",
+          "name": "naarkaali",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "கதவு",
+          "name": "kadhavu",
+          "exampleWord": "door"
+        },
+        {
+          "glyph": "ஆரஞ்சு",
+          "name": "aaranju",
+          "exampleWord": "orange"
+        },
+        {
+          "glyph": "காடு",
+          "name": "kaadu",
+          "exampleWord": "forest"
+        },
+        {
+          "glyph": "மழைக்காலம்",
+          "name": "mazhaikaalam",
+          "exampleWord": "rainy season"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "யானை",
+            "குரங்கு",
+            "சிங்கம்",
+            "கரடி"
+          ],
+          "answer": "யானை"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'cloud'?",
+          "options": [
+            "மேகம்",
+            "நட்சத்திரம்",
+            "கோடைகாலம்",
+            "மழைக்காலம்"
+          ],
+          "answer": "மேகம்"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l27",
+      "title": "மீள்பார்வை 23",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "நட்சத்திரம்",
+          "name": "natchaththiram",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "ஒட்டகம்",
+          "name": "ottakam",
+          "exampleWord": "camel"
+        },
+        {
+          "glyph": "சட்டி",
+          "name": "satti",
+          "exampleWord": "pot"
+        },
+        {
+          "glyph": "கழுதை",
+          "name": "kazhuthai",
+          "exampleWord": "donkey"
+        },
+        {
+          "glyph": "பால்கட்டி",
+          "name": "paalkatti",
+          "exampleWord": "cheese"
+        },
+        {
+          "glyph": "காய்கறி",
+          "name": "kaaikari",
+          "exampleWord": "vegetables"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "யானை",
+            "குரங்கு",
+            "சிங்கம்",
+            "கரடி"
+          ],
+          "answer": "யானை"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l28",
+      "title": "மீள்பார்வை 24",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "சாக்லேட்",
+          "name": "chocolate",
+          "exampleWord": "chocolate"
+        },
+        {
+          "glyph": "தலையணை",
+          "name": "thalaiyanai",
+          "exampleWord": "pillow"
+        },
+        {
+          "glyph": "காய்கறி",
+          "name": "kaaikari",
+          "exampleWord": "vegetables"
+        },
+        {
+          "glyph": "நாற்காலி",
+          "name": "naarkaali",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "கழுதை",
+          "name": "kazhuthai",
+          "exampleWord": "donkey"
+        },
+        {
+          "glyph": "சட்டி",
+          "name": "satti",
+          "exampleWord": "pot"
+        },
+        {
+          "glyph": "சிங்கம்",
+          "name": "singam",
+          "exampleWord": "lion"
+        },
+        {
+          "glyph": "நரி",
+          "name": "nari",
+          "exampleWord": "fox"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'cloud'?",
+          "options": [
+            "மேகம்",
+            "நட்சத்திரம்",
+            "கோடைகாலம்",
+            "மழைக்காலம்"
+          ],
+          "answer": "மேகம்"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'table'?",
+          "options": [
+            "மேசை",
+            "நாற்காலி",
+            "கதவு",
+            "ஜன்னல்"
+          ],
+          "answer": "மேசை"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l29",
+      "title": "மீள்பார்வை 25",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "நட்சத்திரம்",
+          "name": "natchaththiram",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "யானை",
+          "name": "yaanai",
+          "exampleWord": "elephant"
+        },
+        {
+          "glyph": "மழைக்காலம்",
+          "name": "mazhaikaalam",
+          "exampleWord": "rainy season"
+        },
+        {
+          "glyph": "கரடி",
+          "name": "karadi",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "காடு",
+          "name": "kaadu",
+          "exampleWord": "forest"
+        },
+        {
+          "glyph": "கரண்டி",
+          "name": "karandi",
+          "exampleWord": "spoon"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet'?",
+          "options": [
+            "இனிப்பு",
+            "பழங்கள்",
+            "காய்கறி",
+            "சாக்லேட்"
+          ],
+          "answer": "இனிப்பு"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'table'?",
+          "options": [
+            "மேசை",
+            "நாற்காலி",
+            "கதவு",
+            "ஜன்னல்"
+          ],
+          "answer": "மேசை"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l30",
+      "title": "மீள்பார்வை 26",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ஒட்டகம்",
+          "name": "ottakam",
+          "exampleWord": "camel"
+        },
+        {
+          "glyph": "கழுதை",
+          "name": "kazhuthai",
+          "exampleWord": "donkey"
+        },
+        {
+          "glyph": "படுக்கை",
+          "name": "padukkai",
+          "exampleWord": "bed"
+        },
+        {
+          "glyph": "மேசை",
+          "name": "mesai",
+          "exampleWord": "table"
+        },
+        {
+          "glyph": "கோடைகாலம்",
+          "name": "kodaikaalam",
+          "exampleWord": "summer"
+        },
+        {
+          "glyph": "நதிக்கரை",
+          "name": "nathikkarai",
+          "exampleWord": "riverbank"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet'?",
+          "options": [
+            "இனிப்பு",
+            "பழங்கள்",
+            "காய்கறி",
+            "சாக்லேட்"
+          ],
+          "answer": "இனிப்பு"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'cloud'?",
+          "options": [
+            "மேகம்",
+            "நட்சத்திரம்",
+            "கோடைகாலம்",
+            "மழைக்காலம்"
+          ],
+          "answer": "மேகம்"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l31",
+      "title": "மீள்பார்வை 27",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "நாற்காலி",
+          "name": "naarkaali",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "ஆரஞ்சு",
+          "name": "aaranju",
+          "exampleWord": "orange"
+        },
+        {
+          "glyph": "கண்ணாடி",
+          "name": "kannaadi",
+          "exampleWord": "mirror"
+        },
+        {
+          "glyph": "ஒட்டகம்",
+          "name": "ottakam",
+          "exampleWord": "camel"
+        },
+        {
+          "glyph": "பாலைவனம்",
+          "name": "paalaivanam",
+          "exampleWord": "desert"
+        },
+        {
+          "glyph": "சட்டி",
+          "name": "satti",
+          "exampleWord": "pot"
+        },
+        {
+          "glyph": "கோடைகாலம்",
+          "name": "kodaikaalam",
+          "exampleWord": "summer"
+        },
+        {
+          "glyph": "திராட்சை",
+          "name": "thiratchai",
+          "exampleWord": "grape"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet'?",
+          "options": [
+            "இனிப்பு",
+            "பழங்கள்",
+            "காய்கறி",
+            "சாக்லேட்"
+          ],
+          "answer": "இனிப்பு"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "யானை",
+            "குரங்கு",
+            "சிங்கம்",
+            "கரடி"
+          ],
+          "answer": "யானை"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l32",
+      "title": "மீள்பார்வை 28",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "வானவில்",
+          "name": "vaanavil",
+          "exampleWord": "rainbow"
+        },
+        {
+          "glyph": "ஆரஞ்சு",
+          "name": "aaranju",
+          "exampleWord": "orange"
+        },
+        {
+          "glyph": "கதவு",
+          "name": "kadhavu",
+          "exampleWord": "door"
+        },
+        {
+          "glyph": "ஒட்டகம்",
+          "name": "ottakam",
+          "exampleWord": "camel"
+        },
+        {
+          "glyph": "பழங்கள்",
+          "name": "pazhangal",
+          "exampleWord": "fruits"
+        },
+        {
+          "glyph": "கோடைகாலம்",
+          "name": "kodaikaalam",
+          "exampleWord": "summer"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "யானை",
+            "குரங்கு",
+            "சிங்கம்",
+            "கரடி"
+          ],
+          "answer": "யானை"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet'?",
+          "options": [
+            "இனிப்பு",
+            "பழங்கள்",
+            "காய்கறி",
+            "சாக்லேட்"
+          ],
+          "answer": "இனிப்பு"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l33",
+      "title": "மீள்பார்வை 29",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "நதிக்கரை",
+          "name": "nathikkarai",
+          "exampleWord": "riverbank"
+        },
+        {
+          "glyph": "பாலைவனம்",
+          "name": "paalaivanam",
+          "exampleWord": "desert"
+        },
+        {
+          "glyph": "சட்டி",
+          "name": "satti",
+          "exampleWord": "pot"
+        },
+        {
+          "glyph": "கடற்கரை",
+          "name": "kadarkarai",
+          "exampleWord": "beach"
+        },
+        {
+          "glyph": "ஆரஞ்சு",
+          "name": "aaranju",
+          "exampleWord": "orange"
+        },
+        {
+          "glyph": "கரண்டி",
+          "name": "karandi",
+          "exampleWord": "spoon"
+        },
+        {
+          "glyph": "யானை",
+          "name": "yaanai",
+          "exampleWord": "elephant"
+        },
+        {
+          "glyph": "கழுதை",
+          "name": "kazhuthai",
+          "exampleWord": "donkey"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'cloud'?",
+          "options": [
+            "மேகம்",
+            "நட்சத்திரம்",
+            "கோடைகாலம்",
+            "மழைக்காலம்"
+          ],
+          "answer": "மேகம்"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l34",
+      "title": "மீள்பார்வை 30",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "கரடி",
+          "name": "karadi",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "வானவில்",
+          "name": "vaanavil",
+          "exampleWord": "rainbow"
+        },
+        {
+          "glyph": "காய்கறி",
+          "name": "kaaikari",
+          "exampleWord": "vegetables"
+        },
+        {
+          "glyph": "வாழைப்பழம்",
+          "name": "vaazhaippazham",
+          "exampleWord": "banana"
+        },
+        {
+          "glyph": "இனிப்பு",
+          "name": "inippu",
+          "exampleWord": "sweet"
+        },
+        {
+          "glyph": "ஆரஞ்சு",
+          "name": "aaranju",
+          "exampleWord": "orange"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet'?",
+          "options": [
+            "இனிப்பு",
+            "பழங்கள்",
+            "காய்கறி",
+            "சாக்லேட்"
+          ],
+          "answer": "இனிப்பு"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "யானை",
+            "குரங்கு",
+            "சிங்கம்",
+            "கரடி"
+          ],
+          "answer": "யானை"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l35",
+      "title": "மீள்பார்வை 31",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "சாக்லேட்",
+          "name": "chocolate",
+          "exampleWord": "chocolate"
+        },
+        {
+          "glyph": "கடற்கரை",
+          "name": "kadarkarai",
+          "exampleWord": "beach"
+        },
+        {
+          "glyph": "சிங்கம்",
+          "name": "singam",
+          "exampleWord": "lion"
+        },
+        {
+          "glyph": "கதவு",
+          "name": "kadhavu",
+          "exampleWord": "door"
+        },
+        {
+          "glyph": "கண்ணாடி",
+          "name": "kannaadi",
+          "exampleWord": "mirror"
+        },
+        {
+          "glyph": "கழுதை",
+          "name": "kazhuthai",
+          "exampleWord": "donkey"
+        },
+        {
+          "glyph": "பிரட்",
+          "name": "bread",
+          "exampleWord": "bread"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet'?",
+          "options": [
+            "இனிப்பு",
+            "பழங்கள்",
+            "காய்கறி",
+            "சாக்லேட்"
+          ],
+          "answer": "இனிப்பு"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'table'?",
+          "options": [
+            "மேசை",
+            "நாற்காலி",
+            "கதவு",
+            "ஜன்னல்"
+          ],
+          "answer": "மேசை"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l36",
+      "title": "மீள்பார்வை 32",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "கரடி",
+          "name": "karadi",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "படுக்கை",
+          "name": "padukkai",
+          "exampleWord": "bed"
+        },
+        {
+          "glyph": "பனிமலை",
+          "name": "panimalai",
+          "exampleWord": "snow mountain"
+        },
+        {
+          "glyph": "சட்டி",
+          "name": "satti",
+          "exampleWord": "pot"
+        },
+        {
+          "glyph": "மேசை",
+          "name": "mesai",
+          "exampleWord": "table"
+        },
+        {
+          "glyph": "வானவில்",
+          "name": "vaanavil",
+          "exampleWord": "rainbow"
+        },
+        {
+          "glyph": "யானை",
+          "name": "yaanai",
+          "exampleWord": "elephant"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet'?",
+          "options": [
+            "இனிப்பு",
+            "பழங்கள்",
+            "காய்கறி",
+            "சாக்லேட்"
+          ],
+          "answer": "இனிப்பு"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'table'?",
+          "options": [
+            "மேசை",
+            "நாற்காலி",
+            "கதவு",
+            "ஜன்னல்"
+          ],
+          "answer": "மேசை"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l37",
+      "title": "மீள்பார்வை 33",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "பிரட்",
+          "name": "bread",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "ஜன்னல்",
+          "name": "jannal",
+          "exampleWord": "window"
+        },
+        {
+          "glyph": "நதிக்கரை",
+          "name": "nathikkarai",
+          "exampleWord": "riverbank"
+        },
+        {
+          "glyph": "கடற்கரை",
+          "name": "kadarkarai",
+          "exampleWord": "beach"
+        },
+        {
+          "glyph": "காய்கறி",
+          "name": "kaaikari",
+          "exampleWord": "vegetables"
+        },
+        {
+          "glyph": "காடு",
+          "name": "kaadu",
+          "exampleWord": "forest"
+        },
+        {
+          "glyph": "ஆரஞ்சு",
+          "name": "aaranju",
+          "exampleWord": "orange"
+        },
+        {
+          "glyph": "கண்ணாடி",
+          "name": "kannaadi",
+          "exampleWord": "mirror"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "யானை",
+            "குரங்கு",
+            "சிங்கம்",
+            "கரடி"
+          ],
+          "answer": "யானை"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l38",
+      "title": "மீள்பார்வை 34",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "பழங்கள்",
+          "name": "pazhangal",
+          "exampleWord": "fruits"
+        },
+        {
+          "glyph": "கோடைகாலம்",
+          "name": "kodaikaalam",
+          "exampleWord": "summer"
+        },
+        {
+          "glyph": "நரி",
+          "name": "nari",
+          "exampleWord": "fox"
+        },
+        {
+          "glyph": "படுக்கை",
+          "name": "padukkai",
+          "exampleWord": "bed"
+        },
+        {
+          "glyph": "சிங்கம்",
+          "name": "singam",
+          "exampleWord": "lion"
+        },
+        {
+          "glyph": "கரண்டி",
+          "name": "karandi",
+          "exampleWord": "spoon"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'table'?",
+          "options": [
+            "மேசை",
+            "நாற்காலி",
+            "கதவு",
+            "ஜன்னல்"
+          ],
+          "answer": "மேசை"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "யானை",
+            "குரங்கு",
+            "சிங்கம்",
+            "கரடி"
+          ],
+          "answer": "யானை"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l39",
+      "title": "மீள்பார்வை 35",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "நதிக்கரை",
+          "name": "nathikkarai",
+          "exampleWord": "riverbank"
+        },
+        {
+          "glyph": "பால்கட்டி",
+          "name": "paalkatti",
+          "exampleWord": "cheese"
+        },
+        {
+          "glyph": "யானை",
+          "name": "yaanai",
+          "exampleWord": "elephant"
+        },
+        {
+          "glyph": "நாற்காலி",
+          "name": "naarkaali",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "தலையணை",
+          "name": "thalaiyanai",
+          "exampleWord": "pillow"
+        },
+        {
+          "glyph": "வண்ணத்துப்பூச்சி",
+          "name": "vannathupoochi",
+          "exampleWord": "butterfly"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet'?",
+          "options": [
+            "இனிப்பு",
+            "பழங்கள்",
+            "காய்கறி",
+            "சாக்லேட்"
+          ],
+          "answer": "இனிப்பு"
+        }
+      ]
+    },
+    {
+      "id": "ta-p4-l40",
+      "title": "மீள்பார்வை 36",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "பனிமலை",
+          "name": "panimalai",
+          "exampleWord": "snow mountain"
+        },
+        {
+          "glyph": "கரடி",
+          "name": "karadi",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "திராட்சை",
+          "name": "thiratchai",
+          "exampleWord": "grape"
+        },
+        {
+          "glyph": "நட்சத்திரம்",
+          "name": "natchaththiram",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "காடு",
+          "name": "kaadu",
+          "exampleWord": "forest"
+        },
+        {
+          "glyph": "கதவு",
+          "name": "kadhavu",
+          "exampleWord": "door"
+        },
+        {
+          "glyph": "ஓநாய்",
+          "name": "onaai",
+          "exampleWord": "wolf"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet'?",
+          "options": [
+            "இனிப்பு",
+            "பழங்கள்",
+            "காய்கறி",
+            "சாக்லேட்"
+          ],
+          "answer": "இனிப்பு"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "யானை",
+            "குரங்கு",
+            "சிங்கம்",
+            "கரடி"
+          ],
+          "answer": "யானை"
+        }
+      ]
     }
   ]
 }

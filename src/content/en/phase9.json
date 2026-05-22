@@ -277,6 +277,1787 @@
           "answer": "Five"
         }
       ]
+    },
+    {
+      "id": "en-p9-l8",
+      "title": "Review 1",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Thank you, here is your change.",
+          "name": "done"
+        },
+        {
+          "glyph": "They are sleeping.",
+          "name": "sleep"
+        },
+        {
+          "glyph": "She is reading.",
+          "name": "read"
+        },
+        {
+          "glyph": "It is windy and warm.",
+          "name": "wind"
+        },
+        {
+          "glyph": "Thursday",
+          "name": "Thu"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "How many apples?",
+          "options": [
+            "Five",
+            "Two",
+            "Three",
+            "Ten"
+          ],
+          "answer": "Five"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who is reading?",
+          "options": [
+            "She is reading.",
+            "I am running.",
+            "We are eating.",
+            "They are sleeping."
+          ],
+          "answer": "She is reading."
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l9",
+      "title": "Review 2",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "She is reading.",
+          "name": "read"
+        },
+        {
+          "glyph": "The bird flew over the river.",
+          "name": "line 1"
+        },
+        {
+          "glyph": "It is windy and warm.",
+          "name": "wind"
+        },
+        {
+          "glyph": "It costs two coins.",
+          "name": "price"
+        },
+        {
+          "glyph": "Friday",
+          "name": "Fri"
+        },
+        {
+          "glyph": "Thursday",
+          "name": "Thu"
+        },
+        {
+          "glyph": "one apple",
+          "name": "1"
+        },
+        {
+          "glyph": "I am running.",
+          "name": "run"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which is the third day?",
+          "options": [
+            "Wednesday",
+            "Tuesday",
+            "Friday",
+            "Sunday"
+          ],
+          "answer": "Wednesday"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which means raining?",
+          "options": [
+            "It is raining outside.",
+            "It is sunny today.",
+            "It is very cold.",
+            "It is windy."
+          ],
+          "answer": "It is raining outside."
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l10",
+      "title": "Review 3",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "There it found a tiny nest.",
+          "name": "line 3"
+        },
+        {
+          "glyph": "She is reading.",
+          "name": "read"
+        },
+        {
+          "glyph": "two cats",
+          "name": "2"
+        },
+        {
+          "glyph": "They are sleeping.",
+          "name": "sleep"
+        },
+        {
+          "glyph": "I will take five apples.",
+          "name": "buy"
+        },
+        {
+          "glyph": "I am running.",
+          "name": "run"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which is the third day?",
+          "options": [
+            "Wednesday",
+            "Tuesday",
+            "Friday",
+            "Sunday"
+          ],
+          "answer": "Wednesday"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which means \"three\"?",
+          "options": [
+            "three balls",
+            "one apple",
+            "five birds",
+            "four cars"
+          ],
+          "answer": "three balls"
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l11",
+      "title": "Review 4",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "They are sleeping.",
+          "name": "sleep"
+        },
+        {
+          "glyph": "five birds",
+          "name": "5"
+        },
+        {
+          "glyph": "It is windy and warm.",
+          "name": "wind"
+        },
+        {
+          "glyph": "It is very cold.",
+          "name": "cold"
+        },
+        {
+          "glyph": "Thank you, here is your change.",
+          "name": "done"
+        },
+        {
+          "glyph": "We are eating.",
+          "name": "eat"
+        },
+        {
+          "glyph": "Thank you very much.",
+          "name": "thanks",
+          "exampleWord": "formal"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which is the third day?",
+          "options": [
+            "Wednesday",
+            "Tuesday",
+            "Friday",
+            "Sunday"
+          ],
+          "answer": "Wednesday"
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l12",
+      "title": "Review 5",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Saturday",
+          "name": "Sat"
+        },
+        {
+          "glyph": "It is raining outside.",
+          "name": "rain"
+        },
+        {
+          "glyph": "Tuesday",
+          "name": "Tue"
+        },
+        {
+          "glyph": "Hello, friend!",
+          "name": "hello",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "It is sunny today.",
+          "name": "sunny"
+        },
+        {
+          "glyph": "It landed on a tall tree.",
+          "name": "line 2"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Where did the bird land?",
+          "options": [
+            "On a tall tree",
+            "On the river",
+            "In a nest",
+            "On a rock"
+          ],
+          "answer": "On a tall tree"
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l13",
+      "title": "Review 6",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "It is windy and warm.",
+          "name": "wind"
+        },
+        {
+          "glyph": "Sunday",
+          "name": "Sun"
+        },
+        {
+          "glyph": "See you tomorrow!",
+          "name": "later",
+          "exampleWord": "farewell"
+        },
+        {
+          "glyph": "Thank you, here is your change.",
+          "name": "done"
+        },
+        {
+          "glyph": "It is very cold.",
+          "name": "cold"
+        },
+        {
+          "glyph": "How much is this apple?",
+          "name": "price"
+        },
+        {
+          "glyph": "The bird flew over the river.",
+          "name": "line 1"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which means \"three\"?",
+          "options": [
+            "three balls",
+            "one apple",
+            "five birds",
+            "four cars"
+          ],
+          "answer": "three balls"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which means raining?",
+          "options": [
+            "It is raining outside.",
+            "It is sunny today.",
+            "It is very cold.",
+            "It is windy."
+          ],
+          "answer": "It is raining outside."
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l14",
+      "title": "Review 7",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "four cars",
+          "name": "4"
+        },
+        {
+          "glyph": "five birds",
+          "name": "5"
+        },
+        {
+          "glyph": "Saturday",
+          "name": "Sat"
+        },
+        {
+          "glyph": "one apple",
+          "name": "1"
+        },
+        {
+          "glyph": "Sunday",
+          "name": "Sun"
+        },
+        {
+          "glyph": "The bird flew over the river.",
+          "name": "line 1"
+        },
+        {
+          "glyph": "They are sleeping.",
+          "name": "sleep"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Where did the bird land?",
+          "options": [
+            "On a tall tree",
+            "On the river",
+            "In a nest",
+            "On a rock"
+          ],
+          "answer": "On a tall tree"
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l15",
+      "title": "Review 8",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Wednesday",
+          "name": "Wed"
+        },
+        {
+          "glyph": "They are sleeping.",
+          "name": "sleep"
+        },
+        {
+          "glyph": "Tuesday",
+          "name": "Tue"
+        },
+        {
+          "glyph": "Monday",
+          "name": "Mon"
+        },
+        {
+          "glyph": "Sunday",
+          "name": "Sun"
+        },
+        {
+          "glyph": "The bird flew over the river.",
+          "name": "line 1"
+        },
+        {
+          "glyph": "It costs two coins.",
+          "name": "price"
+        },
+        {
+          "glyph": "Good night, mama.",
+          "name": "goodnight",
+          "exampleWord": "to mother"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which means raining?",
+          "options": [
+            "It is raining outside.",
+            "It is sunny today.",
+            "It is very cold.",
+            "It is windy."
+          ],
+          "answer": "It is raining outside."
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which is the third day?",
+          "options": [
+            "Wednesday",
+            "Tuesday",
+            "Friday",
+            "Sunday"
+          ],
+          "answer": "Wednesday"
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l16",
+      "title": "Review 9",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Thank you very much.",
+          "name": "thanks",
+          "exampleWord": "formal"
+        },
+        {
+          "glyph": "It is raining outside.",
+          "name": "rain"
+        },
+        {
+          "glyph": "four cars",
+          "name": "4"
+        },
+        {
+          "glyph": "Saturday",
+          "name": "Sat"
+        },
+        {
+          "glyph": "We are eating.",
+          "name": "eat"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which means raining?",
+          "options": [
+            "It is raining outside.",
+            "It is sunny today.",
+            "It is very cold.",
+            "It is windy."
+          ],
+          "answer": "It is raining outside."
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l17",
+      "title": "Review 10",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Wednesday",
+          "name": "Wed"
+        },
+        {
+          "glyph": "Friday",
+          "name": "Fri"
+        },
+        {
+          "glyph": "Saturday",
+          "name": "Sat"
+        },
+        {
+          "glyph": "They are sleeping.",
+          "name": "sleep"
+        },
+        {
+          "glyph": "Thank you, here is your change.",
+          "name": "done"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "How many apples?",
+          "options": [
+            "Five",
+            "Two",
+            "Three",
+            "Ten"
+          ],
+          "answer": "Five"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Where did the bird land?",
+          "options": [
+            "On a tall tree",
+            "On the river",
+            "In a nest",
+            "On a rock"
+          ],
+          "answer": "On a tall tree"
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l18",
+      "title": "Review 11",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Hello, friend!",
+          "name": "hello",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Thank you very much.",
+          "name": "thanks",
+          "exampleWord": "formal"
+        },
+        {
+          "glyph": "five birds",
+          "name": "5"
+        },
+        {
+          "glyph": "four cars",
+          "name": "4"
+        },
+        {
+          "glyph": "Monday",
+          "name": "Mon"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Where did the bird land?",
+          "options": [
+            "On a tall tree",
+            "On the river",
+            "In a nest",
+            "On a rock"
+          ],
+          "answer": "On a tall tree"
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l19",
+      "title": "Review 12",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "They are sleeping.",
+          "name": "sleep"
+        },
+        {
+          "glyph": "It landed on a tall tree.",
+          "name": "line 2"
+        },
+        {
+          "glyph": "It is raining outside.",
+          "name": "rain"
+        },
+        {
+          "glyph": "Saturday",
+          "name": "Sat"
+        },
+        {
+          "glyph": "Wednesday",
+          "name": "Wed"
+        },
+        {
+          "glyph": "Sunday",
+          "name": "Sun"
+        },
+        {
+          "glyph": "Monday",
+          "name": "Mon"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who is reading?",
+          "options": [
+            "She is reading.",
+            "I am running.",
+            "We are eating.",
+            "They are sleeping."
+          ],
+          "answer": "She is reading."
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l20",
+      "title": "Review 13",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "There it found a tiny nest.",
+          "name": "line 3"
+        },
+        {
+          "glyph": "Thank you very much.",
+          "name": "thanks",
+          "exampleWord": "formal"
+        },
+        {
+          "glyph": "I am running.",
+          "name": "run"
+        },
+        {
+          "glyph": "The bird flew over the river.",
+          "name": "line 1"
+        },
+        {
+          "glyph": "I will take five apples.",
+          "name": "buy"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which means \"hello\"?",
+          "options": [
+            "Hello, friend!",
+            "Good night, mama.",
+            "Thank you",
+            "See you tomorrow!"
+          ],
+          "answer": "Hello, friend!"
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l21",
+      "title": "Review 14",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "We are eating.",
+          "name": "eat"
+        },
+        {
+          "glyph": "I am running.",
+          "name": "run"
+        },
+        {
+          "glyph": "She is reading.",
+          "name": "read"
+        },
+        {
+          "glyph": "It landed on a tall tree.",
+          "name": "line 2"
+        },
+        {
+          "glyph": "It is very cold.",
+          "name": "cold"
+        },
+        {
+          "glyph": "three balls",
+          "name": "3"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who is reading?",
+          "options": [
+            "She is reading.",
+            "I am running.",
+            "We are eating.",
+            "They are sleeping."
+          ],
+          "answer": "She is reading."
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Where did the bird land?",
+          "options": [
+            "On a tall tree",
+            "On the river",
+            "In a nest",
+            "On a rock"
+          ],
+          "answer": "On a tall tree"
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l22",
+      "title": "Review 15",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "It landed on a tall tree.",
+          "name": "line 2"
+        },
+        {
+          "glyph": "It is sunny today.",
+          "name": "sunny"
+        },
+        {
+          "glyph": "Sunday",
+          "name": "Sun"
+        },
+        {
+          "glyph": "She is reading.",
+          "name": "read"
+        },
+        {
+          "glyph": "See you tomorrow!",
+          "name": "later",
+          "exampleWord": "farewell"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which means \"hello\"?",
+          "options": [
+            "Hello, friend!",
+            "Good night, mama.",
+            "Thank you",
+            "See you tomorrow!"
+          ],
+          "answer": "Hello, friend!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which means raining?",
+          "options": [
+            "It is raining outside.",
+            "It is sunny today.",
+            "It is very cold.",
+            "It is windy."
+          ],
+          "answer": "It is raining outside."
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l23",
+      "title": "Review 16",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Hello, friend!",
+          "name": "hello",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "How much is this apple?",
+          "name": "price"
+        },
+        {
+          "glyph": "She is reading.",
+          "name": "read"
+        },
+        {
+          "glyph": "Friday",
+          "name": "Fri"
+        },
+        {
+          "glyph": "Thank you very much.",
+          "name": "thanks",
+          "exampleWord": "formal"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which means raining?",
+          "options": [
+            "It is raining outside.",
+            "It is sunny today.",
+            "It is very cold.",
+            "It is windy."
+          ],
+          "answer": "It is raining outside."
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l24",
+      "title": "Review 17",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Monday",
+          "name": "Mon"
+        },
+        {
+          "glyph": "two cats",
+          "name": "2"
+        },
+        {
+          "glyph": "Tuesday",
+          "name": "Tue"
+        },
+        {
+          "glyph": "I will take five apples.",
+          "name": "buy"
+        },
+        {
+          "glyph": "She is reading.",
+          "name": "read"
+        },
+        {
+          "glyph": "It costs two coins.",
+          "name": "price"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Where did the bird land?",
+          "options": [
+            "On a tall tree",
+            "On the river",
+            "In a nest",
+            "On a rock"
+          ],
+          "answer": "On a tall tree"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which means \"three\"?",
+          "options": [
+            "three balls",
+            "one apple",
+            "five birds",
+            "four cars"
+          ],
+          "answer": "three balls"
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l25",
+      "title": "Review 18",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Friday",
+          "name": "Fri"
+        },
+        {
+          "glyph": "two cats",
+          "name": "2"
+        },
+        {
+          "glyph": "I will take five apples.",
+          "name": "buy"
+        },
+        {
+          "glyph": "Thank you, here is your change.",
+          "name": "done"
+        },
+        {
+          "glyph": "Saturday",
+          "name": "Sat"
+        },
+        {
+          "glyph": "The bird flew over the river.",
+          "name": "line 1"
+        },
+        {
+          "glyph": "They are sleeping.",
+          "name": "sleep"
+        },
+        {
+          "glyph": "Hello, friend!",
+          "name": "hello",
+          "exampleWord": "greeting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Where did the bird land?",
+          "options": [
+            "On a tall tree",
+            "On the river",
+            "In a nest",
+            "On a rock"
+          ],
+          "answer": "On a tall tree"
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l26",
+      "title": "Review 19",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "They are sleeping.",
+          "name": "sleep"
+        },
+        {
+          "glyph": "Hello, friend!",
+          "name": "hello",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Sunday",
+          "name": "Sun"
+        },
+        {
+          "glyph": "three balls",
+          "name": "3"
+        },
+        {
+          "glyph": "How much is this apple?",
+          "name": "price"
+        },
+        {
+          "glyph": "five birds",
+          "name": "5"
+        },
+        {
+          "glyph": "It is raining outside.",
+          "name": "rain"
+        },
+        {
+          "glyph": "It costs two coins.",
+          "name": "price"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which is the third day?",
+          "options": [
+            "Wednesday",
+            "Tuesday",
+            "Friday",
+            "Sunday"
+          ],
+          "answer": "Wednesday"
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l27",
+      "title": "Review 20",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "It is very cold.",
+          "name": "cold"
+        },
+        {
+          "glyph": "How much is this apple?",
+          "name": "price"
+        },
+        {
+          "glyph": "Tuesday",
+          "name": "Tue"
+        },
+        {
+          "glyph": "two cats",
+          "name": "2"
+        },
+        {
+          "glyph": "We are eating.",
+          "name": "eat"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which means \"three\"?",
+          "options": [
+            "three balls",
+            "one apple",
+            "five birds",
+            "four cars"
+          ],
+          "answer": "three balls"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Where did the bird land?",
+          "options": [
+            "On a tall tree",
+            "On the river",
+            "In a nest",
+            "On a rock"
+          ],
+          "answer": "On a tall tree"
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l28",
+      "title": "Review 21",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "five birds",
+          "name": "5"
+        },
+        {
+          "glyph": "Saturday",
+          "name": "Sat"
+        },
+        {
+          "glyph": "How much is this apple?",
+          "name": "price"
+        },
+        {
+          "glyph": "There it found a tiny nest.",
+          "name": "line 3"
+        },
+        {
+          "glyph": "Monday",
+          "name": "Mon"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which is the third day?",
+          "options": [
+            "Wednesday",
+            "Tuesday",
+            "Friday",
+            "Sunday"
+          ],
+          "answer": "Wednesday"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Where did the bird land?",
+          "options": [
+            "On a tall tree",
+            "On the river",
+            "In a nest",
+            "On a rock"
+          ],
+          "answer": "On a tall tree"
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l29",
+      "title": "Review 22",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Wednesday",
+          "name": "Wed"
+        },
+        {
+          "glyph": "Thank you very much.",
+          "name": "thanks",
+          "exampleWord": "formal"
+        },
+        {
+          "glyph": "We are eating.",
+          "name": "eat"
+        },
+        {
+          "glyph": "It costs two coins.",
+          "name": "price"
+        },
+        {
+          "glyph": "It landed on a tall tree.",
+          "name": "line 2"
+        },
+        {
+          "glyph": "Thursday",
+          "name": "Thu"
+        },
+        {
+          "glyph": "two cats",
+          "name": "2"
+        },
+        {
+          "glyph": "Saturday",
+          "name": "Sat"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which is the third day?",
+          "options": [
+            "Wednesday",
+            "Tuesday",
+            "Friday",
+            "Sunday"
+          ],
+          "answer": "Wednesday"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "How many apples?",
+          "options": [
+            "Five",
+            "Two",
+            "Three",
+            "Ten"
+          ],
+          "answer": "Five"
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l30",
+      "title": "Review 23",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Saturday",
+          "name": "Sat"
+        },
+        {
+          "glyph": "one apple",
+          "name": "1"
+        },
+        {
+          "glyph": "She is reading.",
+          "name": "read"
+        },
+        {
+          "glyph": "Thank you very much.",
+          "name": "thanks",
+          "exampleWord": "formal"
+        },
+        {
+          "glyph": "four cars",
+          "name": "4"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which means \"hello\"?",
+          "options": [
+            "Hello, friend!",
+            "Good night, mama.",
+            "Thank you",
+            "See you tomorrow!"
+          ],
+          "answer": "Hello, friend!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which means \"three\"?",
+          "options": [
+            "three balls",
+            "one apple",
+            "five birds",
+            "four cars"
+          ],
+          "answer": "three balls"
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l31",
+      "title": "Review 24",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Sunday",
+          "name": "Sun"
+        },
+        {
+          "glyph": "one apple",
+          "name": "1"
+        },
+        {
+          "glyph": "Monday",
+          "name": "Mon"
+        },
+        {
+          "glyph": "They are sleeping.",
+          "name": "sleep"
+        },
+        {
+          "glyph": "The bird flew over the river.",
+          "name": "line 1"
+        },
+        {
+          "glyph": "Thursday",
+          "name": "Thu"
+        },
+        {
+          "glyph": "I will take five apples.",
+          "name": "buy"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Where did the bird land?",
+          "options": [
+            "On a tall tree",
+            "On the river",
+            "In a nest",
+            "On a rock"
+          ],
+          "answer": "On a tall tree"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which means \"three\"?",
+          "options": [
+            "three balls",
+            "one apple",
+            "five birds",
+            "four cars"
+          ],
+          "answer": "three balls"
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l32",
+      "title": "Review 25",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Friday",
+          "name": "Fri"
+        },
+        {
+          "glyph": "Tuesday",
+          "name": "Tue"
+        },
+        {
+          "glyph": "Sunday",
+          "name": "Sun"
+        },
+        {
+          "glyph": "Thank you, here is your change.",
+          "name": "done"
+        },
+        {
+          "glyph": "two cats",
+          "name": "2"
+        },
+        {
+          "glyph": "I will take five apples.",
+          "name": "buy"
+        },
+        {
+          "glyph": "It is windy and warm.",
+          "name": "wind"
+        },
+        {
+          "glyph": "There it found a tiny nest.",
+          "name": "line 3"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which means \"three\"?",
+          "options": [
+            "three balls",
+            "one apple",
+            "five birds",
+            "four cars"
+          ],
+          "answer": "three balls"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "How many apples?",
+          "options": [
+            "Five",
+            "Two",
+            "Three",
+            "Ten"
+          ],
+          "answer": "Five"
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l33",
+      "title": "Review 26",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "It is windy and warm.",
+          "name": "wind"
+        },
+        {
+          "glyph": "It landed on a tall tree.",
+          "name": "line 2"
+        },
+        {
+          "glyph": "Thursday",
+          "name": "Thu"
+        },
+        {
+          "glyph": "Good night, mama.",
+          "name": "goodnight",
+          "exampleWord": "to mother"
+        },
+        {
+          "glyph": "We are eating.",
+          "name": "eat"
+        },
+        {
+          "glyph": "Hello, friend!",
+          "name": "hello",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "There it found a tiny nest.",
+          "name": "line 3"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which means \"three\"?",
+          "options": [
+            "three balls",
+            "one apple",
+            "five birds",
+            "four cars"
+          ],
+          "answer": "three balls"
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l34",
+      "title": "Review 27",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Thank you, here is your change.",
+          "name": "done"
+        },
+        {
+          "glyph": "Tuesday",
+          "name": "Tue"
+        },
+        {
+          "glyph": "Monday",
+          "name": "Mon"
+        },
+        {
+          "glyph": "Friday",
+          "name": "Fri"
+        },
+        {
+          "glyph": "There it found a tiny nest.",
+          "name": "line 3"
+        },
+        {
+          "glyph": "The bird flew over the river.",
+          "name": "line 1"
+        },
+        {
+          "glyph": "Saturday",
+          "name": "Sat"
+        },
+        {
+          "glyph": "It is windy and warm.",
+          "name": "wind"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which means raining?",
+          "options": [
+            "It is raining outside.",
+            "It is sunny today.",
+            "It is very cold.",
+            "It is windy."
+          ],
+          "answer": "It is raining outside."
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Where did the bird land?",
+          "options": [
+            "On a tall tree",
+            "On the river",
+            "In a nest",
+            "On a rock"
+          ],
+          "answer": "On a tall tree"
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l35",
+      "title": "Review 28",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "two cats",
+          "name": "2"
+        },
+        {
+          "glyph": "See you tomorrow!",
+          "name": "later",
+          "exampleWord": "farewell"
+        },
+        {
+          "glyph": "Wednesday",
+          "name": "Wed"
+        },
+        {
+          "glyph": "Hello, friend!",
+          "name": "hello",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "It is very cold.",
+          "name": "cold"
+        },
+        {
+          "glyph": "It is raining outside.",
+          "name": "rain"
+        },
+        {
+          "glyph": "four cars",
+          "name": "4"
+        },
+        {
+          "glyph": "I am running.",
+          "name": "run"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who is reading?",
+          "options": [
+            "She is reading.",
+            "I am running.",
+            "We are eating.",
+            "They are sleeping."
+          ],
+          "answer": "She is reading."
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l36",
+      "title": "Review 29",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Tuesday",
+          "name": "Tue"
+        },
+        {
+          "glyph": "I am running.",
+          "name": "run"
+        },
+        {
+          "glyph": "two cats",
+          "name": "2"
+        },
+        {
+          "glyph": "It is raining outside.",
+          "name": "rain"
+        },
+        {
+          "glyph": "It landed on a tall tree.",
+          "name": "line 2"
+        },
+        {
+          "glyph": "Wednesday",
+          "name": "Wed"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which is the third day?",
+          "options": [
+            "Wednesday",
+            "Tuesday",
+            "Friday",
+            "Sunday"
+          ],
+          "answer": "Wednesday"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "How many apples?",
+          "options": [
+            "Five",
+            "Two",
+            "Three",
+            "Ten"
+          ],
+          "answer": "Five"
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l37",
+      "title": "Review 30",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Wednesday",
+          "name": "Wed"
+        },
+        {
+          "glyph": "Thank you very much.",
+          "name": "thanks",
+          "exampleWord": "formal"
+        },
+        {
+          "glyph": "five birds",
+          "name": "5"
+        },
+        {
+          "glyph": "It is raining outside.",
+          "name": "rain"
+        },
+        {
+          "glyph": "Tuesday",
+          "name": "Tue"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which is the third day?",
+          "options": [
+            "Wednesday",
+            "Tuesday",
+            "Friday",
+            "Sunday"
+          ],
+          "answer": "Wednesday"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which means \"hello\"?",
+          "options": [
+            "Hello, friend!",
+            "Good night, mama.",
+            "Thank you",
+            "See you tomorrow!"
+          ],
+          "answer": "Hello, friend!"
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l38",
+      "title": "Review 31",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Tuesday",
+          "name": "Tue"
+        },
+        {
+          "glyph": "three balls",
+          "name": "3"
+        },
+        {
+          "glyph": "The bird flew over the river.",
+          "name": "line 1"
+        },
+        {
+          "glyph": "Thank you very much.",
+          "name": "thanks",
+          "exampleWord": "formal"
+        },
+        {
+          "glyph": "It is sunny today.",
+          "name": "sunny"
+        },
+        {
+          "glyph": "Friday",
+          "name": "Fri"
+        },
+        {
+          "glyph": "It is raining outside.",
+          "name": "rain"
+        },
+        {
+          "glyph": "four cars",
+          "name": "4"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "How many apples?",
+          "options": [
+            "Five",
+            "Two",
+            "Three",
+            "Ten"
+          ],
+          "answer": "Five"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which means \"hello\"?",
+          "options": [
+            "Hello, friend!",
+            "Good night, mama.",
+            "Thank you",
+            "See you tomorrow!"
+          ],
+          "answer": "Hello, friend!"
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l39",
+      "title": "Review 32",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "five birds",
+          "name": "5"
+        },
+        {
+          "glyph": "We are eating.",
+          "name": "eat"
+        },
+        {
+          "glyph": "How much is this apple?",
+          "name": "price"
+        },
+        {
+          "glyph": "It is windy and warm.",
+          "name": "wind"
+        },
+        {
+          "glyph": "See you tomorrow!",
+          "name": "later",
+          "exampleWord": "farewell"
+        },
+        {
+          "glyph": "It landed on a tall tree.",
+          "name": "line 2"
+        },
+        {
+          "glyph": "Thank you very much.",
+          "name": "thanks",
+          "exampleWord": "formal"
+        },
+        {
+          "glyph": "four cars",
+          "name": "4"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "How many apples?",
+          "options": [
+            "Five",
+            "Two",
+            "Three",
+            "Ten"
+          ],
+          "answer": "Five"
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l40",
+      "title": "Review 33",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "How much is this apple?",
+          "name": "price"
+        },
+        {
+          "glyph": "Sunday",
+          "name": "Sun"
+        },
+        {
+          "glyph": "Thursday",
+          "name": "Thu"
+        },
+        {
+          "glyph": "Friday",
+          "name": "Fri"
+        },
+        {
+          "glyph": "The bird flew over the river.",
+          "name": "line 1"
+        },
+        {
+          "glyph": "two cats",
+          "name": "2"
+        },
+        {
+          "glyph": "It costs two coins.",
+          "name": "price"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "How many apples?",
+          "options": [
+            "Five",
+            "Two",
+            "Three",
+            "Ten"
+          ],
+          "answer": "Five"
+        }
+      ]
     }
   ]
 }

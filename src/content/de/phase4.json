@@ -286,6 +286,2134 @@
           "answer": "Baum"
         }
       ]
+    },
+    {
+      "id": "de-p4-l5",
+      "title": "Wiederholung 1",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Fisch",
+          "name": "fisch",
+          "exampleWord": "fish"
+        },
+        {
+          "glyph": "Lampe",
+          "name": "lampe",
+          "exampleWord": "lamp"
+        },
+        {
+          "glyph": "Bär",
+          "name": "bär",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "Tisch",
+          "name": "tisch",
+          "exampleWord": "table"
+        },
+        {
+          "glyph": "Kuchen",
+          "name": "kuchen",
+          "exampleWord": "cake"
+        },
+        {
+          "glyph": "Blume",
+          "name": "blume",
+          "exampleWord": "flower"
+        },
+        {
+          "glyph": "Uhr",
+          "name": "uhr",
+          "exampleWord": "clock"
+        },
+        {
+          "glyph": "Treppe",
+          "name": "treppe",
+          "exampleWord": "stairs"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'monkey'?",
+          "options": [
+            "Affe",
+            "Bär",
+            "Fisch",
+            "Hund"
+          ],
+          "answer": "Affe"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "Stuhl",
+            "Tisch",
+            "Bett",
+            "Lampe"
+          ],
+          "answer": "Stuhl"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l6",
+      "title": "Wiederholung 2",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Vogel",
+          "name": "vogel",
+          "exampleWord": "bird"
+        },
+        {
+          "glyph": "Wolf",
+          "name": "wolf",
+          "exampleWord": "wolf"
+        },
+        {
+          "glyph": "Treppe",
+          "name": "treppe",
+          "exampleWord": "stairs"
+        },
+        {
+          "glyph": "Bär",
+          "name": "bär",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "Fisch",
+          "name": "fisch",
+          "exampleWord": "fish"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'monkey'?",
+          "options": [
+            "Affe",
+            "Bär",
+            "Fisch",
+            "Hund"
+          ],
+          "answer": "Affe"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l7",
+      "title": "Wiederholung 3",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Lampe",
+          "name": "lampe",
+          "exampleWord": "lamp"
+        },
+        {
+          "glyph": "Buch",
+          "name": "buch",
+          "exampleWord": "book"
+        },
+        {
+          "glyph": "Uhr",
+          "name": "uhr",
+          "exampleWord": "clock"
+        },
+        {
+          "glyph": "Maus",
+          "name": "maus",
+          "exampleWord": "mouse"
+        },
+        {
+          "glyph": "Bär",
+          "name": "bär",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "Strand",
+          "name": "strand",
+          "exampleWord": "beach"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'tree'?",
+          "options": [
+            "Baum",
+            "Blume",
+            "Wolke",
+            "Stern"
+          ],
+          "answer": "Baum"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l8",
+      "title": "Wiederholung 4",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Stuhl",
+          "name": "stuhl",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "Pizza",
+          "name": "pizza",
+          "exampleWord": "pizza"
+        },
+        {
+          "glyph": "Pferd",
+          "name": "pferd",
+          "exampleWord": "horse"
+        },
+        {
+          "glyph": "Apfel",
+          "name": "apfel",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "Salat",
+          "name": "salat",
+          "exampleWord": "salad"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "Stuhl",
+            "Tisch",
+            "Bett",
+            "Lampe"
+          ],
+          "answer": "Stuhl"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'monkey'?",
+          "options": [
+            "Affe",
+            "Bär",
+            "Fisch",
+            "Hund"
+          ],
+          "answer": "Affe"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l9",
+      "title": "Wiederholung 5",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Wolke",
+          "name": "wolke",
+          "exampleWord": "cloud"
+        },
+        {
+          "glyph": "Mond",
+          "name": "mond",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "Apfel",
+          "name": "apfel",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "Treppe",
+          "name": "treppe",
+          "exampleWord": "stairs"
+        },
+        {
+          "glyph": "Pferd",
+          "name": "pferd",
+          "exampleWord": "horse"
+        },
+        {
+          "glyph": "Blume",
+          "name": "blume",
+          "exampleWord": "flower"
+        },
+        {
+          "glyph": "Sonne",
+          "name": "sonne",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "Regen",
+          "name": "regen",
+          "exampleWord": "rain"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'bread'?",
+          "options": [
+            "Brot",
+            "Apfel",
+            "Birne",
+            "Pizza"
+          ],
+          "answer": "Brot"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l10",
+      "title": "Wiederholung 6",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Saft",
+          "name": "saft",
+          "exampleWord": "juice"
+        },
+        {
+          "glyph": "Fisch",
+          "name": "fisch",
+          "exampleWord": "fish"
+        },
+        {
+          "glyph": "Vogel",
+          "name": "vogel",
+          "exampleWord": "bird"
+        },
+        {
+          "glyph": "Kuchen",
+          "name": "kuchen",
+          "exampleWord": "cake"
+        },
+        {
+          "glyph": "Käse",
+          "name": "käse",
+          "exampleWord": "cheese"
+        },
+        {
+          "glyph": "Affe",
+          "name": "affe",
+          "exampleWord": "monkey"
+        },
+        {
+          "glyph": "Stern",
+          "name": "stern",
+          "exampleWord": "star"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'bread'?",
+          "options": [
+            "Brot",
+            "Apfel",
+            "Birne",
+            "Pizza"
+          ],
+          "answer": "Brot"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'tree'?",
+          "options": [
+            "Baum",
+            "Blume",
+            "Wolke",
+            "Stern"
+          ],
+          "answer": "Baum"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l11",
+      "title": "Wiederholung 7",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Kuchen",
+          "name": "kuchen",
+          "exampleWord": "cake"
+        },
+        {
+          "glyph": "Baum",
+          "name": "baum",
+          "exampleWord": "tree"
+        },
+        {
+          "glyph": "Mond",
+          "name": "mond",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "Stern",
+          "name": "stern",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "Wolf",
+          "name": "wolf",
+          "exampleWord": "wolf"
+        },
+        {
+          "glyph": "Fenster",
+          "name": "fenster",
+          "exampleWord": "window"
+        },
+        {
+          "glyph": "Fisch",
+          "name": "fisch",
+          "exampleWord": "fish"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'bread'?",
+          "options": [
+            "Brot",
+            "Apfel",
+            "Birne",
+            "Pizza"
+          ],
+          "answer": "Brot"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l12",
+      "title": "Wiederholung 8",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Wasser",
+          "name": "wasser",
+          "exampleWord": "water"
+        },
+        {
+          "glyph": "Vogel",
+          "name": "vogel",
+          "exampleWord": "bird"
+        },
+        {
+          "glyph": "Hund",
+          "name": "hund",
+          "exampleWord": "dog"
+        },
+        {
+          "glyph": "Pferd",
+          "name": "pferd",
+          "exampleWord": "horse"
+        },
+        {
+          "glyph": "Lampe",
+          "name": "lampe",
+          "exampleWord": "lamp"
+        },
+        {
+          "glyph": "Spiegel",
+          "name": "spiegel",
+          "exampleWord": "mirror"
+        },
+        {
+          "glyph": "Bär",
+          "name": "bär",
+          "exampleWord": "bear"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "Stuhl",
+            "Tisch",
+            "Bett",
+            "Lampe"
+          ],
+          "answer": "Stuhl"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l13",
+      "title": "Wiederholung 9",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Saft",
+          "name": "saft",
+          "exampleWord": "juice"
+        },
+        {
+          "glyph": "Regen",
+          "name": "regen",
+          "exampleWord": "rain"
+        },
+        {
+          "glyph": "Apfel",
+          "name": "apfel",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "Bär",
+          "name": "bär",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "Spiegel",
+          "name": "spiegel",
+          "exampleWord": "mirror"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'bread'?",
+          "options": [
+            "Brot",
+            "Apfel",
+            "Birne",
+            "Pizza"
+          ],
+          "answer": "Brot"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'tree'?",
+          "options": [
+            "Baum",
+            "Blume",
+            "Wolke",
+            "Stern"
+          ],
+          "answer": "Baum"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l14",
+      "title": "Wiederholung 10",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Wasser",
+          "name": "wasser",
+          "exampleWord": "water"
+        },
+        {
+          "glyph": "Regen",
+          "name": "regen",
+          "exampleWord": "rain"
+        },
+        {
+          "glyph": "Buch",
+          "name": "buch",
+          "exampleWord": "book"
+        },
+        {
+          "glyph": "Saft",
+          "name": "saft",
+          "exampleWord": "juice"
+        },
+        {
+          "glyph": "Mond",
+          "name": "mond",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "Teller",
+          "name": "teller",
+          "exampleWord": "plate"
+        },
+        {
+          "glyph": "Maus",
+          "name": "maus",
+          "exampleWord": "mouse"
+        },
+        {
+          "glyph": "Strand",
+          "name": "strand",
+          "exampleWord": "beach"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "Stuhl",
+            "Tisch",
+            "Bett",
+            "Lampe"
+          ],
+          "answer": "Stuhl"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l15",
+      "title": "Wiederholung 11",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Regen",
+          "name": "regen",
+          "exampleWord": "rain"
+        },
+        {
+          "glyph": "Kuchen",
+          "name": "kuchen",
+          "exampleWord": "cake"
+        },
+        {
+          "glyph": "Zebra",
+          "name": "zebra",
+          "exampleWord": "zebra"
+        },
+        {
+          "glyph": "Tisch",
+          "name": "tisch",
+          "exampleWord": "table"
+        },
+        {
+          "glyph": "Pferd",
+          "name": "pferd",
+          "exampleWord": "horse"
+        },
+        {
+          "glyph": "Saft",
+          "name": "saft",
+          "exampleWord": "juice"
+        },
+        {
+          "glyph": "Bär",
+          "name": "bär",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "Wolke",
+          "name": "wolke",
+          "exampleWord": "cloud"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'bread'?",
+          "options": [
+            "Brot",
+            "Apfel",
+            "Birne",
+            "Pizza"
+          ],
+          "answer": "Brot"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'monkey'?",
+          "options": [
+            "Affe",
+            "Bär",
+            "Fisch",
+            "Hund"
+          ],
+          "answer": "Affe"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l16",
+      "title": "Wiederholung 12",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Pferd",
+          "name": "pferd",
+          "exampleWord": "horse"
+        },
+        {
+          "glyph": "Apfel",
+          "name": "apfel",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "Suppe",
+          "name": "suppe",
+          "exampleWord": "soup"
+        },
+        {
+          "glyph": "Saft",
+          "name": "saft",
+          "exampleWord": "juice"
+        },
+        {
+          "glyph": "Zebra",
+          "name": "zebra",
+          "exampleWord": "zebra"
+        },
+        {
+          "glyph": "Treppe",
+          "name": "treppe",
+          "exampleWord": "stairs"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'monkey'?",
+          "options": [
+            "Affe",
+            "Bär",
+            "Fisch",
+            "Hund"
+          ],
+          "answer": "Affe"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'bread'?",
+          "options": [
+            "Brot",
+            "Apfel",
+            "Birne",
+            "Pizza"
+          ],
+          "answer": "Brot"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l17",
+      "title": "Wiederholung 13",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Mond",
+          "name": "mond",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "Baum",
+          "name": "baum",
+          "exampleWord": "tree"
+        },
+        {
+          "glyph": "Zebra",
+          "name": "zebra",
+          "exampleWord": "zebra"
+        },
+        {
+          "glyph": "Uhr",
+          "name": "uhr",
+          "exampleWord": "clock"
+        },
+        {
+          "glyph": "Vogel",
+          "name": "vogel",
+          "exampleWord": "bird"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'tree'?",
+          "options": [
+            "Baum",
+            "Blume",
+            "Wolke",
+            "Stern"
+          ],
+          "answer": "Baum"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'monkey'?",
+          "options": [
+            "Affe",
+            "Bär",
+            "Fisch",
+            "Hund"
+          ],
+          "answer": "Affe"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l18",
+      "title": "Wiederholung 14",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Apfel",
+          "name": "apfel",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "Pizza",
+          "name": "pizza",
+          "exampleWord": "pizza"
+        },
+        {
+          "glyph": "Käse",
+          "name": "käse",
+          "exampleWord": "cheese"
+        },
+        {
+          "glyph": "Mond",
+          "name": "mond",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "Suppe",
+          "name": "suppe",
+          "exampleWord": "soup"
+        },
+        {
+          "glyph": "Stern",
+          "name": "stern",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "Regen",
+          "name": "regen",
+          "exampleWord": "rain"
+        },
+        {
+          "glyph": "Stuhl",
+          "name": "stuhl",
+          "exampleWord": "chair"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'bread'?",
+          "options": [
+            "Brot",
+            "Apfel",
+            "Birne",
+            "Pizza"
+          ],
+          "answer": "Brot"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "Stuhl",
+            "Tisch",
+            "Bett",
+            "Lampe"
+          ],
+          "answer": "Stuhl"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l19",
+      "title": "Wiederholung 15",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Mond",
+          "name": "mond",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "Bär",
+          "name": "bär",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "Saft",
+          "name": "saft",
+          "exampleWord": "juice"
+        },
+        {
+          "glyph": "Affe",
+          "name": "affe",
+          "exampleWord": "monkey"
+        },
+        {
+          "glyph": "Bett",
+          "name": "bett",
+          "exampleWord": "bed"
+        },
+        {
+          "glyph": "Fenster",
+          "name": "fenster",
+          "exampleWord": "window"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'bread'?",
+          "options": [
+            "Brot",
+            "Apfel",
+            "Birne",
+            "Pizza"
+          ],
+          "answer": "Brot"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l20",
+      "title": "Wiederholung 16",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Tisch",
+          "name": "tisch",
+          "exampleWord": "table"
+        },
+        {
+          "glyph": "Bär",
+          "name": "bär",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "Mond",
+          "name": "mond",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "Zebra",
+          "name": "zebra",
+          "exampleWord": "zebra"
+        },
+        {
+          "glyph": "Uhr",
+          "name": "uhr",
+          "exampleWord": "clock"
+        },
+        {
+          "glyph": "Bett",
+          "name": "bett",
+          "exampleWord": "bed"
+        },
+        {
+          "glyph": "Regen",
+          "name": "regen",
+          "exampleWord": "rain"
+        },
+        {
+          "glyph": "Treppe",
+          "name": "treppe",
+          "exampleWord": "stairs"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'monkey'?",
+          "options": [
+            "Affe",
+            "Bär",
+            "Fisch",
+            "Hund"
+          ],
+          "answer": "Affe"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "Stuhl",
+            "Tisch",
+            "Bett",
+            "Lampe"
+          ],
+          "answer": "Stuhl"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l21",
+      "title": "Wiederholung 17",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Regen",
+          "name": "regen",
+          "exampleWord": "rain"
+        },
+        {
+          "glyph": "Buch",
+          "name": "buch",
+          "exampleWord": "book"
+        },
+        {
+          "glyph": "Bett",
+          "name": "bett",
+          "exampleWord": "bed"
+        },
+        {
+          "glyph": "Fenster",
+          "name": "fenster",
+          "exampleWord": "window"
+        },
+        {
+          "glyph": "Katze",
+          "name": "katze",
+          "exampleWord": "cat"
+        },
+        {
+          "glyph": "Pizza",
+          "name": "pizza",
+          "exampleWord": "pizza"
+        },
+        {
+          "glyph": "Affe",
+          "name": "affe",
+          "exampleWord": "monkey"
+        },
+        {
+          "glyph": "Baum",
+          "name": "baum",
+          "exampleWord": "tree"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'monkey'?",
+          "options": [
+            "Affe",
+            "Bär",
+            "Fisch",
+            "Hund"
+          ],
+          "answer": "Affe"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "Stuhl",
+            "Tisch",
+            "Bett",
+            "Lampe"
+          ],
+          "answer": "Stuhl"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l22",
+      "title": "Wiederholung 18",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Birne",
+          "name": "birne",
+          "exampleWord": "pear"
+        },
+        {
+          "glyph": "Stern",
+          "name": "stern",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "Stuhl",
+          "name": "stuhl",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "Regen",
+          "name": "regen",
+          "exampleWord": "rain"
+        },
+        {
+          "glyph": "Tisch",
+          "name": "tisch",
+          "exampleWord": "table"
+        },
+        {
+          "glyph": "Vogel",
+          "name": "vogel",
+          "exampleWord": "bird"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'bread'?",
+          "options": [
+            "Brot",
+            "Apfel",
+            "Birne",
+            "Pizza"
+          ],
+          "answer": "Brot"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'tree'?",
+          "options": [
+            "Baum",
+            "Blume",
+            "Wolke",
+            "Stern"
+          ],
+          "answer": "Baum"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l23",
+      "title": "Wiederholung 19",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Sonne",
+          "name": "sonne",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "Zebra",
+          "name": "zebra",
+          "exampleWord": "zebra"
+        },
+        {
+          "glyph": "Kuchen",
+          "name": "kuchen",
+          "exampleWord": "cake"
+        },
+        {
+          "glyph": "Käse",
+          "name": "käse",
+          "exampleWord": "cheese"
+        },
+        {
+          "glyph": "Wolke",
+          "name": "wolke",
+          "exampleWord": "cloud"
+        },
+        {
+          "glyph": "Honig",
+          "name": "honig",
+          "exampleWord": "honey"
+        },
+        {
+          "glyph": "Fisch",
+          "name": "fisch",
+          "exampleWord": "fish"
+        },
+        {
+          "glyph": "Bär",
+          "name": "bär",
+          "exampleWord": "bear"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'tree'?",
+          "options": [
+            "Baum",
+            "Blume",
+            "Wolke",
+            "Stern"
+          ],
+          "answer": "Baum"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l24",
+      "title": "Wiederholung 20",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Affe",
+          "name": "affe",
+          "exampleWord": "monkey"
+        },
+        {
+          "glyph": "Wasser",
+          "name": "wasser",
+          "exampleWord": "water"
+        },
+        {
+          "glyph": "Wolke",
+          "name": "wolke",
+          "exampleWord": "cloud"
+        },
+        {
+          "glyph": "Treppe",
+          "name": "treppe",
+          "exampleWord": "stairs"
+        },
+        {
+          "glyph": "Uhr",
+          "name": "uhr",
+          "exampleWord": "clock"
+        },
+        {
+          "glyph": "Buch",
+          "name": "buch",
+          "exampleWord": "book"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'monkey'?",
+          "options": [
+            "Affe",
+            "Bär",
+            "Fisch",
+            "Hund"
+          ],
+          "answer": "Affe"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l25",
+      "title": "Wiederholung 21",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Buch",
+          "name": "buch",
+          "exampleWord": "book"
+        },
+        {
+          "glyph": "Wolke",
+          "name": "wolke",
+          "exampleWord": "cloud"
+        },
+        {
+          "glyph": "Birne",
+          "name": "birne",
+          "exampleWord": "pear"
+        },
+        {
+          "glyph": "Katze",
+          "name": "katze",
+          "exampleWord": "cat"
+        },
+        {
+          "glyph": "Maus",
+          "name": "maus",
+          "exampleWord": "mouse"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "Stuhl",
+            "Tisch",
+            "Bett",
+            "Lampe"
+          ],
+          "answer": "Stuhl"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l26",
+      "title": "Wiederholung 22",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Hund",
+          "name": "hund",
+          "exampleWord": "dog"
+        },
+        {
+          "glyph": "Katze",
+          "name": "katze",
+          "exampleWord": "cat"
+        },
+        {
+          "glyph": "Buch",
+          "name": "buch",
+          "exampleWord": "book"
+        },
+        {
+          "glyph": "Stern",
+          "name": "stern",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "Wasser",
+          "name": "wasser",
+          "exampleWord": "water"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'monkey'?",
+          "options": [
+            "Affe",
+            "Bär",
+            "Fisch",
+            "Hund"
+          ],
+          "answer": "Affe"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'bread'?",
+          "options": [
+            "Brot",
+            "Apfel",
+            "Birne",
+            "Pizza"
+          ],
+          "answer": "Brot"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l27",
+      "title": "Wiederholung 23",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Stuhl",
+          "name": "stuhl",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "Hund",
+          "name": "hund",
+          "exampleWord": "dog"
+        },
+        {
+          "glyph": "Teller",
+          "name": "teller",
+          "exampleWord": "plate"
+        },
+        {
+          "glyph": "Fenster",
+          "name": "fenster",
+          "exampleWord": "window"
+        },
+        {
+          "glyph": "Apfel",
+          "name": "apfel",
+          "exampleWord": "apple"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'tree'?",
+          "options": [
+            "Baum",
+            "Blume",
+            "Wolke",
+            "Stern"
+          ],
+          "answer": "Baum"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l28",
+      "title": "Wiederholung 24",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Zebra",
+          "name": "zebra",
+          "exampleWord": "zebra"
+        },
+        {
+          "glyph": "Hund",
+          "name": "hund",
+          "exampleWord": "dog"
+        },
+        {
+          "glyph": "Lampe",
+          "name": "lampe",
+          "exampleWord": "lamp"
+        },
+        {
+          "glyph": "Suppe",
+          "name": "suppe",
+          "exampleWord": "soup"
+        },
+        {
+          "glyph": "Honig",
+          "name": "honig",
+          "exampleWord": "honey"
+        },
+        {
+          "glyph": "Mond",
+          "name": "mond",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "Bär",
+          "name": "bär",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "Blume",
+          "name": "blume",
+          "exampleWord": "flower"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'tree'?",
+          "options": [
+            "Baum",
+            "Blume",
+            "Wolke",
+            "Stern"
+          ],
+          "answer": "Baum"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "Stuhl",
+            "Tisch",
+            "Bett",
+            "Lampe"
+          ],
+          "answer": "Stuhl"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l29",
+      "title": "Wiederholung 25",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Uhr",
+          "name": "uhr",
+          "exampleWord": "clock"
+        },
+        {
+          "glyph": "Brot",
+          "name": "brot",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "Hund",
+          "name": "hund",
+          "exampleWord": "dog"
+        },
+        {
+          "glyph": "Spiegel",
+          "name": "spiegel",
+          "exampleWord": "mirror"
+        },
+        {
+          "glyph": "Wolf",
+          "name": "wolf",
+          "exampleWord": "wolf"
+        },
+        {
+          "glyph": "Wasser",
+          "name": "wasser",
+          "exampleWord": "water"
+        },
+        {
+          "glyph": "Fenster",
+          "name": "fenster",
+          "exampleWord": "window"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'bread'?",
+          "options": [
+            "Brot",
+            "Apfel",
+            "Birne",
+            "Pizza"
+          ],
+          "answer": "Brot"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l30",
+      "title": "Wiederholung 26",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Bär",
+          "name": "bär",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "Mond",
+          "name": "mond",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "Maus",
+          "name": "maus",
+          "exampleWord": "mouse"
+        },
+        {
+          "glyph": "Blume",
+          "name": "blume",
+          "exampleWord": "flower"
+        },
+        {
+          "glyph": "Baum",
+          "name": "baum",
+          "exampleWord": "tree"
+        },
+        {
+          "glyph": "Buch",
+          "name": "buch",
+          "exampleWord": "book"
+        },
+        {
+          "glyph": "Hund",
+          "name": "hund",
+          "exampleWord": "dog"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'monkey'?",
+          "options": [
+            "Affe",
+            "Bär",
+            "Fisch",
+            "Hund"
+          ],
+          "answer": "Affe"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l31",
+      "title": "Wiederholung 27",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Bär",
+          "name": "bär",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "Uhr",
+          "name": "uhr",
+          "exampleWord": "clock"
+        },
+        {
+          "glyph": "Stern",
+          "name": "stern",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "Sonne",
+          "name": "sonne",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "Salat",
+          "name": "salat",
+          "exampleWord": "salad"
+        },
+        {
+          "glyph": "Katze",
+          "name": "katze",
+          "exampleWord": "cat"
+        },
+        {
+          "glyph": "Birne",
+          "name": "birne",
+          "exampleWord": "pear"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'bread'?",
+          "options": [
+            "Brot",
+            "Apfel",
+            "Birne",
+            "Pizza"
+          ],
+          "answer": "Brot"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l32",
+      "title": "Wiederholung 28",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Suppe",
+          "name": "suppe",
+          "exampleWord": "soup"
+        },
+        {
+          "glyph": "Maus",
+          "name": "maus",
+          "exampleWord": "mouse"
+        },
+        {
+          "glyph": "Wolf",
+          "name": "wolf",
+          "exampleWord": "wolf"
+        },
+        {
+          "glyph": "Stuhl",
+          "name": "stuhl",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "Bett",
+          "name": "bett",
+          "exampleWord": "bed"
+        },
+        {
+          "glyph": "Brot",
+          "name": "brot",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "Birne",
+          "name": "birne",
+          "exampleWord": "pear"
+        },
+        {
+          "glyph": "Mond",
+          "name": "mond",
+          "exampleWord": "moon"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'monkey'?",
+          "options": [
+            "Affe",
+            "Bär",
+            "Fisch",
+            "Hund"
+          ],
+          "answer": "Affe"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'bread'?",
+          "options": [
+            "Brot",
+            "Apfel",
+            "Birne",
+            "Pizza"
+          ],
+          "answer": "Brot"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l33",
+      "title": "Wiederholung 29",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Teller",
+          "name": "teller",
+          "exampleWord": "plate"
+        },
+        {
+          "glyph": "Affe",
+          "name": "affe",
+          "exampleWord": "monkey"
+        },
+        {
+          "glyph": "Pizza",
+          "name": "pizza",
+          "exampleWord": "pizza"
+        },
+        {
+          "glyph": "Brot",
+          "name": "brot",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "Pferd",
+          "name": "pferd",
+          "exampleWord": "horse"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'bread'?",
+          "options": [
+            "Brot",
+            "Apfel",
+            "Birne",
+            "Pizza"
+          ],
+          "answer": "Brot"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l34",
+      "title": "Wiederholung 30",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Buch",
+          "name": "buch",
+          "exampleWord": "book"
+        },
+        {
+          "glyph": "Vogel",
+          "name": "vogel",
+          "exampleWord": "bird"
+        },
+        {
+          "glyph": "Suppe",
+          "name": "suppe",
+          "exampleWord": "soup"
+        },
+        {
+          "glyph": "Treppe",
+          "name": "treppe",
+          "exampleWord": "stairs"
+        },
+        {
+          "glyph": "Kuchen",
+          "name": "kuchen",
+          "exampleWord": "cake"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'bread'?",
+          "options": [
+            "Brot",
+            "Apfel",
+            "Birne",
+            "Pizza"
+          ],
+          "answer": "Brot"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'tree'?",
+          "options": [
+            "Baum",
+            "Blume",
+            "Wolke",
+            "Stern"
+          ],
+          "answer": "Baum"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l35",
+      "title": "Wiederholung 31",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Sonne",
+          "name": "sonne",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "Regen",
+          "name": "regen",
+          "exampleWord": "rain"
+        },
+        {
+          "glyph": "Bett",
+          "name": "bett",
+          "exampleWord": "bed"
+        },
+        {
+          "glyph": "Buch",
+          "name": "buch",
+          "exampleWord": "book"
+        },
+        {
+          "glyph": "Vogel",
+          "name": "vogel",
+          "exampleWord": "bird"
+        },
+        {
+          "glyph": "Birne",
+          "name": "birne",
+          "exampleWord": "pear"
+        },
+        {
+          "glyph": "Pizza",
+          "name": "pizza",
+          "exampleWord": "pizza"
+        },
+        {
+          "glyph": "Spiegel",
+          "name": "spiegel",
+          "exampleWord": "mirror"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "Stuhl",
+            "Tisch",
+            "Bett",
+            "Lampe"
+          ],
+          "answer": "Stuhl"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l36",
+      "title": "Wiederholung 32",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Salat",
+          "name": "salat",
+          "exampleWord": "salad"
+        },
+        {
+          "glyph": "Wind",
+          "name": "wind",
+          "exampleWord": "wind"
+        },
+        {
+          "glyph": "Hund",
+          "name": "hund",
+          "exampleWord": "dog"
+        },
+        {
+          "glyph": "Brot",
+          "name": "brot",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "Stuhl",
+          "name": "stuhl",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "Strand",
+          "name": "strand",
+          "exampleWord": "beach"
+        },
+        {
+          "glyph": "Zebra",
+          "name": "zebra",
+          "exampleWord": "zebra"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "Stuhl",
+            "Tisch",
+            "Bett",
+            "Lampe"
+          ],
+          "answer": "Stuhl"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'tree'?",
+          "options": [
+            "Baum",
+            "Blume",
+            "Wolke",
+            "Stern"
+          ],
+          "answer": "Baum"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l37",
+      "title": "Wiederholung 33",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Pferd",
+          "name": "pferd",
+          "exampleWord": "horse"
+        },
+        {
+          "glyph": "Treppe",
+          "name": "treppe",
+          "exampleWord": "stairs"
+        },
+        {
+          "glyph": "Honig",
+          "name": "honig",
+          "exampleWord": "honey"
+        },
+        {
+          "glyph": "Saft",
+          "name": "saft",
+          "exampleWord": "juice"
+        },
+        {
+          "glyph": "Hund",
+          "name": "hund",
+          "exampleWord": "dog"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'tree'?",
+          "options": [
+            "Baum",
+            "Blume",
+            "Wolke",
+            "Stern"
+          ],
+          "answer": "Baum"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l38",
+      "title": "Wiederholung 34",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Salat",
+          "name": "salat",
+          "exampleWord": "salad"
+        },
+        {
+          "glyph": "Pferd",
+          "name": "pferd",
+          "exampleWord": "horse"
+        },
+        {
+          "glyph": "Uhr",
+          "name": "uhr",
+          "exampleWord": "clock"
+        },
+        {
+          "glyph": "Baum",
+          "name": "baum",
+          "exampleWord": "tree"
+        },
+        {
+          "glyph": "Sonne",
+          "name": "sonne",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "Strand",
+          "name": "strand",
+          "exampleWord": "beach"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'tree'?",
+          "options": [
+            "Baum",
+            "Blume",
+            "Wolke",
+            "Stern"
+          ],
+          "answer": "Baum"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l39",
+      "title": "Wiederholung 35",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Wolke",
+          "name": "wolke",
+          "exampleWord": "cloud"
+        },
+        {
+          "glyph": "Brot",
+          "name": "brot",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "Apfel",
+          "name": "apfel",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "Katze",
+          "name": "katze",
+          "exampleWord": "cat"
+        },
+        {
+          "glyph": "Affe",
+          "name": "affe",
+          "exampleWord": "monkey"
+        },
+        {
+          "glyph": "Strand",
+          "name": "strand",
+          "exampleWord": "beach"
+        },
+        {
+          "glyph": "Maus",
+          "name": "maus",
+          "exampleWord": "mouse"
+        },
+        {
+          "glyph": "Blume",
+          "name": "blume",
+          "exampleWord": "flower"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'monkey'?",
+          "options": [
+            "Affe",
+            "Bär",
+            "Fisch",
+            "Hund"
+          ],
+          "answer": "Affe"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l40",
+      "title": "Wiederholung 36",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Salat",
+          "name": "salat",
+          "exampleWord": "salad"
+        },
+        {
+          "glyph": "Stern",
+          "name": "stern",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "Fenster",
+          "name": "fenster",
+          "exampleWord": "window"
+        },
+        {
+          "glyph": "Brot",
+          "name": "brot",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "Sonne",
+          "name": "sonne",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "Tisch",
+          "name": "tisch",
+          "exampleWord": "table"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'tree'?",
+          "options": [
+            "Baum",
+            "Blume",
+            "Wolke",
+            "Stern"
+          ],
+          "answer": "Baum"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'monkey'?",
+          "options": [
+            "Affe",
+            "Bär",
+            "Fisch",
+            "Hund"
+          ],
+          "answer": "Affe"
+        }
+      ]
     }
   ]
 }

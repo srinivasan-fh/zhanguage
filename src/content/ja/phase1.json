@@ -1400,6 +1400,222 @@
           "answer": "ワ"
         }
       ]
+    },
+    {
+      "id": "ja-p1-l37",
+      "title": "ふくしゅう 1",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "みゃ",
+          "name": "mya"
+        },
+        {
+          "glyph": "す",
+          "name": "su",
+          "exampleWord": "すいか"
+        },
+        {
+          "glyph": "ご",
+          "name": "go"
+        },
+        {
+          "glyph": "が",
+          "name": "ga"
+        },
+        {
+          "glyph": "え",
+          "name": "e",
+          "exampleWord": "えき"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'sa'?",
+          "options": [
+            "さ",
+            "し",
+            "す",
+            "せ"
+          ],
+          "answer": "さ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p1-l38",
+      "title": "ふくしゅう 2",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "れ",
+          "name": "re",
+          "exampleWord": "れもん"
+        },
+        {
+          "glyph": "りゃ",
+          "name": "rya"
+        },
+        {
+          "glyph": "じょ",
+          "name": "jo"
+        },
+        {
+          "glyph": "う",
+          "name": "u",
+          "exampleWord": "うみ"
+        },
+        {
+          "glyph": "ロ",
+          "name": "ro"
+        },
+        {
+          "glyph": "ト",
+          "name": "to"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'bya'?",
+          "options": [
+            "びゃ",
+            "びゅ",
+            "びょ",
+            "び"
+          ],
+          "answer": "びゃ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'da'?",
+          "options": [
+            "だ",
+            "ぢ",
+            "づ",
+            "で"
+          ],
+          "answer": "だ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p1-l39",
+      "title": "ふくしゅう 3",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "シ",
+          "name": "shi"
+        },
+        {
+          "glyph": "ぜ",
+          "name": "ze"
+        },
+        {
+          "glyph": "ス",
+          "name": "su"
+        },
+        {
+          "glyph": "ぴ",
+          "name": "pi"
+        },
+        {
+          "glyph": "ヤ",
+          "name": "ya"
+        },
+        {
+          "glyph": "ケ",
+          "name": "ke"
+        },
+        {
+          "glyph": "ま",
+          "name": "ma",
+          "exampleWord": "まめ"
+        },
+        {
+          "glyph": "きゃ",
+          "name": "kya"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'hya'?",
+          "options": [
+            "ひゃ",
+            "ひゅ",
+            "ひょ",
+            "ひ"
+          ],
+          "answer": "ひゃ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'za'?",
+          "options": [
+            "ざ",
+            "じ",
+            "ず",
+            "ぜ"
+          ],
+          "answer": "ざ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p1-l40",
+      "title": "ふくしゅう 4",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "にゅ",
+          "name": "nyu"
+        },
+        {
+          "glyph": "ナ",
+          "name": "na"
+        },
+        {
+          "glyph": "ユ",
+          "name": "yu"
+        },
+        {
+          "glyph": "ス",
+          "name": "su"
+        },
+        {
+          "glyph": "の",
+          "name": "no",
+          "exampleWord": "のり"
+        },
+        {
+          "glyph": "ヘ",
+          "name": "he"
+        },
+        {
+          "glyph": "ぴ",
+          "name": "pi"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is 'pya'?",
+          "options": [
+            "ぴゃ",
+            "ぴゅ",
+            "ぴょ",
+            "ぴ"
+          ],
+          "answer": "ぴゃ"
+        }
+      ]
     }
   ]
 }

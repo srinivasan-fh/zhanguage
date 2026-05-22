@@ -273,6 +273,1682 @@
           "answer": "다섯 개"
         }
       ]
+    },
+    {
+      "id": "ko-p9-l8",
+      "title": "복습 1",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "안녕, 친구!",
+          "name": "hello"
+        },
+        {
+          "glyph": "수요일",
+          "name": "Wed"
+        },
+        {
+          "glyph": "새가 강 위를 날았어요.",
+          "name": "l1"
+        },
+        {
+          "glyph": "잘 자, 엄마.",
+          "name": "night"
+        },
+        {
+          "glyph": "월요일",
+          "name": "Mon"
+        },
+        {
+          "glyph": "아주 추워요.",
+          "name": "cold"
+        },
+        {
+          "glyph": "그녀는 책을 읽어요",
+          "name": "read"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "누가 책을 읽어요?",
+          "options": [
+            "그녀는 책을 읽어요",
+            "나는 달리고 있어요",
+            "우리는 밥을 먹어요",
+            "그들은 자고 있어요"
+          ],
+          "answer": "그녀는 책을 읽어요"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "세 번째 요일?",
+          "options": [
+            "수요일",
+            "화요일",
+            "금요일",
+            "일요일"
+          ],
+          "answer": "수요일"
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l9",
+      "title": "복습 2",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "금요일",
+          "name": "Fri"
+        },
+        {
+          "glyph": "내일 봐요!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "오늘은 맑아요.",
+          "name": "sun"
+        },
+        {
+          "glyph": "사과 다섯 개 주세요.",
+          "name": "buy"
+        },
+        {
+          "glyph": "수요일",
+          "name": "Wed"
+        },
+        {
+          "glyph": "이 사과 얼마예요?",
+          "name": "price"
+        },
+        {
+          "glyph": "화요일",
+          "name": "Tue"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "세 번째 요일?",
+          "options": [
+            "수요일",
+            "화요일",
+            "금요일",
+            "일요일"
+          ],
+          "answer": "수요일"
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l10",
+      "title": "복습 3",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "아주 추워요.",
+          "name": "cold"
+        },
+        {
+          "glyph": "월요일",
+          "name": "Mon"
+        },
+        {
+          "glyph": "이 사과 얼마예요?",
+          "name": "price"
+        },
+        {
+          "glyph": "이천 원이에요.",
+          "name": "price"
+        },
+        {
+          "glyph": "내일 봐요!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "수요일",
+          "name": "Wed"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "세 번째 요일?",
+          "options": [
+            "수요일",
+            "화요일",
+            "금요일",
+            "일요일"
+          ],
+          "answer": "수요일"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "비 오는 거?",
+          "options": [
+            "밖에 비가 와요.",
+            "맑아요.",
+            "추워요.",
+            "바람이 불어요."
+          ],
+          "answer": "밖에 비가 와요."
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l11",
+      "title": "복습 4",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "밖에 비가 와요.",
+          "name": "rain"
+        },
+        {
+          "glyph": "내일 봐요!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "감사합니다, 거스름돈이에요.",
+          "name": "done"
+        },
+        {
+          "glyph": "토요일",
+          "name": "Sat"
+        },
+        {
+          "glyph": "새가 강 위를 날았어요.",
+          "name": "l1"
+        },
+        {
+          "glyph": "새 다섯 마리",
+          "name": "5"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "새는 어디 앉았나요?",
+          "options": [
+            "높은 나무에",
+            "강에",
+            "모래에",
+            "돌에"
+          ],
+          "answer": "높은 나무에"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "비 오는 거?",
+          "options": [
+            "밖에 비가 와요.",
+            "맑아요.",
+            "추워요.",
+            "바람이 불어요."
+          ],
+          "answer": "밖에 비가 와요."
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l12",
+      "title": "복습 5",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "금요일",
+          "name": "Fri"
+        },
+        {
+          "glyph": "그녀는 책을 읽어요",
+          "name": "read"
+        },
+        {
+          "glyph": "내일 봐요!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "고양이 두 마리",
+          "name": "2"
+        },
+        {
+          "glyph": "감사합니다, 거스름돈이에요.",
+          "name": "done"
+        },
+        {
+          "glyph": "수요일",
+          "name": "Wed"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "새는 어디 앉았나요?",
+          "options": [
+            "높은 나무에",
+            "강에",
+            "모래에",
+            "돌에"
+          ],
+          "answer": "높은 나무에"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "세 번째 요일?",
+          "options": [
+            "수요일",
+            "화요일",
+            "금요일",
+            "일요일"
+          ],
+          "answer": "수요일"
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l13",
+      "title": "복습 6",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "이천 원이에요.",
+          "name": "price"
+        },
+        {
+          "glyph": "안녕, 친구!",
+          "name": "hello"
+        },
+        {
+          "glyph": "그들은 자고 있어요",
+          "name": "sleep"
+        },
+        {
+          "glyph": "수요일",
+          "name": "Wed"
+        },
+        {
+          "glyph": "나는 달리고 있어요",
+          "name": "run"
+        },
+        {
+          "glyph": "사과 다섯 개 주세요.",
+          "name": "buy"
+        },
+        {
+          "glyph": "목요일",
+          "name": "Thu"
+        },
+        {
+          "glyph": "감사합니다, 거스름돈이에요.",
+          "name": "done"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"안녕\" 어떤 거예요?",
+          "options": [
+            "안녕, 친구!",
+            "고마워요",
+            "내일 봐요",
+            "잘 자"
+          ],
+          "answer": "안녕, 친구!"
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l14",
+      "title": "복습 7",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "그녀는 책을 읽어요",
+          "name": "read"
+        },
+        {
+          "glyph": "새가 강 위를 날았어요.",
+          "name": "l1"
+        },
+        {
+          "glyph": "사과 한 개",
+          "name": "1"
+        },
+        {
+          "glyph": "새 다섯 마리",
+          "name": "5"
+        },
+        {
+          "glyph": "자동차 네 대",
+          "name": "4"
+        },
+        {
+          "glyph": "수요일",
+          "name": "Wed"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "세 번째 요일?",
+          "options": [
+            "수요일",
+            "화요일",
+            "금요일",
+            "일요일"
+          ],
+          "answer": "수요일"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "새는 어디 앉았나요?",
+          "options": [
+            "높은 나무에",
+            "강에",
+            "모래에",
+            "돌에"
+          ],
+          "answer": "높은 나무에"
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l15",
+      "title": "복습 8",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "밖에 비가 와요.",
+          "name": "rain"
+        },
+        {
+          "glyph": "바람이 불어요.",
+          "name": "wind"
+        },
+        {
+          "glyph": "수요일",
+          "name": "Wed"
+        },
+        {
+          "glyph": "우리는 밥을 먹어요",
+          "name": "eat"
+        },
+        {
+          "glyph": "일요일",
+          "name": "Sun"
+        },
+        {
+          "glyph": "이천 원이에요.",
+          "name": "price"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"세 개\" 어떤 거예요?",
+          "options": [
+            "공 세 개",
+            "사과 한 개",
+            "새 다섯 마리",
+            "자동차 네 대"
+          ],
+          "answer": "공 세 개"
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l16",
+      "title": "복습 9",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "공 세 개",
+          "name": "3"
+        },
+        {
+          "glyph": "나는 달리고 있어요",
+          "name": "run"
+        },
+        {
+          "glyph": "고양이 두 마리",
+          "name": "2"
+        },
+        {
+          "glyph": "정말 고마워요.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "안녕, 친구!",
+          "name": "hello"
+        },
+        {
+          "glyph": "화요일",
+          "name": "Tue"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "몇 개?",
+          "options": [
+            "다섯 개",
+            "두 개",
+            "세 개",
+            "열 개"
+          ],
+          "answer": "다섯 개"
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l17",
+      "title": "복습 10",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "화요일",
+          "name": "Tue"
+        },
+        {
+          "glyph": "우리는 밥을 먹어요",
+          "name": "eat"
+        },
+        {
+          "glyph": "내일 봐요!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "그녀는 책을 읽어요",
+          "name": "read"
+        },
+        {
+          "glyph": "이 사과 얼마예요?",
+          "name": "price"
+        },
+        {
+          "glyph": "자동차 네 대",
+          "name": "4"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"세 개\" 어떤 거예요?",
+          "options": [
+            "공 세 개",
+            "사과 한 개",
+            "새 다섯 마리",
+            "자동차 네 대"
+          ],
+          "answer": "공 세 개"
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l18",
+      "title": "복습 11",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "고양이 두 마리",
+          "name": "2"
+        },
+        {
+          "glyph": "새가 강 위를 날았어요.",
+          "name": "l1"
+        },
+        {
+          "glyph": "새 다섯 마리",
+          "name": "5"
+        },
+        {
+          "glyph": "자동차 네 대",
+          "name": "4"
+        },
+        {
+          "glyph": "공 세 개",
+          "name": "3"
+        },
+        {
+          "glyph": "밖에 비가 와요.",
+          "name": "rain"
+        },
+        {
+          "glyph": "우리는 밥을 먹어요",
+          "name": "eat"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"세 개\" 어떤 거예요?",
+          "options": [
+            "공 세 개",
+            "사과 한 개",
+            "새 다섯 마리",
+            "자동차 네 대"
+          ],
+          "answer": "공 세 개"
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l19",
+      "title": "복습 12",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "정말 고마워요.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "바람이 불어요.",
+          "name": "wind"
+        },
+        {
+          "glyph": "그들은 자고 있어요",
+          "name": "sleep"
+        },
+        {
+          "glyph": "안녕, 친구!",
+          "name": "hello"
+        },
+        {
+          "glyph": "새는 높은 나무에 앉았어요.",
+          "name": "l2"
+        },
+        {
+          "glyph": "오늘은 맑아요.",
+          "name": "sun"
+        },
+        {
+          "glyph": "아주 추워요.",
+          "name": "cold"
+        },
+        {
+          "glyph": "공 세 개",
+          "name": "3"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"안녕\" 어떤 거예요?",
+          "options": [
+            "안녕, 친구!",
+            "고마워요",
+            "내일 봐요",
+            "잘 자"
+          ],
+          "answer": "안녕, 친구!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "새는 어디 앉았나요?",
+          "options": [
+            "높은 나무에",
+            "강에",
+            "모래에",
+            "돌에"
+          ],
+          "answer": "높은 나무에"
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l20",
+      "title": "복습 13",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "그들은 자고 있어요",
+          "name": "sleep"
+        },
+        {
+          "glyph": "공 세 개",
+          "name": "3"
+        },
+        {
+          "glyph": "사과 다섯 개 주세요.",
+          "name": "buy"
+        },
+        {
+          "glyph": "밖에 비가 와요.",
+          "name": "rain"
+        },
+        {
+          "glyph": "감사합니다, 거스름돈이에요.",
+          "name": "done"
+        },
+        {
+          "glyph": "수요일",
+          "name": "Wed"
+        },
+        {
+          "glyph": "정말 고마워요.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "내일 봐요!",
+          "name": "tmrw"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "세 번째 요일?",
+          "options": [
+            "수요일",
+            "화요일",
+            "금요일",
+            "일요일"
+          ],
+          "answer": "수요일"
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l21",
+      "title": "복습 14",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "고양이 두 마리",
+          "name": "2"
+        },
+        {
+          "glyph": "밖에 비가 와요.",
+          "name": "rain"
+        },
+        {
+          "glyph": "공 세 개",
+          "name": "3"
+        },
+        {
+          "glyph": "정말 고마워요.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "감사합니다, 거스름돈이에요.",
+          "name": "done"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "비 오는 거?",
+          "options": [
+            "밖에 비가 와요.",
+            "맑아요.",
+            "추워요.",
+            "바람이 불어요."
+          ],
+          "answer": "밖에 비가 와요."
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "세 번째 요일?",
+          "options": [
+            "수요일",
+            "화요일",
+            "금요일",
+            "일요일"
+          ],
+          "answer": "수요일"
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l22",
+      "title": "복습 15",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "오늘은 맑아요.",
+          "name": "sun"
+        },
+        {
+          "glyph": "그녀는 책을 읽어요",
+          "name": "read"
+        },
+        {
+          "glyph": "새가 강 위를 날았어요.",
+          "name": "l1"
+        },
+        {
+          "glyph": "공 세 개",
+          "name": "3"
+        },
+        {
+          "glyph": "이 사과 얼마예요?",
+          "name": "price"
+        },
+        {
+          "glyph": "내일 봐요!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "월요일",
+          "name": "Mon"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "새는 어디 앉았나요?",
+          "options": [
+            "높은 나무에",
+            "강에",
+            "모래에",
+            "돌에"
+          ],
+          "answer": "높은 나무에"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "누가 책을 읽어요?",
+          "options": [
+            "그녀는 책을 읽어요",
+            "나는 달리고 있어요",
+            "우리는 밥을 먹어요",
+            "그들은 자고 있어요"
+          ],
+          "answer": "그녀는 책을 읽어요"
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l23",
+      "title": "복습 16",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "감사합니다, 거스름돈이에요.",
+          "name": "done"
+        },
+        {
+          "glyph": "새는 높은 나무에 앉았어요.",
+          "name": "l2"
+        },
+        {
+          "glyph": "안녕, 친구!",
+          "name": "hello"
+        },
+        {
+          "glyph": "그들은 자고 있어요",
+          "name": "sleep"
+        },
+        {
+          "glyph": "아주 추워요.",
+          "name": "cold"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "새는 어디 앉았나요?",
+          "options": [
+            "높은 나무에",
+            "강에",
+            "모래에",
+            "돌에"
+          ],
+          "answer": "높은 나무에"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"안녕\" 어떤 거예요?",
+          "options": [
+            "안녕, 친구!",
+            "고마워요",
+            "내일 봐요",
+            "잘 자"
+          ],
+          "answer": "안녕, 친구!"
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l24",
+      "title": "복습 17",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "우리는 밥을 먹어요",
+          "name": "eat"
+        },
+        {
+          "glyph": "나는 달리고 있어요",
+          "name": "run"
+        },
+        {
+          "glyph": "바람이 불어요.",
+          "name": "wind"
+        },
+        {
+          "glyph": "내일 봐요!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "새가 강 위를 날았어요.",
+          "name": "l1"
+        },
+        {
+          "glyph": "금요일",
+          "name": "Fri"
+        },
+        {
+          "glyph": "사과 다섯 개 주세요.",
+          "name": "buy"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "비 오는 거?",
+          "options": [
+            "밖에 비가 와요.",
+            "맑아요.",
+            "추워요.",
+            "바람이 불어요."
+          ],
+          "answer": "밖에 비가 와요."
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l25",
+      "title": "복습 18",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "금요일",
+          "name": "Fri"
+        },
+        {
+          "glyph": "아주 추워요.",
+          "name": "cold"
+        },
+        {
+          "glyph": "그들은 자고 있어요",
+          "name": "sleep"
+        },
+        {
+          "glyph": "이천 원이에요.",
+          "name": "price"
+        },
+        {
+          "glyph": "거기에 작은 둥지가 있었어요.",
+          "name": "l3"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "누가 책을 읽어요?",
+          "options": [
+            "그녀는 책을 읽어요",
+            "나는 달리고 있어요",
+            "우리는 밥을 먹어요",
+            "그들은 자고 있어요"
+          ],
+          "answer": "그녀는 책을 읽어요"
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l26",
+      "title": "복습 19",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "잘 자, 엄마.",
+          "name": "night"
+        },
+        {
+          "glyph": "사과 한 개",
+          "name": "1"
+        },
+        {
+          "glyph": "이 사과 얼마예요?",
+          "name": "price"
+        },
+        {
+          "glyph": "자동차 네 대",
+          "name": "4"
+        },
+        {
+          "glyph": "고양이 두 마리",
+          "name": "2"
+        },
+        {
+          "glyph": "수요일",
+          "name": "Wed"
+        },
+        {
+          "glyph": "안녕, 친구!",
+          "name": "hello"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "세 번째 요일?",
+          "options": [
+            "수요일",
+            "화요일",
+            "금요일",
+            "일요일"
+          ],
+          "answer": "수요일"
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l27",
+      "title": "복습 20",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "사과 한 개",
+          "name": "1"
+        },
+        {
+          "glyph": "일요일",
+          "name": "Sun"
+        },
+        {
+          "glyph": "거기에 작은 둥지가 있었어요.",
+          "name": "l3"
+        },
+        {
+          "glyph": "밖에 비가 와요.",
+          "name": "rain"
+        },
+        {
+          "glyph": "잘 자, 엄마.",
+          "name": "night"
+        },
+        {
+          "glyph": "바람이 불어요.",
+          "name": "wind"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "몇 개?",
+          "options": [
+            "다섯 개",
+            "두 개",
+            "세 개",
+            "열 개"
+          ],
+          "answer": "다섯 개"
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l28",
+      "title": "복습 21",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "우리는 밥을 먹어요",
+          "name": "eat"
+        },
+        {
+          "glyph": "목요일",
+          "name": "Thu"
+        },
+        {
+          "glyph": "새가 강 위를 날았어요.",
+          "name": "l1"
+        },
+        {
+          "glyph": "바람이 불어요.",
+          "name": "wind"
+        },
+        {
+          "glyph": "고양이 두 마리",
+          "name": "2"
+        },
+        {
+          "glyph": "이천 원이에요.",
+          "name": "price"
+        },
+        {
+          "glyph": "이 사과 얼마예요?",
+          "name": "price"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "세 번째 요일?",
+          "options": [
+            "수요일",
+            "화요일",
+            "금요일",
+            "일요일"
+          ],
+          "answer": "수요일"
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l29",
+      "title": "복습 22",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "오늘은 맑아요.",
+          "name": "sun"
+        },
+        {
+          "glyph": "아주 추워요.",
+          "name": "cold"
+        },
+        {
+          "glyph": "사과 다섯 개 주세요.",
+          "name": "buy"
+        },
+        {
+          "glyph": "토요일",
+          "name": "Sat"
+        },
+        {
+          "glyph": "고양이 두 마리",
+          "name": "2"
+        },
+        {
+          "glyph": "우리는 밥을 먹어요",
+          "name": "eat"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "몇 개?",
+          "options": [
+            "다섯 개",
+            "두 개",
+            "세 개",
+            "열 개"
+          ],
+          "answer": "다섯 개"
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l30",
+      "title": "복습 23",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "안녕, 친구!",
+          "name": "hello"
+        },
+        {
+          "glyph": "거기에 작은 둥지가 있었어요.",
+          "name": "l3"
+        },
+        {
+          "glyph": "공 세 개",
+          "name": "3"
+        },
+        {
+          "glyph": "나는 달리고 있어요",
+          "name": "run"
+        },
+        {
+          "glyph": "그들은 자고 있어요",
+          "name": "sleep"
+        },
+        {
+          "glyph": "금요일",
+          "name": "Fri"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "몇 개?",
+          "options": [
+            "다섯 개",
+            "두 개",
+            "세 개",
+            "열 개"
+          ],
+          "answer": "다섯 개"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "누가 책을 읽어요?",
+          "options": [
+            "그녀는 책을 읽어요",
+            "나는 달리고 있어요",
+            "우리는 밥을 먹어요",
+            "그들은 자고 있어요"
+          ],
+          "answer": "그녀는 책을 읽어요"
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l31",
+      "title": "복습 24",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "안녕, 친구!",
+          "name": "hello"
+        },
+        {
+          "glyph": "아주 추워요.",
+          "name": "cold"
+        },
+        {
+          "glyph": "감사합니다, 거스름돈이에요.",
+          "name": "done"
+        },
+        {
+          "glyph": "그녀는 책을 읽어요",
+          "name": "read"
+        },
+        {
+          "glyph": "이천 원이에요.",
+          "name": "price"
+        },
+        {
+          "glyph": "거기에 작은 둥지가 있었어요.",
+          "name": "l3"
+        },
+        {
+          "glyph": "잘 자, 엄마.",
+          "name": "night"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "새는 어디 앉았나요?",
+          "options": [
+            "높은 나무에",
+            "강에",
+            "모래에",
+            "돌에"
+          ],
+          "answer": "높은 나무에"
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l32",
+      "title": "복습 25",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "화요일",
+          "name": "Tue"
+        },
+        {
+          "glyph": "그들은 자고 있어요",
+          "name": "sleep"
+        },
+        {
+          "glyph": "밖에 비가 와요.",
+          "name": "rain"
+        },
+        {
+          "glyph": "목요일",
+          "name": "Thu"
+        },
+        {
+          "glyph": "오늘은 맑아요.",
+          "name": "sun"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"세 개\" 어떤 거예요?",
+          "options": [
+            "공 세 개",
+            "사과 한 개",
+            "새 다섯 마리",
+            "자동차 네 대"
+          ],
+          "answer": "공 세 개"
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l33",
+      "title": "복습 26",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "안녕, 친구!",
+          "name": "hello"
+        },
+        {
+          "glyph": "우리는 밥을 먹어요",
+          "name": "eat"
+        },
+        {
+          "glyph": "이천 원이에요.",
+          "name": "price"
+        },
+        {
+          "glyph": "자동차 네 대",
+          "name": "4"
+        },
+        {
+          "glyph": "내일 봐요!",
+          "name": "tmrw"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"안녕\" 어떤 거예요?",
+          "options": [
+            "안녕, 친구!",
+            "고마워요",
+            "내일 봐요",
+            "잘 자"
+          ],
+          "answer": "안녕, 친구!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "몇 개?",
+          "options": [
+            "다섯 개",
+            "두 개",
+            "세 개",
+            "열 개"
+          ],
+          "answer": "다섯 개"
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l34",
+      "title": "복습 27",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "새는 높은 나무에 앉았어요.",
+          "name": "l2"
+        },
+        {
+          "glyph": "새가 강 위를 날았어요.",
+          "name": "l1"
+        },
+        {
+          "glyph": "이 사과 얼마예요?",
+          "name": "price"
+        },
+        {
+          "glyph": "화요일",
+          "name": "Tue"
+        },
+        {
+          "glyph": "감사합니다, 거스름돈이에요.",
+          "name": "done"
+        },
+        {
+          "glyph": "사과 한 개",
+          "name": "1"
+        },
+        {
+          "glyph": "목요일",
+          "name": "Thu"
+        },
+        {
+          "glyph": "금요일",
+          "name": "Fri"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "누가 책을 읽어요?",
+          "options": [
+            "그녀는 책을 읽어요",
+            "나는 달리고 있어요",
+            "우리는 밥을 먹어요",
+            "그들은 자고 있어요"
+          ],
+          "answer": "그녀는 책을 읽어요"
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l35",
+      "title": "복습 28",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "거기에 작은 둥지가 있었어요.",
+          "name": "l3"
+        },
+        {
+          "glyph": "이천 원이에요.",
+          "name": "price"
+        },
+        {
+          "glyph": "사과 다섯 개 주세요.",
+          "name": "buy"
+        },
+        {
+          "glyph": "새 다섯 마리",
+          "name": "5"
+        },
+        {
+          "glyph": "사과 한 개",
+          "name": "1"
+        },
+        {
+          "glyph": "그녀는 책을 읽어요",
+          "name": "read"
+        },
+        {
+          "glyph": "토요일",
+          "name": "Sat"
+        },
+        {
+          "glyph": "화요일",
+          "name": "Tue"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "세 번째 요일?",
+          "options": [
+            "수요일",
+            "화요일",
+            "금요일",
+            "일요일"
+          ],
+          "answer": "수요일"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "비 오는 거?",
+          "options": [
+            "밖에 비가 와요.",
+            "맑아요.",
+            "추워요.",
+            "바람이 불어요."
+          ],
+          "answer": "밖에 비가 와요."
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l36",
+      "title": "복습 29",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "거기에 작은 둥지가 있었어요.",
+          "name": "l3"
+        },
+        {
+          "glyph": "오늘은 맑아요.",
+          "name": "sun"
+        },
+        {
+          "glyph": "바람이 불어요.",
+          "name": "wind"
+        },
+        {
+          "glyph": "이 사과 얼마예요?",
+          "name": "price"
+        },
+        {
+          "glyph": "수요일",
+          "name": "Wed"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"세 개\" 어떤 거예요?",
+          "options": [
+            "공 세 개",
+            "사과 한 개",
+            "새 다섯 마리",
+            "자동차 네 대"
+          ],
+          "answer": "공 세 개"
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l37",
+      "title": "복습 30",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "월요일",
+          "name": "Mon"
+        },
+        {
+          "glyph": "사과 한 개",
+          "name": "1"
+        },
+        {
+          "glyph": "아주 추워요.",
+          "name": "cold"
+        },
+        {
+          "glyph": "사과 다섯 개 주세요.",
+          "name": "buy"
+        },
+        {
+          "glyph": "자동차 네 대",
+          "name": "4"
+        },
+        {
+          "glyph": "토요일",
+          "name": "Sat"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "비 오는 거?",
+          "options": [
+            "밖에 비가 와요.",
+            "맑아요.",
+            "추워요.",
+            "바람이 불어요."
+          ],
+          "answer": "밖에 비가 와요."
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l38",
+      "title": "복습 31",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "일요일",
+          "name": "Sun"
+        },
+        {
+          "glyph": "그들은 자고 있어요",
+          "name": "sleep"
+        },
+        {
+          "glyph": "나는 달리고 있어요",
+          "name": "run"
+        },
+        {
+          "glyph": "이천 원이에요.",
+          "name": "price"
+        },
+        {
+          "glyph": "목요일",
+          "name": "Thu"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"세 개\" 어떤 거예요?",
+          "options": [
+            "공 세 개",
+            "사과 한 개",
+            "새 다섯 마리",
+            "자동차 네 대"
+          ],
+          "answer": "공 세 개"
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l39",
+      "title": "복습 32",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "새 다섯 마리",
+          "name": "5"
+        },
+        {
+          "glyph": "고양이 두 마리",
+          "name": "2"
+        },
+        {
+          "glyph": "오늘은 맑아요.",
+          "name": "sun"
+        },
+        {
+          "glyph": "토요일",
+          "name": "Sat"
+        },
+        {
+          "glyph": "나는 달리고 있어요",
+          "name": "run"
+        },
+        {
+          "glyph": "그녀는 책을 읽어요",
+          "name": "read"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "비 오는 거?",
+          "options": [
+            "밖에 비가 와요.",
+            "맑아요.",
+            "추워요.",
+            "바람이 불어요."
+          ],
+          "answer": "밖에 비가 와요."
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "세 번째 요일?",
+          "options": [
+            "수요일",
+            "화요일",
+            "금요일",
+            "일요일"
+          ],
+          "answer": "수요일"
+        }
+      ]
+    },
+    {
+      "id": "ko-p9-l40",
+      "title": "복습 33",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "밖에 비가 와요.",
+          "name": "rain"
+        },
+        {
+          "glyph": "이천 원이에요.",
+          "name": "price"
+        },
+        {
+          "glyph": "사과 한 개",
+          "name": "1"
+        },
+        {
+          "glyph": "그녀는 책을 읽어요",
+          "name": "read"
+        },
+        {
+          "glyph": "새가 강 위를 날았어요.",
+          "name": "l1"
+        },
+        {
+          "glyph": "우리는 밥을 먹어요",
+          "name": "eat"
+        },
+        {
+          "glyph": "토요일",
+          "name": "Sat"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "세 번째 요일?",
+          "options": [
+            "수요일",
+            "화요일",
+            "금요일",
+            "일요일"
+          ],
+          "answer": "수요일"
+        }
+      ]
     }
   ]
 }

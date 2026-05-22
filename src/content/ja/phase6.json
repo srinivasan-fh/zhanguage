@@ -406,6 +406,1518 @@
         }
       ],
       "quiz": []
+    },
+    {
+      "id": "ja-p6-l9",
+      "title": "ふくしゅう 1",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "月",
+          "name": "trace"
+        },
+        {
+          "glyph": "九",
+          "name": "trace"
+        },
+        {
+          "glyph": "タ",
+          "name": "trace"
+        },
+        {
+          "glyph": "山",
+          "name": "trace"
+        },
+        {
+          "glyph": "う",
+          "name": "trace"
+        },
+        {
+          "glyph": "十",
+          "name": "trace"
+        },
+        {
+          "glyph": "ロ",
+          "name": "trace"
+        },
+        {
+          "glyph": "な",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "月",
+            "九",
+            "タ",
+            "山"
+          ],
+          "answer": "月"
+        }
+      ]
+    },
+    {
+      "id": "ja-p6-l10",
+      "title": "ふくしゅう 2",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "つき",
+          "name": "trace"
+        },
+        {
+          "glyph": "な",
+          "name": "trace"
+        },
+        {
+          "glyph": "ミ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ホ",
+          "name": "trace"
+        },
+        {
+          "glyph": "え",
+          "name": "trace"
+        },
+        {
+          "glyph": "お",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "つき",
+            "な",
+            "ミ",
+            "ホ"
+          ],
+          "answer": "つき"
+        }
+      ]
+    },
+    {
+      "id": "ja-p6-l11",
+      "title": "ふくしゅう 3",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ユ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ル",
+          "name": "trace"
+        },
+        {
+          "glyph": "メ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ケ",
+          "name": "trace"
+        },
+        {
+          "glyph": "い",
+          "name": "trace"
+        },
+        {
+          "glyph": "日",
+          "name": "trace"
+        },
+        {
+          "glyph": "か",
+          "name": "trace"
+        },
+        {
+          "glyph": "な",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "ユ",
+            "ル",
+            "メ",
+            "ケ"
+          ],
+          "answer": "ユ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p6-l12",
+      "title": "ふくしゅう 4",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ツ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ロ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ねこ",
+          "name": "trace"
+        },
+        {
+          "glyph": "タ",
+          "name": "trace"
+        },
+        {
+          "glyph": "え",
+          "name": "trace"
+        },
+        {
+          "glyph": "土",
+          "name": "trace"
+        },
+        {
+          "glyph": "いぬ",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "ツ",
+            "ロ",
+            "ねこ",
+            "タ"
+          ],
+          "answer": "ツ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p6-l13",
+      "title": "ふくしゅう 5",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ラ",
+          "name": "trace"
+        },
+        {
+          "glyph": "あ",
+          "name": "trace"
+        },
+        {
+          "glyph": "か",
+          "name": "trace"
+        },
+        {
+          "glyph": "十",
+          "name": "trace"
+        },
+        {
+          "glyph": "ユ",
+          "name": "trace"
+        },
+        {
+          "glyph": "九",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "ラ",
+            "あ",
+            "か",
+            "十"
+          ],
+          "answer": "ラ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p6-l14",
+      "title": "ふくしゅう 6",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "サ",
+          "name": "trace"
+        },
+        {
+          "glyph": "さ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ツ",
+          "name": "trace"
+        },
+        {
+          "glyph": "フ",
+          "name": "trace"
+        },
+        {
+          "glyph": "や",
+          "name": "trace"
+        },
+        {
+          "glyph": "水",
+          "name": "trace"
+        },
+        {
+          "glyph": "ヘ",
+          "name": "trace"
+        },
+        {
+          "glyph": "リ",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "サ",
+            "さ",
+            "ツ",
+            "フ"
+          ],
+          "answer": "サ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p6-l15",
+      "title": "ふくしゅう 7",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "七",
+          "name": "trace"
+        },
+        {
+          "glyph": "キ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ヘ",
+          "name": "trace"
+        },
+        {
+          "glyph": "山",
+          "name": "trace"
+        },
+        {
+          "glyph": "八",
+          "name": "trace"
+        },
+        {
+          "glyph": "空",
+          "name": "trace"
+        },
+        {
+          "glyph": "オ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ヌ",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "七",
+            "キ",
+            "ヘ",
+            "山"
+          ],
+          "answer": "七"
+        }
+      ]
+    },
+    {
+      "id": "ja-p6-l16",
+      "title": "ふくしゅう 8",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "メ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ケ",
+          "name": "trace"
+        },
+        {
+          "glyph": "月",
+          "name": "trace"
+        },
+        {
+          "glyph": "ム",
+          "name": "trace"
+        },
+        {
+          "glyph": "ヘ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ル",
+          "name": "trace"
+        },
+        {
+          "glyph": "ハ",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "メ",
+            "ケ",
+            "月",
+            "ム"
+          ],
+          "answer": "メ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p6-l17",
+      "title": "ふくしゅう 9",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "オ",
+          "name": "trace"
+        },
+        {
+          "glyph": "一",
+          "name": "trace"
+        },
+        {
+          "glyph": "七",
+          "name": "trace"
+        },
+        {
+          "glyph": "メ",
+          "name": "trace"
+        },
+        {
+          "glyph": "フ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ユ",
+          "name": "trace"
+        },
+        {
+          "glyph": "や",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "オ",
+            "一",
+            "七",
+            "メ"
+          ],
+          "answer": "オ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p6-l18",
+      "title": "ふくしゅう 10",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "エ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ネ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ヒ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ル",
+          "name": "trace"
+        },
+        {
+          "glyph": "ラ",
+          "name": "trace"
+        },
+        {
+          "glyph": "七",
+          "name": "trace"
+        },
+        {
+          "glyph": "ク",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "エ",
+            "ネ",
+            "ヒ",
+            "ル"
+          ],
+          "answer": "エ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p6-l19",
+      "title": "ふくしゅう 11",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ノ",
+          "name": "trace"
+        },
+        {
+          "glyph": "二",
+          "name": "trace"
+        },
+        {
+          "glyph": "山",
+          "name": "trace"
+        },
+        {
+          "glyph": "オ",
+          "name": "trace"
+        },
+        {
+          "glyph": "水",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "ノ",
+            "二",
+            "山",
+            "オ"
+          ],
+          "answer": "ノ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p6-l20",
+      "title": "ふくしゅう 12",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "七",
+          "name": "trace"
+        },
+        {
+          "glyph": "山",
+          "name": "trace"
+        },
+        {
+          "glyph": "キ",
+          "name": "trace"
+        },
+        {
+          "glyph": "日",
+          "name": "trace"
+        },
+        {
+          "glyph": "エ",
+          "name": "trace"
+        },
+        {
+          "glyph": "とり",
+          "name": "trace"
+        },
+        {
+          "glyph": "ミ",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "七",
+            "山",
+            "キ",
+            "日"
+          ],
+          "answer": "七"
+        }
+      ]
+    },
+    {
+      "id": "ja-p6-l21",
+      "title": "ふくしゅう 13",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "モ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ア",
+          "name": "trace"
+        },
+        {
+          "glyph": "二",
+          "name": "trace"
+        },
+        {
+          "glyph": "七",
+          "name": "trace"
+        },
+        {
+          "glyph": "か",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "モ",
+            "ア",
+            "二",
+            "七"
+          ],
+          "answer": "モ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p6-l22",
+      "title": "ふくしゅう 14",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "日",
+          "name": "trace"
+        },
+        {
+          "glyph": "あ",
+          "name": "trace"
+        },
+        {
+          "glyph": "セ",
+          "name": "trace"
+        },
+        {
+          "glyph": "八",
+          "name": "trace"
+        },
+        {
+          "glyph": "ク",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "日",
+            "あ",
+            "セ",
+            "八"
+          ],
+          "answer": "日"
+        }
+      ]
+    },
+    {
+      "id": "ja-p6-l23",
+      "title": "ふくしゅう 15",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ネ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ワ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ア",
+          "name": "trace"
+        },
+        {
+          "glyph": "ヌ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ヘ",
+          "name": "trace"
+        },
+        {
+          "glyph": "八",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "ネ",
+            "ワ",
+            "ア",
+            "ヌ"
+          ],
+          "answer": "ネ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p6-l24",
+      "title": "ふくしゅう 16",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "四",
+          "name": "trace"
+        },
+        {
+          "glyph": "ミ",
+          "name": "trace"
+        },
+        {
+          "glyph": "やま",
+          "name": "trace"
+        },
+        {
+          "glyph": "日",
+          "name": "trace"
+        },
+        {
+          "glyph": "ハ",
+          "name": "trace"
+        },
+        {
+          "glyph": "メ",
+          "name": "trace"
+        },
+        {
+          "glyph": "わ",
+          "name": "trace"
+        },
+        {
+          "glyph": "山",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "四",
+            "ミ",
+            "やま",
+            "日"
+          ],
+          "answer": "四"
+        }
+      ]
+    },
+    {
+      "id": "ja-p6-l25",
+      "title": "ふくしゅう 17",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "カ",
+          "name": "trace"
+        },
+        {
+          "glyph": "いぬ",
+          "name": "trace"
+        },
+        {
+          "glyph": "あ",
+          "name": "trace"
+        },
+        {
+          "glyph": "二",
+          "name": "trace"
+        },
+        {
+          "glyph": "わ",
+          "name": "trace"
+        },
+        {
+          "glyph": "一",
+          "name": "trace"
+        },
+        {
+          "glyph": "オ",
+          "name": "trace"
+        },
+        {
+          "glyph": "は",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "カ",
+            "いぬ",
+            "あ",
+            "二"
+          ],
+          "answer": "カ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p6-l26",
+      "title": "ふくしゅう 18",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "シ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ム",
+          "name": "trace"
+        },
+        {
+          "glyph": "ト",
+          "name": "trace"
+        },
+        {
+          "glyph": "とり",
+          "name": "trace"
+        },
+        {
+          "glyph": "七",
+          "name": "trace"
+        },
+        {
+          "glyph": "ら",
+          "name": "trace"
+        },
+        {
+          "glyph": "いぬ",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "シ",
+            "ム",
+            "ト",
+            "とり"
+          ],
+          "answer": "シ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p6-l27",
+      "title": "ふくしゅう 19",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "う",
+          "name": "trace"
+        },
+        {
+          "glyph": "え",
+          "name": "trace"
+        },
+        {
+          "glyph": "テ",
+          "name": "trace"
+        },
+        {
+          "glyph": "イ",
+          "name": "trace"
+        },
+        {
+          "glyph": "とり",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "う",
+            "え",
+            "テ",
+            "イ"
+          ],
+          "answer": "う"
+        }
+      ]
+    },
+    {
+      "id": "ja-p6-l28",
+      "title": "ふくしゅう 20",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "は",
+          "name": "trace"
+        },
+        {
+          "glyph": "な",
+          "name": "trace"
+        },
+        {
+          "glyph": "セ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ラ",
+          "name": "trace"
+        },
+        {
+          "glyph": "イ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ヤ",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "は",
+            "な",
+            "セ",
+            "ラ"
+          ],
+          "answer": "は"
+        }
+      ]
+    },
+    {
+      "id": "ja-p6-l29",
+      "title": "ふくしゅう 21",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ム",
+          "name": "trace"
+        },
+        {
+          "glyph": "い",
+          "name": "trace"
+        },
+        {
+          "glyph": "水",
+          "name": "trace"
+        },
+        {
+          "glyph": "ト",
+          "name": "trace"
+        },
+        {
+          "glyph": "ノ",
+          "name": "trace"
+        },
+        {
+          "glyph": "マ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ヘ",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "ム",
+            "い",
+            "水",
+            "ト"
+          ],
+          "answer": "ム"
+        }
+      ]
+    },
+    {
+      "id": "ja-p6-l30",
+      "title": "ふくしゅう 22",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ト",
+          "name": "trace"
+        },
+        {
+          "glyph": "ヤ",
+          "name": "trace"
+        },
+        {
+          "glyph": "土",
+          "name": "trace"
+        },
+        {
+          "glyph": "火",
+          "name": "trace"
+        },
+        {
+          "glyph": "ロ",
+          "name": "trace"
+        },
+        {
+          "glyph": "山",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "ト",
+            "ヤ",
+            "土",
+            "火"
+          ],
+          "answer": "ト"
+        }
+      ]
+    },
+    {
+      "id": "ja-p6-l31",
+      "title": "ふくしゅう 23",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ワ",
+          "name": "trace"
+        },
+        {
+          "glyph": "お",
+          "name": "trace"
+        },
+        {
+          "glyph": "一",
+          "name": "trace"
+        },
+        {
+          "glyph": "ニ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ハ",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "ワ",
+            "お",
+            "一",
+            "ニ"
+          ],
+          "answer": "ワ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p6-l32",
+      "title": "ふくしゅう 24",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "セ",
+          "name": "trace"
+        },
+        {
+          "glyph": "レ",
+          "name": "trace"
+        },
+        {
+          "glyph": "マ",
+          "name": "trace"
+        },
+        {
+          "glyph": "六",
+          "name": "trace"
+        },
+        {
+          "glyph": "ら",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "セ",
+            "レ",
+            "マ",
+            "六"
+          ],
+          "answer": "セ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p6-l33",
+      "title": "ふくしゅう 25",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "火",
+          "name": "trace"
+        },
+        {
+          "glyph": "土",
+          "name": "trace"
+        },
+        {
+          "glyph": "ハ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ワ",
+          "name": "trace"
+        },
+        {
+          "glyph": "え",
+          "name": "trace"
+        },
+        {
+          "glyph": "ホ",
+          "name": "trace"
+        },
+        {
+          "glyph": "お",
+          "name": "trace"
+        },
+        {
+          "glyph": "川",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "火",
+            "土",
+            "ハ",
+            "ワ"
+          ],
+          "answer": "火"
+        }
+      ]
+    },
+    {
+      "id": "ja-p6-l34",
+      "title": "ふくしゅう 26",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "レ",
+          "name": "trace"
+        },
+        {
+          "glyph": "セ",
+          "name": "trace"
+        },
+        {
+          "glyph": "七",
+          "name": "trace"
+        },
+        {
+          "glyph": "や",
+          "name": "trace"
+        },
+        {
+          "glyph": "ま",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "レ",
+            "セ",
+            "七",
+            "や"
+          ],
+          "answer": "レ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p6-l35",
+      "title": "ふくしゅう 27",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "山",
+          "name": "trace"
+        },
+        {
+          "glyph": "ら",
+          "name": "trace"
+        },
+        {
+          "glyph": "リ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ホ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ノ",
+          "name": "trace"
+        },
+        {
+          "glyph": "シ",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "山",
+            "ら",
+            "リ",
+            "ホ"
+          ],
+          "answer": "山"
+        }
+      ]
+    },
+    {
+      "id": "ja-p6-l36",
+      "title": "ふくしゅう 28",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "お",
+          "name": "trace"
+        },
+        {
+          "glyph": "ヌ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ナ",
+          "name": "trace"
+        },
+        {
+          "glyph": "八",
+          "name": "trace"
+        },
+        {
+          "glyph": "ラ",
+          "name": "trace"
+        },
+        {
+          "glyph": "つき",
+          "name": "trace"
+        },
+        {
+          "glyph": "メ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ら",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "お",
+            "ヌ",
+            "ナ",
+            "八"
+          ],
+          "answer": "お"
+        }
+      ]
+    },
+    {
+      "id": "ja-p6-l37",
+      "title": "ふくしゅう 29",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ウ",
+          "name": "trace"
+        },
+        {
+          "glyph": "火",
+          "name": "trace"
+        },
+        {
+          "glyph": "え",
+          "name": "trace"
+        },
+        {
+          "glyph": "二",
+          "name": "trace"
+        },
+        {
+          "glyph": "ヨ",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "ウ",
+            "火",
+            "え",
+            "二"
+          ],
+          "answer": "ウ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p6-l38",
+      "title": "ふくしゅう 30",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "二",
+          "name": "trace"
+        },
+        {
+          "glyph": "コ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ル",
+          "name": "trace"
+        },
+        {
+          "glyph": "チ",
+          "name": "trace"
+        },
+        {
+          "glyph": "十",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "二",
+            "コ",
+            "ル",
+            "チ"
+          ],
+          "answer": "二"
+        }
+      ]
+    },
+    {
+      "id": "ja-p6-l39",
+      "title": "ふくしゅう 31",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "六",
+          "name": "trace"
+        },
+        {
+          "glyph": "さ",
+          "name": "trace"
+        },
+        {
+          "glyph": "セ",
+          "name": "trace"
+        },
+        {
+          "glyph": "月",
+          "name": "trace"
+        },
+        {
+          "glyph": "イ",
+          "name": "trace"
+        },
+        {
+          "glyph": "四",
+          "name": "trace"
+        },
+        {
+          "glyph": "ワ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ケ",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "六",
+            "さ",
+            "セ",
+            "月"
+          ],
+          "answer": "六"
+        }
+      ]
+    },
+    {
+      "id": "ja-p6-l40",
+      "title": "ふくしゅう 32",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "テ",
+          "name": "trace"
+        },
+        {
+          "glyph": "キ",
+          "name": "trace"
+        },
+        {
+          "glyph": "か",
+          "name": "trace"
+        },
+        {
+          "glyph": "空",
+          "name": "trace"
+        },
+        {
+          "glyph": "水",
+          "name": "trace"
+        },
+        {
+          "glyph": "ネ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ヤ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ア",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "テ",
+            "キ",
+            "か",
+            "空"
+          ],
+          "answer": "テ"
+        }
+      ]
     }
   ]
 }

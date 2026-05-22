@@ -738,6 +738,1314 @@
           "answer": "uang"
         }
       ]
+    },
+    {
+      "id": "zh-p1-l18",
+      "title": "复习 1",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ian",
+          "name": "ian",
+          "exampleWord": "天"
+        },
+        {
+          "glyph": "ì",
+          "name": "ee tone 4"
+        },
+        {
+          "glyph": "i",
+          "name": "ee (no tone)"
+        },
+        {
+          "glyph": "r",
+          "name": "ruh",
+          "exampleWord": "人"
+        },
+        {
+          "glyph": "k",
+          "name": "kuh",
+          "exampleWord": "看"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "鸡 starts with which letter?",
+          "options": [
+            "j",
+            "q",
+            "x",
+            "b"
+          ],
+          "answer": "j"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which final do you hear in 双?",
+          "options": [
+            "uang",
+            "ueng",
+            "üe",
+            "üan"
+          ],
+          "answer": "uang"
+        }
+      ]
+    },
+    {
+      "id": "zh-p1-l19",
+      "title": "复习 2",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ǎ",
+          "name": "ah tone 3"
+        },
+        {
+          "glyph": "ǐ",
+          "name": "ee tone 3"
+        },
+        {
+          "glyph": "üan",
+          "name": "üan",
+          "exampleWord": "元"
+        },
+        {
+          "glyph": "uan",
+          "name": "uan",
+          "exampleWord": "换"
+        },
+        {
+          "glyph": "ai",
+          "name": "ai",
+          "exampleWord": "爱"
+        },
+        {
+          "glyph": "ō",
+          "name": "oh tone 1"
+        },
+        {
+          "glyph": "k",
+          "name": "kuh",
+          "exampleWord": "看"
+        },
+        {
+          "glyph": "n",
+          "name": "nuh",
+          "exampleWord": "你"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which is 'yu' tone 1?",
+          "options": [
+            "ü",
+            "ǖ",
+            "ǘ",
+            "ǚ"
+          ],
+          "answer": "ǖ"
+        }
+      ]
+    },
+    {
+      "id": "zh-p1-l20",
+      "title": "复习 3",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "a",
+          "name": "ah (no tone)"
+        },
+        {
+          "glyph": "i",
+          "name": "ee (no tone)"
+        },
+        {
+          "glyph": "iong",
+          "name": "iong",
+          "exampleWord": "用"
+        },
+        {
+          "glyph": "zh",
+          "name": "j-",
+          "exampleWord": "中"
+        },
+        {
+          "glyph": "ǒ",
+          "name": "oh tone 3"
+        },
+        {
+          "glyph": "o",
+          "name": "oh (no tone)"
+        },
+        {
+          "glyph": "ai",
+          "name": "ai",
+          "exampleWord": "爱"
+        },
+        {
+          "glyph": "er",
+          "name": "er",
+          "exampleWord": "二"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which final do you hear in 二?",
+          "options": [
+            "er",
+            "ia",
+            "ie",
+            "iao"
+          ],
+          "answer": "er"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "中 starts with which letter?",
+          "options": [
+            "zh",
+            "ch",
+            "sh",
+            "r"
+          ],
+          "answer": "zh"
+        }
+      ]
+    },
+    {
+      "id": "zh-p1-l21",
+      "title": "复习 4",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "eng",
+          "name": "eng",
+          "exampleWord": "灯"
+        },
+        {
+          "glyph": "uang",
+          "name": "uang",
+          "exampleWord": "双"
+        },
+        {
+          "glyph": "ī",
+          "name": "ee tone 1"
+        },
+        {
+          "glyph": "í",
+          "name": "ee tone 2"
+        },
+        {
+          "glyph": "iao",
+          "name": "iao",
+          "exampleWord": "小"
+        },
+        {
+          "glyph": "en",
+          "name": "en",
+          "exampleWord": "门"
+        },
+        {
+          "glyph": "an",
+          "name": "an",
+          "exampleWord": "看"
+        },
+        {
+          "glyph": "uan",
+          "name": "uan",
+          "exampleWord": "换"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "中 starts with which letter?",
+          "options": [
+            "zh",
+            "ch",
+            "sh",
+            "r"
+          ],
+          "answer": "zh"
+        }
+      ]
+    },
+    {
+      "id": "zh-p1-l22",
+      "title": "复习 5",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "üe",
+          "name": "üe",
+          "exampleWord": "学"
+        },
+        {
+          "glyph": "w",
+          "name": "wuh",
+          "exampleWord": "我"
+        },
+        {
+          "glyph": "c",
+          "name": "ts",
+          "exampleWord": "草"
+        },
+        {
+          "glyph": "ǜ",
+          "name": "yu tone 4"
+        },
+        {
+          "glyph": "s",
+          "name": "suh",
+          "exampleWord": "四"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which is 'oh' tone 1?",
+          "options": [
+            "o",
+            "ō",
+            "ó",
+            "ǒ"
+          ],
+          "answer": "ō"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which final do you hear in 二?",
+          "options": [
+            "er",
+            "ia",
+            "ie",
+            "iao"
+          ],
+          "answer": "er"
+        }
+      ]
+    },
+    {
+      "id": "zh-p1-l23",
+      "title": "复习 6",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ē",
+          "name": "uh tone 1"
+        },
+        {
+          "glyph": "ū",
+          "name": "oo tone 1"
+        },
+        {
+          "glyph": "ǎ",
+          "name": "ah tone 3"
+        },
+        {
+          "glyph": "uai",
+          "name": "uai",
+          "exampleWord": "快"
+        },
+        {
+          "glyph": "k",
+          "name": "kuh",
+          "exampleWord": "看"
+        },
+        {
+          "glyph": "ua",
+          "name": "ua",
+          "exampleWord": "花"
+        },
+        {
+          "glyph": "i",
+          "name": "ee (no tone)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "爸 starts with which letter?",
+          "options": [
+            "b",
+            "p",
+            "m",
+            "f"
+          ],
+          "answer": "b"
+        }
+      ]
+    },
+    {
+      "id": "zh-p1-l24",
+      "title": "复习 7",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "uo",
+          "name": "uo",
+          "exampleWord": "多"
+        },
+        {
+          "glyph": "ian",
+          "name": "ian",
+          "exampleWord": "天"
+        },
+        {
+          "glyph": "ù",
+          "name": "oo tone 4"
+        },
+        {
+          "glyph": "eng",
+          "name": "eng",
+          "exampleWord": "灯"
+        },
+        {
+          "glyph": "iao",
+          "name": "iao",
+          "exampleWord": "小"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which is 'ee' tone 1?",
+          "options": [
+            "i",
+            "ī",
+            "í",
+            "ǐ"
+          ],
+          "answer": "ī"
+        }
+      ]
+    },
+    {
+      "id": "zh-p1-l25",
+      "title": "复习 8",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "á",
+          "name": "ah tone 2"
+        },
+        {
+          "glyph": "t",
+          "name": "tuh",
+          "exampleWord": "他"
+        },
+        {
+          "glyph": "ǖ",
+          "name": "yu tone 1"
+        },
+        {
+          "glyph": "p",
+          "name": "puh",
+          "exampleWord": "怕"
+        },
+        {
+          "glyph": "uei",
+          "name": "uei",
+          "exampleWord": "水"
+        },
+        {
+          "glyph": "ou",
+          "name": "ou",
+          "exampleWord": "走"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "中 starts with which letter?",
+          "options": [
+            "zh",
+            "ch",
+            "sh",
+            "r"
+          ],
+          "answer": "zh"
+        }
+      ]
+    },
+    {
+      "id": "zh-p1-l26",
+      "title": "复习 9",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "uan",
+          "name": "uan",
+          "exampleWord": "换"
+        },
+        {
+          "glyph": "o",
+          "name": "oh (no tone)"
+        },
+        {
+          "glyph": "ia",
+          "name": "ia",
+          "exampleWord": "家"
+        },
+        {
+          "glyph": "á",
+          "name": "ah tone 2"
+        },
+        {
+          "glyph": "x",
+          "name": "shee",
+          "exampleWord": "西"
+        },
+        {
+          "glyph": "ao",
+          "name": "ao",
+          "exampleWord": "好"
+        },
+        {
+          "glyph": "ǔ",
+          "name": "oo tone 3"
+        },
+        {
+          "glyph": "ai",
+          "name": "ai",
+          "exampleWord": "爱"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which final do you hear in 双?",
+          "options": [
+            "uang",
+            "ueng",
+            "üe",
+            "üan"
+          ],
+          "answer": "uang"
+        }
+      ]
+    },
+    {
+      "id": "zh-p1-l27",
+      "title": "复习 10",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "z",
+          "name": "ds",
+          "exampleWord": "字"
+        },
+        {
+          "glyph": "m",
+          "name": "muh",
+          "exampleWord": "妈"
+        },
+        {
+          "glyph": "ē",
+          "name": "uh tone 1"
+        },
+        {
+          "glyph": "è",
+          "name": "uh tone 4"
+        },
+        {
+          "glyph": "é",
+          "name": "uh tone 2"
+        },
+        {
+          "glyph": "ing",
+          "name": "ing",
+          "exampleWord": "明"
+        },
+        {
+          "glyph": "ū",
+          "name": "oo tone 1"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which is 'oo' tone 1?",
+          "options": [
+            "u",
+            "ū",
+            "ú",
+            "ǔ"
+          ],
+          "answer": "ū"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which is 'yu' tone 1?",
+          "options": [
+            "ü",
+            "ǖ",
+            "ǘ",
+            "ǚ"
+          ],
+          "answer": "ǖ"
+        }
+      ]
+    },
+    {
+      "id": "zh-p1-l28",
+      "title": "复习 11",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ē",
+          "name": "uh tone 1"
+        },
+        {
+          "glyph": "ì",
+          "name": "ee tone 4"
+        },
+        {
+          "glyph": "k",
+          "name": "kuh",
+          "exampleWord": "看"
+        },
+        {
+          "glyph": "w",
+          "name": "wuh",
+          "exampleWord": "我"
+        },
+        {
+          "glyph": "ū",
+          "name": "oo tone 1"
+        },
+        {
+          "glyph": "ó",
+          "name": "oh tone 2"
+        },
+        {
+          "glyph": "j",
+          "name": "jee",
+          "exampleWord": "鸡"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which is 'ah' tone 1?",
+          "options": [
+            "a",
+            "ā",
+            "á",
+            "ǎ"
+          ],
+          "answer": "ā"
+        }
+      ]
+    },
+    {
+      "id": "zh-p1-l29",
+      "title": "复习 12",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "g",
+          "name": "guh",
+          "exampleWord": "哥"
+        },
+        {
+          "glyph": "c",
+          "name": "ts",
+          "exampleWord": "草"
+        },
+        {
+          "glyph": "é",
+          "name": "uh tone 2"
+        },
+        {
+          "glyph": "h",
+          "name": "huh",
+          "exampleWord": "好"
+        },
+        {
+          "glyph": "ǐ",
+          "name": "ee tone 3"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "中 starts with which letter?",
+          "options": [
+            "zh",
+            "ch",
+            "sh",
+            "r"
+          ],
+          "answer": "zh"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "哥 starts with which letter?",
+          "options": [
+            "g",
+            "k",
+            "h",
+            "b"
+          ],
+          "answer": "g"
+        }
+      ]
+    },
+    {
+      "id": "zh-p1-l30",
+      "title": "复习 13",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "i",
+          "name": "ee (no tone)"
+        },
+        {
+          "glyph": "ō",
+          "name": "oh tone 1"
+        },
+        {
+          "glyph": "ü",
+          "name": "yu (no tone)"
+        },
+        {
+          "glyph": "b",
+          "name": "buh",
+          "exampleWord": "爸"
+        },
+        {
+          "glyph": "uen",
+          "name": "uen",
+          "exampleWord": "春"
+        },
+        {
+          "glyph": "uan",
+          "name": "uan",
+          "exampleWord": "换"
+        },
+        {
+          "glyph": "ueng",
+          "name": "ueng",
+          "exampleWord": "翁"
+        },
+        {
+          "glyph": "ie",
+          "name": "ie",
+          "exampleWord": "写"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which is 'ee' tone 1?",
+          "options": [
+            "i",
+            "ī",
+            "í",
+            "ǐ"
+          ],
+          "answer": "ī"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "哥 starts with which letter?",
+          "options": [
+            "g",
+            "k",
+            "h",
+            "b"
+          ],
+          "answer": "g"
+        }
+      ]
+    },
+    {
+      "id": "zh-p1-l31",
+      "title": "复习 14",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "h",
+          "name": "huh",
+          "exampleWord": "好"
+        },
+        {
+          "glyph": "ang",
+          "name": "ang",
+          "exampleWord": "上"
+        },
+        {
+          "glyph": "iong",
+          "name": "iong",
+          "exampleWord": "用"
+        },
+        {
+          "glyph": "w",
+          "name": "wuh",
+          "exampleWord": "我"
+        },
+        {
+          "glyph": "ǒ",
+          "name": "oh tone 3"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which is 'ah' tone 1?",
+          "options": [
+            "a",
+            "ā",
+            "á",
+            "ǎ"
+          ],
+          "answer": "ā"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which final do you hear in 爱?",
+          "options": [
+            "ai",
+            "ei",
+            "ao",
+            "ou"
+          ],
+          "answer": "ai"
+        }
+      ]
+    },
+    {
+      "id": "zh-p1-l32",
+      "title": "复习 15",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "á",
+          "name": "ah tone 2"
+        },
+        {
+          "glyph": "d",
+          "name": "duh",
+          "exampleWord": "大"
+        },
+        {
+          "glyph": "iong",
+          "name": "iong",
+          "exampleWord": "用"
+        },
+        {
+          "glyph": "uan",
+          "name": "uan",
+          "exampleWord": "换"
+        },
+        {
+          "glyph": "é",
+          "name": "uh tone 2"
+        },
+        {
+          "glyph": "p",
+          "name": "puh",
+          "exampleWord": "怕"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "鸡 starts with which letter?",
+          "options": [
+            "j",
+            "q",
+            "x",
+            "b"
+          ],
+          "answer": "j"
+        }
+      ]
+    },
+    {
+      "id": "zh-p1-l33",
+      "title": "复习 16",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "an",
+          "name": "an",
+          "exampleWord": "看"
+        },
+        {
+          "glyph": "e",
+          "name": "uh (no tone)"
+        },
+        {
+          "glyph": "iao",
+          "name": "iao",
+          "exampleWord": "小"
+        },
+        {
+          "glyph": "ǖ",
+          "name": "yu tone 1"
+        },
+        {
+          "glyph": "ǐ",
+          "name": "ee tone 3"
+        },
+        {
+          "glyph": "r",
+          "name": "ruh",
+          "exampleWord": "人"
+        },
+        {
+          "glyph": "ing",
+          "name": "ing",
+          "exampleWord": "明"
+        },
+        {
+          "glyph": "ū",
+          "name": "oo tone 1"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which final do you hear in 爱?",
+          "options": [
+            "ai",
+            "ei",
+            "ao",
+            "ou"
+          ],
+          "answer": "ai"
+        }
+      ]
+    },
+    {
+      "id": "zh-p1-l34",
+      "title": "复习 17",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "o",
+          "name": "oh (no tone)"
+        },
+        {
+          "glyph": "a",
+          "name": "ah (no tone)"
+        },
+        {
+          "glyph": "ang",
+          "name": "ang",
+          "exampleWord": "上"
+        },
+        {
+          "glyph": "l",
+          "name": "luh",
+          "exampleWord": "了"
+        },
+        {
+          "glyph": "ū",
+          "name": "oo tone 1"
+        },
+        {
+          "glyph": "üan",
+          "name": "üan",
+          "exampleWord": "元"
+        },
+        {
+          "glyph": "ó",
+          "name": "oh tone 2"
+        },
+        {
+          "glyph": "er",
+          "name": "er",
+          "exampleWord": "二"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "哥 starts with which letter?",
+          "options": [
+            "g",
+            "k",
+            "h",
+            "b"
+          ],
+          "answer": "g"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "也 starts with which letter?",
+          "options": [
+            "y",
+            "w",
+            "b"
+          ],
+          "answer": "y"
+        }
+      ]
+    },
+    {
+      "id": "zh-p1-l35",
+      "title": "复习 18",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "üan",
+          "name": "üan",
+          "exampleWord": "元"
+        },
+        {
+          "glyph": "ǘ",
+          "name": "yu tone 2"
+        },
+        {
+          "glyph": "uei",
+          "name": "uei",
+          "exampleWord": "水"
+        },
+        {
+          "glyph": "iou",
+          "name": "iou",
+          "exampleWord": "有"
+        },
+        {
+          "glyph": "n",
+          "name": "nuh",
+          "exampleWord": "你"
+        },
+        {
+          "glyph": "o",
+          "name": "oh (no tone)"
+        },
+        {
+          "glyph": "u",
+          "name": "oo (no tone)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "鸡 starts with which letter?",
+          "options": [
+            "j",
+            "q",
+            "x",
+            "b"
+          ],
+          "answer": "j"
+        }
+      ]
+    },
+    {
+      "id": "zh-p1-l36",
+      "title": "复习 19",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "s",
+          "name": "suh",
+          "exampleWord": "四"
+        },
+        {
+          "glyph": "i",
+          "name": "ee (no tone)"
+        },
+        {
+          "glyph": "í",
+          "name": "ee tone 2"
+        },
+        {
+          "glyph": "ua",
+          "name": "ua",
+          "exampleWord": "花"
+        },
+        {
+          "glyph": "t",
+          "name": "tuh",
+          "exampleWord": "他"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "爸 starts with which letter?",
+          "options": [
+            "b",
+            "p",
+            "m",
+            "f"
+          ],
+          "answer": "b"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "中 starts with which letter?",
+          "options": [
+            "zh",
+            "ch",
+            "sh",
+            "r"
+          ],
+          "answer": "zh"
+        }
+      ]
+    },
+    {
+      "id": "zh-p1-l37",
+      "title": "复习 20",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ün",
+          "name": "ün",
+          "exampleWord": "云"
+        },
+        {
+          "glyph": "f",
+          "name": "fuh",
+          "exampleWord": "发"
+        },
+        {
+          "glyph": "an",
+          "name": "an",
+          "exampleWord": "看"
+        },
+        {
+          "glyph": "d",
+          "name": "duh",
+          "exampleWord": "大"
+        },
+        {
+          "glyph": "p",
+          "name": "puh",
+          "exampleWord": "怕"
+        },
+        {
+          "glyph": "j",
+          "name": "jee",
+          "exampleWord": "鸡"
+        },
+        {
+          "glyph": "x",
+          "name": "shee",
+          "exampleWord": "西"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which final do you hear in 二?",
+          "options": [
+            "er",
+            "ia",
+            "ie",
+            "iao"
+          ],
+          "answer": "er"
+        }
+      ]
+    },
+    {
+      "id": "zh-p1-l38",
+      "title": "复习 21",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "á",
+          "name": "ah tone 2"
+        },
+        {
+          "glyph": "í",
+          "name": "ee tone 2"
+        },
+        {
+          "glyph": "a",
+          "name": "ah (no tone)"
+        },
+        {
+          "glyph": "uang",
+          "name": "uang",
+          "exampleWord": "双"
+        },
+        {
+          "glyph": "eng",
+          "name": "eng",
+          "exampleWord": "灯"
+        },
+        {
+          "glyph": "üe",
+          "name": "üe",
+          "exampleWord": "学"
+        },
+        {
+          "glyph": "ā",
+          "name": "ah tone 1"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which final do you hear in 爱?",
+          "options": [
+            "ai",
+            "ei",
+            "ao",
+            "ou"
+          ],
+          "answer": "ai"
+        }
+      ]
+    },
+    {
+      "id": "zh-p1-l39",
+      "title": "复习 22",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "s",
+          "name": "suh",
+          "exampleWord": "四"
+        },
+        {
+          "glyph": "iang",
+          "name": "iang",
+          "exampleWord": "想"
+        },
+        {
+          "glyph": "e",
+          "name": "uh (no tone)"
+        },
+        {
+          "glyph": "ò",
+          "name": "oh tone 4"
+        },
+        {
+          "glyph": "üan",
+          "name": "üan",
+          "exampleWord": "元"
+        },
+        {
+          "glyph": "ǎ",
+          "name": "ah tone 3"
+        },
+        {
+          "glyph": "ou",
+          "name": "ou",
+          "exampleWord": "走"
+        },
+        {
+          "glyph": "i",
+          "name": "ee (no tone)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "也 starts with which letter?",
+          "options": [
+            "y",
+            "w",
+            "b"
+          ],
+          "answer": "y"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "字 starts with which letter?",
+          "options": [
+            "z",
+            "c",
+            "s",
+            "b"
+          ],
+          "answer": "z"
+        }
+      ]
+    },
+    {
+      "id": "zh-p1-l40",
+      "title": "复习 23",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ú",
+          "name": "oo tone 2"
+        },
+        {
+          "glyph": "ā",
+          "name": "ah tone 1"
+        },
+        {
+          "glyph": "i",
+          "name": "ee (no tone)"
+        },
+        {
+          "glyph": "ang",
+          "name": "ang",
+          "exampleWord": "上"
+        },
+        {
+          "glyph": "r",
+          "name": "ruh",
+          "exampleWord": "人"
+        },
+        {
+          "glyph": "ù",
+          "name": "oo tone 4"
+        },
+        {
+          "glyph": "ou",
+          "name": "ou",
+          "exampleWord": "走"
+        },
+        {
+          "glyph": "üan",
+          "name": "üan",
+          "exampleWord": "元"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which is 'ah' tone 1?",
+          "options": [
+            "a",
+            "ā",
+            "á",
+            "ǎ"
+          ],
+          "answer": "ā"
+        }
+      ]
     }
   ]
 }

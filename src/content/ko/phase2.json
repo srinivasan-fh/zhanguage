@@ -271,6 +271,2227 @@
           "answer": "할아버지"
         }
       ]
+    },
+    {
+      "id": "ko-p2-l5",
+      "title": "복습 1",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "그의",
+          "name": "geu-ui",
+          "exampleWord": "his"
+        },
+        {
+          "glyph": "누나",
+          "name": "nuna",
+          "exampleWord": "elder sister (m)"
+        },
+        {
+          "glyph": "엄마",
+          "name": "eomma",
+          "exampleWord": "mom"
+        },
+        {
+          "glyph": "아내",
+          "name": "anae",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "나",
+          "name": "na",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "우리",
+          "name": "uri",
+          "exampleWord": "we"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'grandfather'?",
+          "options": [
+            "할아버지",
+            "할머니",
+            "삼촌",
+            "고모"
+          ],
+          "answer": "할아버지"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l6",
+      "title": "복습 2",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "그들의",
+          "name": "geudeul-ui",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "제",
+          "name": "je",
+          "exampleWord": "my (humble)"
+        },
+        {
+          "glyph": "형",
+          "name": "hyeong",
+          "exampleWord": "elder brother (m)"
+        },
+        {
+          "glyph": "그",
+          "name": "geu",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "아들",
+          "name": "adeul",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "네",
+          "name": "ne",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "사촌",
+          "name": "sachon",
+          "exampleWord": "cousin"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my (informal)'?",
+          "options": [
+            "내",
+            "제",
+            "네",
+            "우리"
+          ],
+          "answer": "내"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "나",
+            "저",
+            "너",
+            "당신"
+          ],
+          "answer": "나"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l7",
+      "title": "복습 3",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "할머니",
+          "name": "halmeoni",
+          "exampleWord": "grandmother"
+        },
+        {
+          "glyph": "오빠",
+          "name": "oppa",
+          "exampleWord": "elder brother (f)"
+        },
+        {
+          "glyph": "저",
+          "name": "jeo",
+          "exampleWord": "I (humble)"
+        },
+        {
+          "glyph": "네",
+          "name": "ne",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "어머니",
+          "name": "eomeoni",
+          "exampleWord": "mother"
+        },
+        {
+          "glyph": "그",
+          "name": "geu",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "그녀",
+          "name": "geunyeo",
+          "exampleWord": "she"
+        },
+        {
+          "glyph": "아들",
+          "name": "adeul",
+          "exampleWord": "son"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "어머니",
+            "아버지",
+            "엄마",
+            "아빠"
+          ],
+          "answer": "어머니"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l8",
+      "title": "복습 4",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "나",
+          "name": "na",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "외삼촌",
+          "name": "oesamchon",
+          "exampleWord": "maternal uncle"
+        },
+        {
+          "glyph": "그들의",
+          "name": "geudeul-ui",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "이모",
+          "name": "imo",
+          "exampleWord": "maternal aunt"
+        },
+        {
+          "glyph": "너희",
+          "name": "neohui",
+          "exampleWord": "you (pl)"
+        },
+        {
+          "glyph": "너",
+          "name": "neo",
+          "exampleWord": "you (sg)"
+        },
+        {
+          "glyph": "할아버지",
+          "name": "harabeoji",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "딸",
+          "name": "ttal",
+          "exampleWord": "daughter"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my (informal)'?",
+          "options": [
+            "내",
+            "제",
+            "네",
+            "우리"
+          ],
+          "answer": "내"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "어머니",
+            "아버지",
+            "엄마",
+            "아빠"
+          ],
+          "answer": "어머니"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l9",
+      "title": "복습 5",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "내",
+          "name": "nae",
+          "exampleWord": "my (informal)"
+        },
+        {
+          "glyph": "우리",
+          "name": "uri",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "아들",
+          "name": "adeul",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "아빠",
+          "name": "appa",
+          "exampleWord": "dad"
+        },
+        {
+          "glyph": "오빠",
+          "name": "oppa",
+          "exampleWord": "elder brother (f)"
+        },
+        {
+          "glyph": "삼촌",
+          "name": "samchon",
+          "exampleWord": "paternal uncle"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "어머니",
+            "아버지",
+            "엄마",
+            "아빠"
+          ],
+          "answer": "어머니"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'grandfather'?",
+          "options": [
+            "할아버지",
+            "할머니",
+            "삼촌",
+            "고모"
+          ],
+          "answer": "할아버지"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l10",
+      "title": "복습 6",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "외삼촌",
+          "name": "oesamchon",
+          "exampleWord": "maternal uncle"
+        },
+        {
+          "glyph": "어머니",
+          "name": "eomeoni",
+          "exampleWord": "mother"
+        },
+        {
+          "glyph": "언니",
+          "name": "eonni",
+          "exampleWord": "elder sister (f)"
+        },
+        {
+          "glyph": "고모",
+          "name": "gomo",
+          "exampleWord": "paternal aunt"
+        },
+        {
+          "glyph": "나",
+          "name": "na",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "누나",
+          "name": "nuna",
+          "exampleWord": "elder sister (m)"
+        },
+        {
+          "glyph": "내",
+          "name": "nae",
+          "exampleWord": "my (informal)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'grandfather'?",
+          "options": [
+            "할아버지",
+            "할머니",
+            "삼촌",
+            "고모"
+          ],
+          "answer": "할아버지"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "나",
+            "저",
+            "너",
+            "당신"
+          ],
+          "answer": "나"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l11",
+      "title": "복습 7",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "남편",
+          "name": "nampyeon",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "저",
+          "name": "jeo",
+          "exampleWord": "I (humble)"
+        },
+        {
+          "glyph": "내",
+          "name": "nae",
+          "exampleWord": "my (informal)"
+        },
+        {
+          "glyph": "할아버지",
+          "name": "harabeoji",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "그녀의",
+          "name": "geunyeo-ui",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "아내",
+          "name": "anae",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "네",
+          "name": "ne",
+          "exampleWord": "your"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "나",
+            "저",
+            "너",
+            "당신"
+          ],
+          "answer": "나"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'grandfather'?",
+          "options": [
+            "할아버지",
+            "할머니",
+            "삼촌",
+            "고모"
+          ],
+          "answer": "할아버지"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l12",
+      "title": "복습 8",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "언니",
+          "name": "eonni",
+          "exampleWord": "elder sister (f)"
+        },
+        {
+          "glyph": "그의",
+          "name": "geu-ui",
+          "exampleWord": "his"
+        },
+        {
+          "glyph": "그녀",
+          "name": "geunyeo",
+          "exampleWord": "she"
+        },
+        {
+          "glyph": "우리",
+          "name": "uri",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "동생",
+          "name": "dongsaeng",
+          "exampleWord": "younger sibling"
+        },
+        {
+          "glyph": "우리",
+          "name": "uri",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "이모",
+          "name": "imo",
+          "exampleWord": "maternal aunt"
+        },
+        {
+          "glyph": "그들",
+          "name": "geudeul",
+          "exampleWord": "they"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my (informal)'?",
+          "options": [
+            "내",
+            "제",
+            "네",
+            "우리"
+          ],
+          "answer": "내"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'grandfather'?",
+          "options": [
+            "할아버지",
+            "할머니",
+            "삼촌",
+            "고모"
+          ],
+          "answer": "할아버지"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l13",
+      "title": "복습 9",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "오빠",
+          "name": "oppa",
+          "exampleWord": "elder brother (f)"
+        },
+        {
+          "glyph": "가족",
+          "name": "gajok",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "할아버지",
+          "name": "harabeoji",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "아버지",
+          "name": "abeoji",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "아빠",
+          "name": "appa",
+          "exampleWord": "dad"
+        },
+        {
+          "glyph": "우리",
+          "name": "uri",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "저",
+          "name": "jeo",
+          "exampleWord": "I (humble)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "나",
+            "저",
+            "너",
+            "당신"
+          ],
+          "answer": "나"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my (informal)'?",
+          "options": [
+            "내",
+            "제",
+            "네",
+            "우리"
+          ],
+          "answer": "내"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l14",
+      "title": "복습 10",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "딸",
+          "name": "ttal",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "누나",
+          "name": "nuna",
+          "exampleWord": "elder sister (m)"
+        },
+        {
+          "glyph": "엄마",
+          "name": "eomma",
+          "exampleWord": "mom"
+        },
+        {
+          "glyph": "너희",
+          "name": "neohui",
+          "exampleWord": "you (pl)"
+        },
+        {
+          "glyph": "나",
+          "name": "na",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "외삼촌",
+          "name": "oesamchon",
+          "exampleWord": "maternal uncle"
+        },
+        {
+          "glyph": "고모",
+          "name": "gomo",
+          "exampleWord": "paternal aunt"
+        },
+        {
+          "glyph": "오빠",
+          "name": "oppa",
+          "exampleWord": "elder brother (f)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'grandfather'?",
+          "options": [
+            "할아버지",
+            "할머니",
+            "삼촌",
+            "고모"
+          ],
+          "answer": "할아버지"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l15",
+      "title": "복습 11",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "남편",
+          "name": "nampyeon",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "엄마",
+          "name": "eomma",
+          "exampleWord": "mom"
+        },
+        {
+          "glyph": "제",
+          "name": "je",
+          "exampleWord": "my (humble)"
+        },
+        {
+          "glyph": "아빠",
+          "name": "appa",
+          "exampleWord": "dad"
+        },
+        {
+          "glyph": "외삼촌",
+          "name": "oesamchon",
+          "exampleWord": "maternal uncle"
+        },
+        {
+          "glyph": "아들",
+          "name": "adeul",
+          "exampleWord": "son"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "어머니",
+            "아버지",
+            "엄마",
+            "아빠"
+          ],
+          "answer": "어머니"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l16",
+      "title": "복습 12",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "고모",
+          "name": "gomo",
+          "exampleWord": "paternal aunt"
+        },
+        {
+          "glyph": "너",
+          "name": "neo",
+          "exampleWord": "you (sg)"
+        },
+        {
+          "glyph": "그의",
+          "name": "geu-ui",
+          "exampleWord": "his"
+        },
+        {
+          "glyph": "엄마",
+          "name": "eomma",
+          "exampleWord": "mom"
+        },
+        {
+          "glyph": "너희",
+          "name": "neohui",
+          "exampleWord": "you (pl)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'grandfather'?",
+          "options": [
+            "할아버지",
+            "할머니",
+            "삼촌",
+            "고모"
+          ],
+          "answer": "할아버지"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l17",
+      "title": "복습 13",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "나",
+          "name": "na",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "할머니",
+          "name": "halmeoni",
+          "exampleWord": "grandmother"
+        },
+        {
+          "glyph": "누나",
+          "name": "nuna",
+          "exampleWord": "elder sister (m)"
+        },
+        {
+          "glyph": "딸",
+          "name": "ttal",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "당신",
+          "name": "dangsin",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "어머니",
+          "name": "eomeoni",
+          "exampleWord": "mother"
+        },
+        {
+          "glyph": "그",
+          "name": "geu",
+          "exampleWord": "he"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "어머니",
+            "아버지",
+            "엄마",
+            "아빠"
+          ],
+          "answer": "어머니"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'grandfather'?",
+          "options": [
+            "할아버지",
+            "할머니",
+            "삼촌",
+            "고모"
+          ],
+          "answer": "할아버지"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l18",
+      "title": "복습 14",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "그녀",
+          "name": "geunyeo",
+          "exampleWord": "she"
+        },
+        {
+          "glyph": "아버지",
+          "name": "abeoji",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "내",
+          "name": "nae",
+          "exampleWord": "my (informal)"
+        },
+        {
+          "glyph": "우리",
+          "name": "uri",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "할머니",
+          "name": "halmeoni",
+          "exampleWord": "grandmother"
+        },
+        {
+          "glyph": "딸",
+          "name": "ttal",
+          "exampleWord": "daughter"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my (informal)'?",
+          "options": [
+            "내",
+            "제",
+            "네",
+            "우리"
+          ],
+          "answer": "내"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "나",
+            "저",
+            "너",
+            "당신"
+          ],
+          "answer": "나"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l19",
+      "title": "복습 15",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "누나",
+          "name": "nuna",
+          "exampleWord": "elder sister (m)"
+        },
+        {
+          "glyph": "그들의",
+          "name": "geudeul-ui",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "동생",
+          "name": "dongsaeng",
+          "exampleWord": "younger sibling"
+        },
+        {
+          "glyph": "할머니",
+          "name": "halmeoni",
+          "exampleWord": "grandmother"
+        },
+        {
+          "glyph": "가족",
+          "name": "gajok",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "우리",
+          "name": "uri",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "삼촌",
+          "name": "samchon",
+          "exampleWord": "paternal uncle"
+        },
+        {
+          "glyph": "그들",
+          "name": "geudeul",
+          "exampleWord": "they"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "어머니",
+            "아버지",
+            "엄마",
+            "아빠"
+          ],
+          "answer": "어머니"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "나",
+            "저",
+            "너",
+            "당신"
+          ],
+          "answer": "나"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l20",
+      "title": "복습 16",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "형",
+          "name": "hyeong",
+          "exampleWord": "elder brother (m)"
+        },
+        {
+          "glyph": "그들",
+          "name": "geudeul",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "우리",
+          "name": "uri",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "어머니",
+          "name": "eomeoni",
+          "exampleWord": "mother"
+        },
+        {
+          "glyph": "아들",
+          "name": "adeul",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "할아버지",
+          "name": "harabeoji",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "아버지",
+          "name": "abeoji",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "우리",
+          "name": "uri",
+          "exampleWord": "we"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "어머니",
+            "아버지",
+            "엄마",
+            "아빠"
+          ],
+          "answer": "어머니"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "나",
+            "저",
+            "너",
+            "당신"
+          ],
+          "answer": "나"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l21",
+      "title": "복습 17",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "딸",
+          "name": "ttal",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "고모",
+          "name": "gomo",
+          "exampleWord": "paternal aunt"
+        },
+        {
+          "glyph": "아내",
+          "name": "anae",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "네",
+          "name": "ne",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "동생",
+          "name": "dongsaeng",
+          "exampleWord": "younger sibling"
+        },
+        {
+          "glyph": "할머니",
+          "name": "halmeoni",
+          "exampleWord": "grandmother"
+        },
+        {
+          "glyph": "당신",
+          "name": "dangsin",
+          "exampleWord": "you (formal)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'grandfather'?",
+          "options": [
+            "할아버지",
+            "할머니",
+            "삼촌",
+            "고모"
+          ],
+          "answer": "할아버지"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l22",
+      "title": "복습 18",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "사촌",
+          "name": "sachon",
+          "exampleWord": "cousin"
+        },
+        {
+          "glyph": "누나",
+          "name": "nuna",
+          "exampleWord": "elder sister (m)"
+        },
+        {
+          "glyph": "고모",
+          "name": "gomo",
+          "exampleWord": "paternal aunt"
+        },
+        {
+          "glyph": "아들",
+          "name": "adeul",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "할머니",
+          "name": "halmeoni",
+          "exampleWord": "grandmother"
+        },
+        {
+          "glyph": "아내",
+          "name": "anae",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "그의",
+          "name": "geu-ui",
+          "exampleWord": "his"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'grandfather'?",
+          "options": [
+            "할아버지",
+            "할머니",
+            "삼촌",
+            "고모"
+          ],
+          "answer": "할아버지"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "나",
+            "저",
+            "너",
+            "당신"
+          ],
+          "answer": "나"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l23",
+      "title": "복습 19",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "할아버지",
+          "name": "harabeoji",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "그녀",
+          "name": "geunyeo",
+          "exampleWord": "she"
+        },
+        {
+          "glyph": "그들",
+          "name": "geudeul",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "아빠",
+          "name": "appa",
+          "exampleWord": "dad"
+        },
+        {
+          "glyph": "그들의",
+          "name": "geudeul-ui",
+          "exampleWord": "their"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my (informal)'?",
+          "options": [
+            "내",
+            "제",
+            "네",
+            "우리"
+          ],
+          "answer": "내"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "어머니",
+            "아버지",
+            "엄마",
+            "아빠"
+          ],
+          "answer": "어머니"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l24",
+      "title": "복습 20",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "당신",
+          "name": "dangsin",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "가족",
+          "name": "gajok",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "그들",
+          "name": "geudeul",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "아들",
+          "name": "adeul",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "나",
+          "name": "na",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "고모",
+          "name": "gomo",
+          "exampleWord": "paternal aunt"
+        },
+        {
+          "glyph": "남편",
+          "name": "nampyeon",
+          "exampleWord": "husband"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "나",
+            "저",
+            "너",
+            "당신"
+          ],
+          "answer": "나"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'grandfather'?",
+          "options": [
+            "할아버지",
+            "할머니",
+            "삼촌",
+            "고모"
+          ],
+          "answer": "할아버지"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l25",
+      "title": "복습 21",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "아버지",
+          "name": "abeoji",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "우리",
+          "name": "uri",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "오빠",
+          "name": "oppa",
+          "exampleWord": "elder brother (f)"
+        },
+        {
+          "glyph": "엄마",
+          "name": "eomma",
+          "exampleWord": "mom"
+        },
+        {
+          "glyph": "딸",
+          "name": "ttal",
+          "exampleWord": "daughter"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "어머니",
+            "아버지",
+            "엄마",
+            "아빠"
+          ],
+          "answer": "어머니"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "나",
+            "저",
+            "너",
+            "당신"
+          ],
+          "answer": "나"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l26",
+      "title": "복습 22",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "사촌",
+          "name": "sachon",
+          "exampleWord": "cousin"
+        },
+        {
+          "glyph": "당신",
+          "name": "dangsin",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "그의",
+          "name": "geu-ui",
+          "exampleWord": "his"
+        },
+        {
+          "glyph": "남편",
+          "name": "nampyeon",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "내",
+          "name": "nae",
+          "exampleWord": "my (informal)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my (informal)'?",
+          "options": [
+            "내",
+            "제",
+            "네",
+            "우리"
+          ],
+          "answer": "내"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "나",
+            "저",
+            "너",
+            "당신"
+          ],
+          "answer": "나"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l27",
+      "title": "복습 23",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "아빠",
+          "name": "appa",
+          "exampleWord": "dad"
+        },
+        {
+          "glyph": "딸",
+          "name": "ttal",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "나",
+          "name": "na",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "외삼촌",
+          "name": "oesamchon",
+          "exampleWord": "maternal uncle"
+        },
+        {
+          "glyph": "우리",
+          "name": "uri",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "너희",
+          "name": "neohui",
+          "exampleWord": "you (pl)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "나",
+            "저",
+            "너",
+            "당신"
+          ],
+          "answer": "나"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l28",
+      "title": "복습 24",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "너희",
+          "name": "neohui",
+          "exampleWord": "you (pl)"
+        },
+        {
+          "glyph": "남편",
+          "name": "nampyeon",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "우리",
+          "name": "uri",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "그들의",
+          "name": "geudeul-ui",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "그의",
+          "name": "geu-ui",
+          "exampleWord": "his"
+        },
+        {
+          "glyph": "아내",
+          "name": "anae",
+          "exampleWord": "wife"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "나",
+            "저",
+            "너",
+            "당신"
+          ],
+          "answer": "나"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "어머니",
+            "아버지",
+            "엄마",
+            "아빠"
+          ],
+          "answer": "어머니"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l29",
+      "title": "복습 25",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "가족",
+          "name": "gajok",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "당신",
+          "name": "dangsin",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "너희",
+          "name": "neohui",
+          "exampleWord": "you (pl)"
+        },
+        {
+          "glyph": "아빠",
+          "name": "appa",
+          "exampleWord": "dad"
+        },
+        {
+          "glyph": "딸",
+          "name": "ttal",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "이모",
+          "name": "imo",
+          "exampleWord": "maternal aunt"
+        },
+        {
+          "glyph": "그녀",
+          "name": "geunyeo",
+          "exampleWord": "she"
+        },
+        {
+          "glyph": "할아버지",
+          "name": "harabeoji",
+          "exampleWord": "grandfather"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "어머니",
+            "아버지",
+            "엄마",
+            "아빠"
+          ],
+          "answer": "어머니"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l30",
+      "title": "복습 26",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "너희",
+          "name": "neohui",
+          "exampleWord": "you (pl)"
+        },
+        {
+          "glyph": "할머니",
+          "name": "halmeoni",
+          "exampleWord": "grandmother"
+        },
+        {
+          "glyph": "내",
+          "name": "nae",
+          "exampleWord": "my (informal)"
+        },
+        {
+          "glyph": "저",
+          "name": "jeo",
+          "exampleWord": "I (humble)"
+        },
+        {
+          "glyph": "네",
+          "name": "ne",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "아내",
+          "name": "anae",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "할아버지",
+          "name": "harabeoji",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "언니",
+          "name": "eonni",
+          "exampleWord": "elder sister (f)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my (informal)'?",
+          "options": [
+            "내",
+            "제",
+            "네",
+            "우리"
+          ],
+          "answer": "내"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l31",
+      "title": "복습 27",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "이모",
+          "name": "imo",
+          "exampleWord": "maternal aunt"
+        },
+        {
+          "glyph": "딸",
+          "name": "ttal",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "엄마",
+          "name": "eomma",
+          "exampleWord": "mom"
+        },
+        {
+          "glyph": "아내",
+          "name": "anae",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "우리",
+          "name": "uri",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "외삼촌",
+          "name": "oesamchon",
+          "exampleWord": "maternal uncle"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "어머니",
+            "아버지",
+            "엄마",
+            "아빠"
+          ],
+          "answer": "어머니"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my (informal)'?",
+          "options": [
+            "내",
+            "제",
+            "네",
+            "우리"
+          ],
+          "answer": "내"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l32",
+      "title": "복습 28",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "우리",
+          "name": "uri",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "고모",
+          "name": "gomo",
+          "exampleWord": "paternal aunt"
+        },
+        {
+          "glyph": "할아버지",
+          "name": "harabeoji",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "할머니",
+          "name": "halmeoni",
+          "exampleWord": "grandmother"
+        },
+        {
+          "glyph": "내",
+          "name": "nae",
+          "exampleWord": "my (informal)"
+        },
+        {
+          "glyph": "저",
+          "name": "jeo",
+          "exampleWord": "I (humble)"
+        },
+        {
+          "glyph": "사촌",
+          "name": "sachon",
+          "exampleWord": "cousin"
+        },
+        {
+          "glyph": "그녀의",
+          "name": "geunyeo-ui",
+          "exampleWord": "her"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'grandfather'?",
+          "options": [
+            "할아버지",
+            "할머니",
+            "삼촌",
+            "고모"
+          ],
+          "answer": "할아버지"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l33",
+      "title": "복습 29",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "아빠",
+          "name": "appa",
+          "exampleWord": "dad"
+        },
+        {
+          "glyph": "너",
+          "name": "neo",
+          "exampleWord": "you (sg)"
+        },
+        {
+          "glyph": "삼촌",
+          "name": "samchon",
+          "exampleWord": "paternal uncle"
+        },
+        {
+          "glyph": "누나",
+          "name": "nuna",
+          "exampleWord": "elder sister (m)"
+        },
+        {
+          "glyph": "그들",
+          "name": "geudeul",
+          "exampleWord": "they"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'grandfather'?",
+          "options": [
+            "할아버지",
+            "할머니",
+            "삼촌",
+            "고모"
+          ],
+          "answer": "할아버지"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my (informal)'?",
+          "options": [
+            "내",
+            "제",
+            "네",
+            "우리"
+          ],
+          "answer": "내"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l34",
+      "title": "복습 30",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "제",
+          "name": "je",
+          "exampleWord": "my (humble)"
+        },
+        {
+          "glyph": "누나",
+          "name": "nuna",
+          "exampleWord": "elder sister (m)"
+        },
+        {
+          "glyph": "사촌",
+          "name": "sachon",
+          "exampleWord": "cousin"
+        },
+        {
+          "glyph": "그의",
+          "name": "geu-ui",
+          "exampleWord": "his"
+        },
+        {
+          "glyph": "남편",
+          "name": "nampyeon",
+          "exampleWord": "husband"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "나",
+            "저",
+            "너",
+            "당신"
+          ],
+          "answer": "나"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'grandfather'?",
+          "options": [
+            "할아버지",
+            "할머니",
+            "삼촌",
+            "고모"
+          ],
+          "answer": "할아버지"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l35",
+      "title": "복습 31",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "누나",
+          "name": "nuna",
+          "exampleWord": "elder sister (m)"
+        },
+        {
+          "glyph": "오빠",
+          "name": "oppa",
+          "exampleWord": "elder brother (f)"
+        },
+        {
+          "glyph": "고모",
+          "name": "gomo",
+          "exampleWord": "paternal aunt"
+        },
+        {
+          "glyph": "그들",
+          "name": "geudeul",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "아버지",
+          "name": "abeoji",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "아빠",
+          "name": "appa",
+          "exampleWord": "dad"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "나",
+            "저",
+            "너",
+            "당신"
+          ],
+          "answer": "나"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "어머니",
+            "아버지",
+            "엄마",
+            "아빠"
+          ],
+          "answer": "어머니"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l36",
+      "title": "복습 32",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "동생",
+          "name": "dongsaeng",
+          "exampleWord": "younger sibling"
+        },
+        {
+          "glyph": "이모",
+          "name": "imo",
+          "exampleWord": "maternal aunt"
+        },
+        {
+          "glyph": "네",
+          "name": "ne",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "사촌",
+          "name": "sachon",
+          "exampleWord": "cousin"
+        },
+        {
+          "glyph": "어머니",
+          "name": "eomeoni",
+          "exampleWord": "mother"
+        },
+        {
+          "glyph": "그들",
+          "name": "geudeul",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "누나",
+          "name": "nuna",
+          "exampleWord": "elder sister (m)"
+        },
+        {
+          "glyph": "제",
+          "name": "je",
+          "exampleWord": "my (humble)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'grandfather'?",
+          "options": [
+            "할아버지",
+            "할머니",
+            "삼촌",
+            "고모"
+          ],
+          "answer": "할아버지"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "나",
+            "저",
+            "너",
+            "당신"
+          ],
+          "answer": "나"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l37",
+      "title": "복습 33",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "저",
+          "name": "jeo",
+          "exampleWord": "I (humble)"
+        },
+        {
+          "glyph": "제",
+          "name": "je",
+          "exampleWord": "my (humble)"
+        },
+        {
+          "glyph": "그녀의",
+          "name": "geunyeo-ui",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "우리",
+          "name": "uri",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "외삼촌",
+          "name": "oesamchon",
+          "exampleWord": "maternal uncle"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "어머니",
+            "아버지",
+            "엄마",
+            "아빠"
+          ],
+          "answer": "어머니"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "나",
+            "저",
+            "너",
+            "당신"
+          ],
+          "answer": "나"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l38",
+      "title": "복습 34",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "우리",
+          "name": "uri",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "네",
+          "name": "ne",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "동생",
+          "name": "dongsaeng",
+          "exampleWord": "younger sibling"
+        },
+        {
+          "glyph": "할아버지",
+          "name": "harabeoji",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "그",
+          "name": "geu",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "당신",
+          "name": "dangsin",
+          "exampleWord": "you (formal)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "나",
+            "저",
+            "너",
+            "당신"
+          ],
+          "answer": "나"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'grandfather'?",
+          "options": [
+            "할아버지",
+            "할머니",
+            "삼촌",
+            "고모"
+          ],
+          "answer": "할아버지"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l39",
+      "title": "복습 35",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "삼촌",
+          "name": "samchon",
+          "exampleWord": "paternal uncle"
+        },
+        {
+          "glyph": "언니",
+          "name": "eonni",
+          "exampleWord": "elder sister (f)"
+        },
+        {
+          "glyph": "저",
+          "name": "jeo",
+          "exampleWord": "I (humble)"
+        },
+        {
+          "glyph": "네",
+          "name": "ne",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "형",
+          "name": "hyeong",
+          "exampleWord": "elder brother (m)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'grandfather'?",
+          "options": [
+            "할아버지",
+            "할머니",
+            "삼촌",
+            "고모"
+          ],
+          "answer": "할아버지"
+        }
+      ]
+    },
+    {
+      "id": "ko-p2-l40",
+      "title": "복습 36",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "그들",
+          "name": "geudeul",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "아들",
+          "name": "adeul",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "우리",
+          "name": "uri",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "아내",
+          "name": "anae",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "어머니",
+          "name": "eomeoni",
+          "exampleWord": "mother"
+        },
+        {
+          "glyph": "외삼촌",
+          "name": "oesamchon",
+          "exampleWord": "maternal uncle"
+        },
+        {
+          "glyph": "그녀의",
+          "name": "geunyeo-ui",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "오빠",
+          "name": "oppa",
+          "exampleWord": "elder brother (f)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my (informal)'?",
+          "options": [
+            "내",
+            "제",
+            "네",
+            "우리"
+          ],
+          "answer": "내"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "나",
+            "저",
+            "너",
+            "당신"
+          ],
+          "answer": "나"
+        }
+      ]
     }
   ]
 }

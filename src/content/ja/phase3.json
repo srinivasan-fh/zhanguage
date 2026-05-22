@@ -286,6 +286,2094 @@
           "answer": "そら"
         }
       ]
+    },
+    {
+      "id": "ja-p3-l5",
+      "title": "ふくしゅう 1",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "かめ",
+          "name": "kame",
+          "exampleWord": "turtle"
+        },
+        {
+          "glyph": "やま",
+          "name": "yama",
+          "exampleWord": "mountain"
+        },
+        {
+          "glyph": "き",
+          "name": "ki",
+          "exampleWord": "tree"
+        },
+        {
+          "glyph": "て",
+          "name": "te",
+          "exampleWord": "hand"
+        },
+        {
+          "glyph": "いぬ",
+          "name": "inu",
+          "exampleWord": "dog"
+        },
+        {
+          "glyph": "うま",
+          "name": "uma",
+          "exampleWord": "horse"
+        },
+        {
+          "glyph": "め",
+          "name": "me",
+          "exampleWord": "eye"
+        },
+        {
+          "glyph": "うさぎ",
+          "name": "usagi",
+          "exampleWord": "rabbit"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "いぬ",
+            "ねこ",
+            "うし",
+            "うま"
+          ],
+          "answer": "いぬ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l6",
+      "title": "ふくしゅう 2",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "みず",
+          "name": "mizu",
+          "exampleWord": "water"
+        },
+        {
+          "glyph": "パン",
+          "name": "pan",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "にく",
+          "name": "niku",
+          "exampleWord": "meat"
+        },
+        {
+          "glyph": "ごはん",
+          "name": "gohan",
+          "exampleWord": "rice"
+        },
+        {
+          "glyph": "うみ",
+          "name": "umi",
+          "exampleWord": "sea"
+        },
+        {
+          "glyph": "ねこ",
+          "name": "neko",
+          "exampleWord": "cat"
+        },
+        {
+          "glyph": "つき",
+          "name": "tsuki",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "うさぎ",
+          "name": "usagi",
+          "exampleWord": "rabbit"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "いぬ",
+            "ねこ",
+            "うし",
+            "うま"
+          ],
+          "answer": "いぬ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sky'?",
+          "options": [
+            "そら",
+            "つき",
+            "ひ",
+            "ほし"
+          ],
+          "answer": "そら"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l7",
+      "title": "ふくしゅう 3",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "うみ",
+          "name": "umi",
+          "exampleWord": "sea"
+        },
+        {
+          "glyph": "はな",
+          "name": "hana",
+          "exampleWord": "nose"
+        },
+        {
+          "glyph": "は",
+          "name": "ha",
+          "exampleWord": "tooth"
+        },
+        {
+          "glyph": "はな",
+          "name": "hana",
+          "exampleWord": "flower"
+        },
+        {
+          "glyph": "そら",
+          "name": "sora",
+          "exampleWord": "sky"
+        },
+        {
+          "glyph": "ぱんだ",
+          "name": "panda",
+          "exampleWord": "panda"
+        },
+        {
+          "glyph": "あし",
+          "name": "ashi",
+          "exampleWord": "foot"
+        },
+        {
+          "glyph": "ごはん",
+          "name": "gohan",
+          "exampleWord": "rice"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "て",
+            "あし",
+            "め",
+            "みみ"
+          ],
+          "answer": "て"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l8",
+      "title": "ふくしゅう 4",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ごはん",
+          "name": "gohan",
+          "exampleWord": "rice"
+        },
+        {
+          "glyph": "かみ",
+          "name": "kami",
+          "exampleWord": "hair"
+        },
+        {
+          "glyph": "さかな",
+          "name": "sakana",
+          "exampleWord": "fish"
+        },
+        {
+          "glyph": "つき",
+          "name": "tsuki",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "さる",
+          "name": "saru",
+          "exampleWord": "monkey"
+        },
+        {
+          "glyph": "あめ",
+          "name": "ame",
+          "exampleWord": "rain"
+        },
+        {
+          "glyph": "き",
+          "name": "ki",
+          "exampleWord": "tree"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'water'?",
+          "options": [
+            "みず",
+            "ごはん",
+            "パン",
+            "おちゃ"
+          ],
+          "answer": "みず"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "いぬ",
+            "ねこ",
+            "うし",
+            "うま"
+          ],
+          "answer": "いぬ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l9",
+      "title": "ふくしゅう 5",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "さる",
+          "name": "saru",
+          "exampleWord": "monkey"
+        },
+        {
+          "glyph": "あし",
+          "name": "ashi",
+          "exampleWord": "foot"
+        },
+        {
+          "glyph": "かお",
+          "name": "kao",
+          "exampleWord": "face"
+        },
+        {
+          "glyph": "くま",
+          "name": "kuma",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "ほし",
+          "name": "hoshi",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "さかな",
+          "name": "sakana",
+          "exampleWord": "fish"
+        },
+        {
+          "glyph": "ねこ",
+          "name": "neko",
+          "exampleWord": "cat"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "いぬ",
+            "ねこ",
+            "うし",
+            "うま"
+          ],
+          "answer": "いぬ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l10",
+      "title": "ふくしゅう 6",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "くま",
+          "name": "kuma",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "みず",
+          "name": "mizu",
+          "exampleWord": "water"
+        },
+        {
+          "glyph": "いぬ",
+          "name": "inu",
+          "exampleWord": "dog"
+        },
+        {
+          "glyph": "ほし",
+          "name": "hoshi",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "き",
+          "name": "ki",
+          "exampleWord": "tree"
+        },
+        {
+          "glyph": "かわ",
+          "name": "kawa",
+          "exampleWord": "river"
+        },
+        {
+          "glyph": "て",
+          "name": "te",
+          "exampleWord": "hand"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "て",
+            "あし",
+            "め",
+            "みみ"
+          ],
+          "answer": "て"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "いぬ",
+            "ねこ",
+            "うし",
+            "うま"
+          ],
+          "answer": "いぬ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l11",
+      "title": "ふくしゅう 7",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "とり",
+          "name": "tori",
+          "exampleWord": "bird"
+        },
+        {
+          "glyph": "ごはん",
+          "name": "gohan",
+          "exampleWord": "rice"
+        },
+        {
+          "glyph": "パン",
+          "name": "pan",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "つき",
+          "name": "tsuki",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "はな",
+          "name": "hana",
+          "exampleWord": "flower"
+        },
+        {
+          "glyph": "やま",
+          "name": "yama",
+          "exampleWord": "mountain"
+        },
+        {
+          "glyph": "おちゃ",
+          "name": "ocha",
+          "exampleWord": "tea"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "いぬ",
+            "ねこ",
+            "うし",
+            "うま"
+          ],
+          "answer": "いぬ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "て",
+            "あし",
+            "め",
+            "みみ"
+          ],
+          "answer": "て"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l12",
+      "title": "ふくしゅう 8",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "はな",
+          "name": "hana",
+          "exampleWord": "flower"
+        },
+        {
+          "glyph": "みみ",
+          "name": "mimi",
+          "exampleWord": "ear"
+        },
+        {
+          "glyph": "うみ",
+          "name": "umi",
+          "exampleWord": "sea"
+        },
+        {
+          "glyph": "ごはん",
+          "name": "gohan",
+          "exampleWord": "rice"
+        },
+        {
+          "glyph": "かお",
+          "name": "kao",
+          "exampleWord": "face"
+        },
+        {
+          "glyph": "き",
+          "name": "ki",
+          "exampleWord": "tree"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sky'?",
+          "options": [
+            "そら",
+            "つき",
+            "ひ",
+            "ほし"
+          ],
+          "answer": "そら"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l13",
+      "title": "ふくしゅう 9",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "あめ",
+          "name": "ame",
+          "exampleWord": "rain"
+        },
+        {
+          "glyph": "うし",
+          "name": "ushi",
+          "exampleWord": "cow"
+        },
+        {
+          "glyph": "やま",
+          "name": "yama",
+          "exampleWord": "mountain"
+        },
+        {
+          "glyph": "うさぎ",
+          "name": "usagi",
+          "exampleWord": "rabbit"
+        },
+        {
+          "glyph": "みそ",
+          "name": "miso",
+          "exampleWord": "miso paste"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "いぬ",
+            "ねこ",
+            "うし",
+            "うま"
+          ],
+          "answer": "いぬ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'water'?",
+          "options": [
+            "みず",
+            "ごはん",
+            "パン",
+            "おちゃ"
+          ],
+          "answer": "みず"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l14",
+      "title": "ふくしゅう 10",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "き",
+          "name": "ki",
+          "exampleWord": "tree"
+        },
+        {
+          "glyph": "ほし",
+          "name": "hoshi",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "みず",
+          "name": "mizu",
+          "exampleWord": "water"
+        },
+        {
+          "glyph": "くま",
+          "name": "kuma",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "つき",
+          "name": "tsuki",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "パン",
+          "name": "pan",
+          "exampleWord": "bread"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "て",
+            "あし",
+            "め",
+            "みみ"
+          ],
+          "answer": "て"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l15",
+      "title": "ふくしゅう 11",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "かわ",
+          "name": "kawa",
+          "exampleWord": "river"
+        },
+        {
+          "glyph": "はな",
+          "name": "hana",
+          "exampleWord": "nose"
+        },
+        {
+          "glyph": "かお",
+          "name": "kao",
+          "exampleWord": "face"
+        },
+        {
+          "glyph": "うさぎ",
+          "name": "usagi",
+          "exampleWord": "rabbit"
+        },
+        {
+          "glyph": "あめ",
+          "name": "ame",
+          "exampleWord": "rain"
+        },
+        {
+          "glyph": "とり",
+          "name": "tori",
+          "exampleWord": "bird"
+        },
+        {
+          "glyph": "あし",
+          "name": "ashi",
+          "exampleWord": "foot"
+        },
+        {
+          "glyph": "にく",
+          "name": "niku",
+          "exampleWord": "meat"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'water'?",
+          "options": [
+            "みず",
+            "ごはん",
+            "パン",
+            "おちゃ"
+          ],
+          "answer": "みず"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "いぬ",
+            "ねこ",
+            "うし",
+            "うま"
+          ],
+          "answer": "いぬ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l16",
+      "title": "ふくしゅう 12",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "パン",
+          "name": "pan",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "くち",
+          "name": "kuchi",
+          "exampleWord": "mouth"
+        },
+        {
+          "glyph": "うし",
+          "name": "ushi",
+          "exampleWord": "cow"
+        },
+        {
+          "glyph": "め",
+          "name": "me",
+          "exampleWord": "eye"
+        },
+        {
+          "glyph": "うま",
+          "name": "uma",
+          "exampleWord": "horse"
+        },
+        {
+          "glyph": "そら",
+          "name": "sora",
+          "exampleWord": "sky"
+        },
+        {
+          "glyph": "くま",
+          "name": "kuma",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "さる",
+          "name": "saru",
+          "exampleWord": "monkey"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sky'?",
+          "options": [
+            "そら",
+            "つき",
+            "ひ",
+            "ほし"
+          ],
+          "answer": "そら"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "て",
+            "あし",
+            "め",
+            "みみ"
+          ],
+          "answer": "て"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l17",
+      "title": "ふくしゅう 13",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "しお",
+          "name": "shio",
+          "exampleWord": "salt"
+        },
+        {
+          "glyph": "て",
+          "name": "te",
+          "exampleWord": "hand"
+        },
+        {
+          "glyph": "ぱんだ",
+          "name": "panda",
+          "exampleWord": "panda"
+        },
+        {
+          "glyph": "かお",
+          "name": "kao",
+          "exampleWord": "face"
+        },
+        {
+          "glyph": "パン",
+          "name": "pan",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "あめ",
+          "name": "ame",
+          "exampleWord": "rain"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sky'?",
+          "options": [
+            "そら",
+            "つき",
+            "ひ",
+            "ほし"
+          ],
+          "answer": "そら"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'water'?",
+          "options": [
+            "みず",
+            "ごはん",
+            "パン",
+            "おちゃ"
+          ],
+          "answer": "みず"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l18",
+      "title": "ふくしゅう 14",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "さる",
+          "name": "saru",
+          "exampleWord": "monkey"
+        },
+        {
+          "glyph": "つき",
+          "name": "tsuki",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "ねこ",
+          "name": "neko",
+          "exampleWord": "cat"
+        },
+        {
+          "glyph": "はな",
+          "name": "hana",
+          "exampleWord": "flower"
+        },
+        {
+          "glyph": "くま",
+          "name": "kuma",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "て",
+          "name": "te",
+          "exampleWord": "hand"
+        },
+        {
+          "glyph": "そら",
+          "name": "sora",
+          "exampleWord": "sky"
+        },
+        {
+          "glyph": "はな",
+          "name": "hana",
+          "exampleWord": "nose"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sky'?",
+          "options": [
+            "そら",
+            "つき",
+            "ひ",
+            "ほし"
+          ],
+          "answer": "そら"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'water'?",
+          "options": [
+            "みず",
+            "ごはん",
+            "パン",
+            "おちゃ"
+          ],
+          "answer": "みず"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l19",
+      "title": "ふくしゅう 15",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ほし",
+          "name": "hoshi",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "うし",
+          "name": "ushi",
+          "exampleWord": "cow"
+        },
+        {
+          "glyph": "パン",
+          "name": "pan",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "さる",
+          "name": "saru",
+          "exampleWord": "monkey"
+        },
+        {
+          "glyph": "みそ",
+          "name": "miso",
+          "exampleWord": "miso paste"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "て",
+            "あし",
+            "め",
+            "みみ"
+          ],
+          "answer": "て"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l20",
+      "title": "ふくしゅう 16",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "やま",
+          "name": "yama",
+          "exampleWord": "mountain"
+        },
+        {
+          "glyph": "ねこ",
+          "name": "neko",
+          "exampleWord": "cat"
+        },
+        {
+          "glyph": "うま",
+          "name": "uma",
+          "exampleWord": "horse"
+        },
+        {
+          "glyph": "みそ",
+          "name": "miso",
+          "exampleWord": "miso paste"
+        },
+        {
+          "glyph": "はな",
+          "name": "hana",
+          "exampleWord": "nose"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "て",
+            "あし",
+            "め",
+            "みみ"
+          ],
+          "answer": "て"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l21",
+      "title": "ふくしゅう 17",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "かみ",
+          "name": "kami",
+          "exampleWord": "hair"
+        },
+        {
+          "glyph": "ひ",
+          "name": "hi",
+          "exampleWord": "sun/day"
+        },
+        {
+          "glyph": "ほし",
+          "name": "hoshi",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "ごはん",
+          "name": "gohan",
+          "exampleWord": "rice"
+        },
+        {
+          "glyph": "みみ",
+          "name": "mimi",
+          "exampleWord": "ear"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'water'?",
+          "options": [
+            "みず",
+            "ごはん",
+            "パン",
+            "おちゃ"
+          ],
+          "answer": "みず"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l22",
+      "title": "ふくしゅう 18",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "あたま",
+          "name": "atama",
+          "exampleWord": "head"
+        },
+        {
+          "glyph": "ごはん",
+          "name": "gohan",
+          "exampleWord": "rice"
+        },
+        {
+          "glyph": "たまご",
+          "name": "tamago",
+          "exampleWord": "egg"
+        },
+        {
+          "glyph": "て",
+          "name": "te",
+          "exampleWord": "hand"
+        },
+        {
+          "glyph": "とり",
+          "name": "tori",
+          "exampleWord": "bird"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sky'?",
+          "options": [
+            "そら",
+            "つき",
+            "ひ",
+            "ほし"
+          ],
+          "answer": "そら"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l23",
+      "title": "ふくしゅう 19",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "うみ",
+          "name": "umi",
+          "exampleWord": "sea"
+        },
+        {
+          "glyph": "いぬ",
+          "name": "inu",
+          "exampleWord": "dog"
+        },
+        {
+          "glyph": "うし",
+          "name": "ushi",
+          "exampleWord": "cow"
+        },
+        {
+          "glyph": "はな",
+          "name": "hana",
+          "exampleWord": "nose"
+        },
+        {
+          "glyph": "おちゃ",
+          "name": "ocha",
+          "exampleWord": "tea"
+        },
+        {
+          "glyph": "うさぎ",
+          "name": "usagi",
+          "exampleWord": "rabbit"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "いぬ",
+            "ねこ",
+            "うし",
+            "うま"
+          ],
+          "answer": "いぬ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sky'?",
+          "options": [
+            "そら",
+            "つき",
+            "ひ",
+            "ほし"
+          ],
+          "answer": "そら"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l24",
+      "title": "ふくしゅう 20",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ごはん",
+          "name": "gohan",
+          "exampleWord": "rice"
+        },
+        {
+          "glyph": "はな",
+          "name": "hana",
+          "exampleWord": "nose"
+        },
+        {
+          "glyph": "たまご",
+          "name": "tamago",
+          "exampleWord": "egg"
+        },
+        {
+          "glyph": "みみ",
+          "name": "mimi",
+          "exampleWord": "ear"
+        },
+        {
+          "glyph": "くち",
+          "name": "kuchi",
+          "exampleWord": "mouth"
+        },
+        {
+          "glyph": "うし",
+          "name": "ushi",
+          "exampleWord": "cow"
+        },
+        {
+          "glyph": "かめ",
+          "name": "kame",
+          "exampleWord": "turtle"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'water'?",
+          "options": [
+            "みず",
+            "ごはん",
+            "パン",
+            "おちゃ"
+          ],
+          "answer": "みず"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l25",
+      "title": "ふくしゅう 21",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "かみ",
+          "name": "kami",
+          "exampleWord": "hair"
+        },
+        {
+          "glyph": "うみ",
+          "name": "umi",
+          "exampleWord": "sea"
+        },
+        {
+          "glyph": "みそ",
+          "name": "miso",
+          "exampleWord": "miso paste"
+        },
+        {
+          "glyph": "おちゃ",
+          "name": "ocha",
+          "exampleWord": "tea"
+        },
+        {
+          "glyph": "くだもの",
+          "name": "kudamono",
+          "exampleWord": "fruit"
+        },
+        {
+          "glyph": "は",
+          "name": "ha",
+          "exampleWord": "tooth"
+        },
+        {
+          "glyph": "いぬ",
+          "name": "inu",
+          "exampleWord": "dog"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sky'?",
+          "options": [
+            "そら",
+            "つき",
+            "ひ",
+            "ほし"
+          ],
+          "answer": "そら"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'water'?",
+          "options": [
+            "みず",
+            "ごはん",
+            "パン",
+            "おちゃ"
+          ],
+          "answer": "みず"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l26",
+      "title": "ふくしゅう 22",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "パン",
+          "name": "pan",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "つき",
+          "name": "tsuki",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "さかな",
+          "name": "sakana",
+          "exampleWord": "fish"
+        },
+        {
+          "glyph": "いぬ",
+          "name": "inu",
+          "exampleWord": "dog"
+        },
+        {
+          "glyph": "くち",
+          "name": "kuchi",
+          "exampleWord": "mouth"
+        },
+        {
+          "glyph": "うし",
+          "name": "ushi",
+          "exampleWord": "cow"
+        },
+        {
+          "glyph": "かお",
+          "name": "kao",
+          "exampleWord": "face"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'water'?",
+          "options": [
+            "みず",
+            "ごはん",
+            "パン",
+            "おちゃ"
+          ],
+          "answer": "みず"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l27",
+      "title": "ふくしゅう 23",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "うさぎ",
+          "name": "usagi",
+          "exampleWord": "rabbit"
+        },
+        {
+          "glyph": "みず",
+          "name": "mizu",
+          "exampleWord": "water"
+        },
+        {
+          "glyph": "つき",
+          "name": "tsuki",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "とり",
+          "name": "tori",
+          "exampleWord": "bird"
+        },
+        {
+          "glyph": "ごはん",
+          "name": "gohan",
+          "exampleWord": "rice"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'water'?",
+          "options": [
+            "みず",
+            "ごはん",
+            "パン",
+            "おちゃ"
+          ],
+          "answer": "みず"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "て",
+            "あし",
+            "め",
+            "みみ"
+          ],
+          "answer": "て"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l28",
+      "title": "ふくしゅう 24",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "くち",
+          "name": "kuchi",
+          "exampleWord": "mouth"
+        },
+        {
+          "glyph": "しお",
+          "name": "shio",
+          "exampleWord": "salt"
+        },
+        {
+          "glyph": "やま",
+          "name": "yama",
+          "exampleWord": "mountain"
+        },
+        {
+          "glyph": "はな",
+          "name": "hana",
+          "exampleWord": "flower"
+        },
+        {
+          "glyph": "うみ",
+          "name": "umi",
+          "exampleWord": "sea"
+        },
+        {
+          "glyph": "さかな",
+          "name": "sakana",
+          "exampleWord": "fish"
+        },
+        {
+          "glyph": "くま",
+          "name": "kuma",
+          "exampleWord": "bear"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sky'?",
+          "options": [
+            "そら",
+            "つき",
+            "ひ",
+            "ほし"
+          ],
+          "answer": "そら"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l29",
+      "title": "ふくしゅう 25",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "さる",
+          "name": "saru",
+          "exampleWord": "monkey"
+        },
+        {
+          "glyph": "かわ",
+          "name": "kawa",
+          "exampleWord": "river"
+        },
+        {
+          "glyph": "つき",
+          "name": "tsuki",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "パン",
+          "name": "pan",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "ぱんだ",
+          "name": "panda",
+          "exampleWord": "panda"
+        },
+        {
+          "glyph": "ほし",
+          "name": "hoshi",
+          "exampleWord": "star"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sky'?",
+          "options": [
+            "そら",
+            "つき",
+            "ひ",
+            "ほし"
+          ],
+          "answer": "そら"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l30",
+      "title": "ふくしゅう 26",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "くま",
+          "name": "kuma",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "うさぎ",
+          "name": "usagi",
+          "exampleWord": "rabbit"
+        },
+        {
+          "glyph": "たまご",
+          "name": "tamago",
+          "exampleWord": "egg"
+        },
+        {
+          "glyph": "うし",
+          "name": "ushi",
+          "exampleWord": "cow"
+        },
+        {
+          "glyph": "はな",
+          "name": "hana",
+          "exampleWord": "nose"
+        },
+        {
+          "glyph": "ごはん",
+          "name": "gohan",
+          "exampleWord": "rice"
+        },
+        {
+          "glyph": "さる",
+          "name": "saru",
+          "exampleWord": "monkey"
+        },
+        {
+          "glyph": "とり",
+          "name": "tori",
+          "exampleWord": "bird"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sky'?",
+          "options": [
+            "そら",
+            "つき",
+            "ひ",
+            "ほし"
+          ],
+          "answer": "そら"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l31",
+      "title": "ふくしゅう 27",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "かお",
+          "name": "kao",
+          "exampleWord": "face"
+        },
+        {
+          "glyph": "かめ",
+          "name": "kame",
+          "exampleWord": "turtle"
+        },
+        {
+          "glyph": "あめ",
+          "name": "ame",
+          "exampleWord": "rain"
+        },
+        {
+          "glyph": "うし",
+          "name": "ushi",
+          "exampleWord": "cow"
+        },
+        {
+          "glyph": "ひ",
+          "name": "hi",
+          "exampleWord": "sun/day"
+        },
+        {
+          "glyph": "パン",
+          "name": "pan",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "おちゃ",
+          "name": "ocha",
+          "exampleWord": "tea"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "いぬ",
+            "ねこ",
+            "うし",
+            "うま"
+          ],
+          "answer": "いぬ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "て",
+            "あし",
+            "め",
+            "みみ"
+          ],
+          "answer": "て"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l32",
+      "title": "ふくしゅう 28",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "かめ",
+          "name": "kame",
+          "exampleWord": "turtle"
+        },
+        {
+          "glyph": "あし",
+          "name": "ashi",
+          "exampleWord": "foot"
+        },
+        {
+          "glyph": "さかな",
+          "name": "sakana",
+          "exampleWord": "fish"
+        },
+        {
+          "glyph": "ごはん",
+          "name": "gohan",
+          "exampleWord": "rice"
+        },
+        {
+          "glyph": "め",
+          "name": "me",
+          "exampleWord": "eye"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'water'?",
+          "options": [
+            "みず",
+            "ごはん",
+            "パン",
+            "おちゃ"
+          ],
+          "answer": "みず"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "て",
+            "あし",
+            "め",
+            "みみ"
+          ],
+          "answer": "て"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l33",
+      "title": "ふくしゅう 29",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "くち",
+          "name": "kuchi",
+          "exampleWord": "mouth"
+        },
+        {
+          "glyph": "はな",
+          "name": "hana",
+          "exampleWord": "nose"
+        },
+        {
+          "glyph": "かめ",
+          "name": "kame",
+          "exampleWord": "turtle"
+        },
+        {
+          "glyph": "しお",
+          "name": "shio",
+          "exampleWord": "salt"
+        },
+        {
+          "glyph": "ひ",
+          "name": "hi",
+          "exampleWord": "sun/day"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'water'?",
+          "options": [
+            "みず",
+            "ごはん",
+            "パン",
+            "おちゃ"
+          ],
+          "answer": "みず"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l34",
+      "title": "ふくしゅう 30",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "パン",
+          "name": "pan",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "あし",
+          "name": "ashi",
+          "exampleWord": "foot"
+        },
+        {
+          "glyph": "かお",
+          "name": "kao",
+          "exampleWord": "face"
+        },
+        {
+          "glyph": "ねこ",
+          "name": "neko",
+          "exampleWord": "cat"
+        },
+        {
+          "glyph": "き",
+          "name": "ki",
+          "exampleWord": "tree"
+        },
+        {
+          "glyph": "とり",
+          "name": "tori",
+          "exampleWord": "bird"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "て",
+            "あし",
+            "め",
+            "みみ"
+          ],
+          "answer": "て"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l35",
+      "title": "ふくしゅう 31",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "かめ",
+          "name": "kame",
+          "exampleWord": "turtle"
+        },
+        {
+          "glyph": "かわ",
+          "name": "kawa",
+          "exampleWord": "river"
+        },
+        {
+          "glyph": "て",
+          "name": "te",
+          "exampleWord": "hand"
+        },
+        {
+          "glyph": "うま",
+          "name": "uma",
+          "exampleWord": "horse"
+        },
+        {
+          "glyph": "うさぎ",
+          "name": "usagi",
+          "exampleWord": "rabbit"
+        },
+        {
+          "glyph": "とり",
+          "name": "tori",
+          "exampleWord": "bird"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "いぬ",
+            "ねこ",
+            "うし",
+            "うま"
+          ],
+          "answer": "いぬ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "て",
+            "あし",
+            "め",
+            "みみ"
+          ],
+          "answer": "て"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l36",
+      "title": "ふくしゅう 32",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "て",
+          "name": "te",
+          "exampleWord": "hand"
+        },
+        {
+          "glyph": "みみ",
+          "name": "mimi",
+          "exampleWord": "ear"
+        },
+        {
+          "glyph": "うし",
+          "name": "ushi",
+          "exampleWord": "cow"
+        },
+        {
+          "glyph": "かめ",
+          "name": "kame",
+          "exampleWord": "turtle"
+        },
+        {
+          "glyph": "くま",
+          "name": "kuma",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "たまご",
+          "name": "tamago",
+          "exampleWord": "egg"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sky'?",
+          "options": [
+            "そら",
+            "つき",
+            "ひ",
+            "ほし"
+          ],
+          "answer": "そら"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l37",
+      "title": "ふくしゅう 33",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "うみ",
+          "name": "umi",
+          "exampleWord": "sea"
+        },
+        {
+          "glyph": "うま",
+          "name": "uma",
+          "exampleWord": "horse"
+        },
+        {
+          "glyph": "はな",
+          "name": "hana",
+          "exampleWord": "nose"
+        },
+        {
+          "glyph": "うさぎ",
+          "name": "usagi",
+          "exampleWord": "rabbit"
+        },
+        {
+          "glyph": "たまご",
+          "name": "tamago",
+          "exampleWord": "egg"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "いぬ",
+            "ねこ",
+            "うし",
+            "うま"
+          ],
+          "answer": "いぬ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l38",
+      "title": "ふくしゅう 34",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "そら",
+          "name": "sora",
+          "exampleWord": "sky"
+        },
+        {
+          "glyph": "うみ",
+          "name": "umi",
+          "exampleWord": "sea"
+        },
+        {
+          "glyph": "はな",
+          "name": "hana",
+          "exampleWord": "nose"
+        },
+        {
+          "glyph": "しお",
+          "name": "shio",
+          "exampleWord": "salt"
+        },
+        {
+          "glyph": "あめ",
+          "name": "ame",
+          "exampleWord": "rain"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sky'?",
+          "options": [
+            "そら",
+            "つき",
+            "ひ",
+            "ほし"
+          ],
+          "answer": "そら"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "て",
+            "あし",
+            "め",
+            "みみ"
+          ],
+          "answer": "て"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l39",
+      "title": "ふくしゅう 35",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "つき",
+          "name": "tsuki",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "さかな",
+          "name": "sakana",
+          "exampleWord": "fish"
+        },
+        {
+          "glyph": "め",
+          "name": "me",
+          "exampleWord": "eye"
+        },
+        {
+          "glyph": "あたま",
+          "name": "atama",
+          "exampleWord": "head"
+        },
+        {
+          "glyph": "そら",
+          "name": "sora",
+          "exampleWord": "sky"
+        },
+        {
+          "glyph": "かめ",
+          "name": "kame",
+          "exampleWord": "turtle"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "て",
+            "あし",
+            "め",
+            "みみ"
+          ],
+          "answer": "て"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "いぬ",
+            "ねこ",
+            "うし",
+            "うま"
+          ],
+          "answer": "いぬ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l40",
+      "title": "ふくしゅう 36",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "しお",
+          "name": "shio",
+          "exampleWord": "salt"
+        },
+        {
+          "glyph": "ごはん",
+          "name": "gohan",
+          "exampleWord": "rice"
+        },
+        {
+          "glyph": "はな",
+          "name": "hana",
+          "exampleWord": "nose"
+        },
+        {
+          "glyph": "さかな",
+          "name": "sakana",
+          "exampleWord": "fish"
+        },
+        {
+          "glyph": "みず",
+          "name": "mizu",
+          "exampleWord": "water"
+        },
+        {
+          "glyph": "みみ",
+          "name": "mimi",
+          "exampleWord": "ear"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sky'?",
+          "options": [
+            "そら",
+            "つき",
+            "ひ",
+            "ほし"
+          ],
+          "answer": "そら"
+        }
+      ]
     }
   ]
 }

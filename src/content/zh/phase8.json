@@ -281,6 +281,1802 @@
           "answer": "wants food"
         }
       ]
+    },
+    {
+      "id": "zh-p8-l8",
+      "title": "复习 1",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "这个真好吃!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "请再说一遍。",
+          "name": "repeat"
+        },
+        {
+          "glyph": "对不起, 你能帮我吗?",
+          "name": "help"
+        },
+        {
+          "glyph": "我不喜欢辣的。",
+          "name": "dislike"
+        },
+        {
+          "glyph": "谢谢。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "我可以离开桌子吗?",
+          "name": "polite"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"我想喝水\" 的意思?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l9",
+      "title": "复习 2",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我饿了。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "你叫什么名字?",
+          "name": "q"
+        },
+        {
+          "glyph": "A: 我今天很开心。",
+          "name": ""
+        },
+        {
+          "glyph": "请再说一遍。",
+          "name": "repeat"
+        },
+        {
+          "glyph": "我不懂。",
+          "name": "clarify"
+        },
+        {
+          "glyph": "谢谢。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "你好!",
+          "name": "hello"
+        },
+        {
+          "glyph": "请给我水。",
+          "name": "request"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁今天很开心?",
+          "options": [
+            "A",
+            "B",
+            "妈妈",
+            "老师"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"吃饱了\" 的意思?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l10",
+      "title": "复习 3",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "请给我水。",
+          "name": "request"
+        },
+        {
+          "glyph": "我喜欢苹果。",
+          "name": "like"
+        },
+        {
+          "glyph": "我住在北京。",
+          "name": "a"
+        },
+        {
+          "glyph": "我有点伤心。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "再见!",
+          "name": "bye"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"我不懂\" 意思?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l11",
+      "title": "复习 4",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我需要帮助。",
+          "name": "need"
+        },
+        {
+          "glyph": "我住在北京。",
+          "name": "a"
+        },
+        {
+          "glyph": "我不懂。",
+          "name": "clarify"
+        },
+        {
+          "glyph": "我可以离开桌子吗?",
+          "name": "polite"
+        },
+        {
+          "glyph": "再见!",
+          "name": "bye"
+        },
+        {
+          "glyph": "A: 我今天很开心。",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁今天很开心?",
+          "options": [
+            "A",
+            "B",
+            "妈妈",
+            "老师"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你叫什么名字?\" 回答?",
+          "options": [
+            "我叫小明",
+            "我很好",
+            "谢谢",
+            "你好"
+          ],
+          "answer": "我叫小明"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l12",
+      "title": "复习 5",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "请给我水。",
+          "name": "request"
+        },
+        {
+          "glyph": "对不起, 你能帮我吗?",
+          "name": "help"
+        },
+        {
+          "glyph": "我可以要一些面包吗?",
+          "name": "request"
+        },
+        {
+          "glyph": "非常感谢!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "我需要帮助。",
+          "name": "need"
+        },
+        {
+          "glyph": "早上好!",
+          "name": "morning"
+        },
+        {
+          "glyph": "我可以离开桌子吗?",
+          "name": "polite"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你叫什么名字?\" 回答?",
+          "options": [
+            "我叫小明",
+            "我很好",
+            "谢谢",
+            "你好"
+          ],
+          "answer": "我叫小明"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"我饿了\" 意思?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l13",
+      "title": "复习 6",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我住在北京。",
+          "name": "a"
+        },
+        {
+          "glyph": "我很累。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "你叫什么名字?",
+          "name": "q"
+        },
+        {
+          "glyph": "你好!",
+          "name": "hello"
+        },
+        {
+          "glyph": "我可以要一些面包吗?",
+          "name": "request"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁今天很开心?",
+          "options": [
+            "A",
+            "B",
+            "妈妈",
+            "老师"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l14",
+      "title": "复习 7",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我有点伤心。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "这个真好吃!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "我喜欢苹果。",
+          "name": "like"
+        },
+        {
+          "glyph": "请给我水。",
+          "name": "request"
+        },
+        {
+          "glyph": "谢谢。",
+          "name": "thanks"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"吃饱了\" 的意思?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"我想喝水\" 的意思?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l15",
+      "title": "复习 8",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "再见!",
+          "name": "bye"
+        },
+        {
+          "glyph": "谢谢。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "我饿了。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "我可以离开桌子吗?",
+          "name": "polite"
+        },
+        {
+          "glyph": "我不懂。",
+          "name": "clarify"
+        },
+        {
+          "glyph": "A: 你好, 朋友!",
+          "name": ""
+        },
+        {
+          "glyph": "你住在哪里?",
+          "name": "q"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"我想喝水\" 的意思?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁今天很开心?",
+          "options": [
+            "A",
+            "B",
+            "妈妈",
+            "老师"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l16",
+      "title": "复习 9",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我叫小明。",
+          "name": "a"
+        },
+        {
+          "glyph": "我很累。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "早上好!",
+          "name": "morning"
+        },
+        {
+          "glyph": "我不喜欢辣的。",
+          "name": "dislike"
+        },
+        {
+          "glyph": "非常感谢!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "我住在北京。",
+          "name": "a"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁今天很开心?",
+          "options": [
+            "A",
+            "B",
+            "妈妈",
+            "老师"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"吃饱了\" 的意思?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l17",
+      "title": "复习 10",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我今天很开心。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "对不起, 你能帮我吗?",
+          "name": "help"
+        },
+        {
+          "glyph": "A: 我今天很开心。",
+          "name": ""
+        },
+        {
+          "glyph": "非常感谢!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "我可以要一些面包吗?",
+          "name": "request"
+        },
+        {
+          "glyph": "我喜欢苹果。",
+          "name": "like"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好吗?\" 怎么回答?",
+          "options": [
+            "我很好",
+            "再见",
+            "谢谢",
+            "你好"
+          ],
+          "answer": "我很好"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"我不懂\" 意思?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l18",
+      "title": "复习 11",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我饿了。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "我今天很开心。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "你住在哪里?",
+          "name": "q"
+        },
+        {
+          "glyph": "我很累。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "我有点伤心。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "我吃饱了, 谢谢。",
+          "name": "reply"
+        },
+        {
+          "glyph": "早上好!",
+          "name": "morning"
+        },
+        {
+          "glyph": "我可以要一些面包吗?",
+          "name": "request"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"我不懂\" 意思?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l19",
+      "title": "复习 12",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "你好!",
+          "name": "hello"
+        },
+        {
+          "glyph": "我住在北京。",
+          "name": "a"
+        },
+        {
+          "glyph": "非常感谢!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "我很好。",
+          "name": "reply"
+        },
+        {
+          "glyph": "我很累。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "我想喝水。",
+          "name": "want"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"吃饱了\" 的意思?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l20",
+      "title": "复习 13",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "谢谢。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "A: 你好, 朋友!",
+          "name": ""
+        },
+        {
+          "glyph": "我想喝水。",
+          "name": "want"
+        },
+        {
+          "glyph": "非常感谢!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "我很累。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "我吃饱了, 谢谢。",
+          "name": "reply"
+        },
+        {
+          "glyph": "你好吗?",
+          "name": "question"
+        },
+        {
+          "glyph": "我不喜欢辣的。",
+          "name": "dislike"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁今天很开心?",
+          "options": [
+            "A",
+            "B",
+            "妈妈",
+            "老师"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"我不懂\" 意思?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l21",
+      "title": "复习 14",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "你叫什么名字?",
+          "name": "q"
+        },
+        {
+          "glyph": "再见!",
+          "name": "bye"
+        },
+        {
+          "glyph": "我很累。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "对不起, 你能帮我吗?",
+          "name": "help"
+        },
+        {
+          "glyph": "我很好。",
+          "name": "reply"
+        },
+        {
+          "glyph": "我想喝水。",
+          "name": "want"
+        },
+        {
+          "glyph": "我不懂。",
+          "name": "clarify"
+        },
+        {
+          "glyph": "我需要帮助。",
+          "name": "need"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁今天很开心?",
+          "options": [
+            "A",
+            "B",
+            "妈妈",
+            "老师"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l22",
+      "title": "复习 15",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "谢谢。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "这个真好吃!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "我喜欢苹果。",
+          "name": "like"
+        },
+        {
+          "glyph": "我可以要一些面包吗?",
+          "name": "request"
+        },
+        {
+          "glyph": "B: 你好! 你好吗?",
+          "name": ""
+        },
+        {
+          "glyph": "你叫什么名字?",
+          "name": "q"
+        },
+        {
+          "glyph": "我可以离开桌子吗?",
+          "name": "polite"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好吗?\" 怎么回答?",
+          "options": [
+            "我很好",
+            "再见",
+            "谢谢",
+            "你好"
+          ],
+          "answer": "我很好"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"我想喝水\" 的意思?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l23",
+      "title": "复习 16",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "你好吗?",
+          "name": "question"
+        },
+        {
+          "glyph": "我住在北京。",
+          "name": "a"
+        },
+        {
+          "glyph": "我很兴奋!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: 你好! 你好吗?",
+          "name": ""
+        },
+        {
+          "glyph": "谢谢。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "这个真好吃!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "你叫什么名字?",
+          "name": "q"
+        },
+        {
+          "glyph": "我喜欢苹果。",
+          "name": "like"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"吃饱了\" 的意思?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l24",
+      "title": "复习 17",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我很好。",
+          "name": "reply"
+        },
+        {
+          "glyph": "对不起, 你能帮我吗?",
+          "name": "help"
+        },
+        {
+          "glyph": "请再说一遍。",
+          "name": "repeat"
+        },
+        {
+          "glyph": "我需要帮助。",
+          "name": "need"
+        },
+        {
+          "glyph": "B: 你好! 你好吗?",
+          "name": ""
+        },
+        {
+          "glyph": "你叫什么名字?",
+          "name": "q"
+        },
+        {
+          "glyph": "早上好!",
+          "name": "morning"
+        },
+        {
+          "glyph": "非常感谢!",
+          "name": "thanks"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"我饿了\" 意思?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l25",
+      "title": "复习 18",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B: 真好!",
+          "name": ""
+        },
+        {
+          "glyph": "A: 我今天很开心。",
+          "name": ""
+        },
+        {
+          "glyph": "这个真好吃!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "再见!",
+          "name": "bye"
+        },
+        {
+          "glyph": "你好吗?",
+          "name": "question"
+        },
+        {
+          "glyph": "谢谢。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "我今天很开心。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "你住在哪里?",
+          "name": "q"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好吗?\" 怎么回答?",
+          "options": [
+            "我很好",
+            "再见",
+            "谢谢",
+            "你好"
+          ],
+          "answer": "我很好"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"我想喝水\" 的意思?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l26",
+      "title": "复习 19",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我迷路了。",
+          "name": "lost"
+        },
+        {
+          "glyph": "我需要帮助。",
+          "name": "need"
+        },
+        {
+          "glyph": "我吃饱了, 谢谢。",
+          "name": "reply"
+        },
+        {
+          "glyph": "我今天很开心。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "你住在哪里?",
+          "name": "q"
+        },
+        {
+          "glyph": "再见!",
+          "name": "bye"
+        },
+        {
+          "glyph": "我饿了。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "早上好!",
+          "name": "morning"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁今天很开心?",
+          "options": [
+            "A",
+            "B",
+            "妈妈",
+            "老师"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l27",
+      "title": "复习 20",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我可以要一些面包吗?",
+          "name": "request"
+        },
+        {
+          "glyph": "我喜欢苹果。",
+          "name": "like"
+        },
+        {
+          "glyph": "你叫什么名字?",
+          "name": "q"
+        },
+        {
+          "glyph": "我不喜欢辣的。",
+          "name": "dislike"
+        },
+        {
+          "glyph": "我需要帮助。",
+          "name": "need"
+        },
+        {
+          "glyph": "B: 你好! 你好吗?",
+          "name": ""
+        },
+        {
+          "glyph": "非常感谢!",
+          "name": "thanks"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"我不懂\" 意思?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l28",
+      "title": "复习 21",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我可以离开桌子吗?",
+          "name": "polite"
+        },
+        {
+          "glyph": "我不懂。",
+          "name": "clarify"
+        },
+        {
+          "glyph": "我迷路了。",
+          "name": "lost"
+        },
+        {
+          "glyph": "你好!",
+          "name": "hello"
+        },
+        {
+          "glyph": "B: 真好!",
+          "name": ""
+        },
+        {
+          "glyph": "请再说一遍。",
+          "name": "repeat"
+        },
+        {
+          "glyph": "我可以要一些面包吗?",
+          "name": "request"
+        },
+        {
+          "glyph": "你叫什么名字?",
+          "name": "q"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"我不懂\" 意思?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l29",
+      "title": "复习 22",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "这个真好吃!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "我饿了。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "你好!",
+          "name": "hello"
+        },
+        {
+          "glyph": "谢谢。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "我今天很开心。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: 你好, 朋友!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁今天很开心?",
+          "options": [
+            "A",
+            "B",
+            "妈妈",
+            "老师"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l30",
+      "title": "复习 23",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我叫小明。",
+          "name": "a"
+        },
+        {
+          "glyph": "我迷路了。",
+          "name": "lost"
+        },
+        {
+          "glyph": "你住在哪里?",
+          "name": "q"
+        },
+        {
+          "glyph": "A: 我今天很开心。",
+          "name": ""
+        },
+        {
+          "glyph": "对不起, 你能帮我吗?",
+          "name": "help"
+        },
+        {
+          "glyph": "你好!",
+          "name": "hello"
+        },
+        {
+          "glyph": "A: 你好, 朋友!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"我不懂\" 意思?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l31",
+      "title": "复习 24",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "你叫什么名字?",
+          "name": "q"
+        },
+        {
+          "glyph": "你好吗?",
+          "name": "question"
+        },
+        {
+          "glyph": "我饿了。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "对不起, 你能帮我吗?",
+          "name": "help"
+        },
+        {
+          "glyph": "我很兴奋!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "我需要帮助。",
+          "name": "need"
+        },
+        {
+          "glyph": "我可以离开桌子吗?",
+          "name": "polite"
+        },
+        {
+          "glyph": "B: 真好!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"吃饱了\" 的意思?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l32",
+      "title": "复习 25",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我需要帮助。",
+          "name": "need"
+        },
+        {
+          "glyph": "我可以离开桌子吗?",
+          "name": "polite"
+        },
+        {
+          "glyph": "你叫什么名字?",
+          "name": "q"
+        },
+        {
+          "glyph": "我很兴奋!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "我吃饱了, 谢谢。",
+          "name": "reply"
+        },
+        {
+          "glyph": "请给我水。",
+          "name": "request"
+        },
+        {
+          "glyph": "你好!",
+          "name": "hello"
+        },
+        {
+          "glyph": "我不喜欢辣的。",
+          "name": "dislike"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好吗?\" 怎么回答?",
+          "options": [
+            "我很好",
+            "再见",
+            "谢谢",
+            "你好"
+          ],
+          "answer": "我很好"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"我想喝水\" 的意思?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l33",
+      "title": "复习 26",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我饿了。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "我叫小明。",
+          "name": "a"
+        },
+        {
+          "glyph": "我可以离开桌子吗?",
+          "name": "polite"
+        },
+        {
+          "glyph": "B: 你好! 你好吗?",
+          "name": ""
+        },
+        {
+          "glyph": "这个真好吃!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "A: 你好, 朋友!",
+          "name": ""
+        },
+        {
+          "glyph": "我需要帮助。",
+          "name": "need"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"我想喝水\" 的意思?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"我饿了\" 意思?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l34",
+      "title": "复习 27",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我吃饱了, 谢谢。",
+          "name": "reply"
+        },
+        {
+          "glyph": "我叫小明。",
+          "name": "a"
+        },
+        {
+          "glyph": "我有点伤心。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "再见!",
+          "name": "bye"
+        },
+        {
+          "glyph": "A: 你好, 朋友!",
+          "name": ""
+        },
+        {
+          "glyph": "我需要帮助。",
+          "name": "need"
+        },
+        {
+          "glyph": "我不喜欢辣的。",
+          "name": "dislike"
+        },
+        {
+          "glyph": "我很兴奋!",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"吃饱了\" 的意思?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l35",
+      "title": "复习 28",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我不懂。",
+          "name": "clarify"
+        },
+        {
+          "glyph": "请给我水。",
+          "name": "request"
+        },
+        {
+          "glyph": "非常感谢!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "我吃饱了, 谢谢。",
+          "name": "reply"
+        },
+        {
+          "glyph": "我可以离开桌子吗?",
+          "name": "polite"
+        },
+        {
+          "glyph": "我有点伤心。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "我需要帮助。",
+          "name": "need"
+        },
+        {
+          "glyph": "这个真好吃!",
+          "name": "compliment"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"我不懂\" 意思?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"吃饱了\" 的意思?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l36",
+      "title": "复习 29",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "再见!",
+          "name": "bye"
+        },
+        {
+          "glyph": "你叫什么名字?",
+          "name": "q"
+        },
+        {
+          "glyph": "早上好!",
+          "name": "morning"
+        },
+        {
+          "glyph": "我迷路了。",
+          "name": "lost"
+        },
+        {
+          "glyph": "我很累。",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"我不懂\" 意思?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l37",
+      "title": "复习 30",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我饿了。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "你好吗?",
+          "name": "question"
+        },
+        {
+          "glyph": "我吃饱了, 谢谢。",
+          "name": "reply"
+        },
+        {
+          "glyph": "我住在北京。",
+          "name": "a"
+        },
+        {
+          "glyph": "非常感谢!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "我需要帮助。",
+          "name": "need"
+        },
+        {
+          "glyph": "你叫什么名字?",
+          "name": "q"
+        },
+        {
+          "glyph": "我叫小明。",
+          "name": "a"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"吃饱了\" 的意思?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁今天很开心?",
+          "options": [
+            "A",
+            "B",
+            "妈妈",
+            "老师"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l38",
+      "title": "复习 31",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我想喝水。",
+          "name": "want"
+        },
+        {
+          "glyph": "我很兴奋!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "我叫小明。",
+          "name": "a"
+        },
+        {
+          "glyph": "我可以离开桌子吗?",
+          "name": "polite"
+        },
+        {
+          "glyph": "我有点伤心。",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"我饿了\" 意思?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"我不懂\" 意思?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l39",
+      "title": "复习 32",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "你好!",
+          "name": "hello"
+        },
+        {
+          "glyph": "对不起, 你能帮我吗?",
+          "name": "help"
+        },
+        {
+          "glyph": "请再说一遍。",
+          "name": "repeat"
+        },
+        {
+          "glyph": "我叫小明。",
+          "name": "a"
+        },
+        {
+          "glyph": "A: 我今天很开心。",
+          "name": ""
+        },
+        {
+          "glyph": "我住在北京。",
+          "name": "a"
+        },
+        {
+          "glyph": "你住在哪里?",
+          "name": "q"
+        },
+        {
+          "glyph": "我吃饱了, 谢谢。",
+          "name": "reply"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"我想喝水\" 的意思?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁今天很开心?",
+          "options": [
+            "A",
+            "B",
+            "妈妈",
+            "老师"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l40",
+      "title": "复习 33",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "你好!",
+          "name": "hello"
+        },
+        {
+          "glyph": "我迷路了。",
+          "name": "lost"
+        },
+        {
+          "glyph": "早上好!",
+          "name": "morning"
+        },
+        {
+          "glyph": "我饿了。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "我有点伤心。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "谢谢。",
+          "name": "thanks"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"我饿了\" 意思?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"吃饱了\" 的意思?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
     }
   ]
 }

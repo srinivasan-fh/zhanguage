@@ -1527,6 +1527,1195 @@
           "answer": "கௌ"
         }
       ]
+    },
+    {
+      "id": "ta-p1-l18",
+      "title": "மீள்பார்வை 1",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "டீ",
+          "name": "Tii"
+        },
+        {
+          "glyph": "ள்",
+          "name": "L",
+          "exampleWord": "வாள்"
+        },
+        {
+          "glyph": "பே",
+          "name": "pee"
+        },
+        {
+          "glyph": "பூ",
+          "name": "puu"
+        },
+        {
+          "glyph": "சி",
+          "name": "chi"
+        },
+        {
+          "glyph": "ணெ",
+          "name": "Ne"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "கல் எந்த எழுத்தில் தொடங்கும்?",
+          "options": [
+            "க",
+            "ச",
+            "ட",
+            "த"
+          ],
+          "answer": "க"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "இவ்வரிசையில் முதல் எழுத்து எது?",
+          "options": [
+            "கொ",
+            "சொ",
+            "டொ",
+            "தொ"
+          ],
+          "answer": "கொ"
+        }
+      ]
+    },
+    {
+      "id": "ta-p1-l19",
+      "title": "மீள்பார்வை 2",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ழௌ",
+          "name": "zhau"
+        },
+        {
+          "glyph": "ள்",
+          "name": "L",
+          "exampleWord": "வாள்"
+        },
+        {
+          "glyph": "டா",
+          "name": "Taa"
+        },
+        {
+          "glyph": "ளை",
+          "name": "Lai"
+        },
+        {
+          "glyph": "ள்",
+          "name": "L",
+          "exampleWord": "வாள்"
+        },
+        {
+          "glyph": "டூ",
+          "name": "Tuu"
+        },
+        {
+          "glyph": "வ",
+          "name": "va",
+          "exampleWord": "வண்டி"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "தமிழ் என்ற சொல்லில் முடியும் ஒலி?",
+          "options": [
+            "ழ்",
+            "ள்",
+            "ல்",
+            "ர்"
+          ],
+          "answer": "ழ்"
+        }
+      ]
+    },
+    {
+      "id": "ta-p1-l20",
+      "title": "மீள்பார்வை 3",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ஞெ",
+          "name": "nje"
+        },
+        {
+          "glyph": "று",
+          "name": "RRu"
+        },
+        {
+          "glyph": "ணை",
+          "name": "Nai"
+        },
+        {
+          "glyph": "தௌ",
+          "name": "thau"
+        },
+        {
+          "glyph": "றா",
+          "name": "RRaa"
+        },
+        {
+          "glyph": "ழு",
+          "name": "zhu"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "இவ்வரிசையில் முதல் எழுத்து எது?",
+          "options": [
+            "கீ",
+            "சீ",
+            "டீ",
+            "தீ"
+          ],
+          "answer": "கீ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "இவ்வரிசையில் முதல் எழுத்து எது?",
+          "options": [
+            "கூ",
+            "சூ",
+            "டூ",
+            "தூ"
+          ],
+          "answer": "கூ"
+        }
+      ]
+    },
+    {
+      "id": "ta-p1-l21",
+      "title": "மீள்பார்வை 4",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ழ்",
+          "name": "zh",
+          "exampleWord": "தமிழ்"
+        },
+        {
+          "glyph": "ரை",
+          "name": "rai"
+        },
+        {
+          "glyph": "ழௌ",
+          "name": "zhau"
+        },
+        {
+          "glyph": "தூ",
+          "name": "thuu"
+        },
+        {
+          "glyph": "ரே",
+          "name": "ree"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "இவ்வரிசையில் முதல் எழுத்து எது?",
+          "options": [
+            "கெ",
+            "செ",
+            "டெ",
+            "தெ"
+          ],
+          "answer": "கெ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "இவ்வரிசையில் முதல் எழுத்து எது?",
+          "options": [
+            "கா",
+            "சா",
+            "டா",
+            "தா"
+          ],
+          "answer": "கா"
+        }
+      ]
+    },
+    {
+      "id": "ta-p1-l22",
+      "title": "மீள்பார்வை 5",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ழ்",
+          "name": "zh",
+          "exampleWord": "தமிழ்"
+        },
+        {
+          "glyph": "றோ",
+          "name": "RRoo"
+        },
+        {
+          "glyph": "ணே",
+          "name": "Nee"
+        },
+        {
+          "glyph": "ச்",
+          "name": "ch",
+          "exampleWord": "சட்டை"
+        },
+        {
+          "glyph": "மை",
+          "name": "mai"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "இவ்வரிசையில் முதல் எழுத்து எது?",
+          "options": [
+            "கு",
+            "சு",
+            "டு",
+            "து"
+          ],
+          "answer": "கு"
+        }
+      ]
+    },
+    {
+      "id": "ta-p1-l23",
+      "title": "மீள்பார்வை 6",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ஙௌ",
+          "name": "ngau"
+        },
+        {
+          "glyph": "ழு",
+          "name": "zhu"
+        },
+        {
+          "glyph": "ணெ",
+          "name": "Ne"
+        },
+        {
+          "glyph": "ஙூ",
+          "name": "nguu"
+        },
+        {
+          "glyph": "வெ",
+          "name": "ve"
+        },
+        {
+          "glyph": "ள",
+          "name": "La",
+          "exampleWord": "வாள்"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "இவ்வரிசையில் முதல் எழுத்து எது?",
+          "options": [
+            "கா",
+            "சா",
+            "டா",
+            "தா"
+          ],
+          "answer": "கா"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ஆடு எந்த எழுத்தில் தொடங்கும்?",
+          "options": [
+            "ஆ",
+            "ஈ",
+            "ஊ",
+            "ஏ"
+          ],
+          "answer": "ஆ"
+        }
+      ]
+    },
+    {
+      "id": "ta-p1-l24",
+      "title": "மீள்பார்வை 7",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ச",
+          "name": "cha",
+          "exampleWord": "சட்டை"
+        },
+        {
+          "glyph": "ஙோ",
+          "name": "ngoo"
+        },
+        {
+          "glyph": "ஐ",
+          "name": "ai",
+          "exampleWord": "ஐந்து"
+        },
+        {
+          "glyph": "ல",
+          "name": "la",
+          "exampleWord": "பல்"
+        },
+        {
+          "glyph": "ரா",
+          "name": "raa"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "இவ்வரிசையில் முதல் எழுத்து எது?",
+          "options": [
+            "கூ",
+            "சூ",
+            "டூ",
+            "தூ"
+          ],
+          "answer": "கூ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "எந்த எழுத்து 'அ' ஒலி கொடுக்கும்?",
+          "options": [
+            "அ",
+            "இ",
+            "உ",
+            "எ"
+          ],
+          "answer": "அ"
+        }
+      ]
+    },
+    {
+      "id": "ta-p1-l25",
+      "title": "மீள்பார்வை 8",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "கீ",
+          "name": "kii"
+        },
+        {
+          "glyph": "கா",
+          "name": "kaa"
+        },
+        {
+          "glyph": "வூ",
+          "name": "vuu"
+        },
+        {
+          "glyph": "லா",
+          "name": "laa"
+        },
+        {
+          "glyph": "சூ",
+          "name": "chuu"
+        },
+        {
+          "glyph": "ழ்",
+          "name": "zh",
+          "exampleWord": "தமிழ்"
+        },
+        {
+          "glyph": "நே",
+          "name": "nee"
+        },
+        {
+          "glyph": "ஞு",
+          "name": "nju"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "இவ்வரிசையில் முதல் எழுத்து எது?",
+          "options": [
+            "கி",
+            "சி",
+            "டி",
+            "தி"
+          ],
+          "answer": "கி"
+        }
+      ]
+    },
+    {
+      "id": "ta-p1-l26",
+      "title": "மீள்பார்வை 9",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ர்",
+          "name": "r",
+          "exampleWord": "மரம்"
+        },
+        {
+          "glyph": "நை",
+          "name": "nai"
+        },
+        {
+          "glyph": "ளூ",
+          "name": "Luu"
+        },
+        {
+          "glyph": "ழீ",
+          "name": "zhii"
+        },
+        {
+          "glyph": "ணொ",
+          "name": "No"
+        },
+        {
+          "glyph": "வ்",
+          "name": "v",
+          "exampleWord": "வண்டி"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "எந்த எழுத்து 'அ' ஒலி கொடுக்கும்?",
+          "options": [
+            "அ",
+            "இ",
+            "உ",
+            "எ"
+          ],
+          "answer": "அ"
+        }
+      ]
+    },
+    {
+      "id": "ta-p1-l27",
+      "title": "மீள்பார்வை 10",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "வோ",
+          "name": "voo"
+        },
+        {
+          "glyph": "ண்",
+          "name": "N",
+          "exampleWord": "மண்"
+        },
+        {
+          "glyph": "கா",
+          "name": "kaa"
+        },
+        {
+          "glyph": "யீ",
+          "name": "yii"
+        },
+        {
+          "glyph": "ழொ",
+          "name": "zho"
+        },
+        {
+          "glyph": "உ",
+          "name": "u",
+          "exampleWord": "உப்பு"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "இவ்வரிசையில் முதல் எழுத்து எது?",
+          "options": [
+            "கா",
+            "சா",
+            "டா",
+            "தா"
+          ],
+          "answer": "கா"
+        }
+      ]
+    },
+    {
+      "id": "ta-p1-l28",
+      "title": "மீள்பார்வை 11",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "றொ",
+          "name": "RRo"
+        },
+        {
+          "glyph": "கா",
+          "name": "kaa"
+        },
+        {
+          "glyph": "வோ",
+          "name": "voo"
+        },
+        {
+          "glyph": "ற்",
+          "name": "RR",
+          "exampleWord": "புற்று"
+        },
+        {
+          "glyph": "லீ",
+          "name": "lii"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "எஃகு என்ற சொல்லில் இருக்கும் சிறப்பு எழுத்து?",
+          "options": [
+            "ஃ",
+            "அ",
+            "இ",
+            "உ"
+          ],
+          "answer": "ஃ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "கல் எந்த ஒலியில் தொடங்கும்?",
+          "options": [
+            "க்",
+            "ச்",
+            "ட்",
+            "த்"
+          ],
+          "answer": "க்"
+        }
+      ]
+    },
+    {
+      "id": "ta-p1-l29",
+      "title": "மீள்பார்வை 12",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "தெ",
+          "name": "the"
+        },
+        {
+          "glyph": "ரே",
+          "name": "ree"
+        },
+        {
+          "glyph": "லூ",
+          "name": "luu"
+        },
+        {
+          "glyph": "தா",
+          "name": "thaa"
+        },
+        {
+          "glyph": "டை",
+          "name": "Tai"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "இவ்வரிசையில் முதல் எழுத்து எது?",
+          "options": [
+            "கௌ",
+            "சௌ",
+            "டௌ",
+            "தௌ"
+          ],
+          "answer": "கௌ"
+        }
+      ]
+    },
+    {
+      "id": "ta-p1-l30",
+      "title": "மீள்பார்வை 13",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ப்",
+          "name": "p",
+          "exampleWord": "பல்"
+        },
+        {
+          "glyph": "உ",
+          "name": "u",
+          "exampleWord": "உப்பு"
+        },
+        {
+          "glyph": "ளா",
+          "name": "Laa"
+        },
+        {
+          "glyph": "லொ",
+          "name": "lo"
+        },
+        {
+          "glyph": "பே",
+          "name": "pee"
+        },
+        {
+          "glyph": "ஙீ",
+          "name": "ngii"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "இவ்வரிசையில் முதல் எழுத்து எது?",
+          "options": [
+            "கு",
+            "சு",
+            "டு",
+            "து"
+          ],
+          "answer": "கு"
+        }
+      ]
+    },
+    {
+      "id": "ta-p1-l31",
+      "title": "மீள்பார்வை 14",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ணீ",
+          "name": "Nii"
+        },
+        {
+          "glyph": "ர்",
+          "name": "r",
+          "exampleWord": "மரம்"
+        },
+        {
+          "glyph": "ட",
+          "name": "Ta",
+          "exampleWord": "டப்பா"
+        },
+        {
+          "glyph": "பா",
+          "name": "paa"
+        },
+        {
+          "glyph": "ல",
+          "name": "la",
+          "exampleWord": "பல்"
+        },
+        {
+          "glyph": "தை",
+          "name": "thai"
+        },
+        {
+          "glyph": "பே",
+          "name": "pee"
+        },
+        {
+          "glyph": "ணொ",
+          "name": "No"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "மரம் எந்த ஒலியில் தொடங்கும்?",
+          "options": [
+            "ம்",
+            "ன்",
+            "ந்",
+            "ண்"
+          ],
+          "answer": "ம்"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "தமிழ் என்ற சொல்லில் முடியும் ஒலி?",
+          "options": [
+            "ழ்",
+            "ள்",
+            "ல்",
+            "ர்"
+          ],
+          "answer": "ழ்"
+        }
+      ]
+    },
+    {
+      "id": "ta-p1-l32",
+      "title": "மீள்பார்வை 15",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ய்",
+          "name": "y",
+          "exampleWord": "வாய்"
+        },
+        {
+          "glyph": "ஙு",
+          "name": "ngu"
+        },
+        {
+          "glyph": "ஙூ",
+          "name": "nguu"
+        },
+        {
+          "glyph": "க்",
+          "name": "k",
+          "exampleWord": "கல்"
+        },
+        {
+          "glyph": "வூ",
+          "name": "vuu"
+        },
+        {
+          "glyph": "டீ",
+          "name": "Tii"
+        },
+        {
+          "glyph": "ரௌ",
+          "name": "rau"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "இவ்வரிசையில் முதல் எழுத்து எது?",
+          "options": [
+            "கீ",
+            "சீ",
+            "டீ",
+            "தீ"
+          ],
+          "answer": "கீ"
+        }
+      ]
+    },
+    {
+      "id": "ta-p1-l33",
+      "title": "மீள்பார்வை 16",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ல்",
+          "name": "l",
+          "exampleWord": "பல்"
+        },
+        {
+          "glyph": "சு",
+          "name": "chu"
+        },
+        {
+          "glyph": "ஙௌ",
+          "name": "ngau"
+        },
+        {
+          "glyph": "பை",
+          "name": "pai"
+        },
+        {
+          "glyph": "ண",
+          "name": "Na",
+          "exampleWord": "மண்"
+        },
+        {
+          "glyph": "டு",
+          "name": "Tu"
+        },
+        {
+          "glyph": "ணௌ",
+          "name": "Nau"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "இவ்வரிசையில் முதல் எழுத்து எது?",
+          "options": [
+            "கே",
+            "சே",
+            "டே",
+            "தே"
+          ],
+          "answer": "கே"
+        }
+      ]
+    },
+    {
+      "id": "ta-p1-l34",
+      "title": "மீள்பார்வை 17",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "நே",
+          "name": "nee"
+        },
+        {
+          "glyph": "றெ",
+          "name": "RRe"
+        },
+        {
+          "glyph": "கா",
+          "name": "kaa"
+        },
+        {
+          "glyph": "றை",
+          "name": "RRai"
+        },
+        {
+          "glyph": "பொ",
+          "name": "po"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "இவ்வரிசையில் முதல் எழுத்து எது?",
+          "options": [
+            "கை",
+            "சை",
+            "டை",
+            "தை"
+          ],
+          "answer": "கை"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "தமிழ் எந்த எழுத்தோடு முடியும்?",
+          "options": [
+            "ழ்",
+            "ள்",
+            "ல்",
+            "ர்"
+          ],
+          "answer": "ழ்"
+        }
+      ]
+    },
+    {
+      "id": "ta-p1-l35",
+      "title": "மீள்பார்வை 18",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ங்",
+          "name": "ng",
+          "exampleWord": "தங்கம்"
+        },
+        {
+          "glyph": "ஐ",
+          "name": "ai",
+          "exampleWord": "ஐந்து"
+        },
+        {
+          "glyph": "த்",
+          "name": "th",
+          "exampleWord": "தண்ணீர்"
+        },
+        {
+          "glyph": "ஏ",
+          "name": "ee",
+          "exampleWord": "ஏணி"
+        },
+        {
+          "glyph": "ரு",
+          "name": "ru"
+        },
+        {
+          "glyph": "ஞீ",
+          "name": "njii"
+        },
+        {
+          "glyph": "ஞ்",
+          "name": "nj",
+          "exampleWord": "மஞ்சள்"
+        },
+        {
+          "glyph": "ள்",
+          "name": "L",
+          "exampleWord": "வாள்"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "இவ்வரிசையில் முதல் எழுத்து எது?",
+          "options": [
+            "கே",
+            "சே",
+            "டே",
+            "தே"
+          ],
+          "answer": "கே"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "கல் எந்த எழுத்தில் தொடங்கும்?",
+          "options": [
+            "க",
+            "ச",
+            "ட",
+            "த"
+          ],
+          "answer": "க"
+        }
+      ]
+    },
+    {
+      "id": "ta-p1-l36",
+      "title": "மீள்பார்வை 19",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "றொ",
+          "name": "RRo"
+        },
+        {
+          "glyph": "யை",
+          "name": "yai"
+        },
+        {
+          "glyph": "ன்",
+          "name": "nn",
+          "exampleWord": "மீன்"
+        },
+        {
+          "glyph": "னா",
+          "name": "nnaa"
+        },
+        {
+          "glyph": "தூ",
+          "name": "thuu"
+        },
+        {
+          "glyph": "செ",
+          "name": "che"
+        },
+        {
+          "glyph": "ந்",
+          "name": "n",
+          "exampleWord": "நரி"
+        },
+        {
+          "glyph": "லௌ",
+          "name": "lau"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "மரம் எந்த ஒலியில் தொடங்கும்?",
+          "options": [
+            "ம்",
+            "ன்",
+            "ந்",
+            "ண்"
+          ],
+          "answer": "ம்"
+        }
+      ]
+    },
+    {
+      "id": "ta-p1-l37",
+      "title": "மீள்பார்வை 20",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ஞை",
+          "name": "njai"
+        },
+        {
+          "glyph": "ட்",
+          "name": "T",
+          "exampleWord": "டப்பா"
+        },
+        {
+          "glyph": "செ",
+          "name": "che"
+        },
+        {
+          "glyph": "யொ",
+          "name": "yo"
+        },
+        {
+          "glyph": "சு",
+          "name": "chu"
+        },
+        {
+          "glyph": "ழ்",
+          "name": "zh",
+          "exampleWord": "தமிழ்"
+        },
+        {
+          "glyph": "பு",
+          "name": "pu"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "இவ்வரிசையில் முதல் எழுத்து எது?",
+          "options": [
+            "கு",
+            "சு",
+            "டு",
+            "து"
+          ],
+          "answer": "கு"
+        }
+      ]
+    },
+    {
+      "id": "ta-p1-l38",
+      "title": "மீள்பார்வை 21",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "தோ",
+          "name": "thoo"
+        },
+        {
+          "glyph": "வ்",
+          "name": "v",
+          "exampleWord": "வண்டி"
+        },
+        {
+          "glyph": "செ",
+          "name": "che"
+        },
+        {
+          "glyph": "பி",
+          "name": "pi"
+        },
+        {
+          "glyph": "ய",
+          "name": "ya",
+          "exampleWord": "வாய்"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "மரம் எந்த ஒலியில் தொடங்கும்?",
+          "options": [
+            "ம்",
+            "ன்",
+            "ந்",
+            "ண்"
+          ],
+          "answer": "ம்"
+        }
+      ]
+    },
+    {
+      "id": "ta-p1-l39",
+      "title": "மீள்பார்வை 22",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ழா",
+          "name": "zhaa"
+        },
+        {
+          "glyph": "ஞௌ",
+          "name": "njau"
+        },
+        {
+          "glyph": "டே",
+          "name": "Tee"
+        },
+        {
+          "glyph": "ளௌ",
+          "name": "Lau"
+        },
+        {
+          "glyph": "னு",
+          "name": "nnu"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "இவ்வரிசையில் முதல் எழுத்து எது?",
+          "options": [
+            "கி",
+            "சி",
+            "டி",
+            "தி"
+          ],
+          "answer": "கி"
+        }
+      ]
+    },
+    {
+      "id": "ta-p1-l40",
+      "title": "மீள்பார்வை 23",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ழு",
+          "name": "zhu"
+        },
+        {
+          "glyph": "ன",
+          "name": "nna"
+        },
+        {
+          "glyph": "ட்",
+          "name": "T",
+          "exampleWord": "டப்பா"
+        },
+        {
+          "glyph": "லெ",
+          "name": "le"
+        },
+        {
+          "glyph": "ணொ",
+          "name": "No"
+        },
+        {
+          "glyph": "கூ",
+          "name": "kuu"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "மரம் எந்த எழுத்தில் தொடங்கும்?",
+          "options": [
+            "க",
+            "ம",
+            "ந",
+            "வ"
+          ],
+          "answer": "ம"
+        }
+      ]
     }
   ]
 }

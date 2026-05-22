@@ -261,6 +261,2113 @@
           "answer": "爷爷"
         }
       ]
+    },
+    {
+      "id": "zh-p2-l5",
+      "title": "复习 1",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "女儿",
+          "name": "nǚ’ér",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "她的",
+          "name": "tā de",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "它",
+          "name": "tā",
+          "exampleWord": "it"
+        },
+        {
+          "glyph": "姐姐",
+          "name": "jiějie",
+          "exampleWord": "elder sister"
+        },
+        {
+          "glyph": "爷爷",
+          "name": "yéye",
+          "exampleWord": "paternal grandfather"
+        },
+        {
+          "glyph": "妻子",
+          "name": "qīzi",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "你们",
+          "name": "nǐmen",
+          "exampleWord": "you (pl)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "爷爷",
+            "奶奶",
+            "外公",
+            "外婆"
+          ],
+          "answer": "爷爷"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l6",
+      "title": "复习 2",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "您",
+          "name": "nín",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "哥哥",
+          "name": "gēge",
+          "exampleWord": "elder brother"
+        },
+        {
+          "glyph": "阿姨",
+          "name": "āyí",
+          "exampleWord": "mother’s sister"
+        },
+        {
+          "glyph": "我们的",
+          "name": "wǒmen de",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "我",
+          "name": "wǒ",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "我们",
+          "name": "wǒmen",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "奶奶",
+          "name": "nǎinai",
+          "exampleWord": "paternal grandmother"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "我",
+            "你",
+            "您",
+            "他"
+          ],
+          "answer": "我"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "我的",
+            "你的",
+            "他的",
+            "她的"
+          ],
+          "answer": "我的"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l7",
+      "title": "复习 3",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "你的",
+          "name": "nǐ de",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "她的",
+          "name": "tā de",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "他的",
+          "name": "tā de",
+          "exampleWord": "his"
+        },
+        {
+          "glyph": "她",
+          "name": "tā",
+          "exampleWord": "she"
+        },
+        {
+          "glyph": "弟弟",
+          "name": "dìdi",
+          "exampleWord": "younger brother"
+        },
+        {
+          "glyph": "阿姨",
+          "name": "āyí",
+          "exampleWord": "mother’s sister"
+        },
+        {
+          "glyph": "孩子",
+          "name": "háizi",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "您",
+          "name": "nín",
+          "exampleWord": "you (formal)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "妈妈",
+            "爸爸",
+            "哥哥",
+            "弟弟"
+          ],
+          "answer": "妈妈"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l8",
+      "title": "复习 4",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "丈夫",
+          "name": "zhàngfū",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "哥哥",
+          "name": "gēge",
+          "exampleWord": "elder brother"
+        },
+        {
+          "glyph": "她的",
+          "name": "tā de",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "你",
+          "name": "nǐ",
+          "exampleWord": "you (sg)"
+        },
+        {
+          "glyph": "女儿",
+          "name": "nǚ’ér",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "儿子",
+          "name": "érzi",
+          "exampleWord": "son"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "爷爷",
+            "奶奶",
+            "外公",
+            "外婆"
+          ],
+          "answer": "爷爷"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "我",
+            "你",
+            "您",
+            "他"
+          ],
+          "answer": "我"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l9",
+      "title": "复习 5",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "他",
+          "name": "tā",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "妹妹",
+          "name": "mèimei",
+          "exampleWord": "younger sister"
+        },
+        {
+          "glyph": "外公",
+          "name": "wàigōng",
+          "exampleWord": "maternal grandfather"
+        },
+        {
+          "glyph": "奶奶",
+          "name": "nǎinai",
+          "exampleWord": "paternal grandmother"
+        },
+        {
+          "glyph": "他们",
+          "name": "tāmen",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "妻子",
+          "name": "qīzi",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "儿子",
+          "name": "érzi",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "爸爸",
+          "name": "bàba",
+          "exampleWord": "father"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "爷爷",
+            "奶奶",
+            "外公",
+            "外婆"
+          ],
+          "answer": "爷爷"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "我的",
+            "你的",
+            "他的",
+            "她的"
+          ],
+          "answer": "我的"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l10",
+      "title": "复习 6",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "他们的",
+          "name": "tāmen de",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "他",
+          "name": "tā",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "哥哥",
+          "name": "gēge",
+          "exampleWord": "elder brother"
+        },
+        {
+          "glyph": "奶奶",
+          "name": "nǎinai",
+          "exampleWord": "paternal grandmother"
+        },
+        {
+          "glyph": "妻子",
+          "name": "qīzi",
+          "exampleWord": "wife"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "妈妈",
+            "爸爸",
+            "哥哥",
+            "弟弟"
+          ],
+          "answer": "妈妈"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "我",
+            "你",
+            "您",
+            "他"
+          ],
+          "answer": "我"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l11",
+      "title": "复习 7",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "她的",
+          "name": "tā de",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "儿子",
+          "name": "érzi",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "它",
+          "name": "tā",
+          "exampleWord": "it"
+        },
+        {
+          "glyph": "你",
+          "name": "nǐ",
+          "exampleWord": "you (sg)"
+        },
+        {
+          "glyph": "孩子",
+          "name": "háizi",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "你们",
+          "name": "nǐmen",
+          "exampleWord": "you (pl)"
+        },
+        {
+          "glyph": "女儿",
+          "name": "nǚ’ér",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "我们的",
+          "name": "wǒmen de",
+          "exampleWord": "our"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "我的",
+            "你的",
+            "他的",
+            "她的"
+          ],
+          "answer": "我的"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l12",
+      "title": "复习 8",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "你的",
+          "name": "nǐ de",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "儿子",
+          "name": "érzi",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "姐姐",
+          "name": "jiějie",
+          "exampleWord": "elder sister"
+        },
+        {
+          "glyph": "她",
+          "name": "tā",
+          "exampleWord": "she"
+        },
+        {
+          "glyph": "妹妹",
+          "name": "mèimei",
+          "exampleWord": "younger sister"
+        },
+        {
+          "glyph": "伯伯",
+          "name": "bóbo",
+          "exampleWord": "father’s elder bro"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "我",
+            "你",
+            "您",
+            "他"
+          ],
+          "answer": "我"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l13",
+      "title": "复习 9",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "外公",
+          "name": "wàigōng",
+          "exampleWord": "maternal grandfather"
+        },
+        {
+          "glyph": "你",
+          "name": "nǐ",
+          "exampleWord": "you (sg)"
+        },
+        {
+          "glyph": "儿子",
+          "name": "érzi",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "爸爸",
+          "name": "bàba",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "你们",
+          "name": "nǐmen",
+          "exampleWord": "you (pl)"
+        },
+        {
+          "glyph": "他",
+          "name": "tā",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "妈妈",
+          "name": "māma",
+          "exampleWord": "mother"
+        },
+        {
+          "glyph": "伯伯",
+          "name": "bóbo",
+          "exampleWord": "father’s elder bro"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "我",
+            "你",
+            "您",
+            "他"
+          ],
+          "answer": "我"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "我的",
+            "你的",
+            "他的",
+            "她的"
+          ],
+          "answer": "我的"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l14",
+      "title": "复习 10",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "她",
+          "name": "tā",
+          "exampleWord": "she"
+        },
+        {
+          "glyph": "外婆",
+          "name": "wàipó",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "我们",
+          "name": "wǒmen",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "丈夫",
+          "name": "zhàngfū",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "弟弟",
+          "name": "dìdi",
+          "exampleWord": "younger brother"
+        },
+        {
+          "glyph": "他",
+          "name": "tā",
+          "exampleWord": "he"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "我",
+            "你",
+            "您",
+            "他"
+          ],
+          "answer": "我"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l15",
+      "title": "复习 11",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "家",
+          "name": "jiā",
+          "exampleWord": "home/family"
+        },
+        {
+          "glyph": "妹妹",
+          "name": "mèimei",
+          "exampleWord": "younger sister"
+        },
+        {
+          "glyph": "她",
+          "name": "tā",
+          "exampleWord": "she"
+        },
+        {
+          "glyph": "他们",
+          "name": "tāmen",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "他",
+          "name": "tā",
+          "exampleWord": "he"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "我",
+            "你",
+            "您",
+            "他"
+          ],
+          "answer": "我"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "我的",
+            "你的",
+            "他的",
+            "她的"
+          ],
+          "answer": "我的"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l16",
+      "title": "复习 12",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "她",
+          "name": "tā",
+          "exampleWord": "she"
+        },
+        {
+          "glyph": "我们",
+          "name": "wǒmen",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "他",
+          "name": "tā",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "舅舅",
+          "name": "jiùjiu",
+          "exampleWord": "mother’s brother"
+        },
+        {
+          "glyph": "我的",
+          "name": "wǒ de",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "外公",
+          "name": "wàigōng",
+          "exampleWord": "maternal grandfather"
+        },
+        {
+          "glyph": "她的",
+          "name": "tā de",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "外婆",
+          "name": "wàipó",
+          "exampleWord": "maternal grandmother"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "爷爷",
+            "奶奶",
+            "外公",
+            "外婆"
+          ],
+          "answer": "爷爷"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l17",
+      "title": "复习 13",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我",
+          "name": "wǒ",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "叔叔",
+          "name": "shūshu",
+          "exampleWord": "father’s younger bro"
+        },
+        {
+          "glyph": "家",
+          "name": "jiā",
+          "exampleWord": "home/family"
+        },
+        {
+          "glyph": "丈夫",
+          "name": "zhàngfū",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "爷爷",
+          "name": "yéye",
+          "exampleWord": "paternal grandfather"
+        },
+        {
+          "glyph": "我们的",
+          "name": "wǒmen de",
+          "exampleWord": "our"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "妈妈",
+            "爸爸",
+            "哥哥",
+            "弟弟"
+          ],
+          "answer": "妈妈"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l18",
+      "title": "复习 14",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "叔叔",
+          "name": "shūshu",
+          "exampleWord": "father’s younger bro"
+        },
+        {
+          "glyph": "丈夫",
+          "name": "zhàngfū",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "儿子",
+          "name": "érzi",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "她的",
+          "name": "tā de",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "我们",
+          "name": "wǒmen",
+          "exampleWord": "we"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "我",
+            "你",
+            "您",
+            "他"
+          ],
+          "answer": "我"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l19",
+      "title": "复习 15",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "她的",
+          "name": "tā de",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "他们",
+          "name": "tāmen",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "舅舅",
+          "name": "jiùjiu",
+          "exampleWord": "mother’s brother"
+        },
+        {
+          "glyph": "爸爸",
+          "name": "bàba",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "女儿",
+          "name": "nǚ’ér",
+          "exampleWord": "daughter"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "爷爷",
+            "奶奶",
+            "外公",
+            "外婆"
+          ],
+          "answer": "爷爷"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "妈妈",
+            "爸爸",
+            "哥哥",
+            "弟弟"
+          ],
+          "answer": "妈妈"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l20",
+      "title": "复习 16",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "他的",
+          "name": "tā de",
+          "exampleWord": "his"
+        },
+        {
+          "glyph": "妈妈",
+          "name": "māma",
+          "exampleWord": "mother"
+        },
+        {
+          "glyph": "他们",
+          "name": "tāmen",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "您",
+          "name": "nín",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "你",
+          "name": "nǐ",
+          "exampleWord": "you (sg)"
+        },
+        {
+          "glyph": "她",
+          "name": "tā",
+          "exampleWord": "she"
+        },
+        {
+          "glyph": "我的",
+          "name": "wǒ de",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "弟弟",
+          "name": "dìdi",
+          "exampleWord": "younger brother"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "妈妈",
+            "爸爸",
+            "哥哥",
+            "弟弟"
+          ],
+          "answer": "妈妈"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "我的",
+            "你的",
+            "他的",
+            "她的"
+          ],
+          "answer": "我的"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l21",
+      "title": "复习 17",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我的",
+          "name": "wǒ de",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "伯伯",
+          "name": "bóbo",
+          "exampleWord": "father’s elder bro"
+        },
+        {
+          "glyph": "姐姐",
+          "name": "jiějie",
+          "exampleWord": "elder sister"
+        },
+        {
+          "glyph": "儿子",
+          "name": "érzi",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "妻子",
+          "name": "qīzi",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "他的",
+          "name": "tā de",
+          "exampleWord": "his"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "我的",
+            "你的",
+            "他的",
+            "她的"
+          ],
+          "answer": "我的"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l22",
+      "title": "复习 18",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "妈妈",
+          "name": "māma",
+          "exampleWord": "mother"
+        },
+        {
+          "glyph": "舅舅",
+          "name": "jiùjiu",
+          "exampleWord": "mother’s brother"
+        },
+        {
+          "glyph": "他",
+          "name": "tā",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "外公",
+          "name": "wàigōng",
+          "exampleWord": "maternal grandfather"
+        },
+        {
+          "glyph": "女儿",
+          "name": "nǚ’ér",
+          "exampleWord": "daughter"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "我的",
+            "你的",
+            "他的",
+            "她的"
+          ],
+          "answer": "我的"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l23",
+      "title": "复习 19",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "她",
+          "name": "tā",
+          "exampleWord": "she"
+        },
+        {
+          "glyph": "儿子",
+          "name": "érzi",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "她的",
+          "name": "tā de",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "伯伯",
+          "name": "bóbo",
+          "exampleWord": "father’s elder bro"
+        },
+        {
+          "glyph": "女儿",
+          "name": "nǚ’ér",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "阿姨",
+          "name": "āyí",
+          "exampleWord": "mother’s sister"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "妈妈",
+            "爸爸",
+            "哥哥",
+            "弟弟"
+          ],
+          "answer": "妈妈"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "爷爷",
+            "奶奶",
+            "外公",
+            "外婆"
+          ],
+          "answer": "爷爷"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l24",
+      "title": "复习 20",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "姐姐",
+          "name": "jiějie",
+          "exampleWord": "elder sister"
+        },
+        {
+          "glyph": "奶奶",
+          "name": "nǎinai",
+          "exampleWord": "paternal grandmother"
+        },
+        {
+          "glyph": "儿子",
+          "name": "érzi",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "你的",
+          "name": "nǐ de",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "他",
+          "name": "tā",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "他们的",
+          "name": "tāmen de",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "外婆",
+          "name": "wàipó",
+          "exampleWord": "maternal grandmother"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "爷爷",
+            "奶奶",
+            "外公",
+            "外婆"
+          ],
+          "answer": "爷爷"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l25",
+      "title": "复习 21",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我",
+          "name": "wǒ",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "他们的",
+          "name": "tāmen de",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "丈夫",
+          "name": "zhàngfū",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "叔叔",
+          "name": "shūshu",
+          "exampleWord": "father’s younger bro"
+        },
+        {
+          "glyph": "姐姐",
+          "name": "jiějie",
+          "exampleWord": "elder sister"
+        },
+        {
+          "glyph": "我们",
+          "name": "wǒmen",
+          "exampleWord": "we"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "爷爷",
+            "奶奶",
+            "外公",
+            "外婆"
+          ],
+          "answer": "爷爷"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l26",
+      "title": "复习 22",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "家",
+          "name": "jiā",
+          "exampleWord": "home/family"
+        },
+        {
+          "glyph": "我们的",
+          "name": "wǒmen de",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "爷爷",
+          "name": "yéye",
+          "exampleWord": "paternal grandfather"
+        },
+        {
+          "glyph": "他的",
+          "name": "tā de",
+          "exampleWord": "his"
+        },
+        {
+          "glyph": "奶奶",
+          "name": "nǎinai",
+          "exampleWord": "paternal grandmother"
+        },
+        {
+          "glyph": "我",
+          "name": "wǒ",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "阿姨",
+          "name": "āyí",
+          "exampleWord": "mother’s sister"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "我",
+            "你",
+            "您",
+            "他"
+          ],
+          "answer": "我"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l27",
+      "title": "复习 23",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "你",
+          "name": "nǐ",
+          "exampleWord": "you (sg)"
+        },
+        {
+          "glyph": "你们",
+          "name": "nǐmen",
+          "exampleWord": "you (pl)"
+        },
+        {
+          "glyph": "我的",
+          "name": "wǒ de",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "弟弟",
+          "name": "dìdi",
+          "exampleWord": "younger brother"
+        },
+        {
+          "glyph": "他们的",
+          "name": "tāmen de",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "我们",
+          "name": "wǒmen",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "妹妹",
+          "name": "mèimei",
+          "exampleWord": "younger sister"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "我",
+            "你",
+            "您",
+            "他"
+          ],
+          "answer": "我"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "爷爷",
+            "奶奶",
+            "外公",
+            "外婆"
+          ],
+          "answer": "爷爷"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l28",
+      "title": "复习 24",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "她的",
+          "name": "tā de",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "弟弟",
+          "name": "dìdi",
+          "exampleWord": "younger brother"
+        },
+        {
+          "glyph": "他的",
+          "name": "tā de",
+          "exampleWord": "his"
+        },
+        {
+          "glyph": "他们的",
+          "name": "tāmen de",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "外婆",
+          "name": "wàipó",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "他们",
+          "name": "tāmen",
+          "exampleWord": "they"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "妈妈",
+            "爸爸",
+            "哥哥",
+            "弟弟"
+          ],
+          "answer": "妈妈"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l29",
+      "title": "复习 25",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "他的",
+          "name": "tā de",
+          "exampleWord": "his"
+        },
+        {
+          "glyph": "她的",
+          "name": "tā de",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "你",
+          "name": "nǐ",
+          "exampleWord": "you (sg)"
+        },
+        {
+          "glyph": "妻子",
+          "name": "qīzi",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "奶奶",
+          "name": "nǎinai",
+          "exampleWord": "paternal grandmother"
+        },
+        {
+          "glyph": "他们",
+          "name": "tāmen",
+          "exampleWord": "they"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "我",
+            "你",
+            "您",
+            "他"
+          ],
+          "answer": "我"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l30",
+      "title": "复习 26",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "家",
+          "name": "jiā",
+          "exampleWord": "home/family"
+        },
+        {
+          "glyph": "你们",
+          "name": "nǐmen",
+          "exampleWord": "you (pl)"
+        },
+        {
+          "glyph": "儿子",
+          "name": "érzi",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "我们的",
+          "name": "wǒmen de",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "我的",
+          "name": "wǒ de",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "他们的",
+          "name": "tāmen de",
+          "exampleWord": "their"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "妈妈",
+            "爸爸",
+            "哥哥",
+            "弟弟"
+          ],
+          "answer": "妈妈"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l31",
+      "title": "复习 27",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "你的",
+          "name": "nǐ de",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "丈夫",
+          "name": "zhàngfū",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "外公",
+          "name": "wàigōng",
+          "exampleWord": "maternal grandfather"
+        },
+        {
+          "glyph": "她",
+          "name": "tā",
+          "exampleWord": "she"
+        },
+        {
+          "glyph": "他",
+          "name": "tā",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "阿姨",
+          "name": "āyí",
+          "exampleWord": "mother’s sister"
+        },
+        {
+          "glyph": "外婆",
+          "name": "wàipó",
+          "exampleWord": "maternal grandmother"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "我的",
+            "你的",
+            "他的",
+            "她的"
+          ],
+          "answer": "我的"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l32",
+      "title": "复习 28",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "妻子",
+          "name": "qīzi",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "家",
+          "name": "jiā",
+          "exampleWord": "home/family"
+        },
+        {
+          "glyph": "孩子",
+          "name": "háizi",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "妹妹",
+          "name": "mèimei",
+          "exampleWord": "younger sister"
+        },
+        {
+          "glyph": "姐姐",
+          "name": "jiějie",
+          "exampleWord": "elder sister"
+        },
+        {
+          "glyph": "我们的",
+          "name": "wǒmen de",
+          "exampleWord": "our"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "我",
+            "你",
+            "您",
+            "他"
+          ],
+          "answer": "我"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l33",
+      "title": "复习 29",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "妻子",
+          "name": "qīzi",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "弟弟",
+          "name": "dìdi",
+          "exampleWord": "younger brother"
+        },
+        {
+          "glyph": "我的",
+          "name": "wǒ de",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "妹妹",
+          "name": "mèimei",
+          "exampleWord": "younger sister"
+        },
+        {
+          "glyph": "你们",
+          "name": "nǐmen",
+          "exampleWord": "you (pl)"
+        },
+        {
+          "glyph": "你",
+          "name": "nǐ",
+          "exampleWord": "you (sg)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "我的",
+            "你的",
+            "他的",
+            "她的"
+          ],
+          "answer": "我的"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "妈妈",
+            "爸爸",
+            "哥哥",
+            "弟弟"
+          ],
+          "answer": "妈妈"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l34",
+      "title": "复习 30",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我们的",
+          "name": "wǒmen de",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "它",
+          "name": "tā",
+          "exampleWord": "it"
+        },
+        {
+          "glyph": "伯伯",
+          "name": "bóbo",
+          "exampleWord": "father’s elder bro"
+        },
+        {
+          "glyph": "她",
+          "name": "tā",
+          "exampleWord": "she"
+        },
+        {
+          "glyph": "丈夫",
+          "name": "zhàngfū",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "爸爸",
+          "name": "bàba",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "她的",
+          "name": "tā de",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "家",
+          "name": "jiā",
+          "exampleWord": "home/family"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "爷爷",
+            "奶奶",
+            "外公",
+            "外婆"
+          ],
+          "answer": "爷爷"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "妈妈",
+            "爸爸",
+            "哥哥",
+            "弟弟"
+          ],
+          "answer": "妈妈"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l35",
+      "title": "复习 31",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "他的",
+          "name": "tā de",
+          "exampleWord": "his"
+        },
+        {
+          "glyph": "妹妹",
+          "name": "mèimei",
+          "exampleWord": "younger sister"
+        },
+        {
+          "glyph": "孩子",
+          "name": "háizi",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "伯伯",
+          "name": "bóbo",
+          "exampleWord": "father’s elder bro"
+        },
+        {
+          "glyph": "女儿",
+          "name": "nǚ’ér",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "妈妈",
+          "name": "māma",
+          "exampleWord": "mother"
+        },
+        {
+          "glyph": "叔叔",
+          "name": "shūshu",
+          "exampleWord": "father’s younger bro"
+        },
+        {
+          "glyph": "他们",
+          "name": "tāmen",
+          "exampleWord": "they"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "我",
+            "你",
+            "您",
+            "他"
+          ],
+          "answer": "我"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "爷爷",
+            "奶奶",
+            "外公",
+            "外婆"
+          ],
+          "answer": "爷爷"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l36",
+      "title": "复习 32",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "她的",
+          "name": "tā de",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "外婆",
+          "name": "wàipó",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "妈妈",
+          "name": "māma",
+          "exampleWord": "mother"
+        },
+        {
+          "glyph": "爷爷",
+          "name": "yéye",
+          "exampleWord": "paternal grandfather"
+        },
+        {
+          "glyph": "我们",
+          "name": "wǒmen",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "我的",
+          "name": "wǒ de",
+          "exampleWord": "my"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "爷爷",
+            "奶奶",
+            "外公",
+            "外婆"
+          ],
+          "answer": "爷爷"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "妈妈",
+            "爸爸",
+            "哥哥",
+            "弟弟"
+          ],
+          "answer": "妈妈"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l37",
+      "title": "复习 33",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "孩子",
+          "name": "háizi",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "爸爸",
+          "name": "bàba",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "它",
+          "name": "tā",
+          "exampleWord": "it"
+        },
+        {
+          "glyph": "他们",
+          "name": "tāmen",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "家",
+          "name": "jiā",
+          "exampleWord": "home/family"
+        },
+        {
+          "glyph": "您",
+          "name": "nín",
+          "exampleWord": "you (formal)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "爷爷",
+            "奶奶",
+            "外公",
+            "外婆"
+          ],
+          "answer": "爷爷"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "妈妈",
+            "爸爸",
+            "哥哥",
+            "弟弟"
+          ],
+          "answer": "妈妈"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l38",
+      "title": "复习 34",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "他们的",
+          "name": "tāmen de",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "您",
+          "name": "nín",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "叔叔",
+          "name": "shūshu",
+          "exampleWord": "father’s younger bro"
+        },
+        {
+          "glyph": "儿子",
+          "name": "érzi",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "我们的",
+          "name": "wǒmen de",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "妻子",
+          "name": "qīzi",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "舅舅",
+          "name": "jiùjiu",
+          "exampleWord": "mother’s brother"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "爷爷",
+            "奶奶",
+            "外公",
+            "外婆"
+          ],
+          "answer": "爷爷"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "我的",
+            "你的",
+            "他的",
+            "她的"
+          ],
+          "answer": "我的"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l39",
+      "title": "复习 35",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "妹妹",
+          "name": "mèimei",
+          "exampleWord": "younger sister"
+        },
+        {
+          "glyph": "哥哥",
+          "name": "gēge",
+          "exampleWord": "elder brother"
+        },
+        {
+          "glyph": "家",
+          "name": "jiā",
+          "exampleWord": "home/family"
+        },
+        {
+          "glyph": "你",
+          "name": "nǐ",
+          "exampleWord": "you (sg)"
+        },
+        {
+          "glyph": "它",
+          "name": "tā",
+          "exampleWord": "it"
+        },
+        {
+          "glyph": "他们的",
+          "name": "tāmen de",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "你们",
+          "name": "nǐmen",
+          "exampleWord": "you (pl)"
+        },
+        {
+          "glyph": "他们",
+          "name": "tāmen",
+          "exampleWord": "they"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "妈妈",
+            "爸爸",
+            "哥哥",
+            "弟弟"
+          ],
+          "answer": "妈妈"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l40",
+      "title": "复习 36",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "弟弟",
+          "name": "dìdi",
+          "exampleWord": "younger brother"
+        },
+        {
+          "glyph": "舅舅",
+          "name": "jiùjiu",
+          "exampleWord": "mother’s brother"
+        },
+        {
+          "glyph": "妻子",
+          "name": "qīzi",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "它",
+          "name": "tā",
+          "exampleWord": "it"
+        },
+        {
+          "glyph": "哥哥",
+          "name": "gēge",
+          "exampleWord": "elder brother"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "我",
+            "你",
+            "您",
+            "他"
+          ],
+          "answer": "我"
+        }
+      ]
     }
   ]
 }

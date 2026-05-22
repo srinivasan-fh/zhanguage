@@ -271,6 +271,2021 @@
           "answer": "Großmutter"
         }
       ]
+    },
+    {
+      "id": "de-p2-l5",
+      "title": "Wiederholung 1",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "er",
+          "name": "er",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "sie",
+          "name": "sie",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "sie",
+          "name": "sie",
+          "exampleWord": "she"
+        },
+        {
+          "glyph": "wir",
+          "name": "wir",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "ich",
+          "name": "ich",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "Cousin",
+          "name": "Cousin",
+          "exampleWord": "cousin (m)"
+        },
+        {
+          "glyph": "Großvater",
+          "name": "Großvater",
+          "exampleWord": "grandfather"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "ich",
+            "du",
+            "Sie",
+            "er"
+          ],
+          "answer": "ich"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "mein",
+            "dein",
+            "Ihr",
+            "sein"
+          ],
+          "answer": "mein"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l6",
+      "title": "Wiederholung 2",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Kind",
+          "name": "Kind",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "Cousine",
+          "name": "Cousine",
+          "exampleWord": "cousin (f)"
+        },
+        {
+          "glyph": "wir",
+          "name": "wir",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "ihr",
+          "name": "ihr",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "dein",
+          "name": "dein",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "euer",
+          "name": "euer",
+          "exampleWord": "your (pl)"
+        },
+        {
+          "glyph": "Sie",
+          "name": "Sie",
+          "exampleWord": "you (formal)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "mein",
+            "dein",
+            "Ihr",
+            "sein"
+          ],
+          "answer": "mein"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "ich",
+            "du",
+            "Sie",
+            "er"
+          ],
+          "answer": "ich"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l7",
+      "title": "Wiederholung 3",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "du",
+          "name": "du",
+          "exampleWord": "you (informal)"
+        },
+        {
+          "glyph": "Opa",
+          "name": "Opa",
+          "exampleWord": "grandpa"
+        },
+        {
+          "glyph": "ihr",
+          "name": "ihr",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "sie",
+          "name": "sie",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "dein",
+          "name": "dein",
+          "exampleWord": "your (informal)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'grandmother'?",
+          "options": [
+            "Großmutter",
+            "Großvater",
+            "Oma",
+            "Opa"
+          ],
+          "answer": "Großmutter"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l8",
+      "title": "Wiederholung 4",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Cousin",
+          "name": "Cousin",
+          "exampleWord": "cousin (m)"
+        },
+        {
+          "glyph": "Mutter",
+          "name": "Mutter",
+          "exampleWord": "mother"
+        },
+        {
+          "glyph": "Ehefrau",
+          "name": "Ehefrau",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "sein",
+          "name": "sein",
+          "exampleWord": "his"
+        },
+        {
+          "glyph": "Onkel",
+          "name": "Onkel",
+          "exampleWord": "uncle"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "ich",
+            "du",
+            "Sie",
+            "er"
+          ],
+          "answer": "ich"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l9",
+      "title": "Wiederholung 5",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ihr",
+          "name": "ihr",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "Tochter",
+          "name": "Tochter",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "sein",
+          "name": "sein",
+          "exampleWord": "his"
+        },
+        {
+          "glyph": "Cousin",
+          "name": "Cousin",
+          "exampleWord": "cousin (m)"
+        },
+        {
+          "glyph": "Vater",
+          "name": "Vater",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "Schwester",
+          "name": "Schwester",
+          "exampleWord": "sister"
+        },
+        {
+          "glyph": "sie",
+          "name": "sie",
+          "exampleWord": "she"
+        },
+        {
+          "glyph": "Cousine",
+          "name": "Cousine",
+          "exampleWord": "cousin (f)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "Mutter",
+            "Vater",
+            "Mama",
+            "Papa"
+          ],
+          "answer": "Mutter"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "mein",
+            "dein",
+            "Ihr",
+            "sein"
+          ],
+          "answer": "mein"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l10",
+      "title": "Wiederholung 6",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ihr",
+          "name": "ihr",
+          "exampleWord": "you (pl)"
+        },
+        {
+          "glyph": "Familie",
+          "name": "Familie",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "ihr",
+          "name": "ihr",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "Onkel",
+          "name": "Onkel",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "ich",
+          "name": "ich",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "Ehefrau",
+          "name": "Ehefrau",
+          "exampleWord": "wife"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "mein",
+            "dein",
+            "Ihr",
+            "sein"
+          ],
+          "answer": "mein"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "Mutter",
+            "Vater",
+            "Mama",
+            "Papa"
+          ],
+          "answer": "Mutter"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l11",
+      "title": "Wiederholung 7",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "sie",
+          "name": "sie",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "Ihr",
+          "name": "Ihr",
+          "exampleWord": "your (formal)"
+        },
+        {
+          "glyph": "ihr",
+          "name": "ihr",
+          "exampleWord": "you (pl)"
+        },
+        {
+          "glyph": "euer",
+          "name": "euer",
+          "exampleWord": "your (pl)"
+        },
+        {
+          "glyph": "Ehefrau",
+          "name": "Ehefrau",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "Sie",
+          "name": "Sie",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "Cousine",
+          "name": "Cousine",
+          "exampleWord": "cousin (f)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "ich",
+            "du",
+            "Sie",
+            "er"
+          ],
+          "answer": "ich"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l12",
+      "title": "Wiederholung 8",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Kind",
+          "name": "Kind",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "sie",
+          "name": "sie",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "ihr",
+          "name": "ihr",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "Mutter",
+          "name": "Mutter",
+          "exampleWord": "mother"
+        },
+        {
+          "glyph": "ihr",
+          "name": "ihr",
+          "exampleWord": "you (pl)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "mein",
+            "dein",
+            "Ihr",
+            "sein"
+          ],
+          "answer": "mein"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l13",
+      "title": "Wiederholung 9",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ich",
+          "name": "ich",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "Familie",
+          "name": "Familie",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "wir",
+          "name": "wir",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "Bruder",
+          "name": "Bruder",
+          "exampleWord": "brother"
+        },
+        {
+          "glyph": "ihr",
+          "name": "ihr",
+          "exampleWord": "her"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "mein",
+            "dein",
+            "Ihr",
+            "sein"
+          ],
+          "answer": "mein"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "ich",
+            "du",
+            "Sie",
+            "er"
+          ],
+          "answer": "ich"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l14",
+      "title": "Wiederholung 10",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Sohn",
+          "name": "Sohn",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "Papa",
+          "name": "Papa",
+          "exampleWord": "dad"
+        },
+        {
+          "glyph": "Familie",
+          "name": "Familie",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "Tochter",
+          "name": "Tochter",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "Cousin",
+          "name": "Cousin",
+          "exampleWord": "cousin (m)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'grandmother'?",
+          "options": [
+            "Großmutter",
+            "Großvater",
+            "Oma",
+            "Opa"
+          ],
+          "answer": "Großmutter"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "Mutter",
+            "Vater",
+            "Mama",
+            "Papa"
+          ],
+          "answer": "Mutter"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l15",
+      "title": "Wiederholung 11",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "mein",
+          "name": "mein",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "ihr",
+          "name": "ihr",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "Tochter",
+          "name": "Tochter",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "Schwester",
+          "name": "Schwester",
+          "exampleWord": "sister"
+        },
+        {
+          "glyph": "sein",
+          "name": "sein",
+          "exampleWord": "his"
+        },
+        {
+          "glyph": "euer",
+          "name": "euer",
+          "exampleWord": "your (pl)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'grandmother'?",
+          "options": [
+            "Großmutter",
+            "Großvater",
+            "Oma",
+            "Opa"
+          ],
+          "answer": "Großmutter"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "mein",
+            "dein",
+            "Ihr",
+            "sein"
+          ],
+          "answer": "mein"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l16",
+      "title": "Wiederholung 12",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "er",
+          "name": "er",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "ihr",
+          "name": "ihr",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "ich",
+          "name": "ich",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "Großmutter",
+          "name": "Großmutter",
+          "exampleWord": "grandmother"
+        },
+        {
+          "glyph": "Oma",
+          "name": "Oma",
+          "exampleWord": "grandma"
+        },
+        {
+          "glyph": "dein",
+          "name": "dein",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "du",
+          "name": "du",
+          "exampleWord": "you (informal)"
+        },
+        {
+          "glyph": "Kind",
+          "name": "Kind",
+          "exampleWord": "child"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'grandmother'?",
+          "options": [
+            "Großmutter",
+            "Großvater",
+            "Oma",
+            "Opa"
+          ],
+          "answer": "Großmutter"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l17",
+      "title": "Wiederholung 13",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ihr",
+          "name": "ihr",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "Familie",
+          "name": "Familie",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "ihr",
+          "name": "ihr",
+          "exampleWord": "you (pl)"
+        },
+        {
+          "glyph": "Vater",
+          "name": "Vater",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "mein",
+          "name": "mein",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "Cousin",
+          "name": "Cousin",
+          "exampleWord": "cousin (m)"
+        },
+        {
+          "glyph": "sie",
+          "name": "sie",
+          "exampleWord": "they"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'grandmother'?",
+          "options": [
+            "Großmutter",
+            "Großvater",
+            "Oma",
+            "Opa"
+          ],
+          "answer": "Großmutter"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l18",
+      "title": "Wiederholung 14",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Opa",
+          "name": "Opa",
+          "exampleWord": "grandpa"
+        },
+        {
+          "glyph": "Cousin",
+          "name": "Cousin",
+          "exampleWord": "cousin (m)"
+        },
+        {
+          "glyph": "sie",
+          "name": "sie",
+          "exampleWord": "she"
+        },
+        {
+          "glyph": "Oma",
+          "name": "Oma",
+          "exampleWord": "grandma"
+        },
+        {
+          "glyph": "Schwester",
+          "name": "Schwester",
+          "exampleWord": "sister"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "mein",
+            "dein",
+            "Ihr",
+            "sein"
+          ],
+          "answer": "mein"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'grandmother'?",
+          "options": [
+            "Großmutter",
+            "Großvater",
+            "Oma",
+            "Opa"
+          ],
+          "answer": "Großmutter"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l19",
+      "title": "Wiederholung 15",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Mutter",
+          "name": "Mutter",
+          "exampleWord": "mother"
+        },
+        {
+          "glyph": "Opa",
+          "name": "Opa",
+          "exampleWord": "grandpa"
+        },
+        {
+          "glyph": "Tochter",
+          "name": "Tochter",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "Ehefrau",
+          "name": "Ehefrau",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "dein",
+          "name": "dein",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "Ehemann",
+          "name": "Ehemann",
+          "exampleWord": "husband"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'grandmother'?",
+          "options": [
+            "Großmutter",
+            "Großvater",
+            "Oma",
+            "Opa"
+          ],
+          "answer": "Großmutter"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l20",
+      "title": "Wiederholung 16",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "du",
+          "name": "du",
+          "exampleWord": "you (informal)"
+        },
+        {
+          "glyph": "euer",
+          "name": "euer",
+          "exampleWord": "your (pl)"
+        },
+        {
+          "glyph": "Onkel",
+          "name": "Onkel",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "Tochter",
+          "name": "Tochter",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "unser",
+          "name": "unser",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "mein",
+          "name": "mein",
+          "exampleWord": "my"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "Mutter",
+            "Vater",
+            "Mama",
+            "Papa"
+          ],
+          "answer": "Mutter"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l21",
+      "title": "Wiederholung 17",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Cousin",
+          "name": "Cousin",
+          "exampleWord": "cousin (m)"
+        },
+        {
+          "glyph": "ihr",
+          "name": "ihr",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "wir",
+          "name": "wir",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "Mutter",
+          "name": "Mutter",
+          "exampleWord": "mother"
+        },
+        {
+          "glyph": "Mama",
+          "name": "Mama",
+          "exampleWord": "mom"
+        },
+        {
+          "glyph": "Kind",
+          "name": "Kind",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "ich",
+          "name": "ich",
+          "exampleWord": "I"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "ich",
+            "du",
+            "Sie",
+            "er"
+          ],
+          "answer": "ich"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l22",
+      "title": "Wiederholung 18",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Vater",
+          "name": "Vater",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "ihr",
+          "name": "ihr",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "euer",
+          "name": "euer",
+          "exampleWord": "your (pl)"
+        },
+        {
+          "glyph": "Cousin",
+          "name": "Cousin",
+          "exampleWord": "cousin (m)"
+        },
+        {
+          "glyph": "Ihr",
+          "name": "Ihr",
+          "exampleWord": "your (formal)"
+        },
+        {
+          "glyph": "Onkel",
+          "name": "Onkel",
+          "exampleWord": "uncle"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "mein",
+            "dein",
+            "Ihr",
+            "sein"
+          ],
+          "answer": "mein"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l23",
+      "title": "Wiederholung 19",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Papa",
+          "name": "Papa",
+          "exampleWord": "dad"
+        },
+        {
+          "glyph": "Ehemann",
+          "name": "Ehemann",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "Familie",
+          "name": "Familie",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "Ehefrau",
+          "name": "Ehefrau",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "Bruder",
+          "name": "Bruder",
+          "exampleWord": "brother"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'grandmother'?",
+          "options": [
+            "Großmutter",
+            "Großvater",
+            "Oma",
+            "Opa"
+          ],
+          "answer": "Großmutter"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l24",
+      "title": "Wiederholung 20",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ihr",
+          "name": "Ihr",
+          "exampleWord": "your (formal)"
+        },
+        {
+          "glyph": "wir",
+          "name": "wir",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "Mama",
+          "name": "Mama",
+          "exampleWord": "mom"
+        },
+        {
+          "glyph": "Großmutter",
+          "name": "Großmutter",
+          "exampleWord": "grandmother"
+        },
+        {
+          "glyph": "ihr",
+          "name": "ihr",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "Mutter",
+          "name": "Mutter",
+          "exampleWord": "mother"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'grandmother'?",
+          "options": [
+            "Großmutter",
+            "Großvater",
+            "Oma",
+            "Opa"
+          ],
+          "answer": "Großmutter"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l25",
+      "title": "Wiederholung 21",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "wir",
+          "name": "wir",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "Tochter",
+          "name": "Tochter",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "Opa",
+          "name": "Opa",
+          "exampleWord": "grandpa"
+        },
+        {
+          "glyph": "sein",
+          "name": "sein",
+          "exampleWord": "his"
+        },
+        {
+          "glyph": "euer",
+          "name": "euer",
+          "exampleWord": "your (pl)"
+        },
+        {
+          "glyph": "Papa",
+          "name": "Papa",
+          "exampleWord": "dad"
+        },
+        {
+          "glyph": "du",
+          "name": "du",
+          "exampleWord": "you (informal)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "Mutter",
+            "Vater",
+            "Mama",
+            "Papa"
+          ],
+          "answer": "Mutter"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "mein",
+            "dein",
+            "Ihr",
+            "sein"
+          ],
+          "answer": "mein"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l26",
+      "title": "Wiederholung 22",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Cousine",
+          "name": "Cousine",
+          "exampleWord": "cousin (f)"
+        },
+        {
+          "glyph": "Bruder",
+          "name": "Bruder",
+          "exampleWord": "brother"
+        },
+        {
+          "glyph": "Onkel",
+          "name": "Onkel",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "unser",
+          "name": "unser",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "Großmutter",
+          "name": "Großmutter",
+          "exampleWord": "grandmother"
+        },
+        {
+          "glyph": "du",
+          "name": "du",
+          "exampleWord": "you (informal)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "ich",
+            "du",
+            "Sie",
+            "er"
+          ],
+          "answer": "ich"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l27",
+      "title": "Wiederholung 23",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "unser",
+          "name": "unser",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "Familie",
+          "name": "Familie",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "Sie",
+          "name": "Sie",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "ihr",
+          "name": "ihr",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "Oma",
+          "name": "Oma",
+          "exampleWord": "grandma"
+        },
+        {
+          "glyph": "Ehemann",
+          "name": "Ehemann",
+          "exampleWord": "husband"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "ich",
+            "du",
+            "Sie",
+            "er"
+          ],
+          "answer": "ich"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l28",
+      "title": "Wiederholung 24",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "sie",
+          "name": "sie",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "unser",
+          "name": "unser",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "ihr",
+          "name": "ihr",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "Cousine",
+          "name": "Cousine",
+          "exampleWord": "cousin (f)"
+        },
+        {
+          "glyph": "Sohn",
+          "name": "Sohn",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "wir",
+          "name": "wir",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "du",
+          "name": "du",
+          "exampleWord": "you (informal)"
+        },
+        {
+          "glyph": "Ehefrau",
+          "name": "Ehefrau",
+          "exampleWord": "wife"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'grandmother'?",
+          "options": [
+            "Großmutter",
+            "Großvater",
+            "Oma",
+            "Opa"
+          ],
+          "answer": "Großmutter"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l29",
+      "title": "Wiederholung 25",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Mutter",
+          "name": "Mutter",
+          "exampleWord": "mother"
+        },
+        {
+          "glyph": "Großvater",
+          "name": "Großvater",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "ihr",
+          "name": "ihr",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "es",
+          "name": "es",
+          "exampleWord": "it"
+        },
+        {
+          "glyph": "Bruder",
+          "name": "Bruder",
+          "exampleWord": "brother"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "ich",
+            "du",
+            "Sie",
+            "er"
+          ],
+          "answer": "ich"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l30",
+      "title": "Wiederholung 26",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ihr",
+          "name": "ihr",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "Cousine",
+          "name": "Cousine",
+          "exampleWord": "cousin (f)"
+        },
+        {
+          "glyph": "euer",
+          "name": "euer",
+          "exampleWord": "your (pl)"
+        },
+        {
+          "glyph": "Sie",
+          "name": "Sie",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "Opa",
+          "name": "Opa",
+          "exampleWord": "grandpa"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "mein",
+            "dein",
+            "Ihr",
+            "sein"
+          ],
+          "answer": "mein"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "Mutter",
+            "Vater",
+            "Mama",
+            "Papa"
+          ],
+          "answer": "Mutter"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l31",
+      "title": "Wiederholung 27",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Onkel",
+          "name": "Onkel",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "ihr",
+          "name": "ihr",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "Familie",
+          "name": "Familie",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "Bruder",
+          "name": "Bruder",
+          "exampleWord": "brother"
+        },
+        {
+          "glyph": "wir",
+          "name": "wir",
+          "exampleWord": "we"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "mein",
+            "dein",
+            "Ihr",
+            "sein"
+          ],
+          "answer": "mein"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l32",
+      "title": "Wiederholung 28",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ich",
+          "name": "ich",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "Großmutter",
+          "name": "Großmutter",
+          "exampleWord": "grandmother"
+        },
+        {
+          "glyph": "Schwester",
+          "name": "Schwester",
+          "exampleWord": "sister"
+        },
+        {
+          "glyph": "Cousine",
+          "name": "Cousine",
+          "exampleWord": "cousin (f)"
+        },
+        {
+          "glyph": "Großvater",
+          "name": "Großvater",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "dein",
+          "name": "dein",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "Ehefrau",
+          "name": "Ehefrau",
+          "exampleWord": "wife"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "ich",
+            "du",
+            "Sie",
+            "er"
+          ],
+          "answer": "ich"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l33",
+      "title": "Wiederholung 29",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "sein",
+          "name": "sein",
+          "exampleWord": "his"
+        },
+        {
+          "glyph": "Ihr",
+          "name": "Ihr",
+          "exampleWord": "your (formal)"
+        },
+        {
+          "glyph": "dein",
+          "name": "dein",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "unser",
+          "name": "unser",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "Sie",
+          "name": "Sie",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "Ehemann",
+          "name": "Ehemann",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "wir",
+          "name": "wir",
+          "exampleWord": "we"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "mein",
+            "dein",
+            "Ihr",
+            "sein"
+          ],
+          "answer": "mein"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l34",
+      "title": "Wiederholung 30",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Vater",
+          "name": "Vater",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "Oma",
+          "name": "Oma",
+          "exampleWord": "grandma"
+        },
+        {
+          "glyph": "er",
+          "name": "er",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "Großvater",
+          "name": "Großvater",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "unser",
+          "name": "unser",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "sie",
+          "name": "sie",
+          "exampleWord": "they"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "ich",
+            "du",
+            "Sie",
+            "er"
+          ],
+          "answer": "ich"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l35",
+      "title": "Wiederholung 31",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Sohn",
+          "name": "Sohn",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "Mama",
+          "name": "Mama",
+          "exampleWord": "mom"
+        },
+        {
+          "glyph": "Großmutter",
+          "name": "Großmutter",
+          "exampleWord": "grandmother"
+        },
+        {
+          "glyph": "mein",
+          "name": "mein",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "sie",
+          "name": "sie",
+          "exampleWord": "she"
+        },
+        {
+          "glyph": "dein",
+          "name": "dein",
+          "exampleWord": "your (informal)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'grandmother'?",
+          "options": [
+            "Großmutter",
+            "Großvater",
+            "Oma",
+            "Opa"
+          ],
+          "answer": "Großmutter"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "ich",
+            "du",
+            "Sie",
+            "er"
+          ],
+          "answer": "ich"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l36",
+      "title": "Wiederholung 32",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Sohn",
+          "name": "Sohn",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "Sie",
+          "name": "Sie",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "Cousine",
+          "name": "Cousine",
+          "exampleWord": "cousin (f)"
+        },
+        {
+          "glyph": "Ihr",
+          "name": "Ihr",
+          "exampleWord": "your (formal)"
+        },
+        {
+          "glyph": "Familie",
+          "name": "Familie",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "wir",
+          "name": "wir",
+          "exampleWord": "we"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "mein",
+            "dein",
+            "Ihr",
+            "sein"
+          ],
+          "answer": "mein"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l37",
+      "title": "Wiederholung 33",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "sie",
+          "name": "sie",
+          "exampleWord": "she"
+        },
+        {
+          "glyph": "mein",
+          "name": "mein",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "Familie",
+          "name": "Familie",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "wir",
+          "name": "wir",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "Großmutter",
+          "name": "Großmutter",
+          "exampleWord": "grandmother"
+        },
+        {
+          "glyph": "unser",
+          "name": "unser",
+          "exampleWord": "our"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "Mutter",
+            "Vater",
+            "Mama",
+            "Papa"
+          ],
+          "answer": "Mutter"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l38",
+      "title": "Wiederholung 34",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Großvater",
+          "name": "Großvater",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "dein",
+          "name": "dein",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "Cousine",
+          "name": "Cousine",
+          "exampleWord": "cousin (f)"
+        },
+        {
+          "glyph": "ihr",
+          "name": "ihr",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "Ehefrau",
+          "name": "Ehefrau",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "Großmutter",
+          "name": "Großmutter",
+          "exampleWord": "grandmother"
+        },
+        {
+          "glyph": "es",
+          "name": "es",
+          "exampleWord": "it"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "Mutter",
+            "Vater",
+            "Mama",
+            "Papa"
+          ],
+          "answer": "Mutter"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "mein",
+            "dein",
+            "Ihr",
+            "sein"
+          ],
+          "answer": "mein"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l39",
+      "title": "Wiederholung 35",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ihr",
+          "name": "ihr",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "du",
+          "name": "du",
+          "exampleWord": "you (informal)"
+        },
+        {
+          "glyph": "sein",
+          "name": "sein",
+          "exampleWord": "his"
+        },
+        {
+          "glyph": "Kind",
+          "name": "Kind",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "Vater",
+          "name": "Vater",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "Tochter",
+          "name": "Tochter",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "Onkel",
+          "name": "Onkel",
+          "exampleWord": "uncle"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "ich",
+            "du",
+            "Sie",
+            "er"
+          ],
+          "answer": "ich"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "Mutter",
+            "Vater",
+            "Mama",
+            "Papa"
+          ],
+          "answer": "Mutter"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l40",
+      "title": "Wiederholung 36",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "sie",
+          "name": "sie",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "er",
+          "name": "er",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "unser",
+          "name": "unser",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "Cousine",
+          "name": "Cousine",
+          "exampleWord": "cousin (f)"
+        },
+        {
+          "glyph": "ihr",
+          "name": "ihr",
+          "exampleWord": "you (pl)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'grandmother'?",
+          "options": [
+            "Großmutter",
+            "Großvater",
+            "Oma",
+            "Opa"
+          ],
+          "answer": "Großmutter"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "Mutter",
+            "Vater",
+            "Mama",
+            "Papa"
+          ],
+          "answer": "Mutter"
+        }
+      ]
     }
   ]
 }

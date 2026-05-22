@@ -410,6 +410,1470 @@
         }
       ],
       "quiz": []
+    },
+    {
+      "id": "de-p6-l9",
+      "title": "Wiederholung 1",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A",
+          "name": "trace"
+        },
+        {
+          "glyph": "F",
+          "name": "trace"
+        },
+        {
+          "glyph": "Apfel",
+          "name": "trace"
+        },
+        {
+          "glyph": "T",
+          "name": "trace"
+        },
+        {
+          "glyph": "b",
+          "name": "trace"
+        },
+        {
+          "glyph": "j",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "A",
+            "F",
+            "Apfel",
+            "T"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "de-p6-l10",
+      "title": "Wiederholung 2",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Papa",
+          "name": "trace"
+        },
+        {
+          "glyph": "Apfel",
+          "name": "trace"
+        },
+        {
+          "glyph": "ß",
+          "name": "trace"
+        },
+        {
+          "glyph": "J",
+          "name": "trace"
+        },
+        {
+          "glyph": "ä",
+          "name": "trace"
+        },
+        {
+          "glyph": "Q",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "Papa",
+            "Apfel",
+            "ß",
+            "J"
+          ],
+          "answer": "Papa"
+        }
+      ]
+    },
+    {
+      "id": "de-p6-l11",
+      "title": "Wiederholung 3",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "d",
+          "name": "trace"
+        },
+        {
+          "glyph": "c",
+          "name": "trace"
+        },
+        {
+          "glyph": "I",
+          "name": "trace"
+        },
+        {
+          "glyph": "Ä",
+          "name": "trace"
+        },
+        {
+          "glyph": "A",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "d",
+            "c",
+            "I",
+            "Ä"
+          ],
+          "answer": "d"
+        }
+      ]
+    },
+    {
+      "id": "de-p6-l12",
+      "title": "Wiederholung 4",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "f",
+          "name": "trace"
+        },
+        {
+          "glyph": "x",
+          "name": "trace"
+        },
+        {
+          "glyph": "E",
+          "name": "trace"
+        },
+        {
+          "glyph": "2",
+          "name": "trace"
+        },
+        {
+          "glyph": "Ä",
+          "name": "trace"
+        },
+        {
+          "glyph": "q",
+          "name": "trace"
+        },
+        {
+          "glyph": "7",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "f",
+            "x",
+            "E",
+            "2"
+          ],
+          "answer": "f"
+        }
+      ]
+    },
+    {
+      "id": "de-p6-l13",
+      "title": "Wiederholung 5",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "M",
+          "name": "trace"
+        },
+        {
+          "glyph": "Sonne",
+          "name": "trace"
+        },
+        {
+          "glyph": "a",
+          "name": "trace"
+        },
+        {
+          "glyph": "Apfel",
+          "name": "trace"
+        },
+        {
+          "glyph": "2",
+          "name": "trace"
+        },
+        {
+          "glyph": "3",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "M",
+            "Sonne",
+            "a",
+            "Apfel"
+          ],
+          "answer": "M"
+        }
+      ]
+    },
+    {
+      "id": "de-p6-l14",
+      "title": "Wiederholung 6",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "l",
+          "name": "trace"
+        },
+        {
+          "glyph": "Papa",
+          "name": "trace"
+        },
+        {
+          "glyph": "Katze",
+          "name": "trace"
+        },
+        {
+          "glyph": "y",
+          "name": "trace"
+        },
+        {
+          "glyph": "S",
+          "name": "trace"
+        },
+        {
+          "glyph": "z",
+          "name": "trace"
+        },
+        {
+          "glyph": "Ü",
+          "name": "trace"
+        },
+        {
+          "glyph": "q",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "l",
+            "Papa",
+            "Katze",
+            "y"
+          ],
+          "answer": "l"
+        }
+      ]
+    },
+    {
+      "id": "de-p6-l15",
+      "title": "Wiederholung 7",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Buch",
+          "name": "trace"
+        },
+        {
+          "glyph": "s",
+          "name": "trace"
+        },
+        {
+          "glyph": "Baum",
+          "name": "trace"
+        },
+        {
+          "glyph": "o",
+          "name": "trace"
+        },
+        {
+          "glyph": "T",
+          "name": "trace"
+        },
+        {
+          "glyph": "A",
+          "name": "trace"
+        },
+        {
+          "glyph": "Q",
+          "name": "trace"
+        },
+        {
+          "glyph": "i",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "Buch",
+            "s",
+            "Baum",
+            "o"
+          ],
+          "answer": "Buch"
+        }
+      ]
+    },
+    {
+      "id": "de-p6-l16",
+      "title": "Wiederholung 8",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "j",
+          "name": "trace"
+        },
+        {
+          "glyph": "Sonne",
+          "name": "trace"
+        },
+        {
+          "glyph": "Ä",
+          "name": "trace"
+        },
+        {
+          "glyph": "I",
+          "name": "trace"
+        },
+        {
+          "glyph": "3",
+          "name": "trace"
+        },
+        {
+          "glyph": "Ö",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "j",
+            "Sonne",
+            "Ä",
+            "I"
+          ],
+          "answer": "j"
+        }
+      ]
+    },
+    {
+      "id": "de-p6-l17",
+      "title": "Wiederholung 9",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "5",
+          "name": "trace"
+        },
+        {
+          "glyph": "N",
+          "name": "trace"
+        },
+        {
+          "glyph": "R",
+          "name": "trace"
+        },
+        {
+          "glyph": "Y",
+          "name": "trace"
+        },
+        {
+          "glyph": "I",
+          "name": "trace"
+        },
+        {
+          "glyph": "Q",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "5",
+            "N",
+            "R",
+            "Y"
+          ],
+          "answer": "5"
+        }
+      ]
+    },
+    {
+      "id": "de-p6-l18",
+      "title": "Wiederholung 10",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Opa",
+          "name": "trace"
+        },
+        {
+          "glyph": "S",
+          "name": "trace"
+        },
+        {
+          "glyph": "A",
+          "name": "trace"
+        },
+        {
+          "glyph": "Schule",
+          "name": "trace"
+        },
+        {
+          "glyph": "b",
+          "name": "trace"
+        },
+        {
+          "glyph": "L",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "Opa",
+            "S",
+            "A",
+            "Schule"
+          ],
+          "answer": "Opa"
+        }
+      ]
+    },
+    {
+      "id": "de-p6-l19",
+      "title": "Wiederholung 11",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "k",
+          "name": "trace"
+        },
+        {
+          "glyph": "B",
+          "name": "trace"
+        },
+        {
+          "glyph": "L",
+          "name": "trace"
+        },
+        {
+          "glyph": "2",
+          "name": "trace"
+        },
+        {
+          "glyph": "ö",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "k",
+            "B",
+            "L",
+            "2"
+          ],
+          "answer": "k"
+        }
+      ]
+    },
+    {
+      "id": "de-p6-l20",
+      "title": "Wiederholung 12",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Hund",
+          "name": "trace"
+        },
+        {
+          "glyph": "y",
+          "name": "trace"
+        },
+        {
+          "glyph": "U",
+          "name": "trace"
+        },
+        {
+          "glyph": "Ä",
+          "name": "trace"
+        },
+        {
+          "glyph": "6",
+          "name": "trace"
+        },
+        {
+          "glyph": "v",
+          "name": "trace"
+        },
+        {
+          "glyph": "g",
+          "name": "trace"
+        },
+        {
+          "glyph": "D",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "Hund",
+            "y",
+            "U",
+            "Ä"
+          ],
+          "answer": "Hund"
+        }
+      ]
+    },
+    {
+      "id": "de-p6-l21",
+      "title": "Wiederholung 13",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "w",
+          "name": "trace"
+        },
+        {
+          "glyph": "n",
+          "name": "trace"
+        },
+        {
+          "glyph": "2",
+          "name": "trace"
+        },
+        {
+          "glyph": "L",
+          "name": "trace"
+        },
+        {
+          "glyph": "u",
+          "name": "trace"
+        },
+        {
+          "glyph": "W",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "w",
+            "n",
+            "2",
+            "L"
+          ],
+          "answer": "w"
+        }
+      ]
+    },
+    {
+      "id": "de-p6-l22",
+      "title": "Wiederholung 14",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "g",
+          "name": "trace"
+        },
+        {
+          "glyph": "x",
+          "name": "trace"
+        },
+        {
+          "glyph": "v",
+          "name": "trace"
+        },
+        {
+          "glyph": "d",
+          "name": "trace"
+        },
+        {
+          "glyph": "Hund",
+          "name": "trace"
+        },
+        {
+          "glyph": "i",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "g",
+            "x",
+            "v",
+            "d"
+          ],
+          "answer": "g"
+        }
+      ]
+    },
+    {
+      "id": "de-p6-l23",
+      "title": "Wiederholung 15",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "x",
+          "name": "trace"
+        },
+        {
+          "glyph": "R",
+          "name": "trace"
+        },
+        {
+          "glyph": "k",
+          "name": "trace"
+        },
+        {
+          "glyph": "T",
+          "name": "trace"
+        },
+        {
+          "glyph": "9",
+          "name": "trace"
+        },
+        {
+          "glyph": "E",
+          "name": "trace"
+        },
+        {
+          "glyph": "d",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "x",
+            "R",
+            "k",
+            "T"
+          ],
+          "answer": "x"
+        }
+      ]
+    },
+    {
+      "id": "de-p6-l24",
+      "title": "Wiederholung 16",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Katze",
+          "name": "trace"
+        },
+        {
+          "glyph": "L",
+          "name": "trace"
+        },
+        {
+          "glyph": "1",
+          "name": "trace"
+        },
+        {
+          "glyph": "u",
+          "name": "trace"
+        },
+        {
+          "glyph": "k",
+          "name": "trace"
+        },
+        {
+          "glyph": "6",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "Katze",
+            "L",
+            "1",
+            "u"
+          ],
+          "answer": "Katze"
+        }
+      ]
+    },
+    {
+      "id": "de-p6-l25",
+      "title": "Wiederholung 17",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "N",
+          "name": "trace"
+        },
+        {
+          "glyph": "m",
+          "name": "trace"
+        },
+        {
+          "glyph": "G",
+          "name": "trace"
+        },
+        {
+          "glyph": "6",
+          "name": "trace"
+        },
+        {
+          "glyph": "X",
+          "name": "trace"
+        },
+        {
+          "glyph": "s",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "N",
+            "m",
+            "G",
+            "6"
+          ],
+          "answer": "N"
+        }
+      ]
+    },
+    {
+      "id": "de-p6-l26",
+      "title": "Wiederholung 18",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Apfel",
+          "name": "trace"
+        },
+        {
+          "glyph": "w",
+          "name": "trace"
+        },
+        {
+          "glyph": "W",
+          "name": "trace"
+        },
+        {
+          "glyph": "I",
+          "name": "trace"
+        },
+        {
+          "glyph": "u",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "Apfel",
+            "w",
+            "W",
+            "I"
+          ],
+          "answer": "Apfel"
+        }
+      ]
+    },
+    {
+      "id": "de-p6-l27",
+      "title": "Wiederholung 19",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Z",
+          "name": "trace"
+        },
+        {
+          "glyph": "s",
+          "name": "trace"
+        },
+        {
+          "glyph": "Ö",
+          "name": "trace"
+        },
+        {
+          "glyph": "8",
+          "name": "trace"
+        },
+        {
+          "glyph": "Mama",
+          "name": "trace"
+        },
+        {
+          "glyph": "X",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "Z",
+            "s",
+            "Ö",
+            "8"
+          ],
+          "answer": "Z"
+        }
+      ]
+    },
+    {
+      "id": "de-p6-l28",
+      "title": "Wiederholung 20",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "d",
+          "name": "trace"
+        },
+        {
+          "glyph": "X",
+          "name": "trace"
+        },
+        {
+          "glyph": "W",
+          "name": "trace"
+        },
+        {
+          "glyph": "T",
+          "name": "trace"
+        },
+        {
+          "glyph": "9",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "d",
+            "X",
+            "W",
+            "T"
+          ],
+          "answer": "d"
+        }
+      ]
+    },
+    {
+      "id": "de-p6-l29",
+      "title": "Wiederholung 21",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "o",
+          "name": "trace"
+        },
+        {
+          "glyph": "V",
+          "name": "trace"
+        },
+        {
+          "glyph": "M",
+          "name": "trace"
+        },
+        {
+          "glyph": "q",
+          "name": "trace"
+        },
+        {
+          "glyph": "d",
+          "name": "trace"
+        },
+        {
+          "glyph": "Mama",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "o",
+            "V",
+            "M",
+            "q"
+          ],
+          "answer": "o"
+        }
+      ]
+    },
+    {
+      "id": "de-p6-l30",
+      "title": "Wiederholung 22",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Buch",
+          "name": "trace"
+        },
+        {
+          "glyph": "a",
+          "name": "trace"
+        },
+        {
+          "glyph": "ä",
+          "name": "trace"
+        },
+        {
+          "glyph": "6",
+          "name": "trace"
+        },
+        {
+          "glyph": "S",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "Buch",
+            "a",
+            "ä",
+            "6"
+          ],
+          "answer": "Buch"
+        }
+      ]
+    },
+    {
+      "id": "de-p6-l31",
+      "title": "Wiederholung 23",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "V",
+          "name": "trace"
+        },
+        {
+          "glyph": "d",
+          "name": "trace"
+        },
+        {
+          "glyph": "i",
+          "name": "trace"
+        },
+        {
+          "glyph": "ö",
+          "name": "trace"
+        },
+        {
+          "glyph": "9",
+          "name": "trace"
+        },
+        {
+          "glyph": "5",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "V",
+            "d",
+            "i",
+            "ö"
+          ],
+          "answer": "V"
+        }
+      ]
+    },
+    {
+      "id": "de-p6-l32",
+      "title": "Wiederholung 24",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "c",
+          "name": "trace"
+        },
+        {
+          "glyph": "7",
+          "name": "trace"
+        },
+        {
+          "glyph": "b",
+          "name": "trace"
+        },
+        {
+          "glyph": "Katze",
+          "name": "trace"
+        },
+        {
+          "glyph": "p",
+          "name": "trace"
+        },
+        {
+          "glyph": "P",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "c",
+            "7",
+            "b",
+            "Katze"
+          ],
+          "answer": "c"
+        }
+      ]
+    },
+    {
+      "id": "de-p6-l33",
+      "title": "Wiederholung 25",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Apfel",
+          "name": "trace"
+        },
+        {
+          "glyph": "v",
+          "name": "trace"
+        },
+        {
+          "glyph": "z",
+          "name": "trace"
+        },
+        {
+          "glyph": "Ü",
+          "name": "trace"
+        },
+        {
+          "glyph": "U",
+          "name": "trace"
+        },
+        {
+          "glyph": "m",
+          "name": "trace"
+        },
+        {
+          "glyph": "Baum",
+          "name": "trace"
+        },
+        {
+          "glyph": "ö",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "Apfel",
+            "v",
+            "z",
+            "Ü"
+          ],
+          "answer": "Apfel"
+        }
+      ]
+    },
+    {
+      "id": "de-p6-l34",
+      "title": "Wiederholung 26",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "9",
+          "name": "trace"
+        },
+        {
+          "glyph": "e",
+          "name": "trace"
+        },
+        {
+          "glyph": "Hund",
+          "name": "trace"
+        },
+        {
+          "glyph": "ü",
+          "name": "trace"
+        },
+        {
+          "glyph": "z",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "9",
+            "e",
+            "Hund",
+            "ü"
+          ],
+          "answer": "9"
+        }
+      ]
+    },
+    {
+      "id": "de-p6-l35",
+      "title": "Wiederholung 27",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "X",
+          "name": "trace"
+        },
+        {
+          "glyph": "t",
+          "name": "trace"
+        },
+        {
+          "glyph": "Opa",
+          "name": "trace"
+        },
+        {
+          "glyph": "Mama",
+          "name": "trace"
+        },
+        {
+          "glyph": "s",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "X",
+            "t",
+            "Opa",
+            "Mama"
+          ],
+          "answer": "X"
+        }
+      ]
+    },
+    {
+      "id": "de-p6-l36",
+      "title": "Wiederholung 28",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "X",
+          "name": "trace"
+        },
+        {
+          "glyph": "9",
+          "name": "trace"
+        },
+        {
+          "glyph": "W",
+          "name": "trace"
+        },
+        {
+          "glyph": "s",
+          "name": "trace"
+        },
+        {
+          "glyph": "I",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "X",
+            "9",
+            "W",
+            "s"
+          ],
+          "answer": "X"
+        }
+      ]
+    },
+    {
+      "id": "de-p6-l37",
+      "title": "Wiederholung 29",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "H",
+          "name": "trace"
+        },
+        {
+          "glyph": "e",
+          "name": "trace"
+        },
+        {
+          "glyph": "ö",
+          "name": "trace"
+        },
+        {
+          "glyph": "Oma",
+          "name": "trace"
+        },
+        {
+          "glyph": "v",
+          "name": "trace"
+        },
+        {
+          "glyph": "3",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "H",
+            "e",
+            "ö",
+            "Oma"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "de-p6-l38",
+      "title": "Wiederholung 30",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "O",
+          "name": "trace"
+        },
+        {
+          "glyph": "Ö",
+          "name": "trace"
+        },
+        {
+          "glyph": "y",
+          "name": "trace"
+        },
+        {
+          "glyph": "d",
+          "name": "trace"
+        },
+        {
+          "glyph": "R",
+          "name": "trace"
+        },
+        {
+          "glyph": "Mama",
+          "name": "trace"
+        },
+        {
+          "glyph": "7",
+          "name": "trace"
+        },
+        {
+          "glyph": "2",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "O",
+            "Ö",
+            "y",
+            "d"
+          ],
+          "answer": "O"
+        }
+      ]
+    },
+    {
+      "id": "de-p6-l39",
+      "title": "Wiederholung 31",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Q",
+          "name": "trace"
+        },
+        {
+          "glyph": "T",
+          "name": "trace"
+        },
+        {
+          "glyph": "D",
+          "name": "trace"
+        },
+        {
+          "glyph": "M",
+          "name": "trace"
+        },
+        {
+          "glyph": "R",
+          "name": "trace"
+        },
+        {
+          "glyph": "i",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "Q",
+            "T",
+            "D",
+            "M"
+          ],
+          "answer": "Q"
+        }
+      ]
+    },
+    {
+      "id": "de-p6-l40",
+      "title": "Wiederholung 32",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "G",
+          "name": "trace"
+        },
+        {
+          "glyph": "6",
+          "name": "trace"
+        },
+        {
+          "glyph": "Y",
+          "name": "trace"
+        },
+        {
+          "glyph": "W",
+          "name": "trace"
+        },
+        {
+          "glyph": "E",
+          "name": "trace"
+        },
+        {
+          "glyph": "F",
+          "name": "trace"
+        },
+        {
+          "glyph": "Hund",
+          "name": "trace"
+        },
+        {
+          "glyph": "Apfel",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "G",
+            "6",
+            "Y",
+            "W"
+          ],
+          "answer": "G"
+        }
+      ]
     }
   ]
 }

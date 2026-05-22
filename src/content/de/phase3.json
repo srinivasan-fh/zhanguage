@@ -286,6 +286,2054 @@
           "answer": "See"
         }
       ]
+    },
+    {
+      "id": "de-p3-l5",
+      "title": "Wiederholung 1",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Esel",
+          "name": "esel",
+          "exampleWord": "donkey"
+        },
+        {
+          "glyph": "Sonne",
+          "name": "sonne",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "Tee",
+          "name": "tee",
+          "exampleWord": "tea"
+        },
+        {
+          "glyph": "Mond",
+          "name": "mond",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "Käse",
+          "name": "käse",
+          "exampleWord": "cheese"
+        },
+        {
+          "glyph": "Reh",
+          "name": "reh",
+          "exampleWord": "deer"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'eel'?",
+          "options": [
+            "Aal",
+            "Bär",
+            "Kuh",
+            "Esel"
+          ],
+          "answer": "Aal"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l6",
+      "title": "Wiederholung 2",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Reis",
+          "name": "reis",
+          "exampleWord": "rice"
+        },
+        {
+          "glyph": "Mond",
+          "name": "mond",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "Stern",
+          "name": "stern",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "Igel",
+          "name": "igel",
+          "exampleWord": "hedgehog"
+        },
+        {
+          "glyph": "Aug",
+          "name": "aug",
+          "exampleWord": "eye (short)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'ear'?",
+          "options": [
+            "Ohr",
+            "Aug",
+            "Arm",
+            "Bein"
+          ],
+          "answer": "Ohr"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l7",
+      "title": "Wiederholung 3",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Aug",
+          "name": "aug",
+          "exampleWord": "eye (short)"
+        },
+        {
+          "glyph": "Stern",
+          "name": "stern",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "Reh",
+          "name": "reh",
+          "exampleWord": "deer"
+        },
+        {
+          "glyph": "Tee",
+          "name": "tee",
+          "exampleWord": "tea"
+        },
+        {
+          "glyph": "Kuh",
+          "name": "kuh",
+          "exampleWord": "cow"
+        },
+        {
+          "glyph": "Nase",
+          "name": "nase",
+          "exampleWord": "nose"
+        },
+        {
+          "glyph": "Tag",
+          "name": "tag",
+          "exampleWord": "day"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'egg'?",
+          "options": [
+            "Ei",
+            "Tee",
+            "Saft",
+            "Brot"
+          ],
+          "answer": "Ei"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l8",
+      "title": "Wiederholung 4",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Igel",
+          "name": "igel",
+          "exampleWord": "hedgehog"
+        },
+        {
+          "glyph": "Sonne",
+          "name": "sonne",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "Uhu",
+          "name": "uhu",
+          "exampleWord": "owl"
+        },
+        {
+          "glyph": "Kopf",
+          "name": "kopf",
+          "exampleWord": "head"
+        },
+        {
+          "glyph": "Hund",
+          "name": "hund",
+          "exampleWord": "dog"
+        },
+        {
+          "glyph": "Nase",
+          "name": "nase",
+          "exampleWord": "nose"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'ear'?",
+          "options": [
+            "Ohr",
+            "Aug",
+            "Arm",
+            "Bein"
+          ],
+          "answer": "Ohr"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l9",
+      "title": "Wiederholung 5",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ei",
+          "name": "ei",
+          "exampleWord": "egg"
+        },
+        {
+          "glyph": "Suppe",
+          "name": "suppe",
+          "exampleWord": "soup"
+        },
+        {
+          "glyph": "Aug",
+          "name": "aug",
+          "exampleWord": "eye (short)"
+        },
+        {
+          "glyph": "Bär",
+          "name": "bär",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "Kuh",
+          "name": "kuh",
+          "exampleWord": "cow"
+        },
+        {
+          "glyph": "Aal",
+          "name": "aal",
+          "exampleWord": "eel"
+        },
+        {
+          "glyph": "Baum",
+          "name": "baum",
+          "exampleWord": "tree"
+        },
+        {
+          "glyph": "Sonne",
+          "name": "sonne",
+          "exampleWord": "sun"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'eel'?",
+          "options": [
+            "Aal",
+            "Bär",
+            "Kuh",
+            "Esel"
+          ],
+          "answer": "Aal"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l10",
+      "title": "Wiederholung 6",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ei",
+          "name": "ei",
+          "exampleWord": "egg"
+        },
+        {
+          "glyph": "Wolke",
+          "name": "wolke",
+          "exampleWord": "cloud"
+        },
+        {
+          "glyph": "Igel",
+          "name": "igel",
+          "exampleWord": "hedgehog"
+        },
+        {
+          "glyph": "Regen",
+          "name": "regen",
+          "exampleWord": "rain"
+        },
+        {
+          "glyph": "Saft",
+          "name": "saft",
+          "exampleWord": "juice"
+        },
+        {
+          "glyph": "See",
+          "name": "see",
+          "exampleWord": "lake"
+        },
+        {
+          "glyph": "Kuh",
+          "name": "kuh",
+          "exampleWord": "cow"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'ear'?",
+          "options": [
+            "Ohr",
+            "Aug",
+            "Arm",
+            "Bein"
+          ],
+          "answer": "Ohr"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'eel'?",
+          "options": [
+            "Aal",
+            "Bär",
+            "Kuh",
+            "Esel"
+          ],
+          "answer": "Aal"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l11",
+      "title": "Wiederholung 7",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Uhu",
+          "name": "uhu",
+          "exampleWord": "owl"
+        },
+        {
+          "glyph": "Arm",
+          "name": "arm",
+          "exampleWord": "arm"
+        },
+        {
+          "glyph": "Ohr",
+          "name": "ohr",
+          "exampleWord": "ear"
+        },
+        {
+          "glyph": "Fuß",
+          "name": "fuß",
+          "exampleWord": "foot"
+        },
+        {
+          "glyph": "Maus",
+          "name": "maus",
+          "exampleWord": "mouse"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'ear'?",
+          "options": [
+            "Ohr",
+            "Aug",
+            "Arm",
+            "Bein"
+          ],
+          "answer": "Ohr"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'egg'?",
+          "options": [
+            "Ei",
+            "Tee",
+            "Saft",
+            "Brot"
+          ],
+          "answer": "Ei"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l12",
+      "title": "Wiederholung 8",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Igel",
+          "name": "igel",
+          "exampleWord": "hedgehog"
+        },
+        {
+          "glyph": "Mond",
+          "name": "mond",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "Uhu",
+          "name": "uhu",
+          "exampleWord": "owl"
+        },
+        {
+          "glyph": "Baum",
+          "name": "baum",
+          "exampleWord": "tree"
+        },
+        {
+          "glyph": "Regen",
+          "name": "regen",
+          "exampleWord": "rain"
+        },
+        {
+          "glyph": "See",
+          "name": "see",
+          "exampleWord": "lake"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'lake'?",
+          "options": [
+            "See",
+            "Tag",
+            "Eis",
+            "Sonne"
+          ],
+          "answer": "See"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'ear'?",
+          "options": [
+            "Ohr",
+            "Aug",
+            "Arm",
+            "Bein"
+          ],
+          "answer": "Ohr"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l13",
+      "title": "Wiederholung 9",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Uhu",
+          "name": "uhu",
+          "exampleWord": "owl"
+        },
+        {
+          "glyph": "Tee",
+          "name": "tee",
+          "exampleWord": "tea"
+        },
+        {
+          "glyph": "Obst",
+          "name": "obst",
+          "exampleWord": "fruit"
+        },
+        {
+          "glyph": "Eis",
+          "name": "eis",
+          "exampleWord": "ice"
+        },
+        {
+          "glyph": "Wind",
+          "name": "wind",
+          "exampleWord": "wind"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'ear'?",
+          "options": [
+            "Ohr",
+            "Aug",
+            "Arm",
+            "Bein"
+          ],
+          "answer": "Ohr"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l14",
+      "title": "Wiederholung 10",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "See",
+          "name": "see",
+          "exampleWord": "lake"
+        },
+        {
+          "glyph": "Kuh",
+          "name": "kuh",
+          "exampleWord": "cow"
+        },
+        {
+          "glyph": "Eis",
+          "name": "eis",
+          "exampleWord": "ice"
+        },
+        {
+          "glyph": "Nase",
+          "name": "nase",
+          "exampleWord": "nose"
+        },
+        {
+          "glyph": "Haar",
+          "name": "haar",
+          "exampleWord": "hair"
+        },
+        {
+          "glyph": "Bär",
+          "name": "bär",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "Regen",
+          "name": "regen",
+          "exampleWord": "rain"
+        },
+        {
+          "glyph": "Esel",
+          "name": "esel",
+          "exampleWord": "donkey"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'ear'?",
+          "options": [
+            "Ohr",
+            "Aug",
+            "Arm",
+            "Bein"
+          ],
+          "answer": "Ohr"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l15",
+      "title": "Wiederholung 11",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Fuß",
+          "name": "fuß",
+          "exampleWord": "foot"
+        },
+        {
+          "glyph": "Arm",
+          "name": "arm",
+          "exampleWord": "arm"
+        },
+        {
+          "glyph": "Aug",
+          "name": "aug",
+          "exampleWord": "eye (short)"
+        },
+        {
+          "glyph": "Igel",
+          "name": "igel",
+          "exampleWord": "hedgehog"
+        },
+        {
+          "glyph": "Bein",
+          "name": "bein",
+          "exampleWord": "leg"
+        },
+        {
+          "glyph": "Sonne",
+          "name": "sonne",
+          "exampleWord": "sun"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'egg'?",
+          "options": [
+            "Ei",
+            "Tee",
+            "Saft",
+            "Brot"
+          ],
+          "answer": "Ei"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'lake'?",
+          "options": [
+            "See",
+            "Tag",
+            "Eis",
+            "Sonne"
+          ],
+          "answer": "See"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l16",
+      "title": "Wiederholung 12",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Baum",
+          "name": "baum",
+          "exampleWord": "tree"
+        },
+        {
+          "glyph": "Maus",
+          "name": "maus",
+          "exampleWord": "mouse"
+        },
+        {
+          "glyph": "Reis",
+          "name": "reis",
+          "exampleWord": "rice"
+        },
+        {
+          "glyph": "Mund",
+          "name": "mund",
+          "exampleWord": "mouth"
+        },
+        {
+          "glyph": "Uhu",
+          "name": "uhu",
+          "exampleWord": "owl"
+        },
+        {
+          "glyph": "Suppe",
+          "name": "suppe",
+          "exampleWord": "soup"
+        },
+        {
+          "glyph": "Eis",
+          "name": "eis",
+          "exampleWord": "ice"
+        },
+        {
+          "glyph": "Käse",
+          "name": "käse",
+          "exampleWord": "cheese"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'ear'?",
+          "options": [
+            "Ohr",
+            "Aug",
+            "Arm",
+            "Bein"
+          ],
+          "answer": "Ohr"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'lake'?",
+          "options": [
+            "See",
+            "Tag",
+            "Eis",
+            "Sonne"
+          ],
+          "answer": "See"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l17",
+      "title": "Wiederholung 13",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Bein",
+          "name": "bein",
+          "exampleWord": "leg"
+        },
+        {
+          "glyph": "Apfel",
+          "name": "apfel",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "Ei",
+          "name": "ei",
+          "exampleWord": "egg"
+        },
+        {
+          "glyph": "Baum",
+          "name": "baum",
+          "exampleWord": "tree"
+        },
+        {
+          "glyph": "Fuß",
+          "name": "fuß",
+          "exampleWord": "foot"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'eel'?",
+          "options": [
+            "Aal",
+            "Bär",
+            "Kuh",
+            "Esel"
+          ],
+          "answer": "Aal"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l18",
+      "title": "Wiederholung 14",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Esel",
+          "name": "esel",
+          "exampleWord": "donkey"
+        },
+        {
+          "glyph": "Mund",
+          "name": "mund",
+          "exampleWord": "mouth"
+        },
+        {
+          "glyph": "Brot",
+          "name": "brot",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "Reis",
+          "name": "reis",
+          "exampleWord": "rice"
+        },
+        {
+          "glyph": "Regen",
+          "name": "regen",
+          "exampleWord": "rain"
+        },
+        {
+          "glyph": "Haar",
+          "name": "haar",
+          "exampleWord": "hair"
+        },
+        {
+          "glyph": "Arm",
+          "name": "arm",
+          "exampleWord": "arm"
+        },
+        {
+          "glyph": "Bär",
+          "name": "bär",
+          "exampleWord": "bear"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'egg'?",
+          "options": [
+            "Ei",
+            "Tee",
+            "Saft",
+            "Brot"
+          ],
+          "answer": "Ei"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l19",
+      "title": "Wiederholung 15",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Esel",
+          "name": "esel",
+          "exampleWord": "donkey"
+        },
+        {
+          "glyph": "Suppe",
+          "name": "suppe",
+          "exampleWord": "soup"
+        },
+        {
+          "glyph": "Maus",
+          "name": "maus",
+          "exampleWord": "mouse"
+        },
+        {
+          "glyph": "Hand",
+          "name": "hand",
+          "exampleWord": "hand"
+        },
+        {
+          "glyph": "Salz",
+          "name": "salz",
+          "exampleWord": "salt"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'eel'?",
+          "options": [
+            "Aal",
+            "Bär",
+            "Kuh",
+            "Esel"
+          ],
+          "answer": "Aal"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l20",
+      "title": "Wiederholung 16",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Salz",
+          "name": "salz",
+          "exampleWord": "salt"
+        },
+        {
+          "glyph": "Tee",
+          "name": "tee",
+          "exampleWord": "tea"
+        },
+        {
+          "glyph": "Stern",
+          "name": "stern",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "See",
+          "name": "see",
+          "exampleWord": "lake"
+        },
+        {
+          "glyph": "Tag",
+          "name": "tag",
+          "exampleWord": "day"
+        },
+        {
+          "glyph": "Reis",
+          "name": "reis",
+          "exampleWord": "rice"
+        },
+        {
+          "glyph": "Sonne",
+          "name": "sonne",
+          "exampleWord": "sun"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'lake'?",
+          "options": [
+            "See",
+            "Tag",
+            "Eis",
+            "Sonne"
+          ],
+          "answer": "See"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l21",
+      "title": "Wiederholung 17",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Sonne",
+          "name": "sonne",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "Hund",
+          "name": "hund",
+          "exampleWord": "dog"
+        },
+        {
+          "glyph": "Hand",
+          "name": "hand",
+          "exampleWord": "hand"
+        },
+        {
+          "glyph": "Suppe",
+          "name": "suppe",
+          "exampleWord": "soup"
+        },
+        {
+          "glyph": "Reis",
+          "name": "reis",
+          "exampleWord": "rice"
+        },
+        {
+          "glyph": "Uhu",
+          "name": "uhu",
+          "exampleWord": "owl"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'egg'?",
+          "options": [
+            "Ei",
+            "Tee",
+            "Saft",
+            "Brot"
+          ],
+          "answer": "Ei"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l22",
+      "title": "Wiederholung 18",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Wind",
+          "name": "wind",
+          "exampleWord": "wind"
+        },
+        {
+          "glyph": "Obst",
+          "name": "obst",
+          "exampleWord": "fruit"
+        },
+        {
+          "glyph": "Ei",
+          "name": "ei",
+          "exampleWord": "egg"
+        },
+        {
+          "glyph": "Sonne",
+          "name": "sonne",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "Apfel",
+          "name": "apfel",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "Mund",
+          "name": "mund",
+          "exampleWord": "mouth"
+        },
+        {
+          "glyph": "Stern",
+          "name": "stern",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "Wolke",
+          "name": "wolke",
+          "exampleWord": "cloud"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'egg'?",
+          "options": [
+            "Ei",
+            "Tee",
+            "Saft",
+            "Brot"
+          ],
+          "answer": "Ei"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l23",
+      "title": "Wiederholung 19",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Reh",
+          "name": "reh",
+          "exampleWord": "deer"
+        },
+        {
+          "glyph": "Bein",
+          "name": "bein",
+          "exampleWord": "leg"
+        },
+        {
+          "glyph": "Sonne",
+          "name": "sonne",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "Nase",
+          "name": "nase",
+          "exampleWord": "nose"
+        },
+        {
+          "glyph": "Brot",
+          "name": "brot",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "Kuh",
+          "name": "kuh",
+          "exampleWord": "cow"
+        },
+        {
+          "glyph": "Apfel",
+          "name": "apfel",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "Salz",
+          "name": "salz",
+          "exampleWord": "salt"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'lake'?",
+          "options": [
+            "See",
+            "Tag",
+            "Eis",
+            "Sonne"
+          ],
+          "answer": "See"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l24",
+      "title": "Wiederholung 20",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Fuß",
+          "name": "fuß",
+          "exampleWord": "foot"
+        },
+        {
+          "glyph": "Obst",
+          "name": "obst",
+          "exampleWord": "fruit"
+        },
+        {
+          "glyph": "Ei",
+          "name": "ei",
+          "exampleWord": "egg"
+        },
+        {
+          "glyph": "Arm",
+          "name": "arm",
+          "exampleWord": "arm"
+        },
+        {
+          "glyph": "Bein",
+          "name": "bein",
+          "exampleWord": "leg"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'eel'?",
+          "options": [
+            "Aal",
+            "Bär",
+            "Kuh",
+            "Esel"
+          ],
+          "answer": "Aal"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'lake'?",
+          "options": [
+            "See",
+            "Tag",
+            "Eis",
+            "Sonne"
+          ],
+          "answer": "See"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l25",
+      "title": "Wiederholung 21",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Käse",
+          "name": "käse",
+          "exampleWord": "cheese"
+        },
+        {
+          "glyph": "Bein",
+          "name": "bein",
+          "exampleWord": "leg"
+        },
+        {
+          "glyph": "Aug",
+          "name": "aug",
+          "exampleWord": "eye (short)"
+        },
+        {
+          "glyph": "Mond",
+          "name": "mond",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "Tee",
+          "name": "tee",
+          "exampleWord": "tea"
+        },
+        {
+          "glyph": "Obst",
+          "name": "obst",
+          "exampleWord": "fruit"
+        },
+        {
+          "glyph": "Saft",
+          "name": "saft",
+          "exampleWord": "juice"
+        },
+        {
+          "glyph": "Bär",
+          "name": "bär",
+          "exampleWord": "bear"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'lake'?",
+          "options": [
+            "See",
+            "Tag",
+            "Eis",
+            "Sonne"
+          ],
+          "answer": "See"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l26",
+      "title": "Wiederholung 22",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Apfel",
+          "name": "apfel",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "Mund",
+          "name": "mund",
+          "exampleWord": "mouth"
+        },
+        {
+          "glyph": "Suppe",
+          "name": "suppe",
+          "exampleWord": "soup"
+        },
+        {
+          "glyph": "Obst",
+          "name": "obst",
+          "exampleWord": "fruit"
+        },
+        {
+          "glyph": "Eis",
+          "name": "eis",
+          "exampleWord": "ice"
+        },
+        {
+          "glyph": "Sonne",
+          "name": "sonne",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "Stern",
+          "name": "stern",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "Bär",
+          "name": "bär",
+          "exampleWord": "bear"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'eel'?",
+          "options": [
+            "Aal",
+            "Bär",
+            "Kuh",
+            "Esel"
+          ],
+          "answer": "Aal"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l27",
+      "title": "Wiederholung 23",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Reis",
+          "name": "reis",
+          "exampleWord": "rice"
+        },
+        {
+          "glyph": "Stern",
+          "name": "stern",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "Eis",
+          "name": "eis",
+          "exampleWord": "ice"
+        },
+        {
+          "glyph": "Sonne",
+          "name": "sonne",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "Tee",
+          "name": "tee",
+          "exampleWord": "tea"
+        },
+        {
+          "glyph": "Suppe",
+          "name": "suppe",
+          "exampleWord": "soup"
+        },
+        {
+          "glyph": "Aug",
+          "name": "aug",
+          "exampleWord": "eye (short)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'lake'?",
+          "options": [
+            "See",
+            "Tag",
+            "Eis",
+            "Sonne"
+          ],
+          "answer": "See"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l28",
+      "title": "Wiederholung 24",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Aug",
+          "name": "aug",
+          "exampleWord": "eye (short)"
+        },
+        {
+          "glyph": "Kuh",
+          "name": "kuh",
+          "exampleWord": "cow"
+        },
+        {
+          "glyph": "Obst",
+          "name": "obst",
+          "exampleWord": "fruit"
+        },
+        {
+          "glyph": "Esel",
+          "name": "esel",
+          "exampleWord": "donkey"
+        },
+        {
+          "glyph": "Reis",
+          "name": "reis",
+          "exampleWord": "rice"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'egg'?",
+          "options": [
+            "Ei",
+            "Tee",
+            "Saft",
+            "Brot"
+          ],
+          "answer": "Ei"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l29",
+      "title": "Wiederholung 25",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Arm",
+          "name": "arm",
+          "exampleWord": "arm"
+        },
+        {
+          "glyph": "Saft",
+          "name": "saft",
+          "exampleWord": "juice"
+        },
+        {
+          "glyph": "Sonne",
+          "name": "sonne",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "Salz",
+          "name": "salz",
+          "exampleWord": "salt"
+        },
+        {
+          "glyph": "Ohr",
+          "name": "ohr",
+          "exampleWord": "ear"
+        },
+        {
+          "glyph": "Maus",
+          "name": "maus",
+          "exampleWord": "mouse"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'egg'?",
+          "options": [
+            "Ei",
+            "Tee",
+            "Saft",
+            "Brot"
+          ],
+          "answer": "Ei"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'eel'?",
+          "options": [
+            "Aal",
+            "Bär",
+            "Kuh",
+            "Esel"
+          ],
+          "answer": "Aal"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l30",
+      "title": "Wiederholung 26",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Igel",
+          "name": "igel",
+          "exampleWord": "hedgehog"
+        },
+        {
+          "glyph": "Kuh",
+          "name": "kuh",
+          "exampleWord": "cow"
+        },
+        {
+          "glyph": "Regen",
+          "name": "regen",
+          "exampleWord": "rain"
+        },
+        {
+          "glyph": "Haar",
+          "name": "haar",
+          "exampleWord": "hair"
+        },
+        {
+          "glyph": "Sonne",
+          "name": "sonne",
+          "exampleWord": "sun"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'eel'?",
+          "options": [
+            "Aal",
+            "Bär",
+            "Kuh",
+            "Esel"
+          ],
+          "answer": "Aal"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'ear'?",
+          "options": [
+            "Ohr",
+            "Aug",
+            "Arm",
+            "Bein"
+          ],
+          "answer": "Ohr"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l31",
+      "title": "Wiederholung 27",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Regen",
+          "name": "regen",
+          "exampleWord": "rain"
+        },
+        {
+          "glyph": "Saft",
+          "name": "saft",
+          "exampleWord": "juice"
+        },
+        {
+          "glyph": "Reis",
+          "name": "reis",
+          "exampleWord": "rice"
+        },
+        {
+          "glyph": "Wolke",
+          "name": "wolke",
+          "exampleWord": "cloud"
+        },
+        {
+          "glyph": "Igel",
+          "name": "igel",
+          "exampleWord": "hedgehog"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'lake'?",
+          "options": [
+            "See",
+            "Tag",
+            "Eis",
+            "Sonne"
+          ],
+          "answer": "See"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l32",
+      "title": "Wiederholung 28",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Reh",
+          "name": "reh",
+          "exampleWord": "deer"
+        },
+        {
+          "glyph": "Hand",
+          "name": "hand",
+          "exampleWord": "hand"
+        },
+        {
+          "glyph": "Ohr",
+          "name": "ohr",
+          "exampleWord": "ear"
+        },
+        {
+          "glyph": "Käse",
+          "name": "käse",
+          "exampleWord": "cheese"
+        },
+        {
+          "glyph": "Kuh",
+          "name": "kuh",
+          "exampleWord": "cow"
+        },
+        {
+          "glyph": "Mund",
+          "name": "mund",
+          "exampleWord": "mouth"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'eel'?",
+          "options": [
+            "Aal",
+            "Bär",
+            "Kuh",
+            "Esel"
+          ],
+          "answer": "Aal"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l33",
+      "title": "Wiederholung 29",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Wind",
+          "name": "wind",
+          "exampleWord": "wind"
+        },
+        {
+          "glyph": "Eis",
+          "name": "eis",
+          "exampleWord": "ice"
+        },
+        {
+          "glyph": "Tag",
+          "name": "tag",
+          "exampleWord": "day"
+        },
+        {
+          "glyph": "Ohr",
+          "name": "ohr",
+          "exampleWord": "ear"
+        },
+        {
+          "glyph": "Fuß",
+          "name": "fuß",
+          "exampleWord": "foot"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'lake'?",
+          "options": [
+            "See",
+            "Tag",
+            "Eis",
+            "Sonne"
+          ],
+          "answer": "See"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l34",
+      "title": "Wiederholung 30",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Stern",
+          "name": "stern",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "Sonne",
+          "name": "sonne",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "Aal",
+          "name": "aal",
+          "exampleWord": "eel"
+        },
+        {
+          "glyph": "Wolke",
+          "name": "wolke",
+          "exampleWord": "cloud"
+        },
+        {
+          "glyph": "Tee",
+          "name": "tee",
+          "exampleWord": "tea"
+        },
+        {
+          "glyph": "Brot",
+          "name": "brot",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "Bär",
+          "name": "bär",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "Regen",
+          "name": "regen",
+          "exampleWord": "rain"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'ear'?",
+          "options": [
+            "Ohr",
+            "Aug",
+            "Arm",
+            "Bein"
+          ],
+          "answer": "Ohr"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l35",
+      "title": "Wiederholung 31",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Maus",
+          "name": "maus",
+          "exampleWord": "mouse"
+        },
+        {
+          "glyph": "Stern",
+          "name": "stern",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "Reh",
+          "name": "reh",
+          "exampleWord": "deer"
+        },
+        {
+          "glyph": "Sonne",
+          "name": "sonne",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "Aal",
+          "name": "aal",
+          "exampleWord": "eel"
+        },
+        {
+          "glyph": "Reis",
+          "name": "reis",
+          "exampleWord": "rice"
+        },
+        {
+          "glyph": "Fuß",
+          "name": "fuß",
+          "exampleWord": "foot"
+        },
+        {
+          "glyph": "Aug",
+          "name": "aug",
+          "exampleWord": "eye (short)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'lake'?",
+          "options": [
+            "See",
+            "Tag",
+            "Eis",
+            "Sonne"
+          ],
+          "answer": "See"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'egg'?",
+          "options": [
+            "Ei",
+            "Tee",
+            "Saft",
+            "Brot"
+          ],
+          "answer": "Ei"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l36",
+      "title": "Wiederholung 32",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Regen",
+          "name": "regen",
+          "exampleWord": "rain"
+        },
+        {
+          "glyph": "Maus",
+          "name": "maus",
+          "exampleWord": "mouse"
+        },
+        {
+          "glyph": "Mund",
+          "name": "mund",
+          "exampleWord": "mouth"
+        },
+        {
+          "glyph": "Aal",
+          "name": "aal",
+          "exampleWord": "eel"
+        },
+        {
+          "glyph": "Brot",
+          "name": "brot",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "Hand",
+          "name": "hand",
+          "exampleWord": "hand"
+        },
+        {
+          "glyph": "Bein",
+          "name": "bein",
+          "exampleWord": "leg"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'egg'?",
+          "options": [
+            "Ei",
+            "Tee",
+            "Saft",
+            "Brot"
+          ],
+          "answer": "Ei"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'eel'?",
+          "options": [
+            "Aal",
+            "Bär",
+            "Kuh",
+            "Esel"
+          ],
+          "answer": "Aal"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l37",
+      "title": "Wiederholung 33",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Apfel",
+          "name": "apfel",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "Regen",
+          "name": "regen",
+          "exampleWord": "rain"
+        },
+        {
+          "glyph": "Hund",
+          "name": "hund",
+          "exampleWord": "dog"
+        },
+        {
+          "glyph": "Maus",
+          "name": "maus",
+          "exampleWord": "mouse"
+        },
+        {
+          "glyph": "Sonne",
+          "name": "sonne",
+          "exampleWord": "sun"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'eel'?",
+          "options": [
+            "Aal",
+            "Bär",
+            "Kuh",
+            "Esel"
+          ],
+          "answer": "Aal"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'ear'?",
+          "options": [
+            "Ohr",
+            "Aug",
+            "Arm",
+            "Bein"
+          ],
+          "answer": "Ohr"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l38",
+      "title": "Wiederholung 34",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Käse",
+          "name": "käse",
+          "exampleWord": "cheese"
+        },
+        {
+          "glyph": "Wind",
+          "name": "wind",
+          "exampleWord": "wind"
+        },
+        {
+          "glyph": "Hand",
+          "name": "hand",
+          "exampleWord": "hand"
+        },
+        {
+          "glyph": "Sonne",
+          "name": "sonne",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "See",
+          "name": "see",
+          "exampleWord": "lake"
+        },
+        {
+          "glyph": "Aug",
+          "name": "aug",
+          "exampleWord": "eye (short)"
+        },
+        {
+          "glyph": "Bär",
+          "name": "bär",
+          "exampleWord": "bear"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'lake'?",
+          "options": [
+            "See",
+            "Tag",
+            "Eis",
+            "Sonne"
+          ],
+          "answer": "See"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l39",
+      "title": "Wiederholung 35",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ei",
+          "name": "ei",
+          "exampleWord": "egg"
+        },
+        {
+          "glyph": "Wind",
+          "name": "wind",
+          "exampleWord": "wind"
+        },
+        {
+          "glyph": "Brot",
+          "name": "brot",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "Eis",
+          "name": "eis",
+          "exampleWord": "ice"
+        },
+        {
+          "glyph": "Uhu",
+          "name": "uhu",
+          "exampleWord": "owl"
+        },
+        {
+          "glyph": "Hund",
+          "name": "hund",
+          "exampleWord": "dog"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'lake'?",
+          "options": [
+            "See",
+            "Tag",
+            "Eis",
+            "Sonne"
+          ],
+          "answer": "See"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l40",
+      "title": "Wiederholung 36",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Aug",
+          "name": "aug",
+          "exampleWord": "eye (short)"
+        },
+        {
+          "glyph": "Wind",
+          "name": "wind",
+          "exampleWord": "wind"
+        },
+        {
+          "glyph": "Mund",
+          "name": "mund",
+          "exampleWord": "mouth"
+        },
+        {
+          "glyph": "Hund",
+          "name": "hund",
+          "exampleWord": "dog"
+        },
+        {
+          "glyph": "Igel",
+          "name": "igel",
+          "exampleWord": "hedgehog"
+        },
+        {
+          "glyph": "Salz",
+          "name": "salz",
+          "exampleWord": "salt"
+        },
+        {
+          "glyph": "Kuh",
+          "name": "kuh",
+          "exampleWord": "cow"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'egg'?",
+          "options": [
+            "Ei",
+            "Tee",
+            "Saft",
+            "Brot"
+          ],
+          "answer": "Ei"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'ear'?",
+          "options": [
+            "Ohr",
+            "Aug",
+            "Arm",
+            "Bein"
+          ],
+          "answer": "Ohr"
+        }
+      ]
     }
   ]
 }

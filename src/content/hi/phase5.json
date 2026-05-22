@@ -175,6 +175,1902 @@
           "answer": "कौन"
         }
       ]
+    },
+    {
+      "id": "hi-p5-l5",
+      "title": "समीक्षा 1",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "वह गाती है",
+          "name": "S V"
+        },
+        {
+          "glyph": "हम गीत गाते हैं",
+          "name": "S O V"
+        },
+        {
+          "glyph": "किताब → किताबें",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "कैसे",
+          "name": "how"
+        },
+        {
+          "glyph": "कौन",
+          "name": "who"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ गाती है.",
+          "options": [
+            "वह",
+            "मैं",
+            "हम",
+            "तुम"
+          ],
+          "answer": "वह"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "तुम ___ हो?",
+          "options": [
+            "कौन",
+            "कहाँ",
+            "क्या",
+            "कब"
+          ],
+          "answer": "कौन"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l6",
+      "title": "समीक्षा 2",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "किताब → किताबें",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "आज मैं जाता हूँ",
+          "name": "present"
+        },
+        {
+          "glyph": "कब",
+          "name": "when"
+        },
+        {
+          "glyph": "क्या",
+          "name": "what"
+        },
+        {
+          "glyph": "हम गीत गाते हैं",
+          "name": "S O V"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "एक लड़का, दो ___",
+          "options": [
+            "लड़के",
+            "लड़का",
+            "लड़कों",
+            "लड़कियाँ"
+          ],
+          "answer": "लड़के"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "एक किताब, दो ___",
+          "options": [
+            "किताबें",
+            "किताब",
+            "किताबों",
+            "किताबे"
+          ],
+          "answer": "किताबें"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l7",
+      "title": "समीक्षा 3",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "क्यों",
+          "name": "why"
+        },
+        {
+          "glyph": "कब",
+          "name": "when"
+        },
+        {
+          "glyph": "मैं चावल खाता हूँ",
+          "name": "S O V"
+        },
+        {
+          "glyph": "किताब → किताबें",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "लड़का → लड़के",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "वह गाती है",
+          "name": "S V"
+        },
+        {
+          "glyph": "कैसे",
+          "name": "how"
+        },
+        {
+          "glyph": "आज मैं जाता हूँ",
+          "name": "present"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "तुम ___ हो?",
+          "options": [
+            "कौन",
+            "कहाँ",
+            "क्या",
+            "कब"
+          ],
+          "answer": "कौन"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l8",
+      "title": "समीक्षा 4",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "आज मैं जाता हूँ",
+          "name": "present"
+        },
+        {
+          "glyph": "कहाँ",
+          "name": "where"
+        },
+        {
+          "glyph": "कल मैं गया",
+          "name": "past"
+        },
+        {
+          "glyph": "कब",
+          "name": "when"
+        },
+        {
+          "glyph": "क्यों",
+          "name": "why"
+        },
+        {
+          "glyph": "कल मैं जाऊँगा",
+          "name": "future"
+        },
+        {
+          "glyph": "क्या",
+          "name": "what"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "एक लड़का, दो ___",
+          "options": [
+            "लड़के",
+            "लड़का",
+            "लड़कों",
+            "लड़कियाँ"
+          ],
+          "answer": "लड़के"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "कल मैं ___।",
+          "options": [
+            "गया",
+            "जाता हूँ",
+            "जाऊँगा",
+            "जाओ"
+          ],
+          "answer": "गया"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l9",
+      "title": "समीक्षा 5",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "कौन",
+          "name": "who"
+        },
+        {
+          "glyph": "किताब → किताबें",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "हम गीत गाते हैं",
+          "name": "S O V"
+        },
+        {
+          "glyph": "कैसे",
+          "name": "how"
+        },
+        {
+          "glyph": "लड़का → लड़के",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "कल मैं जाऊँगा",
+          "name": "future"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "एक लड़का, दो ___",
+          "options": [
+            "लड़के",
+            "लड़का",
+            "लड़कों",
+            "लड़कियाँ"
+          ],
+          "answer": "लड़के"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "क्रम लगाइए:",
+          "options": [
+            "हूँ",
+            "खाता",
+            "चावल",
+            "मैं"
+          ],
+          "answer": "मैं चावल खाता हूँ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l10",
+      "title": "समीक्षा 6",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "कल मैं गया",
+          "name": "past"
+        },
+        {
+          "glyph": "किताब → किताबें",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "कल मैं जाऊँगा",
+          "name": "future"
+        },
+        {
+          "glyph": "हम गीत गाते हैं",
+          "name": "S O V"
+        },
+        {
+          "glyph": "कहाँ",
+          "name": "where"
+        },
+        {
+          "glyph": "कब",
+          "name": "when"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ गाती है.",
+          "options": [
+            "वह",
+            "मैं",
+            "हम",
+            "तुम"
+          ],
+          "answer": "वह"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "तुम ___ हो?",
+          "options": [
+            "कौन",
+            "कहाँ",
+            "क्या",
+            "कब"
+          ],
+          "answer": "कौन"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l11",
+      "title": "समीक्षा 7",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "हम गीत गाते हैं",
+          "name": "S O V"
+        },
+        {
+          "glyph": "लड़का → लड़के",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "वह गाती है",
+          "name": "S V"
+        },
+        {
+          "glyph": "मैं चावल खाता हूँ",
+          "name": "S O V"
+        },
+        {
+          "glyph": "कल मैं गया",
+          "name": "past"
+        },
+        {
+          "glyph": "कैसे",
+          "name": "how"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "एक लड़का, दो ___",
+          "options": [
+            "लड़के",
+            "लड़का",
+            "लड़कों",
+            "लड़कियाँ"
+          ],
+          "answer": "लड़के"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "तुम ___ हो?",
+          "options": [
+            "कौन",
+            "कहाँ",
+            "क्या",
+            "कब"
+          ],
+          "answer": "कौन"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l12",
+      "title": "समीक्षा 8",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "लड़का → लड़के",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "क्या",
+          "name": "what"
+        },
+        {
+          "glyph": "क्यों",
+          "name": "why"
+        },
+        {
+          "glyph": "मैं चावल खाता हूँ",
+          "name": "S O V"
+        },
+        {
+          "glyph": "कल मैं गया",
+          "name": "past"
+        },
+        {
+          "glyph": "कहाँ",
+          "name": "where"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "एक लड़का, दो ___",
+          "options": [
+            "लड़के",
+            "लड़का",
+            "लड़कों",
+            "लड़कियाँ"
+          ],
+          "answer": "लड़के"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l13",
+      "title": "समीक्षा 9",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "क्या",
+          "name": "what"
+        },
+        {
+          "glyph": "हम गीत गाते हैं",
+          "name": "S O V"
+        },
+        {
+          "glyph": "कैसे",
+          "name": "how"
+        },
+        {
+          "glyph": "किताब → किताबें",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "वह गाती है",
+          "name": "S V"
+        },
+        {
+          "glyph": "मैं चावल खाता हूँ",
+          "name": "S O V"
+        },
+        {
+          "glyph": "आज मैं जाता हूँ",
+          "name": "present"
+        },
+        {
+          "glyph": "लड़का → लड़के",
+          "name": "singular → plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "एक किताब, दो ___",
+          "options": [
+            "किताबें",
+            "किताब",
+            "किताबों",
+            "किताबे"
+          ],
+          "answer": "किताबें"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l14",
+      "title": "समीक्षा 10",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "हम गीत गाते हैं",
+          "name": "S O V"
+        },
+        {
+          "glyph": "मैं चावल खाता हूँ",
+          "name": "S O V"
+        },
+        {
+          "glyph": "क्यों",
+          "name": "why"
+        },
+        {
+          "glyph": "क्या",
+          "name": "what"
+        },
+        {
+          "glyph": "कब",
+          "name": "when"
+        },
+        {
+          "glyph": "कल मैं गया",
+          "name": "past"
+        },
+        {
+          "glyph": "किताब → किताबें",
+          "name": "singular → plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "एक लड़का, दो ___",
+          "options": [
+            "लड़के",
+            "लड़का",
+            "लड़कों",
+            "लड़कियाँ"
+          ],
+          "answer": "लड़के"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "कल मैं ___।",
+          "options": [
+            "गया",
+            "जाता हूँ",
+            "जाऊँगा",
+            "जाओ"
+          ],
+          "answer": "गया"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l15",
+      "title": "समीक्षा 11",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "कौन",
+          "name": "who"
+        },
+        {
+          "glyph": "कहाँ",
+          "name": "where"
+        },
+        {
+          "glyph": "क्यों",
+          "name": "why"
+        },
+        {
+          "glyph": "कल मैं जाऊँगा",
+          "name": "future"
+        },
+        {
+          "glyph": "कल मैं गया",
+          "name": "past"
+        },
+        {
+          "glyph": "वह गाती है",
+          "name": "S V"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "क्रम लगाइए:",
+          "options": [
+            "हूँ",
+            "खाता",
+            "चावल",
+            "मैं"
+          ],
+          "answer": "मैं चावल खाता हूँ"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ गाती है.",
+          "options": [
+            "वह",
+            "मैं",
+            "हम",
+            "तुम"
+          ],
+          "answer": "वह"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l16",
+      "title": "समीक्षा 12",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "किताब → किताबें",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "मैं चावल खाता हूँ",
+          "name": "S O V"
+        },
+        {
+          "glyph": "आज मैं जाता हूँ",
+          "name": "present"
+        },
+        {
+          "glyph": "कहाँ",
+          "name": "where"
+        },
+        {
+          "glyph": "लड़का → लड़के",
+          "name": "singular → plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "एक लड़का, दो ___",
+          "options": [
+            "लड़के",
+            "लड़का",
+            "लड़कों",
+            "लड़कियाँ"
+          ],
+          "answer": "लड़के"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "क्रम लगाइए:",
+          "options": [
+            "हूँ",
+            "खाता",
+            "चावल",
+            "मैं"
+          ],
+          "answer": "मैं चावल खाता हूँ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l17",
+      "title": "समीक्षा 13",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "मैं चावल खाता हूँ",
+          "name": "S O V"
+        },
+        {
+          "glyph": "कहाँ",
+          "name": "where"
+        },
+        {
+          "glyph": "कब",
+          "name": "when"
+        },
+        {
+          "glyph": "लड़का → लड़के",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "कौन",
+          "name": "who"
+        },
+        {
+          "glyph": "क्या",
+          "name": "what"
+        },
+        {
+          "glyph": "क्यों",
+          "name": "why"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ गाती है.",
+          "options": [
+            "वह",
+            "मैं",
+            "हम",
+            "तुम"
+          ],
+          "answer": "वह"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "क्रम लगाइए:",
+          "options": [
+            "हूँ",
+            "खाता",
+            "चावल",
+            "मैं"
+          ],
+          "answer": "मैं चावल खाता हूँ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l18",
+      "title": "समीक्षा 14",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "क्या",
+          "name": "what"
+        },
+        {
+          "glyph": "कल मैं जाऊँगा",
+          "name": "future"
+        },
+        {
+          "glyph": "कब",
+          "name": "when"
+        },
+        {
+          "glyph": "क्यों",
+          "name": "why"
+        },
+        {
+          "glyph": "वह गाती है",
+          "name": "S V"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ गाती है.",
+          "options": [
+            "वह",
+            "मैं",
+            "हम",
+            "तुम"
+          ],
+          "answer": "वह"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "एक किताब, दो ___",
+          "options": [
+            "किताबें",
+            "किताब",
+            "किताबों",
+            "किताबे"
+          ],
+          "answer": "किताबें"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l19",
+      "title": "समीक्षा 15",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "कहाँ",
+          "name": "where"
+        },
+        {
+          "glyph": "कैसे",
+          "name": "how"
+        },
+        {
+          "glyph": "क्या",
+          "name": "what"
+        },
+        {
+          "glyph": "मैं चावल खाता हूँ",
+          "name": "S O V"
+        },
+        {
+          "glyph": "कल मैं गया",
+          "name": "past"
+        },
+        {
+          "glyph": "आज मैं जाता हूँ",
+          "name": "present"
+        },
+        {
+          "glyph": "हम गीत गाते हैं",
+          "name": "S O V"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "एक लड़का, दो ___",
+          "options": [
+            "लड़के",
+            "लड़का",
+            "लड़कों",
+            "लड़कियाँ"
+          ],
+          "answer": "लड़के"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "एक किताब, दो ___",
+          "options": [
+            "किताबें",
+            "किताब",
+            "किताबों",
+            "किताबे"
+          ],
+          "answer": "किताबें"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l20",
+      "title": "समीक्षा 16",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "मैं चावल खाता हूँ",
+          "name": "S O V"
+        },
+        {
+          "glyph": "किताब → किताबें",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "कल मैं गया",
+          "name": "past"
+        },
+        {
+          "glyph": "क्यों",
+          "name": "why"
+        },
+        {
+          "glyph": "कौन",
+          "name": "who"
+        },
+        {
+          "glyph": "कल मैं जाऊँगा",
+          "name": "future"
+        },
+        {
+          "glyph": "वह गाती है",
+          "name": "S V"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "तुम्हारा नाम ___?",
+          "options": [
+            "क्या",
+            "कहाँ",
+            "कौन",
+            "क्यों"
+          ],
+          "answer": "क्या"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l21",
+      "title": "समीक्षा 17",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "क्यों",
+          "name": "why"
+        },
+        {
+          "glyph": "आज मैं जाता हूँ",
+          "name": "present"
+        },
+        {
+          "glyph": "कल मैं जाऊँगा",
+          "name": "future"
+        },
+        {
+          "glyph": "किताब → किताबें",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "हम गीत गाते हैं",
+          "name": "S O V"
+        },
+        {
+          "glyph": "कौन",
+          "name": "who"
+        },
+        {
+          "glyph": "क्या",
+          "name": "what"
+        },
+        {
+          "glyph": "वह गाती है",
+          "name": "S V"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ गाती है.",
+          "options": [
+            "वह",
+            "मैं",
+            "हम",
+            "तुम"
+          ],
+          "answer": "वह"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l22",
+      "title": "समीक्षा 18",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "किताब → किताबें",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "कल मैं जाऊँगा",
+          "name": "future"
+        },
+        {
+          "glyph": "क्या",
+          "name": "what"
+        },
+        {
+          "glyph": "कल मैं गया",
+          "name": "past"
+        },
+        {
+          "glyph": "वह गाती है",
+          "name": "S V"
+        },
+        {
+          "glyph": "आज मैं जाता हूँ",
+          "name": "present"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "क्रम लगाइए:",
+          "options": [
+            "हूँ",
+            "खाता",
+            "चावल",
+            "मैं"
+          ],
+          "answer": "मैं चावल खाता हूँ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l23",
+      "title": "समीक्षा 19",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "कब",
+          "name": "when"
+        },
+        {
+          "glyph": "किताब → किताबें",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "आज मैं जाता हूँ",
+          "name": "present"
+        },
+        {
+          "glyph": "हम गीत गाते हैं",
+          "name": "S O V"
+        },
+        {
+          "glyph": "क्या",
+          "name": "what"
+        },
+        {
+          "glyph": "कल मैं जाऊँगा",
+          "name": "future"
+        },
+        {
+          "glyph": "कैसे",
+          "name": "how"
+        },
+        {
+          "glyph": "वह गाती है",
+          "name": "S V"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "तुम ___ हो?",
+          "options": [
+            "कौन",
+            "कहाँ",
+            "क्या",
+            "कब"
+          ],
+          "answer": "कौन"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l24",
+      "title": "समीक्षा 20",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "किताब → किताबें",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "क्या",
+          "name": "what"
+        },
+        {
+          "glyph": "कल मैं जाऊँगा",
+          "name": "future"
+        },
+        {
+          "glyph": "मैं चावल खाता हूँ",
+          "name": "S O V"
+        },
+        {
+          "glyph": "कैसे",
+          "name": "how"
+        },
+        {
+          "glyph": "कहाँ",
+          "name": "where"
+        },
+        {
+          "glyph": "क्यों",
+          "name": "why"
+        },
+        {
+          "glyph": "कौन",
+          "name": "who"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ गाती है.",
+          "options": [
+            "वह",
+            "मैं",
+            "हम",
+            "तुम"
+          ],
+          "answer": "वह"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "क्रम लगाइए:",
+          "options": [
+            "हूँ",
+            "खाता",
+            "चावल",
+            "मैं"
+          ],
+          "answer": "मैं चावल खाता हूँ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l25",
+      "title": "समीक्षा 21",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "हम गीत गाते हैं",
+          "name": "S O V"
+        },
+        {
+          "glyph": "किताब → किताबें",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "कौन",
+          "name": "who"
+        },
+        {
+          "glyph": "कब",
+          "name": "when"
+        },
+        {
+          "glyph": "कल मैं जाऊँगा",
+          "name": "future"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "तुम्हारा नाम ___?",
+          "options": [
+            "क्या",
+            "कहाँ",
+            "कौन",
+            "क्यों"
+          ],
+          "answer": "क्या"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l26",
+      "title": "समीक्षा 22",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "आज मैं जाता हूँ",
+          "name": "present"
+        },
+        {
+          "glyph": "हम गीत गाते हैं",
+          "name": "S O V"
+        },
+        {
+          "glyph": "कल मैं जाऊँगा",
+          "name": "future"
+        },
+        {
+          "glyph": "कब",
+          "name": "when"
+        },
+        {
+          "glyph": "लड़का → लड़के",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "मैं चावल खाता हूँ",
+          "name": "S O V"
+        },
+        {
+          "glyph": "वह गाती है",
+          "name": "S V"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "एक किताब, दो ___",
+          "options": [
+            "किताबें",
+            "किताब",
+            "किताबों",
+            "किताबे"
+          ],
+          "answer": "किताबें"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "क्रम लगाइए:",
+          "options": [
+            "हूँ",
+            "खाता",
+            "चावल",
+            "मैं"
+          ],
+          "answer": "मैं चावल खाता हूँ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l27",
+      "title": "समीक्षा 23",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "कहाँ",
+          "name": "where"
+        },
+        {
+          "glyph": "कल मैं जाऊँगा",
+          "name": "future"
+        },
+        {
+          "glyph": "कैसे",
+          "name": "how"
+        },
+        {
+          "glyph": "आज मैं जाता हूँ",
+          "name": "present"
+        },
+        {
+          "glyph": "किताब → किताबें",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "कौन",
+          "name": "who"
+        },
+        {
+          "glyph": "वह गाती है",
+          "name": "S V"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "कल मैं ___।",
+          "options": [
+            "गया",
+            "जाता हूँ",
+            "जाऊँगा",
+            "जाओ"
+          ],
+          "answer": "गया"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "तुम्हारा नाम ___?",
+          "options": [
+            "क्या",
+            "कहाँ",
+            "कौन",
+            "क्यों"
+          ],
+          "answer": "क्या"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l28",
+      "title": "समीक्षा 24",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "कैसे",
+          "name": "how"
+        },
+        {
+          "glyph": "किताब → किताबें",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "हम गीत गाते हैं",
+          "name": "S O V"
+        },
+        {
+          "glyph": "कहाँ",
+          "name": "where"
+        },
+        {
+          "glyph": "मैं चावल खाता हूँ",
+          "name": "S O V"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "एक लड़का, दो ___",
+          "options": [
+            "लड़के",
+            "लड़का",
+            "लड़कों",
+            "लड़कियाँ"
+          ],
+          "answer": "लड़के"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l29",
+      "title": "समीक्षा 25",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "क्यों",
+          "name": "why"
+        },
+        {
+          "glyph": "हम गीत गाते हैं",
+          "name": "S O V"
+        },
+        {
+          "glyph": "कल मैं गया",
+          "name": "past"
+        },
+        {
+          "glyph": "कौन",
+          "name": "who"
+        },
+        {
+          "glyph": "मैं चावल खाता हूँ",
+          "name": "S O V"
+        },
+        {
+          "glyph": "किताब → किताबें",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "कैसे",
+          "name": "how"
+        },
+        {
+          "glyph": "लड़का → लड़के",
+          "name": "singular → plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "क्रम लगाइए:",
+          "options": [
+            "हूँ",
+            "खाता",
+            "चावल",
+            "मैं"
+          ],
+          "answer": "मैं चावल खाता हूँ"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "एक लड़का, दो ___",
+          "options": [
+            "लड़के",
+            "लड़का",
+            "लड़कों",
+            "लड़कियाँ"
+          ],
+          "answer": "लड़के"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l30",
+      "title": "समीक्षा 26",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "क्या",
+          "name": "what"
+        },
+        {
+          "glyph": "कब",
+          "name": "when"
+        },
+        {
+          "glyph": "वह गाती है",
+          "name": "S V"
+        },
+        {
+          "glyph": "कैसे",
+          "name": "how"
+        },
+        {
+          "glyph": "लड़का → लड़के",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "हम गीत गाते हैं",
+          "name": "S O V"
+        },
+        {
+          "glyph": "क्यों",
+          "name": "why"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "कल मैं ___।",
+          "options": [
+            "गया",
+            "जाता हूँ",
+            "जाऊँगा",
+            "जाओ"
+          ],
+          "answer": "गया"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l31",
+      "title": "समीक्षा 27",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "कैसे",
+          "name": "how"
+        },
+        {
+          "glyph": "कल मैं गया",
+          "name": "past"
+        },
+        {
+          "glyph": "कब",
+          "name": "when"
+        },
+        {
+          "glyph": "किताब → किताबें",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "क्यों",
+          "name": "why"
+        },
+        {
+          "glyph": "कौन",
+          "name": "who"
+        },
+        {
+          "glyph": "वह गाती है",
+          "name": "S V"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "तुम ___ हो?",
+          "options": [
+            "कौन",
+            "कहाँ",
+            "क्या",
+            "कब"
+          ],
+          "answer": "कौन"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ गाती है.",
+          "options": [
+            "वह",
+            "मैं",
+            "हम",
+            "तुम"
+          ],
+          "answer": "वह"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l32",
+      "title": "समीक्षा 28",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "हम गीत गाते हैं",
+          "name": "S O V"
+        },
+        {
+          "glyph": "क्या",
+          "name": "what"
+        },
+        {
+          "glyph": "किताब → किताबें",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "कल मैं गया",
+          "name": "past"
+        },
+        {
+          "glyph": "कल मैं जाऊँगा",
+          "name": "future"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "एक लड़का, दो ___",
+          "options": [
+            "लड़के",
+            "लड़का",
+            "लड़कों",
+            "लड़कियाँ"
+          ],
+          "answer": "लड़के"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ गाती है.",
+          "options": [
+            "वह",
+            "मैं",
+            "हम",
+            "तुम"
+          ],
+          "answer": "वह"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l33",
+      "title": "समीक्षा 29",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "लड़का → लड़के",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "हम गीत गाते हैं",
+          "name": "S O V"
+        },
+        {
+          "glyph": "क्या",
+          "name": "what"
+        },
+        {
+          "glyph": "कैसे",
+          "name": "how"
+        },
+        {
+          "glyph": "कब",
+          "name": "when"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "एक किताब, दो ___",
+          "options": [
+            "किताबें",
+            "किताब",
+            "किताबों",
+            "किताबे"
+          ],
+          "answer": "किताबें"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l34",
+      "title": "समीक्षा 30",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "वह गाती है",
+          "name": "S V"
+        },
+        {
+          "glyph": "कैसे",
+          "name": "how"
+        },
+        {
+          "glyph": "हम गीत गाते हैं",
+          "name": "S O V"
+        },
+        {
+          "glyph": "मैं चावल खाता हूँ",
+          "name": "S O V"
+        },
+        {
+          "glyph": "कल मैं जाऊँगा",
+          "name": "future"
+        },
+        {
+          "glyph": "कल मैं गया",
+          "name": "past"
+        },
+        {
+          "glyph": "किताब → किताबें",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "क्या",
+          "name": "what"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ गाती है.",
+          "options": [
+            "वह",
+            "मैं",
+            "हम",
+            "तुम"
+          ],
+          "answer": "वह"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "एक किताब, दो ___",
+          "options": [
+            "किताबें",
+            "किताब",
+            "किताबों",
+            "किताबे"
+          ],
+          "answer": "किताबें"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l35",
+      "title": "समीक्षा 31",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "हम गीत गाते हैं",
+          "name": "S O V"
+        },
+        {
+          "glyph": "क्यों",
+          "name": "why"
+        },
+        {
+          "glyph": "किताब → किताबें",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "मैं चावल खाता हूँ",
+          "name": "S O V"
+        },
+        {
+          "glyph": "वह गाती है",
+          "name": "S V"
+        },
+        {
+          "glyph": "लड़का → लड़के",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "कैसे",
+          "name": "how"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "तुम्हारा नाम ___?",
+          "options": [
+            "क्या",
+            "कहाँ",
+            "कौन",
+            "क्यों"
+          ],
+          "answer": "क्या"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l36",
+      "title": "समीक्षा 32",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "किताब → किताबें",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "हम गीत गाते हैं",
+          "name": "S O V"
+        },
+        {
+          "glyph": "लड़का → लड़के",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "कौन",
+          "name": "who"
+        },
+        {
+          "glyph": "वह गाती है",
+          "name": "S V"
+        },
+        {
+          "glyph": "आज मैं जाता हूँ",
+          "name": "present"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "क्रम लगाइए:",
+          "options": [
+            "हूँ",
+            "खाता",
+            "चावल",
+            "मैं"
+          ],
+          "answer": "मैं चावल खाता हूँ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l37",
+      "title": "समीक्षा 33",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "कौन",
+          "name": "who"
+        },
+        {
+          "glyph": "कल मैं जाऊँगा",
+          "name": "future"
+        },
+        {
+          "glyph": "आज मैं जाता हूँ",
+          "name": "present"
+        },
+        {
+          "glyph": "मैं चावल खाता हूँ",
+          "name": "S O V"
+        },
+        {
+          "glyph": "लड़का → लड़के",
+          "name": "singular → plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "क्रम लगाइए:",
+          "options": [
+            "हूँ",
+            "खाता",
+            "चावल",
+            "मैं"
+          ],
+          "answer": "मैं चावल खाता हूँ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l38",
+      "title": "समीक्षा 34",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "कल मैं जाऊँगा",
+          "name": "future"
+        },
+        {
+          "glyph": "वह गाती है",
+          "name": "S V"
+        },
+        {
+          "glyph": "किताब → किताबें",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "मैं चावल खाता हूँ",
+          "name": "S O V"
+        },
+        {
+          "glyph": "कौन",
+          "name": "who"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "तुम्हारा नाम ___?",
+          "options": [
+            "क्या",
+            "कहाँ",
+            "कौन",
+            "क्यों"
+          ],
+          "answer": "क्या"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "क्रम लगाइए:",
+          "options": [
+            "हूँ",
+            "खाता",
+            "चावल",
+            "मैं"
+          ],
+          "answer": "मैं चावल खाता हूँ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l39",
+      "title": "समीक्षा 35",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "कौन",
+          "name": "who"
+        },
+        {
+          "glyph": "वह गाती है",
+          "name": "S V"
+        },
+        {
+          "glyph": "कहाँ",
+          "name": "where"
+        },
+        {
+          "glyph": "लड़का → लड़के",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "क्यों",
+          "name": "why"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ गाती है.",
+          "options": [
+            "वह",
+            "मैं",
+            "हम",
+            "तुम"
+          ],
+          "answer": "वह"
+        }
+      ]
+    },
+    {
+      "id": "hi-p5-l40",
+      "title": "समीक्षा 36",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "मैं चावल खाता हूँ",
+          "name": "S O V"
+        },
+        {
+          "glyph": "वह गाती है",
+          "name": "S V"
+        },
+        {
+          "glyph": "हम गीत गाते हैं",
+          "name": "S O V"
+        },
+        {
+          "glyph": "किताब → किताबें",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "कहाँ",
+          "name": "where"
+        },
+        {
+          "glyph": "कल मैं गया",
+          "name": "past"
+        },
+        {
+          "glyph": "क्या",
+          "name": "what"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "तुम ___ हो?",
+          "options": [
+            "कौन",
+            "कहाँ",
+            "क्या",
+            "कब"
+          ],
+          "answer": "कौन"
+        }
+      ]
     }
   ]
 }

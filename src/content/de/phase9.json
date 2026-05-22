@@ -273,6 +273,1802 @@
           "answer": "Fünf"
         }
       ]
+    },
+    {
+      "id": "de-p9-l8",
+      "title": "Wiederholung 1",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich nehme fünf Äpfel.",
+          "name": "buy"
+        },
+        {
+          "glyph": "fünf Vögel",
+          "name": "5"
+        },
+        {
+          "glyph": "Draußen regnet es.",
+          "name": "rain"
+        },
+        {
+          "glyph": "Ich renne.",
+          "name": "run"
+        },
+        {
+          "glyph": "Dort fand er ein kleines Nest.",
+          "name": "l3"
+        },
+        {
+          "glyph": "ein Apfel",
+          "name": "1"
+        },
+        {
+          "glyph": "Danke, hier ist Ihr Wechselgeld.",
+          "name": "done"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Der dritte Tag?",
+          "options": [
+            "Mittwoch",
+            "Dienstag",
+            "Freitag",
+            "Sonntag"
+          ],
+          "answer": "Mittwoch"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l9",
+      "title": "Wiederholung 2",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Der Vogel flog über den Fluss.",
+          "name": "l1"
+        },
+        {
+          "glyph": "Sie liest.",
+          "name": "read"
+        },
+        {
+          "glyph": "Freitag",
+          "name": "Fri"
+        },
+        {
+          "glyph": "Gute Nacht, Mama.",
+          "name": "night"
+        },
+        {
+          "glyph": "Was kostet dieser Apfel?",
+          "name": "price"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welches ist Regen?",
+          "options": [
+            "Draußen regnet es.",
+            "Heute ist es sonnig.",
+            "Es ist sehr kalt.",
+            "Es ist windig."
+          ],
+          "answer": "Draußen regnet es."
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l10",
+      "title": "Wiederholung 3",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "fünf Vögel",
+          "name": "5"
+        },
+        {
+          "glyph": "Hallo Freund!",
+          "name": "hello"
+        },
+        {
+          "glyph": "Es ist sehr kalt.",
+          "name": "cold"
+        },
+        {
+          "glyph": "Mittwoch",
+          "name": "Wed"
+        },
+        {
+          "glyph": "Der Vogel flog über den Fluss.",
+          "name": "l1"
+        },
+        {
+          "glyph": "Sie schlafen.",
+          "name": "sleep"
+        },
+        {
+          "glyph": "Bis morgen!",
+          "name": "tmrw"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie viele Äpfel?",
+          "options": [
+            "Fünf",
+            "Zwei",
+            "Drei",
+            "Zehn"
+          ],
+          "answer": "Fünf"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welches ist Regen?",
+          "options": [
+            "Draußen regnet es.",
+            "Heute ist es sonnig.",
+            "Es ist sehr kalt.",
+            "Es ist windig."
+          ],
+          "answer": "Draußen regnet es."
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l11",
+      "title": "Wiederholung 4",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Er kostet zwei Euro.",
+          "name": "price"
+        },
+        {
+          "glyph": "Ich nehme fünf Äpfel.",
+          "name": "buy"
+        },
+        {
+          "glyph": "Heute ist es sonnig.",
+          "name": "sun"
+        },
+        {
+          "glyph": "Bis morgen!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "Draußen regnet es.",
+          "name": "rain"
+        },
+        {
+          "glyph": "Montag",
+          "name": "Mon"
+        },
+        {
+          "glyph": "ein Apfel",
+          "name": "1"
+        },
+        {
+          "glyph": "Sonntag",
+          "name": "Sun"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Der dritte Tag?",
+          "options": [
+            "Mittwoch",
+            "Dienstag",
+            "Freitag",
+            "Sonntag"
+          ],
+          "answer": "Mittwoch"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie viele Äpfel?",
+          "options": [
+            "Fünf",
+            "Zwei",
+            "Drei",
+            "Zehn"
+          ],
+          "answer": "Fünf"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l12",
+      "title": "Wiederholung 5",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Dienstag",
+          "name": "Tue"
+        },
+        {
+          "glyph": "Danke, hier ist Ihr Wechselgeld.",
+          "name": "done"
+        },
+        {
+          "glyph": "Ich nehme fünf Äpfel.",
+          "name": "buy"
+        },
+        {
+          "glyph": "Heute ist es sonnig.",
+          "name": "sun"
+        },
+        {
+          "glyph": "Hallo Freund!",
+          "name": "hello"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wo landete der Vogel?",
+          "options": [
+            "Auf einem hohen Baum",
+            "Im Fluss",
+            "Auf Sand",
+            "Auf Stein"
+          ],
+          "answer": "Auf einem hohen Baum"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Der dritte Tag?",
+          "options": [
+            "Mittwoch",
+            "Dienstag",
+            "Freitag",
+            "Sonntag"
+          ],
+          "answer": "Mittwoch"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l13",
+      "title": "Wiederholung 6",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Vielen Dank.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "fünf Vögel",
+          "name": "5"
+        },
+        {
+          "glyph": "Bis morgen!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "Er landete auf einem hohen Baum.",
+          "name": "l2"
+        },
+        {
+          "glyph": "Ich nehme fünf Äpfel.",
+          "name": "buy"
+        },
+        {
+          "glyph": "Der Vogel flog über den Fluss.",
+          "name": "l1"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie viele Äpfel?",
+          "options": [
+            "Fünf",
+            "Zwei",
+            "Drei",
+            "Zehn"
+          ],
+          "answer": "Fünf"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l14",
+      "title": "Wiederholung 7",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Es ist windig.",
+          "name": "wind"
+        },
+        {
+          "glyph": "Sie liest.",
+          "name": "read"
+        },
+        {
+          "glyph": "Donnerstag",
+          "name": "Thu"
+        },
+        {
+          "glyph": "zwei Katzen",
+          "name": "2"
+        },
+        {
+          "glyph": "Sie schlafen.",
+          "name": "sleep"
+        },
+        {
+          "glyph": "Freitag",
+          "name": "Fri"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer liest?",
+          "options": [
+            "Sie liest",
+            "Ich renne",
+            "Wir essen",
+            "Sie schlafen"
+          ],
+          "answer": "Sie liest"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Der dritte Tag?",
+          "options": [
+            "Mittwoch",
+            "Dienstag",
+            "Freitag",
+            "Sonntag"
+          ],
+          "answer": "Mittwoch"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l15",
+      "title": "Wiederholung 8",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Donnerstag",
+          "name": "Thu"
+        },
+        {
+          "glyph": "Samstag",
+          "name": "Sat"
+        },
+        {
+          "glyph": "Dienstag",
+          "name": "Tue"
+        },
+        {
+          "glyph": "Danke, hier ist Ihr Wechselgeld.",
+          "name": "done"
+        },
+        {
+          "glyph": "Es ist sehr kalt.",
+          "name": "cold"
+        },
+        {
+          "glyph": "vier Autos",
+          "name": "4"
+        },
+        {
+          "glyph": "Sonntag",
+          "name": "Sun"
+        },
+        {
+          "glyph": "Mittwoch",
+          "name": "Wed"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welches ist Regen?",
+          "options": [
+            "Draußen regnet es.",
+            "Heute ist es sonnig.",
+            "Es ist sehr kalt.",
+            "Es ist windig."
+          ],
+          "answer": "Draußen regnet es."
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Der dritte Tag?",
+          "options": [
+            "Mittwoch",
+            "Dienstag",
+            "Freitag",
+            "Sonntag"
+          ],
+          "answer": "Mittwoch"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l16",
+      "title": "Wiederholung 9",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich renne.",
+          "name": "run"
+        },
+        {
+          "glyph": "Ich nehme fünf Äpfel.",
+          "name": "buy"
+        },
+        {
+          "glyph": "Montag",
+          "name": "Mon"
+        },
+        {
+          "glyph": "Sie schlafen.",
+          "name": "sleep"
+        },
+        {
+          "glyph": "Mittwoch",
+          "name": "Wed"
+        },
+        {
+          "glyph": "Danke, hier ist Ihr Wechselgeld.",
+          "name": "done"
+        },
+        {
+          "glyph": "Sonntag",
+          "name": "Sun"
+        },
+        {
+          "glyph": "Bis morgen!",
+          "name": "tmrw"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer liest?",
+          "options": [
+            "Sie liest",
+            "Ich renne",
+            "Wir essen",
+            "Sie schlafen"
+          ],
+          "answer": "Sie liest"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Der dritte Tag?",
+          "options": [
+            "Mittwoch",
+            "Dienstag",
+            "Freitag",
+            "Sonntag"
+          ],
+          "answer": "Mittwoch"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l17",
+      "title": "Wiederholung 10",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Sie liest.",
+          "name": "read"
+        },
+        {
+          "glyph": "Es ist sehr kalt.",
+          "name": "cold"
+        },
+        {
+          "glyph": "Samstag",
+          "name": "Sat"
+        },
+        {
+          "glyph": "Gute Nacht, Mama.",
+          "name": "night"
+        },
+        {
+          "glyph": "Vielen Dank.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Es ist windig.",
+          "name": "wind"
+        },
+        {
+          "glyph": "Donnerstag",
+          "name": "Thu"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welches ist Regen?",
+          "options": [
+            "Draußen regnet es.",
+            "Heute ist es sonnig.",
+            "Es ist sehr kalt.",
+            "Es ist windig."
+          ],
+          "answer": "Draußen regnet es."
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l18",
+      "title": "Wiederholung 11",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Gute Nacht, Mama.",
+          "name": "night"
+        },
+        {
+          "glyph": "Was kostet dieser Apfel?",
+          "name": "price"
+        },
+        {
+          "glyph": "Samstag",
+          "name": "Sat"
+        },
+        {
+          "glyph": "Draußen regnet es.",
+          "name": "rain"
+        },
+        {
+          "glyph": "Dort fand er ein kleines Nest.",
+          "name": "l3"
+        },
+        {
+          "glyph": "Wir essen.",
+          "name": "eat"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welches ist Regen?",
+          "options": [
+            "Draußen regnet es.",
+            "Heute ist es sonnig.",
+            "Es ist sehr kalt.",
+            "Es ist windig."
+          ],
+          "answer": "Draußen regnet es."
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l19",
+      "title": "Wiederholung 12",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Er kostet zwei Euro.",
+          "name": "price"
+        },
+        {
+          "glyph": "Sonntag",
+          "name": "Sun"
+        },
+        {
+          "glyph": "Gute Nacht, Mama.",
+          "name": "night"
+        },
+        {
+          "glyph": "Wir essen.",
+          "name": "eat"
+        },
+        {
+          "glyph": "Vielen Dank.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Bis morgen!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "Dort fand er ein kleines Nest.",
+          "name": "l3"
+        },
+        {
+          "glyph": "Es ist sehr kalt.",
+          "name": "cold"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welches ist Regen?",
+          "options": [
+            "Draußen regnet es.",
+            "Heute ist es sonnig.",
+            "Es ist sehr kalt.",
+            "Es ist windig."
+          ],
+          "answer": "Draußen regnet es."
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie viele Äpfel?",
+          "options": [
+            "Fünf",
+            "Zwei",
+            "Drei",
+            "Zehn"
+          ],
+          "answer": "Fünf"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l20",
+      "title": "Wiederholung 13",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "vier Autos",
+          "name": "4"
+        },
+        {
+          "glyph": "Es ist windig.",
+          "name": "wind"
+        },
+        {
+          "glyph": "Donnerstag",
+          "name": "Thu"
+        },
+        {
+          "glyph": "Dienstag",
+          "name": "Tue"
+        },
+        {
+          "glyph": "Draußen regnet es.",
+          "name": "rain"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welches ist \"drei\"?",
+          "options": [
+            "drei Bälle",
+            "ein Apfel",
+            "fünf Vögel",
+            "vier Autos"
+          ],
+          "answer": "drei Bälle"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wo landete der Vogel?",
+          "options": [
+            "Auf einem hohen Baum",
+            "Im Fluss",
+            "Auf Sand",
+            "Auf Stein"
+          ],
+          "answer": "Auf einem hohen Baum"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l21",
+      "title": "Wiederholung 14",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "vier Autos",
+          "name": "4"
+        },
+        {
+          "glyph": "Der Vogel flog über den Fluss.",
+          "name": "l1"
+        },
+        {
+          "glyph": "Sonntag",
+          "name": "Sun"
+        },
+        {
+          "glyph": "Freitag",
+          "name": "Fri"
+        },
+        {
+          "glyph": "ein Apfel",
+          "name": "1"
+        },
+        {
+          "glyph": "Vielen Dank.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Montag",
+          "name": "Mon"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer liest?",
+          "options": [
+            "Sie liest",
+            "Ich renne",
+            "Wir essen",
+            "Sie schlafen"
+          ],
+          "answer": "Sie liest"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie viele Äpfel?",
+          "options": [
+            "Fünf",
+            "Zwei",
+            "Drei",
+            "Zehn"
+          ],
+          "answer": "Fünf"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l22",
+      "title": "Wiederholung 15",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Sie schlafen.",
+          "name": "sleep"
+        },
+        {
+          "glyph": "Dort fand er ein kleines Nest.",
+          "name": "l3"
+        },
+        {
+          "glyph": "Hallo Freund!",
+          "name": "hello"
+        },
+        {
+          "glyph": "Gute Nacht, Mama.",
+          "name": "night"
+        },
+        {
+          "glyph": "Donnerstag",
+          "name": "Thu"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie viele Äpfel?",
+          "options": [
+            "Fünf",
+            "Zwei",
+            "Drei",
+            "Zehn"
+          ],
+          "answer": "Fünf"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welches ist \"drei\"?",
+          "options": [
+            "drei Bälle",
+            "ein Apfel",
+            "fünf Vögel",
+            "vier Autos"
+          ],
+          "answer": "drei Bälle"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l23",
+      "title": "Wiederholung 16",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Montag",
+          "name": "Mon"
+        },
+        {
+          "glyph": "Mittwoch",
+          "name": "Wed"
+        },
+        {
+          "glyph": "fünf Vögel",
+          "name": "5"
+        },
+        {
+          "glyph": "zwei Katzen",
+          "name": "2"
+        },
+        {
+          "glyph": "Gute Nacht, Mama.",
+          "name": "night"
+        },
+        {
+          "glyph": "Ich renne.",
+          "name": "run"
+        },
+        {
+          "glyph": "Sie schlafen.",
+          "name": "sleep"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welches ist Regen?",
+          "options": [
+            "Draußen regnet es.",
+            "Heute ist es sonnig.",
+            "Es ist sehr kalt.",
+            "Es ist windig."
+          ],
+          "answer": "Draußen regnet es."
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer liest?",
+          "options": [
+            "Sie liest",
+            "Ich renne",
+            "Wir essen",
+            "Sie schlafen"
+          ],
+          "answer": "Sie liest"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l24",
+      "title": "Wiederholung 17",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Der Vogel flog über den Fluss.",
+          "name": "l1"
+        },
+        {
+          "glyph": "Dort fand er ein kleines Nest.",
+          "name": "l3"
+        },
+        {
+          "glyph": "Danke, hier ist Ihr Wechselgeld.",
+          "name": "done"
+        },
+        {
+          "glyph": "Gute Nacht, Mama.",
+          "name": "night"
+        },
+        {
+          "glyph": "Sie liest.",
+          "name": "read"
+        },
+        {
+          "glyph": "Es ist sehr kalt.",
+          "name": "cold"
+        },
+        {
+          "glyph": "Er kostet zwei Euro.",
+          "name": "price"
+        },
+        {
+          "glyph": "fünf Vögel",
+          "name": "5"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welches ist \"Hallo\"?",
+          "options": [
+            "Hallo Freund!",
+            "Danke",
+            "Bis morgen",
+            "Gute Nacht"
+          ],
+          "answer": "Hallo Freund!"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l25",
+      "title": "Wiederholung 18",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Sie liest.",
+          "name": "read"
+        },
+        {
+          "glyph": "Der Vogel flog über den Fluss.",
+          "name": "l1"
+        },
+        {
+          "glyph": "Was kostet dieser Apfel?",
+          "name": "price"
+        },
+        {
+          "glyph": "Wir essen.",
+          "name": "eat"
+        },
+        {
+          "glyph": "Dort fand er ein kleines Nest.",
+          "name": "l3"
+        },
+        {
+          "glyph": "Draußen regnet es.",
+          "name": "rain"
+        },
+        {
+          "glyph": "Er landete auf einem hohen Baum.",
+          "name": "l2"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Der dritte Tag?",
+          "options": [
+            "Mittwoch",
+            "Dienstag",
+            "Freitag",
+            "Sonntag"
+          ],
+          "answer": "Mittwoch"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welches ist \"Hallo\"?",
+          "options": [
+            "Hallo Freund!",
+            "Danke",
+            "Bis morgen",
+            "Gute Nacht"
+          ],
+          "answer": "Hallo Freund!"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l26",
+      "title": "Wiederholung 19",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Es ist sehr kalt.",
+          "name": "cold"
+        },
+        {
+          "glyph": "Ich renne.",
+          "name": "run"
+        },
+        {
+          "glyph": "Draußen regnet es.",
+          "name": "rain"
+        },
+        {
+          "glyph": "Sie liest.",
+          "name": "read"
+        },
+        {
+          "glyph": "vier Autos",
+          "name": "4"
+        },
+        {
+          "glyph": "drei Bälle",
+          "name": "3"
+        },
+        {
+          "glyph": "Montag",
+          "name": "Mon"
+        },
+        {
+          "glyph": "Donnerstag",
+          "name": "Thu"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wo landete der Vogel?",
+          "options": [
+            "Auf einem hohen Baum",
+            "Im Fluss",
+            "Auf Sand",
+            "Auf Stein"
+          ],
+          "answer": "Auf einem hohen Baum"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l27",
+      "title": "Wiederholung 20",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "vier Autos",
+          "name": "4"
+        },
+        {
+          "glyph": "Was kostet dieser Apfel?",
+          "name": "price"
+        },
+        {
+          "glyph": "Es ist sehr kalt.",
+          "name": "cold"
+        },
+        {
+          "glyph": "Wir essen.",
+          "name": "eat"
+        },
+        {
+          "glyph": "fünf Vögel",
+          "name": "5"
+        },
+        {
+          "glyph": "Er kostet zwei Euro.",
+          "name": "price"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wo landete der Vogel?",
+          "options": [
+            "Auf einem hohen Baum",
+            "Im Fluss",
+            "Auf Sand",
+            "Auf Stein"
+          ],
+          "answer": "Auf einem hohen Baum"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welches ist \"drei\"?",
+          "options": [
+            "drei Bälle",
+            "ein Apfel",
+            "fünf Vögel",
+            "vier Autos"
+          ],
+          "answer": "drei Bälle"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l28",
+      "title": "Wiederholung 21",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Draußen regnet es.",
+          "name": "rain"
+        },
+        {
+          "glyph": "Der Vogel flog über den Fluss.",
+          "name": "l1"
+        },
+        {
+          "glyph": "Sie liest.",
+          "name": "read"
+        },
+        {
+          "glyph": "Sonntag",
+          "name": "Sun"
+        },
+        {
+          "glyph": "Ich renne.",
+          "name": "run"
+        },
+        {
+          "glyph": "Gute Nacht, Mama.",
+          "name": "night"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wo landete der Vogel?",
+          "options": [
+            "Auf einem hohen Baum",
+            "Im Fluss",
+            "Auf Sand",
+            "Auf Stein"
+          ],
+          "answer": "Auf einem hohen Baum"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l29",
+      "title": "Wiederholung 22",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Donnerstag",
+          "name": "Thu"
+        },
+        {
+          "glyph": "Danke, hier ist Ihr Wechselgeld.",
+          "name": "done"
+        },
+        {
+          "glyph": "Wir essen.",
+          "name": "eat"
+        },
+        {
+          "glyph": "vier Autos",
+          "name": "4"
+        },
+        {
+          "glyph": "Gute Nacht, Mama.",
+          "name": "night"
+        },
+        {
+          "glyph": "Hallo Freund!",
+          "name": "hello"
+        },
+        {
+          "glyph": "Sonntag",
+          "name": "Sun"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welches ist \"drei\"?",
+          "options": [
+            "drei Bälle",
+            "ein Apfel",
+            "fünf Vögel",
+            "vier Autos"
+          ],
+          "answer": "drei Bälle"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie viele Äpfel?",
+          "options": [
+            "Fünf",
+            "Zwei",
+            "Drei",
+            "Zehn"
+          ],
+          "answer": "Fünf"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l30",
+      "title": "Wiederholung 23",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "zwei Katzen",
+          "name": "2"
+        },
+        {
+          "glyph": "ein Apfel",
+          "name": "1"
+        },
+        {
+          "glyph": "Ich renne.",
+          "name": "run"
+        },
+        {
+          "glyph": "Danke, hier ist Ihr Wechselgeld.",
+          "name": "done"
+        },
+        {
+          "glyph": "Draußen regnet es.",
+          "name": "rain"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wo landete der Vogel?",
+          "options": [
+            "Auf einem hohen Baum",
+            "Im Fluss",
+            "Auf Sand",
+            "Auf Stein"
+          ],
+          "answer": "Auf einem hohen Baum"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie viele Äpfel?",
+          "options": [
+            "Fünf",
+            "Zwei",
+            "Drei",
+            "Zehn"
+          ],
+          "answer": "Fünf"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l31",
+      "title": "Wiederholung 24",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich renne.",
+          "name": "run"
+        },
+        {
+          "glyph": "Sie schlafen.",
+          "name": "sleep"
+        },
+        {
+          "glyph": "ein Apfel",
+          "name": "1"
+        },
+        {
+          "glyph": "Draußen regnet es.",
+          "name": "rain"
+        },
+        {
+          "glyph": "Sie liest.",
+          "name": "read"
+        },
+        {
+          "glyph": "Donnerstag",
+          "name": "Thu"
+        },
+        {
+          "glyph": "Bis morgen!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "Ich nehme fünf Äpfel.",
+          "name": "buy"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welches ist \"Hallo\"?",
+          "options": [
+            "Hallo Freund!",
+            "Danke",
+            "Bis morgen",
+            "Gute Nacht"
+          ],
+          "answer": "Hallo Freund!"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l32",
+      "title": "Wiederholung 25",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "zwei Katzen",
+          "name": "2"
+        },
+        {
+          "glyph": "fünf Vögel",
+          "name": "5"
+        },
+        {
+          "glyph": "Sonntag",
+          "name": "Sun"
+        },
+        {
+          "glyph": "Vielen Dank.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Bis morgen!",
+          "name": "tmrw"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie viele Äpfel?",
+          "options": [
+            "Fünf",
+            "Zwei",
+            "Drei",
+            "Zehn"
+          ],
+          "answer": "Fünf"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Der dritte Tag?",
+          "options": [
+            "Mittwoch",
+            "Dienstag",
+            "Freitag",
+            "Sonntag"
+          ],
+          "answer": "Mittwoch"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l33",
+      "title": "Wiederholung 26",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Dienstag",
+          "name": "Tue"
+        },
+        {
+          "glyph": "Es ist sehr kalt.",
+          "name": "cold"
+        },
+        {
+          "glyph": "Montag",
+          "name": "Mon"
+        },
+        {
+          "glyph": "Freitag",
+          "name": "Fri"
+        },
+        {
+          "glyph": "Sie schlafen.",
+          "name": "sleep"
+        },
+        {
+          "glyph": "Gute Nacht, Mama.",
+          "name": "night"
+        },
+        {
+          "glyph": "Hallo Freund!",
+          "name": "hello"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welches ist \"Hallo\"?",
+          "options": [
+            "Hallo Freund!",
+            "Danke",
+            "Bis morgen",
+            "Gute Nacht"
+          ],
+          "answer": "Hallo Freund!"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l34",
+      "title": "Wiederholung 27",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Mittwoch",
+          "name": "Wed"
+        },
+        {
+          "glyph": "Montag",
+          "name": "Mon"
+        },
+        {
+          "glyph": "Sie schlafen.",
+          "name": "sleep"
+        },
+        {
+          "glyph": "Dort fand er ein kleines Nest.",
+          "name": "l3"
+        },
+        {
+          "glyph": "Sonntag",
+          "name": "Sun"
+        },
+        {
+          "glyph": "Was kostet dieser Apfel?",
+          "name": "price"
+        },
+        {
+          "glyph": "Dienstag",
+          "name": "Tue"
+        },
+        {
+          "glyph": "ein Apfel",
+          "name": "1"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie viele Äpfel?",
+          "options": [
+            "Fünf",
+            "Zwei",
+            "Drei",
+            "Zehn"
+          ],
+          "answer": "Fünf"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l35",
+      "title": "Wiederholung 28",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "zwei Katzen",
+          "name": "2"
+        },
+        {
+          "glyph": "Mittwoch",
+          "name": "Wed"
+        },
+        {
+          "glyph": "Donnerstag",
+          "name": "Thu"
+        },
+        {
+          "glyph": "Er kostet zwei Euro.",
+          "name": "price"
+        },
+        {
+          "glyph": "Danke, hier ist Ihr Wechselgeld.",
+          "name": "done"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wo landete der Vogel?",
+          "options": [
+            "Auf einem hohen Baum",
+            "Im Fluss",
+            "Auf Sand",
+            "Auf Stein"
+          ],
+          "answer": "Auf einem hohen Baum"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welches ist \"Hallo\"?",
+          "options": [
+            "Hallo Freund!",
+            "Danke",
+            "Bis morgen",
+            "Gute Nacht"
+          ],
+          "answer": "Hallo Freund!"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l36",
+      "title": "Wiederholung 29",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Er landete auf einem hohen Baum.",
+          "name": "l2"
+        },
+        {
+          "glyph": "ein Apfel",
+          "name": "1"
+        },
+        {
+          "glyph": "Sonntag",
+          "name": "Sun"
+        },
+        {
+          "glyph": "Der Vogel flog über den Fluss.",
+          "name": "l1"
+        },
+        {
+          "glyph": "Es ist sehr kalt.",
+          "name": "cold"
+        },
+        {
+          "glyph": "fünf Vögel",
+          "name": "5"
+        },
+        {
+          "glyph": "zwei Katzen",
+          "name": "2"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welches ist \"Hallo\"?",
+          "options": [
+            "Hallo Freund!",
+            "Danke",
+            "Bis morgen",
+            "Gute Nacht"
+          ],
+          "answer": "Hallo Freund!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welches ist \"drei\"?",
+          "options": [
+            "drei Bälle",
+            "ein Apfel",
+            "fünf Vögel",
+            "vier Autos"
+          ],
+          "answer": "drei Bälle"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l37",
+      "title": "Wiederholung 30",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich nehme fünf Äpfel.",
+          "name": "buy"
+        },
+        {
+          "glyph": "zwei Katzen",
+          "name": "2"
+        },
+        {
+          "glyph": "Gute Nacht, Mama.",
+          "name": "night"
+        },
+        {
+          "glyph": "drei Bälle",
+          "name": "3"
+        },
+        {
+          "glyph": "Montag",
+          "name": "Mon"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welches ist \"drei\"?",
+          "options": [
+            "drei Bälle",
+            "ein Apfel",
+            "fünf Vögel",
+            "vier Autos"
+          ],
+          "answer": "drei Bälle"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welches ist Regen?",
+          "options": [
+            "Draußen regnet es.",
+            "Heute ist es sonnig.",
+            "Es ist sehr kalt.",
+            "Es ist windig."
+          ],
+          "answer": "Draußen regnet es."
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l38",
+      "title": "Wiederholung 31",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Sie liest.",
+          "name": "read"
+        },
+        {
+          "glyph": "vier Autos",
+          "name": "4"
+        },
+        {
+          "glyph": "Der Vogel flog über den Fluss.",
+          "name": "l1"
+        },
+        {
+          "glyph": "Wir essen.",
+          "name": "eat"
+        },
+        {
+          "glyph": "Sonntag",
+          "name": "Sun"
+        },
+        {
+          "glyph": "Mittwoch",
+          "name": "Wed"
+        },
+        {
+          "glyph": "Heute ist es sonnig.",
+          "name": "sun"
+        },
+        {
+          "glyph": "Sie schlafen.",
+          "name": "sleep"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wo landete der Vogel?",
+          "options": [
+            "Auf einem hohen Baum",
+            "Im Fluss",
+            "Auf Sand",
+            "Auf Stein"
+          ],
+          "answer": "Auf einem hohen Baum"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l39",
+      "title": "Wiederholung 32",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Es ist windig.",
+          "name": "wind"
+        },
+        {
+          "glyph": "Freitag",
+          "name": "Fri"
+        },
+        {
+          "glyph": "zwei Katzen",
+          "name": "2"
+        },
+        {
+          "glyph": "Wir essen.",
+          "name": "eat"
+        },
+        {
+          "glyph": "fünf Vögel",
+          "name": "5"
+        },
+        {
+          "glyph": "Montag",
+          "name": "Mon"
+        },
+        {
+          "glyph": "Er kostet zwei Euro.",
+          "name": "price"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welches ist \"drei\"?",
+          "options": [
+            "drei Bälle",
+            "ein Apfel",
+            "fünf Vögel",
+            "vier Autos"
+          ],
+          "answer": "drei Bälle"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welches ist \"Hallo\"?",
+          "options": [
+            "Hallo Freund!",
+            "Danke",
+            "Bis morgen",
+            "Gute Nacht"
+          ],
+          "answer": "Hallo Freund!"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l40",
+      "title": "Wiederholung 33",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Montag",
+          "name": "Mon"
+        },
+        {
+          "glyph": "Sie liest.",
+          "name": "read"
+        },
+        {
+          "glyph": "Er kostet zwei Euro.",
+          "name": "price"
+        },
+        {
+          "glyph": "fünf Vögel",
+          "name": "5"
+        },
+        {
+          "glyph": "Wir essen.",
+          "name": "eat"
+        },
+        {
+          "glyph": "Es ist sehr kalt.",
+          "name": "cold"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welches ist \"Hallo\"?",
+          "options": [
+            "Hallo Freund!",
+            "Danke",
+            "Bis morgen",
+            "Gute Nacht"
+          ],
+          "answer": "Hallo Freund!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie viele Äpfel?",
+          "options": [
+            "Fünf",
+            "Zwei",
+            "Drei",
+            "Zehn"
+          ],
+          "answer": "Fünf"
+        }
+      ]
     }
   ]
 }

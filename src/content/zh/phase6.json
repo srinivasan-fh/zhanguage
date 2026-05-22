@@ -354,6 +354,1498 @@
         }
       ],
       "quiz": []
+    },
+    {
+      "id": "zh-p6-l9",
+      "title": "复习 1",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "月",
+          "name": "trace"
+        },
+        {
+          "glyph": "跑",
+          "name": "trace"
+        },
+        {
+          "glyph": "灰",
+          "name": "trace"
+        },
+        {
+          "glyph": "妈",
+          "name": "trace"
+        },
+        {
+          "glyph": "山",
+          "name": "trace"
+        },
+        {
+          "glyph": "妹妹",
+          "name": "trace"
+        },
+        {
+          "glyph": "说",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "月",
+            "跑",
+            "灰",
+            "妈"
+          ],
+          "answer": "月"
+        }
+      ]
+    },
+    {
+      "id": "zh-p6-l10",
+      "title": "复习 2",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "妹妹",
+          "name": "trace"
+        },
+        {
+          "glyph": "妹",
+          "name": "trace"
+        },
+        {
+          "glyph": "水",
+          "name": "trace"
+        },
+        {
+          "glyph": "弟",
+          "name": "trace"
+        },
+        {
+          "glyph": "十七",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "妹妹",
+            "妹",
+            "水",
+            "弟"
+          ],
+          "answer": "妹妹"
+        }
+      ]
+    },
+    {
+      "id": "zh-p6-l11",
+      "title": "复习 3",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "山",
+          "name": "trace"
+        },
+        {
+          "glyph": "吃",
+          "name": "trace"
+        },
+        {
+          "glyph": "看",
+          "name": "trace"
+        },
+        {
+          "glyph": "哥哥",
+          "name": "trace"
+        },
+        {
+          "glyph": "五",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "山",
+            "吃",
+            "看",
+            "哥哥"
+          ],
+          "answer": "山"
+        }
+      ]
+    },
+    {
+      "id": "zh-p6-l12",
+      "title": "复习 4",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "妹",
+          "name": "trace"
+        },
+        {
+          "glyph": "黄",
+          "name": "trace"
+        },
+        {
+          "glyph": "十五",
+          "name": "trace"
+        },
+        {
+          "glyph": "火",
+          "name": "trace"
+        },
+        {
+          "glyph": "看",
+          "name": "trace"
+        },
+        {
+          "glyph": "蓝",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "妹",
+            "黄",
+            "十五",
+            "火"
+          ],
+          "answer": "妹"
+        }
+      ]
+    },
+    {
+      "id": "zh-p6-l13",
+      "title": "复习 5",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "木",
+          "name": "trace"
+        },
+        {
+          "glyph": "爸爸",
+          "name": "trace"
+        },
+        {
+          "glyph": "喝",
+          "name": "trace"
+        },
+        {
+          "glyph": "黑",
+          "name": "trace"
+        },
+        {
+          "glyph": "外婆",
+          "name": "trace"
+        },
+        {
+          "glyph": "粉",
+          "name": "trace"
+        },
+        {
+          "glyph": "水",
+          "name": "trace"
+        },
+        {
+          "glyph": "黄",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "木",
+            "爸爸",
+            "喝",
+            "黑"
+          ],
+          "answer": "木"
+        }
+      ]
+    },
+    {
+      "id": "zh-p6-l14",
+      "title": "复习 6",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "三",
+          "name": "trace"
+        },
+        {
+          "glyph": "木",
+          "name": "trace"
+        },
+        {
+          "glyph": "小",
+          "name": "trace"
+        },
+        {
+          "glyph": "弟弟",
+          "name": "trace"
+        },
+        {
+          "glyph": "黑",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "三",
+            "木",
+            "小",
+            "弟弟"
+          ],
+          "answer": "三"
+        }
+      ]
+    },
+    {
+      "id": "zh-p6-l15",
+      "title": "复习 7",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "十一",
+          "name": "trace"
+        },
+        {
+          "glyph": "七",
+          "name": "trace"
+        },
+        {
+          "glyph": "姐姐",
+          "name": "trace"
+        },
+        {
+          "glyph": "听",
+          "name": "trace"
+        },
+        {
+          "glyph": "二",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "十一",
+            "七",
+            "姐姐",
+            "听"
+          ],
+          "answer": "十一"
+        }
+      ]
+    },
+    {
+      "id": "zh-p6-l16",
+      "title": "复习 8",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "黄",
+          "name": "trace"
+        },
+        {
+          "glyph": "十八",
+          "name": "trace"
+        },
+        {
+          "glyph": "十七",
+          "name": "trace"
+        },
+        {
+          "glyph": "蓝",
+          "name": "trace"
+        },
+        {
+          "glyph": "人",
+          "name": "trace"
+        },
+        {
+          "glyph": "听",
+          "name": "trace"
+        },
+        {
+          "glyph": "十二",
+          "name": "trace"
+        },
+        {
+          "glyph": "二十",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "黄",
+            "十八",
+            "十七",
+            "蓝"
+          ],
+          "answer": "黄"
+        }
+      ]
+    },
+    {
+      "id": "zh-p6-l17",
+      "title": "复习 9",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "白",
+          "name": "trace"
+        },
+        {
+          "glyph": "姐",
+          "name": "trace"
+        },
+        {
+          "glyph": "十二",
+          "name": "trace"
+        },
+        {
+          "glyph": "十六",
+          "name": "trace"
+        },
+        {
+          "glyph": "水",
+          "name": "trace"
+        },
+        {
+          "glyph": "十四",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "白",
+            "姐",
+            "十二",
+            "十六"
+          ],
+          "answer": "白"
+        }
+      ]
+    },
+    {
+      "id": "zh-p6-l18",
+      "title": "复习 10",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "听",
+          "name": "trace"
+        },
+        {
+          "glyph": "妹",
+          "name": "trace"
+        },
+        {
+          "glyph": "红",
+          "name": "trace"
+        },
+        {
+          "glyph": "月",
+          "name": "trace"
+        },
+        {
+          "glyph": "黑",
+          "name": "trace"
+        },
+        {
+          "glyph": "姐",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "听",
+            "妹",
+            "红",
+            "月"
+          ],
+          "answer": "听"
+        }
+      ]
+    },
+    {
+      "id": "zh-p6-l19",
+      "title": "复习 11",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "小",
+          "name": "trace"
+        },
+        {
+          "glyph": "早安",
+          "name": "trace"
+        },
+        {
+          "glyph": "火",
+          "name": "trace"
+        },
+        {
+          "glyph": "木",
+          "name": "trace"
+        },
+        {
+          "glyph": "喝",
+          "name": "trace"
+        },
+        {
+          "glyph": "五",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "小",
+            "早安",
+            "火",
+            "木"
+          ],
+          "answer": "小"
+        }
+      ]
+    },
+    {
+      "id": "zh-p6-l20",
+      "title": "复习 12",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "弟",
+          "name": "trace"
+        },
+        {
+          "glyph": "大",
+          "name": "trace"
+        },
+        {
+          "glyph": "听",
+          "name": "trace"
+        },
+        {
+          "glyph": "三",
+          "name": "trace"
+        },
+        {
+          "glyph": "妹",
+          "name": "trace"
+        },
+        {
+          "glyph": "口",
+          "name": "trace"
+        },
+        {
+          "glyph": "七",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "弟",
+            "大",
+            "听",
+            "三"
+          ],
+          "answer": "弟"
+        }
+      ]
+    },
+    {
+      "id": "zh-p6-l21",
+      "title": "复习 13",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "睡",
+          "name": "trace"
+        },
+        {
+          "glyph": "橙",
+          "name": "trace"
+        },
+        {
+          "glyph": "二十",
+          "name": "trace"
+        },
+        {
+          "glyph": "早安",
+          "name": "trace"
+        },
+        {
+          "glyph": "再见",
+          "name": "trace"
+        },
+        {
+          "glyph": "姐姐",
+          "name": "trace"
+        },
+        {
+          "glyph": "听",
+          "name": "trace"
+        },
+        {
+          "glyph": "十一",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "睡",
+            "橙",
+            "二十",
+            "早安"
+          ],
+          "answer": "睡"
+        }
+      ]
+    },
+    {
+      "id": "zh-p6-l22",
+      "title": "复习 14",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "白",
+          "name": "trace"
+        },
+        {
+          "glyph": "听",
+          "name": "trace"
+        },
+        {
+          "glyph": "七",
+          "name": "trace"
+        },
+        {
+          "glyph": "十九",
+          "name": "trace"
+        },
+        {
+          "glyph": "水",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "白",
+            "听",
+            "七",
+            "十九"
+          ],
+          "answer": "白"
+        }
+      ]
+    },
+    {
+      "id": "zh-p6-l23",
+      "title": "复习 15",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "爷爷",
+          "name": "trace"
+        },
+        {
+          "glyph": "十六",
+          "name": "trace"
+        },
+        {
+          "glyph": "弟弟",
+          "name": "trace"
+        },
+        {
+          "glyph": "看",
+          "name": "trace"
+        },
+        {
+          "glyph": "十二",
+          "name": "trace"
+        },
+        {
+          "glyph": "妈妈",
+          "name": "trace"
+        },
+        {
+          "glyph": "七",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "爷爷",
+            "十六",
+            "弟弟",
+            "看"
+          ],
+          "answer": "爷爷"
+        }
+      ]
+    },
+    {
+      "id": "zh-p6-l24",
+      "title": "复习 16",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "六",
+          "name": "trace"
+        },
+        {
+          "glyph": "一",
+          "name": "trace"
+        },
+        {
+          "glyph": "七",
+          "name": "trace"
+        },
+        {
+          "glyph": "爸爸",
+          "name": "trace"
+        },
+        {
+          "glyph": "谢谢",
+          "name": "trace"
+        },
+        {
+          "glyph": "十七",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "六",
+            "一",
+            "七",
+            "爸爸"
+          ],
+          "answer": "六"
+        }
+      ]
+    },
+    {
+      "id": "zh-p6-l25",
+      "title": "复习 17",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "十六",
+          "name": "trace"
+        },
+        {
+          "glyph": "日",
+          "name": "trace"
+        },
+        {
+          "glyph": "说",
+          "name": "trace"
+        },
+        {
+          "glyph": "姐",
+          "name": "trace"
+        },
+        {
+          "glyph": "十三",
+          "name": "trace"
+        },
+        {
+          "glyph": "蓝",
+          "name": "trace"
+        },
+        {
+          "glyph": "爷爷",
+          "name": "trace"
+        },
+        {
+          "glyph": "爸",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "十六",
+            "日",
+            "说",
+            "姐"
+          ],
+          "answer": "十六"
+        }
+      ]
+    },
+    {
+      "id": "zh-p6-l26",
+      "title": "复习 18",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "水",
+          "name": "trace"
+        },
+        {
+          "glyph": "日",
+          "name": "trace"
+        },
+        {
+          "glyph": "二",
+          "name": "trace"
+        },
+        {
+          "glyph": "木",
+          "name": "trace"
+        },
+        {
+          "glyph": "哥哥",
+          "name": "trace"
+        },
+        {
+          "glyph": "爷爷",
+          "name": "trace"
+        },
+        {
+          "glyph": "黑",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "水",
+            "日",
+            "二",
+            "木"
+          ],
+          "answer": "水"
+        }
+      ]
+    },
+    {
+      "id": "zh-p6-l27",
+      "title": "复习 19",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "十一",
+          "name": "trace"
+        },
+        {
+          "glyph": "十六",
+          "name": "trace"
+        },
+        {
+          "glyph": "你好",
+          "name": "trace"
+        },
+        {
+          "glyph": "外婆",
+          "name": "trace"
+        },
+        {
+          "glyph": "口",
+          "name": "trace"
+        },
+        {
+          "glyph": "月",
+          "name": "trace"
+        },
+        {
+          "glyph": "木",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "十一",
+            "十六",
+            "你好",
+            "外婆"
+          ],
+          "answer": "十一"
+        }
+      ]
+    },
+    {
+      "id": "zh-p6-l28",
+      "title": "复习 20",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "六",
+          "name": "trace"
+        },
+        {
+          "glyph": "弟",
+          "name": "trace"
+        },
+        {
+          "glyph": "跳",
+          "name": "trace"
+        },
+        {
+          "glyph": "日",
+          "name": "trace"
+        },
+        {
+          "glyph": "十",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "六",
+            "弟",
+            "跳",
+            "日"
+          ],
+          "answer": "六"
+        }
+      ]
+    },
+    {
+      "id": "zh-p6-l29",
+      "title": "复习 21",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "十九",
+          "name": "trace"
+        },
+        {
+          "glyph": "红",
+          "name": "trace"
+        },
+        {
+          "glyph": "妹",
+          "name": "trace"
+        },
+        {
+          "glyph": "小",
+          "name": "trace"
+        },
+        {
+          "glyph": "六",
+          "name": "trace"
+        },
+        {
+          "glyph": "木",
+          "name": "trace"
+        },
+        {
+          "glyph": "弟",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "十九",
+            "红",
+            "妹",
+            "小"
+          ],
+          "answer": "十九"
+        }
+      ]
+    },
+    {
+      "id": "zh-p6-l30",
+      "title": "复习 22",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "十三",
+          "name": "trace"
+        },
+        {
+          "glyph": "弟弟",
+          "name": "trace"
+        },
+        {
+          "glyph": "爷爷",
+          "name": "trace"
+        },
+        {
+          "glyph": "跳",
+          "name": "trace"
+        },
+        {
+          "glyph": "火",
+          "name": "trace"
+        },
+        {
+          "glyph": "说",
+          "name": "trace"
+        },
+        {
+          "glyph": "九",
+          "name": "trace"
+        },
+        {
+          "glyph": "十一",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "十三",
+            "弟弟",
+            "爷爷",
+            "跳"
+          ],
+          "answer": "十三"
+        }
+      ]
+    },
+    {
+      "id": "zh-p6-l31",
+      "title": "复习 23",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "橙",
+          "name": "trace"
+        },
+        {
+          "glyph": "黑",
+          "name": "trace"
+        },
+        {
+          "glyph": "三",
+          "name": "trace"
+        },
+        {
+          "glyph": "爸",
+          "name": "trace"
+        },
+        {
+          "glyph": "十六",
+          "name": "trace"
+        },
+        {
+          "glyph": "木",
+          "name": "trace"
+        },
+        {
+          "glyph": "十八",
+          "name": "trace"
+        },
+        {
+          "glyph": "粉",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "橙",
+            "黑",
+            "三",
+            "爸"
+          ],
+          "answer": "橙"
+        }
+      ]
+    },
+    {
+      "id": "zh-p6-l32",
+      "title": "复习 24",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "弟",
+          "name": "trace"
+        },
+        {
+          "glyph": "吃",
+          "name": "trace"
+        },
+        {
+          "glyph": "绿",
+          "name": "trace"
+        },
+        {
+          "glyph": "灰",
+          "name": "trace"
+        },
+        {
+          "glyph": "白",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "弟",
+            "吃",
+            "绿",
+            "灰"
+          ],
+          "answer": "弟"
+        }
+      ]
+    },
+    {
+      "id": "zh-p6-l33",
+      "title": "复习 25",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "爸",
+          "name": "trace"
+        },
+        {
+          "glyph": "跑",
+          "name": "trace"
+        },
+        {
+          "glyph": "白",
+          "name": "trace"
+        },
+        {
+          "glyph": "外婆",
+          "name": "trace"
+        },
+        {
+          "glyph": "喝",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "爸",
+            "跑",
+            "白",
+            "外婆"
+          ],
+          "answer": "爸"
+        }
+      ]
+    },
+    {
+      "id": "zh-p6-l34",
+      "title": "复习 26",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "你好",
+          "name": "trace"
+        },
+        {
+          "glyph": "姐",
+          "name": "trace"
+        },
+        {
+          "glyph": "一",
+          "name": "trace"
+        },
+        {
+          "glyph": "妈",
+          "name": "trace"
+        },
+        {
+          "glyph": "谢谢",
+          "name": "trace"
+        },
+        {
+          "glyph": "二",
+          "name": "trace"
+        },
+        {
+          "glyph": "坐",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "你好",
+            "姐",
+            "一",
+            "妈"
+          ],
+          "answer": "你好"
+        }
+      ]
+    },
+    {
+      "id": "zh-p6-l35",
+      "title": "复习 27",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "十九",
+          "name": "trace"
+        },
+        {
+          "glyph": "再见",
+          "name": "trace"
+        },
+        {
+          "glyph": "十八",
+          "name": "trace"
+        },
+        {
+          "glyph": "十五",
+          "name": "trace"
+        },
+        {
+          "glyph": "火",
+          "name": "trace"
+        },
+        {
+          "glyph": "爸",
+          "name": "trace"
+        },
+        {
+          "glyph": "灰",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "十九",
+            "再见",
+            "十八",
+            "十五"
+          ],
+          "answer": "十九"
+        }
+      ]
+    },
+    {
+      "id": "zh-p6-l36",
+      "title": "复习 28",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "灰",
+          "name": "trace"
+        },
+        {
+          "glyph": "十一",
+          "name": "trace"
+        },
+        {
+          "glyph": "十八",
+          "name": "trace"
+        },
+        {
+          "glyph": "六",
+          "name": "trace"
+        },
+        {
+          "glyph": "大",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "灰",
+            "十一",
+            "十八",
+            "六"
+          ],
+          "answer": "灰"
+        }
+      ]
+    },
+    {
+      "id": "zh-p6-l37",
+      "title": "复习 29",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "山",
+          "name": "trace"
+        },
+        {
+          "glyph": "十五",
+          "name": "trace"
+        },
+        {
+          "glyph": "七",
+          "name": "trace"
+        },
+        {
+          "glyph": "十二",
+          "name": "trace"
+        },
+        {
+          "glyph": "你好",
+          "name": "trace"
+        },
+        {
+          "glyph": "水",
+          "name": "trace"
+        },
+        {
+          "glyph": "一",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "山",
+            "十五",
+            "七",
+            "十二"
+          ],
+          "answer": "山"
+        }
+      ]
+    },
+    {
+      "id": "zh-p6-l38",
+      "title": "复习 30",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "奶奶",
+          "name": "trace"
+        },
+        {
+          "glyph": "爸爸",
+          "name": "trace"
+        },
+        {
+          "glyph": "人",
+          "name": "trace"
+        },
+        {
+          "glyph": "十四",
+          "name": "trace"
+        },
+        {
+          "glyph": "山",
+          "name": "trace"
+        },
+        {
+          "glyph": "睡",
+          "name": "trace"
+        },
+        {
+          "glyph": "十八",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "奶奶",
+            "爸爸",
+            "人",
+            "十四"
+          ],
+          "answer": "奶奶"
+        }
+      ]
+    },
+    {
+      "id": "zh-p6-l39",
+      "title": "复习 31",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "八",
+          "name": "trace"
+        },
+        {
+          "glyph": "二",
+          "name": "trace"
+        },
+        {
+          "glyph": "妹妹",
+          "name": "trace"
+        },
+        {
+          "glyph": "再见",
+          "name": "trace"
+        },
+        {
+          "glyph": "十六",
+          "name": "trace"
+        },
+        {
+          "glyph": "哥",
+          "name": "trace"
+        },
+        {
+          "glyph": "十三",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "八",
+            "二",
+            "妹妹",
+            "再见"
+          ],
+          "answer": "八"
+        }
+      ]
+    },
+    {
+      "id": "zh-p6-l40",
+      "title": "复习 32",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "灰",
+          "name": "trace"
+        },
+        {
+          "glyph": "月",
+          "name": "trace"
+        },
+        {
+          "glyph": "外公",
+          "name": "trace"
+        },
+        {
+          "glyph": "十三",
+          "name": "trace"
+        },
+        {
+          "glyph": "你好",
+          "name": "trace"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one is trace?",
+          "options": [
+            "灰",
+            "月",
+            "外公",
+            "十三"
+          ],
+          "answer": "灰"
+        }
+      ]
     }
   ]
 }

@@ -281,6 +281,1812 @@
           "answer": "wants food"
         }
       ]
+    },
+    {
+      "id": "hi-p8-l8",
+      "title": "समीक्षा 1",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "यह बहुत स्वादिष्ट है!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "बहुत-बहुत धन्यवाद!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "मैं चेन्नई में रहता हूँ।",
+          "name": "a"
+        },
+        {
+          "glyph": "A: मैं आज खुश हूँ।",
+          "name": ""
+        },
+        {
+          "glyph": "मेरा नाम तारा है।",
+          "name": "a"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"आप कैसे हैं?\" का उत्तर?",
+          "options": [
+            "मैं ठीक हूँ",
+            "नमस्ते",
+            "धन्यवाद",
+            "अलविदा"
+          ],
+          "answer": "मैं ठीक हूँ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"तुम्हारा नाम क्या है?\" का उत्तर?",
+          "options": [
+            "मेरा नाम तारा है।",
+            "मैं ठीक हूँ",
+            "धन्यवाद",
+            "अलविदा"
+          ],
+          "answer": "मेरा नाम तारा है।"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l9",
+      "title": "समीक्षा 2",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B: बहुत अच्छा!",
+          "name": ""
+        },
+        {
+          "glyph": "क्षमा कीजिए, क्या आप मदद करेंगे?",
+          "name": "help"
+        },
+        {
+          "glyph": "मैं थोड़ा उदास हूँ।",
+          "name": "feeling"
+        },
+        {
+          "glyph": "मुझे मदद चाहिए।",
+          "name": "need"
+        },
+        {
+          "glyph": "मैं चेन्नई में रहता हूँ।",
+          "name": "a"
+        },
+        {
+          "glyph": "तुम कहाँ रहते हो?",
+          "name": "q"
+        },
+        {
+          "glyph": "क्या मुझे रोटी मिल सकती है?",
+          "name": "request"
+        },
+        {
+          "glyph": "मुझे समझ नहीं आया।",
+          "name": "clarify"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"पेट भर गया\" का मतलब?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "please water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"मुझे पानी चाहिए\" का अर्थ?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l10",
+      "title": "समीक्षा 3",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "मुझे फल पसंद हैं।",
+          "name": "like"
+        },
+        {
+          "glyph": "यह बहुत स्वादिष्ट है!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "क्षमा कीजिए, क्या आप मदद करेंगे?",
+          "name": "help"
+        },
+        {
+          "glyph": "B: नमस्ते! कैसे हो?",
+          "name": ""
+        },
+        {
+          "glyph": "मुझे समझ नहीं आया।",
+          "name": "clarify"
+        },
+        {
+          "glyph": "धन्यवाद।",
+          "name": "thanks"
+        },
+        {
+          "glyph": "B: बहुत अच्छा!",
+          "name": ""
+        },
+        {
+          "glyph": "मेरा पेट भर गया, धन्यवाद।",
+          "name": "reply"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"आप कैसे हैं?\" का उत्तर?",
+          "options": [
+            "मैं ठीक हूँ",
+            "नमस्ते",
+            "धन्यवाद",
+            "अलविदा"
+          ],
+          "answer": "मैं ठीक हूँ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"तुम्हारा नाम क्या है?\" का उत्तर?",
+          "options": [
+            "मेरा नाम तारा है।",
+            "मैं ठीक हूँ",
+            "धन्यवाद",
+            "अलविदा"
+          ],
+          "answer": "मेरा नाम तारा है।"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l11",
+      "title": "समीक्षा 4",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "मैं ठीक हूँ।",
+          "name": "reply"
+        },
+        {
+          "glyph": "A: नमस्ते दोस्त!",
+          "name": ""
+        },
+        {
+          "glyph": "अलविदा!",
+          "name": "bye"
+        },
+        {
+          "glyph": "सुप्रभात!",
+          "name": "am greet"
+        },
+        {
+          "glyph": "B: नमस्ते! कैसे हो?",
+          "name": ""
+        },
+        {
+          "glyph": "तुम कहाँ रहते हो?",
+          "name": "q"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"समझ नहीं आया\" अर्थ?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l12",
+      "title": "समीक्षा 5",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "बहुत-बहुत धन्यवाद!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "मेरा नाम तारा है।",
+          "name": "a"
+        },
+        {
+          "glyph": "मैं आज खुश हूँ।",
+          "name": "feeling"
+        },
+        {
+          "glyph": "मैं थोड़ा उदास हूँ।",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: नमस्ते! कैसे हो?",
+          "name": ""
+        },
+        {
+          "glyph": "सुप्रभात!",
+          "name": "am greet"
+        },
+        {
+          "glyph": "A: नमस्ते दोस्त!",
+          "name": ""
+        },
+        {
+          "glyph": "मुझे तीखा पसंद नहीं।",
+          "name": "dislike"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "आज खुश कौन है?",
+          "options": [
+            "A",
+            "B",
+            "माँ",
+            "दोस्त"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"भूख लगी है\" मतलब?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l13",
+      "title": "समीक्षा 6",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "मैं चेन्नई में रहता हूँ।",
+          "name": "a"
+        },
+        {
+          "glyph": "मेरा नाम तारा है।",
+          "name": "a"
+        },
+        {
+          "glyph": "क्या मैं उठ सकता हूँ?",
+          "name": "polite"
+        },
+        {
+          "glyph": "अलविदा!",
+          "name": "bye"
+        },
+        {
+          "glyph": "मुझे मदद चाहिए।",
+          "name": "need"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"तुम्हारा नाम क्या है?\" का उत्तर?",
+          "options": [
+            "मेरा नाम तारा है।",
+            "मैं ठीक हूँ",
+            "धन्यवाद",
+            "अलविदा"
+          ],
+          "answer": "मेरा नाम तारा है।"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"भूख लगी है\" मतलब?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l14",
+      "title": "समीक्षा 7",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "मुझे मदद चाहिए।",
+          "name": "need"
+        },
+        {
+          "glyph": "नमस्ते!",
+          "name": "greet"
+        },
+        {
+          "glyph": "A: मैं आज खुश हूँ।",
+          "name": ""
+        },
+        {
+          "glyph": "मुझे समझ नहीं आया।",
+          "name": "clarify"
+        },
+        {
+          "glyph": "कृपया पानी दीजिए।",
+          "name": "request"
+        },
+        {
+          "glyph": "अलविदा!",
+          "name": "bye"
+        },
+        {
+          "glyph": "मुझे भूख लगी है।",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"तुम्हारा नाम क्या है?\" का उत्तर?",
+          "options": [
+            "मेरा नाम तारा है।",
+            "मैं ठीक हूँ",
+            "धन्यवाद",
+            "अलविदा"
+          ],
+          "answer": "मेरा नाम तारा है।"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l15",
+      "title": "समीक्षा 8",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "तुम्हारा नाम क्या है?",
+          "name": "q"
+        },
+        {
+          "glyph": "मेरा पेट भर गया, धन्यवाद।",
+          "name": "reply"
+        },
+        {
+          "glyph": "नमस्ते!",
+          "name": "greet"
+        },
+        {
+          "glyph": "मैं चेन्नई में रहता हूँ।",
+          "name": "a"
+        },
+        {
+          "glyph": "मैं थका हुआ हूँ।",
+          "name": "feeling"
+        },
+        {
+          "glyph": "मैं आज खुश हूँ।",
+          "name": "feeling"
+        },
+        {
+          "glyph": "मैं ठीक हूँ।",
+          "name": "reply"
+        },
+        {
+          "glyph": "मुझे पानी चाहिए।",
+          "name": "want"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"पेट भर गया\" का मतलब?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "please water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"आप कैसे हैं?\" का उत्तर?",
+          "options": [
+            "मैं ठीक हूँ",
+            "नमस्ते",
+            "धन्यवाद",
+            "अलविदा"
+          ],
+          "answer": "मैं ठीक हूँ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l16",
+      "title": "समीक्षा 9",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "मैं चेन्नई में रहता हूँ।",
+          "name": "a"
+        },
+        {
+          "glyph": "सुप्रभात!",
+          "name": "am greet"
+        },
+        {
+          "glyph": "आप कैसे हैं?",
+          "name": "question"
+        },
+        {
+          "glyph": "A: नमस्ते दोस्त!",
+          "name": ""
+        },
+        {
+          "glyph": "मैं रास्ता भूल गया।",
+          "name": "lost"
+        },
+        {
+          "glyph": "क्या मैं उठ सकता हूँ?",
+          "name": "polite"
+        },
+        {
+          "glyph": "मेरा पेट भर गया, धन्यवाद।",
+          "name": "reply"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "आज खुश कौन है?",
+          "options": [
+            "A",
+            "B",
+            "माँ",
+            "दोस्त"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"समझ नहीं आया\" अर्थ?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l17",
+      "title": "समीक्षा 10",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "नमस्ते!",
+          "name": "greet"
+        },
+        {
+          "glyph": "मेरा पेट भर गया, धन्यवाद।",
+          "name": "reply"
+        },
+        {
+          "glyph": "सुप्रभात!",
+          "name": "am greet"
+        },
+        {
+          "glyph": "यह बहुत स्वादिष्ट है!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "क्या मुझे रोटी मिल सकती है?",
+          "name": "request"
+        },
+        {
+          "glyph": "A: नमस्ते दोस्त!",
+          "name": ""
+        },
+        {
+          "glyph": "मुझे फल पसंद हैं।",
+          "name": "like"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"तुम्हारा नाम क्या है?\" का उत्तर?",
+          "options": [
+            "मेरा नाम तारा है।",
+            "मैं ठीक हूँ",
+            "धन्यवाद",
+            "अलविदा"
+          ],
+          "answer": "मेरा नाम तारा है।"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l18",
+      "title": "समीक्षा 11",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "कृपया पानी दीजिए।",
+          "name": "request"
+        },
+        {
+          "glyph": "यह बहुत स्वादिष्ट है!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "मैं ठीक हूँ।",
+          "name": "reply"
+        },
+        {
+          "glyph": "धन्यवाद।",
+          "name": "thanks"
+        },
+        {
+          "glyph": "मुझे समझ नहीं आया।",
+          "name": "clarify"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "आज खुश कौन है?",
+          "options": [
+            "A",
+            "B",
+            "माँ",
+            "दोस्त"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l19",
+      "title": "समीक्षा 12",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "मुझे तीखा पसंद नहीं।",
+          "name": "dislike"
+        },
+        {
+          "glyph": "B: नमस्ते! कैसे हो?",
+          "name": ""
+        },
+        {
+          "glyph": "मैं बहुत उत्साहित हूँ!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "मुझे समझ नहीं आया।",
+          "name": "clarify"
+        },
+        {
+          "glyph": "बहुत-बहुत धन्यवाद!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "मुझे पानी चाहिए।",
+          "name": "want"
+        },
+        {
+          "glyph": "आप कैसे हैं?",
+          "name": "question"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"भूख लगी है\" मतलब?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l20",
+      "title": "समीक्षा 13",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "मुझे फल पसंद हैं।",
+          "name": "like"
+        },
+        {
+          "glyph": "मुझे समझ नहीं आया।",
+          "name": "clarify"
+        },
+        {
+          "glyph": "मैं थका हुआ हूँ।",
+          "name": "feeling"
+        },
+        {
+          "glyph": "मुझे पानी चाहिए।",
+          "name": "want"
+        },
+        {
+          "glyph": "मैं चेन्नई में रहता हूँ।",
+          "name": "a"
+        },
+        {
+          "glyph": "यह बहुत स्वादिष्ट है!",
+          "name": "compliment"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"आप कैसे हैं?\" का उत्तर?",
+          "options": [
+            "मैं ठीक हूँ",
+            "नमस्ते",
+            "धन्यवाद",
+            "अलविदा"
+          ],
+          "answer": "मैं ठीक हूँ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l21",
+      "title": "समीक्षा 14",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "मैं थका हुआ हूँ।",
+          "name": "feeling"
+        },
+        {
+          "glyph": "बहुत-बहुत धन्यवाद!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "क्षमा कीजिए, क्या आप मदद करेंगे?",
+          "name": "help"
+        },
+        {
+          "glyph": "क्या आप फिर से कहेंगे?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "मैं चेन्नई में रहता हूँ।",
+          "name": "a"
+        },
+        {
+          "glyph": "मेरा पेट भर गया, धन्यवाद।",
+          "name": "reply"
+        },
+        {
+          "glyph": "क्या मुझे रोटी मिल सकती है?",
+          "name": "request"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"मुझे पानी चाहिए\" का अर्थ?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l22",
+      "title": "समीक्षा 15",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "क्षमा कीजिए, क्या आप मदद करेंगे?",
+          "name": "help"
+        },
+        {
+          "glyph": "मुझे भूख लगी है।",
+          "name": "feeling"
+        },
+        {
+          "glyph": "मुझे पानी चाहिए।",
+          "name": "want"
+        },
+        {
+          "glyph": "मैं थका हुआ हूँ।",
+          "name": "feeling"
+        },
+        {
+          "glyph": "मैं आज खुश हूँ।",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "आज खुश कौन है?",
+          "options": [
+            "A",
+            "B",
+            "माँ",
+            "दोस्त"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"मुझे पानी चाहिए\" का अर्थ?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l23",
+      "title": "समीक्षा 16",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "अलविदा!",
+          "name": "bye"
+        },
+        {
+          "glyph": "बहुत-बहुत धन्यवाद!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "क्या आप फिर से कहेंगे?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "मुझे तीखा पसंद नहीं।",
+          "name": "dislike"
+        },
+        {
+          "glyph": "क्या मुझे रोटी मिल सकती है?",
+          "name": "request"
+        },
+        {
+          "glyph": "मुझे भूख लगी है।",
+          "name": "feeling"
+        },
+        {
+          "glyph": "मुझे मदद चाहिए।",
+          "name": "need"
+        },
+        {
+          "glyph": "यह बहुत स्वादिष्ट है!",
+          "name": "compliment"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"आप कैसे हैं?\" का उत्तर?",
+          "options": [
+            "मैं ठीक हूँ",
+            "नमस्ते",
+            "धन्यवाद",
+            "अलविदा"
+          ],
+          "answer": "मैं ठीक हूँ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"भूख लगी है\" मतलब?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l24",
+      "title": "समीक्षा 17",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "मैं थोड़ा उदास हूँ।",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: नमस्ते दोस्त!",
+          "name": ""
+        },
+        {
+          "glyph": "यह बहुत स्वादिष्ट है!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "मेरा पेट भर गया, धन्यवाद।",
+          "name": "reply"
+        },
+        {
+          "glyph": "क्या मैं उठ सकता हूँ?",
+          "name": "polite"
+        },
+        {
+          "glyph": "धन्यवाद।",
+          "name": "thanks"
+        },
+        {
+          "glyph": "B: नमस्ते! कैसे हो?",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"मुझे पानी चाहिए\" का अर्थ?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l25",
+      "title": "समीक्षा 18",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "बहुत-बहुत धन्यवाद!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "अलविदा!",
+          "name": "bye"
+        },
+        {
+          "glyph": "मैं थोड़ा उदास हूँ।",
+          "name": "feeling"
+        },
+        {
+          "glyph": "क्या आप फिर से कहेंगे?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "B: नमस्ते! कैसे हो?",
+          "name": ""
+        },
+        {
+          "glyph": "मैं चेन्नई में रहता हूँ।",
+          "name": "a"
+        },
+        {
+          "glyph": "धन्यवाद।",
+          "name": "thanks"
+        },
+        {
+          "glyph": "मैं रास्ता भूल गया।",
+          "name": "lost"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"भूख लगी है\" मतलब?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"तुम्हारा नाम क्या है?\" का उत्तर?",
+          "options": [
+            "मेरा नाम तारा है।",
+            "मैं ठीक हूँ",
+            "धन्यवाद",
+            "अलविदा"
+          ],
+          "answer": "मेरा नाम तारा है।"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l26",
+      "title": "समीक्षा 19",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "कृपया पानी दीजिए।",
+          "name": "request"
+        },
+        {
+          "glyph": "मैं ठीक हूँ।",
+          "name": "reply"
+        },
+        {
+          "glyph": "B: बहुत अच्छा!",
+          "name": ""
+        },
+        {
+          "glyph": "आप कैसे हैं?",
+          "name": "question"
+        },
+        {
+          "glyph": "सुप्रभात!",
+          "name": "am greet"
+        },
+        {
+          "glyph": "A: मैं आज खुश हूँ।",
+          "name": ""
+        },
+        {
+          "glyph": "मैं थका हुआ हूँ।",
+          "name": "feeling"
+        },
+        {
+          "glyph": "बहुत-बहुत धन्यवाद!",
+          "name": "thanks"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "आज खुश कौन है?",
+          "options": [
+            "A",
+            "B",
+            "माँ",
+            "दोस्त"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"आप कैसे हैं?\" का उत्तर?",
+          "options": [
+            "मैं ठीक हूँ",
+            "नमस्ते",
+            "धन्यवाद",
+            "अलविदा"
+          ],
+          "answer": "मैं ठीक हूँ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l27",
+      "title": "समीक्षा 20",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A: मैं आज खुश हूँ।",
+          "name": ""
+        },
+        {
+          "glyph": "क्या मैं उठ सकता हूँ?",
+          "name": "polite"
+        },
+        {
+          "glyph": "तुम कहाँ रहते हो?",
+          "name": "q"
+        },
+        {
+          "glyph": "कृपया पानी दीजिए।",
+          "name": "request"
+        },
+        {
+          "glyph": "आप कैसे हैं?",
+          "name": "question"
+        },
+        {
+          "glyph": "मुझे समझ नहीं आया।",
+          "name": "clarify"
+        },
+        {
+          "glyph": "मुझे भूख लगी है।",
+          "name": "feeling"
+        },
+        {
+          "glyph": "नमस्ते!",
+          "name": "greet"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"समझ नहीं आया\" अर्थ?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l28",
+      "title": "समीक्षा 21",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "मुझे तीखा पसंद नहीं।",
+          "name": "dislike"
+        },
+        {
+          "glyph": "मुझे भूख लगी है।",
+          "name": "feeling"
+        },
+        {
+          "glyph": "मैं रास्ता भूल गया।",
+          "name": "lost"
+        },
+        {
+          "glyph": "मुझे पानी चाहिए।",
+          "name": "want"
+        },
+        {
+          "glyph": "सुप्रभात!",
+          "name": "am greet"
+        },
+        {
+          "glyph": "आप कैसे हैं?",
+          "name": "question"
+        },
+        {
+          "glyph": "मुझे मदद चाहिए।",
+          "name": "need"
+        },
+        {
+          "glyph": "क्या मैं उठ सकता हूँ?",
+          "name": "polite"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"मुझे पानी चाहिए\" का अर्थ?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"पेट भर गया\" का मतलब?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "please water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l29",
+      "title": "समीक्षा 22",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "मैं आज खुश हूँ।",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: मैं आज खुश हूँ।",
+          "name": ""
+        },
+        {
+          "glyph": "मुझे फल पसंद हैं।",
+          "name": "like"
+        },
+        {
+          "glyph": "मैं थोड़ा उदास हूँ।",
+          "name": "feeling"
+        },
+        {
+          "glyph": "बहुत-बहुत धन्यवाद!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "क्या आप फिर से कहेंगे?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "अलविदा!",
+          "name": "bye"
+        },
+        {
+          "glyph": "तुम्हारा नाम क्या है?",
+          "name": "q"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"आप कैसे हैं?\" का उत्तर?",
+          "options": [
+            "मैं ठीक हूँ",
+            "नमस्ते",
+            "धन्यवाद",
+            "अलविदा"
+          ],
+          "answer": "मैं ठीक हूँ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l30",
+      "title": "समीक्षा 23",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "तुम्हारा नाम क्या है?",
+          "name": "q"
+        },
+        {
+          "glyph": "बहुत-बहुत धन्यवाद!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "B: बहुत अच्छा!",
+          "name": ""
+        },
+        {
+          "glyph": "नमस्ते!",
+          "name": "greet"
+        },
+        {
+          "glyph": "मैं थोड़ा उदास हूँ।",
+          "name": "feeling"
+        },
+        {
+          "glyph": "मुझे पानी चाहिए।",
+          "name": "want"
+        },
+        {
+          "glyph": "मैं ठीक हूँ।",
+          "name": "reply"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"तुम्हारा नाम क्या है?\" का उत्तर?",
+          "options": [
+            "मेरा नाम तारा है।",
+            "मैं ठीक हूँ",
+            "धन्यवाद",
+            "अलविदा"
+          ],
+          "answer": "मेरा नाम तारा है।"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l31",
+      "title": "समीक्षा 24",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "मैं थोड़ा उदास हूँ।",
+          "name": "feeling"
+        },
+        {
+          "glyph": "क्या आप फिर से कहेंगे?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "बहुत-बहुत धन्यवाद!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "मेरा पेट भर गया, धन्यवाद।",
+          "name": "reply"
+        },
+        {
+          "glyph": "क्षमा कीजिए, क्या आप मदद करेंगे?",
+          "name": "help"
+        },
+        {
+          "glyph": "क्या मुझे रोटी मिल सकती है?",
+          "name": "request"
+        },
+        {
+          "glyph": "मैं आज खुश हूँ।",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: नमस्ते! कैसे हो?",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"पेट भर गया\" का मतलब?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "please water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"भूख लगी है\" मतलब?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l32",
+      "title": "समीक्षा 25",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "क्या आप फिर से कहेंगे?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "क्या मुझे रोटी मिल सकती है?",
+          "name": "request"
+        },
+        {
+          "glyph": "आप कैसे हैं?",
+          "name": "question"
+        },
+        {
+          "glyph": "धन्यवाद।",
+          "name": "thanks"
+        },
+        {
+          "glyph": "मैं थोड़ा उदास हूँ।",
+          "name": "feeling"
+        },
+        {
+          "glyph": "नमस्ते!",
+          "name": "greet"
+        },
+        {
+          "glyph": "तुम्हारा नाम क्या है?",
+          "name": "q"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"भूख लगी है\" मतलब?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l33",
+      "title": "समीक्षा 26",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "मुझे पानी चाहिए।",
+          "name": "want"
+        },
+        {
+          "glyph": "सुप्रभात!",
+          "name": "am greet"
+        },
+        {
+          "glyph": "मुझे मदद चाहिए।",
+          "name": "need"
+        },
+        {
+          "glyph": "मैं बहुत उत्साहित हूँ!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "मैं चेन्नई में रहता हूँ।",
+          "name": "a"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "आज खुश कौन है?",
+          "options": [
+            "A",
+            "B",
+            "माँ",
+            "दोस्त"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l34",
+      "title": "समीक्षा 27",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "अलविदा!",
+          "name": "bye"
+        },
+        {
+          "glyph": "क्या मुझे रोटी मिल सकती है?",
+          "name": "request"
+        },
+        {
+          "glyph": "मुझे समझ नहीं आया।",
+          "name": "clarify"
+        },
+        {
+          "glyph": "A: नमस्ते दोस्त!",
+          "name": ""
+        },
+        {
+          "glyph": "धन्यवाद।",
+          "name": "thanks"
+        },
+        {
+          "glyph": "B: नमस्ते! कैसे हो?",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"आप कैसे हैं?\" का उत्तर?",
+          "options": [
+            "मैं ठीक हूँ",
+            "नमस्ते",
+            "धन्यवाद",
+            "अलविदा"
+          ],
+          "answer": "मैं ठीक हूँ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"भूख लगी है\" मतलब?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l35",
+      "title": "समीक्षा 28",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "मैं चेन्नई में रहता हूँ।",
+          "name": "a"
+        },
+        {
+          "glyph": "मैं आज खुश हूँ।",
+          "name": "feeling"
+        },
+        {
+          "glyph": "मैं बहुत उत्साहित हूँ!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: नमस्ते! कैसे हो?",
+          "name": ""
+        },
+        {
+          "glyph": "मैं थोड़ा उदास हूँ।",
+          "name": "feeling"
+        },
+        {
+          "glyph": "नमस्ते!",
+          "name": "greet"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"पेट भर गया\" का मतलब?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "please water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"तुम्हारा नाम क्या है?\" का उत्तर?",
+          "options": [
+            "मेरा नाम तारा है।",
+            "मैं ठीक हूँ",
+            "धन्यवाद",
+            "अलविदा"
+          ],
+          "answer": "मेरा नाम तारा है।"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l36",
+      "title": "समीक्षा 29",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "कृपया पानी दीजिए।",
+          "name": "request"
+        },
+        {
+          "glyph": "क्या आप फिर से कहेंगे?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "सुप्रभात!",
+          "name": "am greet"
+        },
+        {
+          "glyph": "मुझे फल पसंद हैं।",
+          "name": "like"
+        },
+        {
+          "glyph": "नमस्ते!",
+          "name": "greet"
+        },
+        {
+          "glyph": "मैं ठीक हूँ।",
+          "name": "reply"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "आज खुश कौन है?",
+          "options": [
+            "A",
+            "B",
+            "माँ",
+            "दोस्त"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"भूख लगी है\" मतलब?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l37",
+      "title": "समीक्षा 30",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "आप कैसे हैं?",
+          "name": "question"
+        },
+        {
+          "glyph": "मैं थका हुआ हूँ।",
+          "name": "feeling"
+        },
+        {
+          "glyph": "मुझे पानी चाहिए।",
+          "name": "want"
+        },
+        {
+          "glyph": "B: नमस्ते! कैसे हो?",
+          "name": ""
+        },
+        {
+          "glyph": "A: मैं आज खुश हूँ।",
+          "name": ""
+        },
+        {
+          "glyph": "कृपया पानी दीजिए।",
+          "name": "request"
+        },
+        {
+          "glyph": "क्षमा कीजिए, क्या आप मदद करेंगे?",
+          "name": "help"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"तुम्हारा नाम क्या है?\" का उत्तर?",
+          "options": [
+            "मेरा नाम तारा है।",
+            "मैं ठीक हूँ",
+            "धन्यवाद",
+            "अलविदा"
+          ],
+          "answer": "मेरा नाम तारा है।"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"समझ नहीं आया\" अर्थ?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l38",
+      "title": "समीक्षा 31",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "सुप्रभात!",
+          "name": "am greet"
+        },
+        {
+          "glyph": "बहुत-बहुत धन्यवाद!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "यह बहुत स्वादिष्ट है!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "धन्यवाद।",
+          "name": "thanks"
+        },
+        {
+          "glyph": "B: बहुत अच्छा!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "आज खुश कौन है?",
+          "options": [
+            "A",
+            "B",
+            "माँ",
+            "दोस्त"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"आप कैसे हैं?\" का उत्तर?",
+          "options": [
+            "मैं ठीक हूँ",
+            "नमस्ते",
+            "धन्यवाद",
+            "अलविदा"
+          ],
+          "answer": "मैं ठीक हूँ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l39",
+      "title": "समीक्षा 32",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "क्या मैं उठ सकता हूँ?",
+          "name": "polite"
+        },
+        {
+          "glyph": "मैं आज खुश हूँ।",
+          "name": "feeling"
+        },
+        {
+          "glyph": "मुझे भूख लगी है।",
+          "name": "feeling"
+        },
+        {
+          "glyph": "मुझे मदद चाहिए।",
+          "name": "need"
+        },
+        {
+          "glyph": "नमस्ते!",
+          "name": "greet"
+        },
+        {
+          "glyph": "अलविदा!",
+          "name": "bye"
+        },
+        {
+          "glyph": "मैं चेन्नई में रहता हूँ।",
+          "name": "a"
+        },
+        {
+          "glyph": "क्षमा कीजिए, क्या आप मदद करेंगे?",
+          "name": "help"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "आज खुश कौन है?",
+          "options": [
+            "A",
+            "B",
+            "माँ",
+            "दोस्त"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l40",
+      "title": "समीक्षा 33",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "मैं आज खुश हूँ।",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: नमस्ते दोस्त!",
+          "name": ""
+        },
+        {
+          "glyph": "A: मैं आज खुश हूँ।",
+          "name": ""
+        },
+        {
+          "glyph": "मेरा नाम तारा है।",
+          "name": "a"
+        },
+        {
+          "glyph": "कृपया पानी दीजिए।",
+          "name": "request"
+        },
+        {
+          "glyph": "मेरा पेट भर गया, धन्यवाद।",
+          "name": "reply"
+        },
+        {
+          "glyph": "मुझे फल पसंद हैं।",
+          "name": "like"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"तुम्हारा नाम क्या है?\" का उत्तर?",
+          "options": [
+            "मेरा नाम तारा है।",
+            "मैं ठीक हूँ",
+            "धन्यवाद",
+            "अलविदा"
+          ],
+          "answer": "मेरा नाम तारा है।"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"मुझे पानी चाहिए\" का अर्थ?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
     }
   ]
 }
