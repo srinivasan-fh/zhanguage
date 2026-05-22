@@ -191,7 +191,7 @@ const styles = StyleSheet.create({
   },
   secondaryTile: {
     width: '31.5%',
-    backgroundColor: colors.glass,
+    backgroundColor: colors.glassStrong,
     borderRadius: radii.md,
     paddingVertical: spacing.md,
     alignItems: 'center',

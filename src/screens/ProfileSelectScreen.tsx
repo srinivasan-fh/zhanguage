@@ -71,7 +71,7 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     gap: spacing.md,
-    backgroundColor: colors.glass,
+    backgroundColor: colors.glassStrong,
     borderRadius: radii.lg,
     paddingVertical: spacing.lg,
     borderWidth: 1,

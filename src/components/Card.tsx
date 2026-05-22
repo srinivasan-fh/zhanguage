@@ -23,7 +23,6 @@ export function Card({ title, subtitle, emoji, onPress, locked, rightSlot, style
         style,
       ]}
     >
-      <View pointerEvents="none" style={styles.shine} />
       {emoji ? (
         <View style={styles.emojiBubble}>
           <Text style={styles.emoji}>{locked ? '🔒' : emoji}</Text>
@@ -50,19 +49,11 @@ const styles = StyleSheet.create({
     minHeight: 96,
     borderWidth: 1,
     borderColor: colors.glassEdge,
-    overflow: 'hidden',
+    // overflow:hidden + elevation causes a soft inner ring on Android — drop it.
     ...e2,
   },
   locked: { opacity: 0.5 },
   pressed: { transform: [{ scale: 0.985 }] },
-  shine: {
-    position: 'absolute',
-    top: 0,
-    left: 0,
-    right: 0,
-    height: 28,
-    backgroundColor: 'rgba(255,255,255,0.35)',
-  },
   emojiBubble: {
     width: 56,
     height: 56,
