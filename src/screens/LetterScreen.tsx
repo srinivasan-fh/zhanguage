@@ -124,7 +124,8 @@ export function LetterScreen({ navigation, route }: Props) {
             style={styles.glyph}
             numberOfLines={1}
             adjustsFontSizeToFit
-            minimumFontScale={0.4}
+            minimumFontScale={0.3}
+            allowFontScaling={false}
           >
             {letter.glyph}
           </Text>
@@ -182,28 +183,29 @@ const styles = StyleSheet.create({
   },
   position: { fontSize: 14, color: colors.inkMuted, fontWeight: '700', letterSpacing: 2 },
   glyphCard: {
-    width: 240,
-    height: 240,
+    width: '88%',
+    aspectRatio: 1,
+    maxWidth: 360,
     borderRadius: radii.xl,
     backgroundColor: colors.glassStrong,
-    borderWidth: 1,
+    borderWidth: 2,
     borderColor: colors.glassEdge,
     alignItems: 'center',
     justifyContent: 'center',
-    paddingHorizontal: spacing.md,
+    paddingHorizontal: spacing.lg,
     ...e3,
   },
   glyph: {
-    fontSize: 140,
+    fontSize: 200,
     fontWeight: '900',
     color: colors.primary,
     textAlign: 'center',
     includeFontPadding: false,
   },
-  speaker: { position: 'absolute', bottom: 12, fontSize: 12, color: colors.inkMuted, fontWeight: '700' },
-  name: { fontSize: 32, fontWeight: '900', color: colors.ink, letterSpacing: 0.6, textTransform: 'uppercase' },
-  example: { fontSize: 22, color: colors.inkSoft, fontWeight: '700' },
-  sectionLabel: { fontSize: 13, color: colors.inkMuted, marginTop: spacing.sm, textAlign: 'center' },
+  speaker: { position: 'absolute', bottom: 14, fontSize: 14, color: colors.inkMuted, fontWeight: '800', letterSpacing: 0.5 },
+  name: { fontSize: 40, fontWeight: '900', color: colors.ink, letterSpacing: 1, textTransform: 'uppercase', textAlign: 'center' },
+  example: { fontSize: 24, color: colors.inkSoft, fontWeight: '800', textAlign: 'center' },
+  sectionLabel: { fontSize: 14, color: colors.inkMuted, marginTop: spacing.sm, textAlign: 'center', fontWeight: '700' },
   sayItPrompt: {
     fontSize: 18,
     fontWeight: '800',

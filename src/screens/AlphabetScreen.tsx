@@ -95,7 +95,8 @@ export function AlphabetScreen({ navigation, route }: Props) {
                         style={phase === 1 ? styles.cellGlyph : styles.cellGlyphWord}
                         numberOfLines={1}
                         adjustsFontSizeToFit
-                        minimumFontScale={0.6}
+                        minimumFontScale={0.4}
+                        allowFontScaling={false}
                       >
                         {letter.glyph}
                       </Text>
@@ -131,43 +132,50 @@ const styles = StyleSheet.create({
     borderColor: 'rgba(255,122,89,0.25)',
   },
   quizPillLabel: { color: colors.primaryDark, fontWeight: '800', fontSize: 12, letterSpacing: 0.5 },
-  grid: { flexDirection: 'row', flexWrap: 'wrap', gap: spacing.sm },
+  grid: { flexDirection: 'row', flexWrap: 'wrap', gap: spacing.md, rowGap: spacing.md },
   cell: {
-    width: '18%',
-    aspectRatio: 0.9,
+    // Phase 1 letter cells: 4 per row (~23%) with a generous aspect ratio so
+    // each glyph gets a big, kid-friendly tap target.
+    width: '23%',
+    aspectRatio: 0.85,
     backgroundColor: colors.glassStrong,
-    borderRadius: radii.md,
-    borderWidth: 1,
+    borderRadius: radii.lg,
+    borderWidth: 2,
     borderColor: colors.glassEdge,
     alignItems: 'center',
     justifyContent: 'center',
-    paddingVertical: spacing.xs,
+    paddingVertical: spacing.sm,
+    paddingHorizontal: spacing.xs,
+    minHeight: 96,
     ...e2,
   },
   cellWide: {
-    width: '31.5%',
-    minHeight: 84,
+    // Word / phrase cells for phases 2+: 2 per row, taller, easier to read.
+    width: '48%',
+    minHeight: 120,
     backgroundColor: colors.glassStrong,
-    borderRadius: radii.md,
-    borderWidth: 1,
+    borderRadius: radii.lg,
+    borderWidth: 2,
     borderColor: colors.glassEdge,
     alignItems: 'center',
     justifyContent: 'center',
-    paddingHorizontal: spacing.xs,
-    paddingVertical: spacing.sm,
+    paddingHorizontal: spacing.md,
+    paddingVertical: spacing.md,
+    gap: 6,
     ...e2,
   },
-  cellGlyphWord: { fontSize: 18, fontWeight: '900', color: colors.primary, textAlign: 'center' },
+  cellGlyphWord: { fontSize: 28, fontWeight: '900', color: colors.primary, textAlign: 'center', lineHeight: 34 },
   cellSeen: {
     borderColor: colors.grass,
-    backgroundColor: 'rgba(123, 211, 137, 0.18)',
+    backgroundColor: 'rgba(123, 211, 137, 0.22)',
   },
-  cellGlyph: { fontSize: 26, fontWeight: '900', color: colors.primary, lineHeight: 34 },
+  cellGlyph: { fontSize: 40, fontWeight: '900', color: colors.primary, lineHeight: 50, textAlign: 'center' },
   cellName: {
-    fontSize: 10,
-    fontWeight: '700',
+    fontSize: 13,
+    fontWeight: '800',
     color: colors.inkSoft,
-    marginTop: 2,
+    marginTop: 6,
     textTransform: 'uppercase',
+    letterSpacing: 0.5,
   },
 });
