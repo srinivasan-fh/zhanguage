@@ -6,7 +6,6 @@ export const LANGUAGES: LanguageMeta[] = [
   { code: 'en', name: 'English',   nativeName: 'English',   flag: '🇬🇧', tier: 'primary' },
   { code: 'hi', name: 'Hindi',     nativeName: 'हिन्दी',    flag: '🇮🇳', tier: 'primary' },
   { code: 'zh', name: 'Mandarin',  nativeName: '中文',      flag: '🇨🇳', tier: 'primary' },
-  { code: 'ko', name: 'Korean',    nativeName: '한국어',     flag: '🇰🇷', tier: 'primary' },
   { code: 'ja', name: 'Japanese',  nativeName: '日本語',     flag: '🇯🇵', tier: 'primary' },
   { code: 'de', name: 'German',    nativeName: 'Deutsch',   flag: '🇩🇪', tier: 'primary' },
   // Secondary
@@ -15,6 +14,7 @@ export const LANGUAGES: LanguageMeta[] = [
   { code: 'ar', name: 'Arabic',     nativeName: 'العربية',   flag: '🇸🇦', tier: 'secondary' },
   { code: 'pt', name: 'Portuguese', nativeName: 'Português', flag: '🇵🇹', tier: 'secondary' },
   { code: 'ru', name: 'Russian',    nativeName: 'Русский',   flag: '🇷🇺', tier: 'secondary' },
+  { code: 'ko', name: 'Korean',     nativeName: '한국어',     flag: '🇰🇷', tier: 'secondary' },
   // Tertiary — divine / sacred connection
   { code: 'sa',  name: 'Sanskrit',         nativeName: 'संस्कृतम्',    flag: '🕉️',  tier: 'tertiary' },
   { code: 'he',  name: 'Hebrew',           nativeName: 'עברית',        flag: '✡️',  tier: 'tertiary' },
