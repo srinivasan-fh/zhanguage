@@ -1,0 +1,278 @@
+{
+  "language": "hi",
+  "phase": 9,
+  "title": "सुनना",
+  "lessons": [
+    {
+      "id": "hi-p9-l1",
+      "title": "अभिवादन सुनिए",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "नमस्ते दोस्त!",
+          "name": "hello"
+        },
+        {
+          "glyph": "शुभ रात्रि, माँ।",
+          "name": "night"
+        },
+        {
+          "glyph": "कल मिलते हैं!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "बहुत धन्यवाद।",
+          "name": "thanks"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"नमस्ते\" कौनसा है?",
+          "options": [
+            "नमस्ते दोस्त!",
+            "धन्यवाद",
+            "कल मिलते हैं!",
+            "शुभ रात्रि"
+          ],
+          "answer": "नमस्ते दोस्त!"
+        }
+      ]
+    },
+    {
+      "id": "hi-p9-l2",
+      "title": "संख्याएँ सुनिए",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "एक सेब",
+          "name": "1"
+        },
+        {
+          "glyph": "दो बिल्लियाँ",
+          "name": "2"
+        },
+        {
+          "glyph": "तीन गेंदें",
+          "name": "3"
+        },
+        {
+          "glyph": "चार कारें",
+          "name": "4"
+        },
+        {
+          "glyph": "पाँच पक्षी",
+          "name": "5"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"तीन\" कौनसा है?",
+          "options": [
+            "तीन गेंदें",
+            "एक सेब",
+            "पाँच पक्षी",
+            "चार कारें"
+          ],
+          "answer": "तीन गेंदें"
+        }
+      ]
+    },
+    {
+      "id": "hi-p9-l3",
+      "title": "क्रियाएँ सुनिए",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "मैं दौड़ रहा हूँ",
+          "name": "run"
+        },
+        {
+          "glyph": "वह पढ़ रही है",
+          "name": "read"
+        },
+        {
+          "glyph": "हम खा रहे हैं",
+          "name": "eat"
+        },
+        {
+          "glyph": "वे सो रहे हैं",
+          "name": "sleep"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "कौन पढ़ रही है?",
+          "options": [
+            "वह पढ़ रही है",
+            "मैं दौड़ रहा हूँ",
+            "हम खा रहे हैं",
+            "वे सो रहे हैं"
+          ],
+          "answer": "वह पढ़ रही है"
+        }
+      ]
+    },
+    {
+      "id": "hi-p9-l4",
+      "title": "छोटी कहानी",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "पक्षी नदी के ऊपर उड़ा।",
+          "name": "l1"
+        },
+        {
+          "glyph": "वह ऊँचे पेड़ पर बैठा।",
+          "name": "l2"
+        },
+        {
+          "glyph": "वहाँ उसे एक छोटा घोंसला मिला।",
+          "name": "l3"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "पक्षी कहाँ बैठा?",
+          "options": [
+            "ऊँचे पेड़ पर",
+            "नदी पर",
+            "रेत पर",
+            "पत्थर पर"
+          ],
+          "answer": "ऊँचे पेड़ पर"
+        }
+      ]
+    },
+    {
+      "id": "hi-p9-l5",
+      "title": "सप्ताह के दिन",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "सोमवार",
+          "name": "Mon"
+        },
+        {
+          "glyph": "मंगलवार",
+          "name": "Tue"
+        },
+        {
+          "glyph": "बुधवार",
+          "name": "Wed"
+        },
+        {
+          "glyph": "गुरुवार",
+          "name": "Thu"
+        },
+        {
+          "glyph": "शुक्रवार",
+          "name": "Fri"
+        },
+        {
+          "glyph": "शनिवार",
+          "name": "Sat"
+        },
+        {
+          "glyph": "रविवार",
+          "name": "Sun"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "तीसरा दिन?",
+          "options": [
+            "बुधवार",
+            "मंगलवार",
+            "शुक्रवार",
+            "रविवार"
+          ],
+          "answer": "बुधवार"
+        }
+      ]
+    },
+    {
+      "id": "hi-p9-l6",
+      "title": "मौसम",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "आज धूप है।",
+          "name": "sun"
+        },
+        {
+          "glyph": "बाहर बारिश हो रही है।",
+          "name": "rain"
+        },
+        {
+          "glyph": "बहुत ठंड है।",
+          "name": "cold"
+        },
+        {
+          "glyph": "हवा चल रही है।",
+          "name": "wind"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "बारिश वाला?",
+          "options": [
+            "बाहर बारिश हो रही है।",
+            "आज धूप है।",
+            "बहुत ठंड है।",
+            "हवा चल रही है।"
+          ],
+          "answer": "बाहर बारिश हो रही है।"
+        }
+      ]
+    },
+    {
+      "id": "hi-p9-l7",
+      "title": "दुकान पर",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "यह सेब कितने का?",
+          "name": "price"
+        },
+        {
+          "glyph": "दो रुपये का।",
+          "name": "price"
+        },
+        {
+          "glyph": "मैं पाँच सेब लूँगा।",
+          "name": "buy"
+        },
+        {
+          "glyph": "धन्यवाद, यह बाकी पैसे।",
+          "name": "done"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "कितने सेब?",
+          "options": [
+            "पाँच",
+            "दो",
+            "तीन",
+            "दस"
+          ],
+          "answer": "पाँच"
+        }
+      ]
+    }
+  ]
+}

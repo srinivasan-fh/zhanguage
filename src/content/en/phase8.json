@@ -183,6 +183,129 @@
           "answer": "A"
         }
       ]
+    },
+    {
+      "id": "en-p8-l5",
+      "title": "At the dinner table",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Please pass the water.",
+          "name": "request"
+        },
+        {
+          "glyph": "Can I have some bread?",
+          "name": "request"
+        },
+        {
+          "glyph": "This is very tasty!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "I am full, thank you.",
+          "name": "reply"
+        },
+        {
+          "glyph": "May I leave the table?",
+          "name": "polite"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I am full",
+          "options": [
+            "I am full, thank you.",
+            "I am hungry",
+            "Please pass water",
+            "This is tasty"
+          ],
+          "answer": "I am full, thank you."
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l6",
+      "title": "Asking for help",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Excuse me, can you help me?",
+          "name": "help"
+        },
+        {
+          "glyph": "I don’t understand.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "Could you say it again?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "I am lost, where is the bus stop?",
+          "name": "direction"
+        },
+        {
+          "glyph": "Thank you so much!",
+          "name": "thanks"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Polite way to ask repeat?",
+          "options": [
+            "Could you say it again?",
+            "Help me",
+            "Where is bus stop",
+            "I am lost"
+          ],
+          "answer": "Could you say it again?"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l7",
+      "title": "Feelings",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I am happy today.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I feel a little sad.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am tired now.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am hungry.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "I am hungry means…",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
     }
   ]
 }

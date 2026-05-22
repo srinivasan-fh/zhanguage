@@ -166,6 +166,129 @@
           "answer": "A"
         }
       ]
+    },
+    {
+      "id": "ta-p8-l5",
+      "title": "உணவு மேசையில்",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "தண்ணீர் கொடுங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "கொஞ்சம் ரொட்டி தாருங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "இது மிகவும் சுவையாக இருக்கிறது!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "நிரம்பிவிட்டேன், நன்றி.",
+          "name": "reply"
+        },
+        {
+          "glyph": "நான் எழுந்திருக்கலாமா?",
+          "name": "polite"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"நிரம்பிவிட்டேன்\" பொருள்?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "please water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l6",
+      "title": "உதவி கேட்பது",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "மன்னியுங்கள், எனக்கு உதவ முடியுமா?",
+          "name": "help"
+        },
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "மீண்டும் சொல்ல முடியுமா?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "நான் தொலைந்துவிட்டேன்.",
+          "name": "lost"
+        },
+        {
+          "glyph": "மிக்க நன்றி!",
+          "name": "thanks"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"புரியவில்லை\" என்றால்?",
+          "options": [
+            "I don't understand",
+            "Help me",
+            "Thank you",
+            "Goodbye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l7",
+      "title": "உணர்வுகள்",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "நான் இன்று சந்தோஷமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் கொஞ்சம் வருத்தமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் பசியாக இருக்கிறேன்.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"பசியாக\" என்றால்?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
     }
   ]
 }

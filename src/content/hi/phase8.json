@@ -158,6 +158,129 @@
           "answer": "A"
         }
       ]
+    },
+    {
+      "id": "hi-p8-l5",
+      "title": "खाने की मेज पर",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "कृपया पानी दीजिए।",
+          "name": "request"
+        },
+        {
+          "glyph": "क्या मुझे रोटी मिल सकती है?",
+          "name": "request"
+        },
+        {
+          "glyph": "यह बहुत स्वादिष्ट है!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "मेरा पेट भर गया, धन्यवाद।",
+          "name": "reply"
+        },
+        {
+          "glyph": "क्या मैं उठ सकता हूँ?",
+          "name": "polite"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"पेट भर गया\" का मतलब?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "please water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l6",
+      "title": "मदद माँगना",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "क्षमा कीजिए, क्या आप मदद करेंगे?",
+          "name": "help"
+        },
+        {
+          "glyph": "मुझे समझ नहीं आया।",
+          "name": "clarify"
+        },
+        {
+          "glyph": "क्या आप फिर से कहेंगे?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "मैं रास्ता भूल गया।",
+          "name": "lost"
+        },
+        {
+          "glyph": "बहुत-बहुत धन्यवाद!",
+          "name": "thanks"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"समझ नहीं आया\" अर्थ?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l7",
+      "title": "भाव",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "मैं आज खुश हूँ।",
+          "name": "feeling"
+        },
+        {
+          "glyph": "मैं थोड़ा उदास हूँ।",
+          "name": "feeling"
+        },
+        {
+          "glyph": "मैं बहुत उत्साहित हूँ!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "मैं थका हुआ हूँ।",
+          "name": "feeling"
+        },
+        {
+          "glyph": "मुझे भूख लगी है।",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"भूख लगी है\" मतलब?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,278 @@
+{
+  "language": "ja",
+  "phase": 9,
+  "title": "聞くこと",
+  "lessons": [
+    {
+      "id": "ja-p9-l1",
+      "title": "あいさつを きく",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "こんにちは ともだち!",
+          "name": "hello"
+        },
+        {
+          "glyph": "おやすみ おかあさん。",
+          "name": "night"
+        },
+        {
+          "glyph": "また あした!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "ありがとう ございました。",
+          "name": "thanks"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「こんにちは」は どれ?",
+          "options": [
+            "こんにちは ともだち!",
+            "ありがとう",
+            "また あした",
+            "おやすみ"
+          ],
+          "answer": "こんにちは ともだち!"
+        }
+      ]
+    },
+    {
+      "id": "ja-p9-l2",
+      "title": "かずを きく",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "りんご いっこ",
+          "name": "1"
+        },
+        {
+          "glyph": "ねこ にひき",
+          "name": "2"
+        },
+        {
+          "glyph": "ボール さんこ",
+          "name": "3"
+        },
+        {
+          "glyph": "くるま よんだい",
+          "name": "4"
+        },
+        {
+          "glyph": "とり ごひき",
+          "name": "5"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「さん」は どれ?",
+          "options": [
+            "ボール さんこ",
+            "りんご いっこ",
+            "とり ごひき",
+            "くるま よんだい"
+          ],
+          "answer": "ボール さんこ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p9-l3",
+      "title": "うごきを きく",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "わたしは はしっています",
+          "name": "run"
+        },
+        {
+          "glyph": "かのじょは ほんを よみます",
+          "name": "read"
+        },
+        {
+          "glyph": "わたしたちは たべます",
+          "name": "eat"
+        },
+        {
+          "glyph": "かれらは ねています",
+          "name": "sleep"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "だれが ほんを よみますか?",
+          "options": [
+            "かのじょは ほんを よみます",
+            "わたしは はしっています",
+            "わたしたちは たべます",
+            "かれらは ねています"
+          ],
+          "answer": "かのじょは ほんを よみます"
+        }
+      ]
+    },
+    {
+      "id": "ja-p9-l4",
+      "title": "みじかい はなし",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "とりが かわを とびこえました。",
+          "name": "l1"
+        },
+        {
+          "glyph": "たかい きに とまりました。",
+          "name": "l2"
+        },
+        {
+          "glyph": "そこで ちいさい すを みつけました。",
+          "name": "l3"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "とりは どこに とまった?",
+          "options": [
+            "たかい き",
+            "かわ",
+            "すな",
+            "いし"
+          ],
+          "answer": "たかい き"
+        }
+      ]
+    },
+    {
+      "id": "ja-p9-l5",
+      "title": "ようび",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "げつようび",
+          "name": "Mon"
+        },
+        {
+          "glyph": "かようび",
+          "name": "Tue"
+        },
+        {
+          "glyph": "すいようび",
+          "name": "Wed"
+        },
+        {
+          "glyph": "もくようび",
+          "name": "Thu"
+        },
+        {
+          "glyph": "きんようび",
+          "name": "Fri"
+        },
+        {
+          "glyph": "どようび",
+          "name": "Sat"
+        },
+        {
+          "glyph": "にちようび",
+          "name": "Sun"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "みっかめは?",
+          "options": [
+            "すいようび",
+            "かようび",
+            "きんようび",
+            "にちようび"
+          ],
+          "answer": "すいようび"
+        }
+      ]
+    },
+    {
+      "id": "ja-p9-l6",
+      "title": "てんき",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "きょうは はれです。",
+          "name": "sun"
+        },
+        {
+          "glyph": "そとは あめです。",
+          "name": "rain"
+        },
+        {
+          "glyph": "とても さむい。",
+          "name": "cold"
+        },
+        {
+          "glyph": "かぜが ふいています。",
+          "name": "wind"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "あめは どれ?",
+          "options": [
+            "そとは あめです。",
+            "はれ",
+            "さむい",
+            "かぜ"
+          ],
+          "answer": "そとは あめです。"
+        }
+      ]
+    },
+    {
+      "id": "ja-p9-l7",
+      "title": "みせで",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "この りんごは いくら?",
+          "name": "price"
+        },
+        {
+          "glyph": "にひゃくえん。",
+          "name": "price"
+        },
+        {
+          "glyph": "りんごを ごこ ください。",
+          "name": "buy"
+        },
+        {
+          "glyph": "ありがとう、おつりです。",
+          "name": "done"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "なんこ?",
+          "options": [
+            "ごこ",
+            "にこ",
+            "さんこ",
+            "じゅっこ"
+          ],
+          "answer": "ごこ"
+        }
+      ]
+    }
+  ]
+}

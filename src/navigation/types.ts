@@ -20,4 +20,5 @@ export type RootStackParamList = {
   Letter: { language: LanguageCode; phase?: number; index: number };
   Quiz: { language: LanguageCode; phase?: number; lessonId: string };
   Trace: { language: LanguageCode; phase?: number; index: number };
+  Certification: { language: LanguageCode };
 };

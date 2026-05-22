@@ -28,7 +28,11 @@ export function PhaseListScreen({ navigation, route }: Props) {
             subtitle={item.title}
             emoji={item.emoji}
             locked={!available}
-            onPress={() => navigation.navigate('Alphabet', { language, phase: item.id })}
+            onPress={() =>
+              item.id === 10
+                ? navigation.navigate('Certification', { language })
+                : navigation.navigate('Alphabet', { language, phase: item.id })
+            }
           />
         );
       }}

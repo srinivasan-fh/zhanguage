@@ -144,6 +144,105 @@
           "answer": "포도"
         }
       ]
+    },
+    {
+      "id": "ko-p7-l5",
+      "title": "농장에서",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "농장에는 갈색 소, 검은 개, 흰 양들이 많아요.",
+          "name": "setting"
+        },
+        {
+          "glyph": "소는 매일 아침 우유를 줘요.",
+          "name": "milk"
+        },
+        {
+          "glyph": "개는 양 떼를 지켜봐요.",
+          "name": "dog"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "누가 우유를 줘요?",
+          "options": [
+            "소",
+            "개",
+            "양",
+            "고양이"
+          ],
+          "answer": "소"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l6",
+      "title": "학교에서의 하루",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "미라는 매일 학교에 가요. 수학을 가장 좋아해요.",
+          "name": "school"
+        },
+        {
+          "glyph": "점심에는 친구들과 함께 먹어요.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "저녁에는 숙제를 해요.",
+          "name": "evening"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "미라가 좋아하는 과목?",
+          "options": [
+            "수학",
+            "영어",
+            "음악",
+            "미술"
+          ],
+          "answer": "수학"
+        }
+      ]
+    },
+    {
+      "id": "ko-p7-l7",
+      "title": "공원 나들이",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "일요일에 공원에 갔어요. 큰 나무와 예쁜 꽃이 있었어요.",
+          "name": "setting"
+        },
+        {
+          "glyph": "하늘에서 새가 노래했어요.",
+          "name": "birds"
+        },
+        {
+          "glyph": "축구를 하고 아이스크림을 먹었어요.",
+          "name": "play"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "무엇을 먹었어요?",
+          "options": [
+            "아이스크림",
+            "피자",
+            "케이크",
+            "쿠키"
+          ],
+          "answer": "아이스크림"
+        }
+      ]
     }
   ]
 }

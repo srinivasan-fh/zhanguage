@@ -158,6 +158,129 @@
           "answer": "A"
         }
       ]
+    },
+    {
+      "id": "ko-p8-l5",
+      "title": "식탁에서",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "물 좀 주세요.",
+          "name": "request"
+        },
+        {
+          "glyph": "빵 좀 주실래요?",
+          "name": "request"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "배불러요, 감사합니다.",
+          "name": "reply"
+        },
+        {
+          "glyph": "이제 일어나도 될까요?",
+          "name": "polite"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배불러요\" 뜻?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l6",
+      "title": "도움 요청",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "실례합니다, 도와줄 수 있어요?",
+          "name": "help"
+        },
+        {
+          "glyph": "잘 모르겠어요.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "다시 말씀해 주세요.",
+          "name": "repeat"
+        },
+        {
+          "glyph": "길을 잃었어요.",
+          "name": "lost"
+        },
+        {
+          "glyph": "정말 감사합니다!",
+          "name": "thanks"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l7",
+      "title": "기분",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "오늘 행복해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "조금 슬퍼요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "너무 신나요!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "피곤해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "배고파요.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배고파요\" 뜻?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
     }
   ]
 }

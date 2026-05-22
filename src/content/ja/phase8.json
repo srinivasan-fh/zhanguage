@@ -158,6 +158,129 @@
           "answer": "A"
         }
       ]
+    },
+    {
+      "id": "ja-p8-l5",
+      "title": "しょくたくで",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "みずを ください。",
+          "name": "request"
+        },
+        {
+          "glyph": "パンを もらえますか?",
+          "name": "request"
+        },
+        {
+          "glyph": "とても おいしいです!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "もう おなかいっぱいです。",
+          "name": "reply"
+        },
+        {
+          "glyph": "せきを たっても いいですか?",
+          "name": "polite"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかいっぱい」の いみ?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l6",
+      "title": "たすけを たのむ",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "わかりません。",
+          "name": "clarify"
+        },
+        {
+          "glyph": "もう いちど おねがいします。",
+          "name": "repeat"
+        },
+        {
+          "glyph": "みちに まよいました。",
+          "name": "lost"
+        },
+        {
+          "glyph": "どうも ありがとう ございました!",
+          "name": "thanks"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「わかりません」の いみ?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l7",
+      "title": "きもち",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "きょうは うれしい です。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "ちょっと かなしい。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "とても わくわくします!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "つかれました。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "おなかが すきました。",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかが すきました」?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
     }
   ]
 }

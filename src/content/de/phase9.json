@@ -1,0 +1,278 @@
+{
+  "language": "de",
+  "phase": 9,
+  "title": "Hören",
+  "lessons": [
+    {
+      "id": "de-p9-l1",
+      "title": "Begrüßungen hören",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Hallo Freund!",
+          "name": "hello"
+        },
+        {
+          "glyph": "Gute Nacht, Mama.",
+          "name": "night"
+        },
+        {
+          "glyph": "Bis morgen!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "Vielen Dank.",
+          "name": "thanks"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welches ist \"Hallo\"?",
+          "options": [
+            "Hallo Freund!",
+            "Danke",
+            "Bis morgen",
+            "Gute Nacht"
+          ],
+          "answer": "Hallo Freund!"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l2",
+      "title": "Zahlen hören",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ein Apfel",
+          "name": "1"
+        },
+        {
+          "glyph": "zwei Katzen",
+          "name": "2"
+        },
+        {
+          "glyph": "drei Bälle",
+          "name": "3"
+        },
+        {
+          "glyph": "vier Autos",
+          "name": "4"
+        },
+        {
+          "glyph": "fünf Vögel",
+          "name": "5"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welches ist \"drei\"?",
+          "options": [
+            "drei Bälle",
+            "ein Apfel",
+            "fünf Vögel",
+            "vier Autos"
+          ],
+          "answer": "drei Bälle"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l3",
+      "title": "Aktionen hören",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich renne.",
+          "name": "run"
+        },
+        {
+          "glyph": "Sie liest.",
+          "name": "read"
+        },
+        {
+          "glyph": "Wir essen.",
+          "name": "eat"
+        },
+        {
+          "glyph": "Sie schlafen.",
+          "name": "sleep"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer liest?",
+          "options": [
+            "Sie liest",
+            "Ich renne",
+            "Wir essen",
+            "Sie schlafen"
+          ],
+          "answer": "Sie liest"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l4",
+      "title": "Kleine Geschichte",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Der Vogel flog über den Fluss.",
+          "name": "l1"
+        },
+        {
+          "glyph": "Er landete auf einem hohen Baum.",
+          "name": "l2"
+        },
+        {
+          "glyph": "Dort fand er ein kleines Nest.",
+          "name": "l3"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wo landete der Vogel?",
+          "options": [
+            "Auf einem hohen Baum",
+            "Im Fluss",
+            "Auf Sand",
+            "Auf Stein"
+          ],
+          "answer": "Auf einem hohen Baum"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l5",
+      "title": "Wochentage",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Montag",
+          "name": "Mon"
+        },
+        {
+          "glyph": "Dienstag",
+          "name": "Tue"
+        },
+        {
+          "glyph": "Mittwoch",
+          "name": "Wed"
+        },
+        {
+          "glyph": "Donnerstag",
+          "name": "Thu"
+        },
+        {
+          "glyph": "Freitag",
+          "name": "Fri"
+        },
+        {
+          "glyph": "Samstag",
+          "name": "Sat"
+        },
+        {
+          "glyph": "Sonntag",
+          "name": "Sun"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Der dritte Tag?",
+          "options": [
+            "Mittwoch",
+            "Dienstag",
+            "Freitag",
+            "Sonntag"
+          ],
+          "answer": "Mittwoch"
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l6",
+      "title": "Wetter",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Heute ist es sonnig.",
+          "name": "sun"
+        },
+        {
+          "glyph": "Draußen regnet es.",
+          "name": "rain"
+        },
+        {
+          "glyph": "Es ist sehr kalt.",
+          "name": "cold"
+        },
+        {
+          "glyph": "Es ist windig.",
+          "name": "wind"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welches ist Regen?",
+          "options": [
+            "Draußen regnet es.",
+            "Heute ist es sonnig.",
+            "Es ist sehr kalt.",
+            "Es ist windig."
+          ],
+          "answer": "Draußen regnet es."
+        }
+      ]
+    },
+    {
+      "id": "de-p9-l7",
+      "title": "Im Laden",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Was kostet dieser Apfel?",
+          "name": "price"
+        },
+        {
+          "glyph": "Er kostet zwei Euro.",
+          "name": "price"
+        },
+        {
+          "glyph": "Ich nehme fünf Äpfel.",
+          "name": "buy"
+        },
+        {
+          "glyph": "Danke, hier ist Ihr Wechselgeld.",
+          "name": "done"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie viele Äpfel?",
+          "options": [
+            "Fünf",
+            "Zwei",
+            "Drei",
+            "Zehn"
+          ],
+          "answer": "Fünf"
+        }
+      ]
+    }
+  ]
+}

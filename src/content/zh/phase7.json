@@ -144,6 +144,105 @@
           "answer": "葡萄"
         }
       ]
+    },
+    {
+      "id": "zh-p7-l5",
+      "title": "农场上",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "农场上有一头棕色的奶牛, 一只黑色的狗, 还有很多白色的羊。",
+          "name": "setting"
+        },
+        {
+          "glyph": "奶牛每天早上给我们牛奶。",
+          "name": "milk"
+        },
+        {
+          "glyph": "狗看着羊群。",
+          "name": "dog"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁给牛奶?",
+          "options": [
+            "奶牛",
+            "狗",
+            "羊",
+            "猫"
+          ],
+          "answer": "奶牛"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l6",
+      "title": "上学的日子",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "美拉每天上学。她最喜欢数学。",
+          "name": "school"
+        },
+        {
+          "glyph": "中午她和朋友一起吃饭。",
+          "name": "lunch"
+        },
+        {
+          "glyph": "晚上她做作业。",
+          "name": "evening"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "美拉最喜欢什么?",
+          "options": [
+            "数学",
+            "英语",
+            "音乐",
+            "画画"
+          ],
+          "answer": "数学"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l7",
+      "title": "去公园",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "星期天我们去了公园。那里有高大的树和漂亮的花。",
+          "name": "setting"
+        },
+        {
+          "glyph": "天上小鸟在唱歌。",
+          "name": "birds"
+        },
+        {
+          "glyph": "我们踢足球, 吃冰淇淋。",
+          "name": "play"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "我们吃了什么?",
+          "options": [
+            "冰淇淋",
+            "披萨",
+            "蛋糕",
+            "饼干"
+          ],
+          "answer": "冰淇淋"
+        }
+      ]
     }
   ]
 }

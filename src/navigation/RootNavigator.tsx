@@ -17,6 +17,7 @@ import { AlphabetScreen } from '@/screens/AlphabetScreen';
 import { LetterScreen } from '@/screens/LetterScreen';
 import { QuizScreen } from '@/screens/QuizScreen';
 import { TraceScreen } from '@/screens/TraceScreen';
+import { CertificationScreen } from '@/screens/CertificationScreen';
 import { colors } from '@/theme';
 
 const Stack = createNativeStackNavigator<RootStackParamList>();
@@ -53,6 +54,7 @@ export function RootNavigator() {
       <Stack.Screen name="Letter" component={LetterScreen} options={{ title: 'Letter', headerTransparent: true }} />
       <Stack.Screen name="Quiz" component={QuizScreen} options={{ title: 'Quiz' }} />
       <Stack.Screen name="Trace" component={TraceScreen} options={{ title: 'Trace', headerTransparent: true }} />
+      <Stack.Screen name="Certification" component={CertificationScreen} options={{ title: 'Certification Test' }} />
     </Stack.Navigator>
   );
 }

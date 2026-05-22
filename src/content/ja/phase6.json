@@ -154,6 +154,258 @@
         }
       ],
       "quiz": []
+    },
+    {
+      "id": "ja-p6-l5",
+      "title": "カタカナ サ-ナ行",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "サ",
+          "name": "trace"
+        },
+        {
+          "glyph": "シ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ス",
+          "name": "trace"
+        },
+        {
+          "glyph": "セ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ソ",
+          "name": "trace"
+        },
+        {
+          "glyph": "タ",
+          "name": "trace"
+        },
+        {
+          "glyph": "チ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ツ",
+          "name": "trace"
+        },
+        {
+          "glyph": "テ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ト",
+          "name": "trace"
+        },
+        {
+          "glyph": "ナ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ニ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ヌ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ネ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ノ",
+          "name": "trace"
+        }
+      ],
+      "quiz": []
+    },
+    {
+      "id": "ja-p6-l6",
+      "title": "カタカナ ハ-ワ行",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ハ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ヒ",
+          "name": "trace"
+        },
+        {
+          "glyph": "フ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ヘ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ホ",
+          "name": "trace"
+        },
+        {
+          "glyph": "マ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ミ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ム",
+          "name": "trace"
+        },
+        {
+          "glyph": "メ",
+          "name": "trace"
+        },
+        {
+          "glyph": "モ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ヤ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ユ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ヨ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ラ",
+          "name": "trace"
+        },
+        {
+          "glyph": "リ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ル",
+          "name": "trace"
+        },
+        {
+          "glyph": "レ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ロ",
+          "name": "trace"
+        },
+        {
+          "glyph": "ワ",
+          "name": "trace"
+        }
+      ],
+      "quiz": []
+    },
+    {
+      "id": "ja-p6-l7",
+      "title": "かんじ 数字",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "一",
+          "name": "trace"
+        },
+        {
+          "glyph": "二",
+          "name": "trace"
+        },
+        {
+          "glyph": "三",
+          "name": "trace"
+        },
+        {
+          "glyph": "四",
+          "name": "trace"
+        },
+        {
+          "glyph": "五",
+          "name": "trace"
+        },
+        {
+          "glyph": "六",
+          "name": "trace"
+        },
+        {
+          "glyph": "七",
+          "name": "trace"
+        },
+        {
+          "glyph": "八",
+          "name": "trace"
+        },
+        {
+          "glyph": "九",
+          "name": "trace"
+        },
+        {
+          "glyph": "十",
+          "name": "trace"
+        }
+      ],
+      "quiz": []
+    },
+    {
+      "id": "ja-p6-l8",
+      "title": "かんじ 自然",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "日",
+          "name": "trace"
+        },
+        {
+          "glyph": "月",
+          "name": "trace"
+        },
+        {
+          "glyph": "火",
+          "name": "trace"
+        },
+        {
+          "glyph": "水",
+          "name": "trace"
+        },
+        {
+          "glyph": "木",
+          "name": "trace"
+        },
+        {
+          "glyph": "金",
+          "name": "trace"
+        },
+        {
+          "glyph": "土",
+          "name": "trace"
+        },
+        {
+          "glyph": "山",
+          "name": "trace"
+        },
+        {
+          "glyph": "川",
+          "name": "trace"
+        },
+        {
+          "glyph": "空",
+          "name": "trace"
+        }
+      ],
+      "quiz": []
     }
   ]
 }

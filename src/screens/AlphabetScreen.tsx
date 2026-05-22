@@ -24,6 +24,7 @@ export function AlphabetScreen({ navigation, route }: Props) {
     phase === 6 ? 'glyphs to trace' :
     phase === 7 ? 'passages' :
     phase === 8 ? 'phrases to say' :
+    phase === 9 ? 'audio clips' :
     'items';
 
   const activeId = useAppSelector(selectActiveProfileId);

@@ -213,6 +213,127 @@
           "answer": "They are sour"
         }
       ]
+    },
+    {
+      "id": "en-p7-l5",
+      "title": "Animals at the farm",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "On the farm we see a brown cow, a black dog, and many white sheep.",
+          "name": "about animals"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who gives milk?",
+          "options": [
+            "The cow",
+            "The dog",
+            "The sheep",
+            "The cat"
+          ],
+          "answer": "The cow"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is the dog?",
+          "options": [
+            "Black",
+            "Brown",
+            "White",
+            "Grey"
+          ],
+          "answer": "Black"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l6",
+      "title": "A day at school",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "In the evening she does her homework.",
+          "name": "evening"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What does Mira like the most?",
+          "options": [
+            "Maths",
+            "English",
+            "Music",
+            "Drawing"
+          ],
+          "answer": "Maths"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "When does she do homework?",
+          "options": [
+            "Evening",
+            "Morning",
+            "Lunch",
+            "Night"
+          ],
+          "answer": "Evening"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l7",
+      "title": "A trip to the park",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        },
+        {
+          "glyph": "We played football and ate ice cream.",
+          "name": "play"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What did they eat?",
+          "options": [
+            "Ice cream",
+            "Pizza",
+            "Cake",
+            "Cookies"
+          ],
+          "answer": "Ice cream"
+        }
+      ]
     }
   ]
 }

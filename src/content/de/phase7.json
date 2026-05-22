@@ -144,6 +144,105 @@
           "answer": "Trauben"
         }
       ]
+    },
+    {
+      "id": "de-p7-l5",
+      "title": "Auf dem Bauernhof",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Auf dem Bauernhof sehen wir eine braune Kuh, einen schwarzen Hund und viele weiße Schafe.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Die Kuh gibt jeden Morgen Milch.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Der Hund passt auf die Schafe auf.",
+          "name": "dog"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer gibt Milch?",
+          "options": [
+            "Die Kuh",
+            "Der Hund",
+            "Das Schaf",
+            "Die Katze"
+          ],
+          "answer": "Die Kuh"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l6",
+      "title": "Ein Schultag",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Mira geht jeden Morgen zur Schule. Sie liebt Mathematik am meisten.",
+          "name": "school"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was mag Mira am meisten?",
+          "options": [
+            "Mathematik",
+            "Englisch",
+            "Musik",
+            "Malen"
+          ],
+          "answer": "Mathematik"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l7",
+      "title": "Ein Tag im Park",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was haben sie gegessen?",
+          "options": [
+            "Eis",
+            "Pizza",
+            "Kuchen",
+            "Kekse"
+          ],
+          "answer": "Eis"
+        }
+      ]
     }
   ]
 }

@@ -158,6 +158,129 @@
           "answer": "A"
         }
       ]
+    },
+    {
+      "id": "de-p8-l5",
+      "title": "Am Esstisch",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Bitte gib mir Wasser.",
+          "name": "request"
+        },
+        {
+          "glyph": "Kann ich Brot haben?",
+          "name": "request"
+        },
+        {
+          "glyph": "Das schmeckt sehr gut!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "Ich bin satt, danke.",
+          "name": "reply"
+        },
+        {
+          "glyph": "Darf ich aufstehen?",
+          "name": "polite"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich bin satt\" Bedeutung?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l6",
+      "title": "Hilfe bitten",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Entschuldigung, kannst du mir helfen?",
+          "name": "help"
+        },
+        {
+          "glyph": "Ich verstehe nicht.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "Kannst du es noch einmal sagen?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "Vielen Dank!",
+          "name": "thanks"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich verstehe nicht\" Bedeutung?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l7",
+      "title": "Gefühle",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich bin sehr aufgeregt!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich bin müde.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich habe Hunger\" Bedeutung?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
     }
   ]
 }

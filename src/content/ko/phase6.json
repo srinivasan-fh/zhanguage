@@ -178,6 +178,202 @@
         }
       ],
       "quiz": []
+    },
+    {
+      "id": "ko-p6-l5",
+      "title": "숫자 0-9",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "영",
+          "name": "trace"
+        },
+        {
+          "glyph": "일",
+          "name": "trace"
+        },
+        {
+          "glyph": "이",
+          "name": "trace"
+        },
+        {
+          "glyph": "삼",
+          "name": "trace"
+        },
+        {
+          "glyph": "사",
+          "name": "trace"
+        },
+        {
+          "glyph": "오",
+          "name": "trace"
+        },
+        {
+          "glyph": "육",
+          "name": "trace"
+        },
+        {
+          "glyph": "칠",
+          "name": "trace"
+        },
+        {
+          "glyph": "팔",
+          "name": "trace"
+        },
+        {
+          "glyph": "구",
+          "name": "trace"
+        }
+      ],
+      "quiz": []
+    },
+    {
+      "id": "ko-p6-l6",
+      "title": "가족",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "엄마",
+          "name": "trace"
+        },
+        {
+          "glyph": "아빠",
+          "name": "trace"
+        },
+        {
+          "glyph": "형",
+          "name": "trace"
+        },
+        {
+          "glyph": "누나",
+          "name": "trace"
+        },
+        {
+          "glyph": "오빠",
+          "name": "trace"
+        },
+        {
+          "glyph": "언니",
+          "name": "trace"
+        },
+        {
+          "glyph": "동생",
+          "name": "trace"
+        },
+        {
+          "glyph": "할아버지",
+          "name": "trace"
+        },
+        {
+          "glyph": "할머니",
+          "name": "trace"
+        },
+        {
+          "glyph": "삼촌",
+          "name": "trace"
+        }
+      ],
+      "quiz": []
+    },
+    {
+      "id": "ko-p6-l7",
+      "title": "색깔",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "빨강",
+          "name": "trace"
+        },
+        {
+          "glyph": "노랑",
+          "name": "trace"
+        },
+        {
+          "glyph": "파랑",
+          "name": "trace"
+        },
+        {
+          "glyph": "초록",
+          "name": "trace"
+        },
+        {
+          "glyph": "검정",
+          "name": "trace"
+        },
+        {
+          "glyph": "하양",
+          "name": "trace"
+        },
+        {
+          "glyph": "보라",
+          "name": "trace"
+        },
+        {
+          "glyph": "주황",
+          "name": "trace"
+        },
+        {
+          "glyph": "회색",
+          "name": "trace"
+        },
+        {
+          "glyph": "분홍",
+          "name": "trace"
+        }
+      ],
+      "quiz": []
+    },
+    {
+      "id": "ko-p6-l8",
+      "title": "일상 동사",
+      "type": "trace",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "먹다",
+          "name": "trace"
+        },
+        {
+          "glyph": "마시다",
+          "name": "trace"
+        },
+        {
+          "glyph": "자다",
+          "name": "trace"
+        },
+        {
+          "glyph": "보다",
+          "name": "trace"
+        },
+        {
+          "glyph": "듣다",
+          "name": "trace"
+        },
+        {
+          "glyph": "말하다",
+          "name": "trace"
+        },
+        {
+          "glyph": "뛰다",
+          "name": "trace"
+        },
+        {
+          "glyph": "걷다",
+          "name": "trace"
+        },
+        {
+          "glyph": "앉다",
+          "name": "trace"
+        },
+        {
+          "glyph": "서다",
+          "name": "trace"
+        }
+      ],
+      "quiz": []
     }
   ]
 }

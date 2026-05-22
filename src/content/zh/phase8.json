@@ -158,6 +158,129 @@
           "answer": "A"
         }
       ]
+    },
+    {
+      "id": "zh-p8-l5",
+      "title": "在餐桌上",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "请给我水。",
+          "name": "request"
+        },
+        {
+          "glyph": "我可以要一些面包吗?",
+          "name": "request"
+        },
+        {
+          "glyph": "这个真好吃!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "我吃饱了, 谢谢。",
+          "name": "reply"
+        },
+        {
+          "glyph": "我可以离开桌子吗?",
+          "name": "polite"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"吃饱了\" 的意思?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l6",
+      "title": "请求帮助",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "对不起, 你能帮我吗?",
+          "name": "help"
+        },
+        {
+          "glyph": "我不懂。",
+          "name": "clarify"
+        },
+        {
+          "glyph": "请再说一遍。",
+          "name": "repeat"
+        },
+        {
+          "glyph": "我迷路了。",
+          "name": "lost"
+        },
+        {
+          "glyph": "非常感谢!",
+          "name": "thanks"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"我不懂\" 意思?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "zh-p8-l7",
+      "title": "感受",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我今天很开心。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "我有点伤心。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "我很兴奋!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "我很累。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "我饿了。",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"我饿了\" 意思?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
     }
   ]
 }

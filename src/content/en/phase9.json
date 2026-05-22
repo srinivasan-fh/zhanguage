@@ -1,0 +1,282 @@
+{
+  "language": "en",
+  "phase": 9,
+  "title": "Listening",
+  "lessons": [
+    {
+      "id": "en-p9-l1",
+      "title": "Listen: greetings",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Hello, friend!",
+          "name": "hello",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Good night, mama.",
+          "name": "goodnight",
+          "exampleWord": "to mother"
+        },
+        {
+          "glyph": "See you tomorrow!",
+          "name": "later",
+          "exampleWord": "farewell"
+        },
+        {
+          "glyph": "Thank you very much.",
+          "name": "thanks",
+          "exampleWord": "formal"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which means \"hello\"?",
+          "options": [
+            "Hello, friend!",
+            "Good night, mama.",
+            "Thank you",
+            "See you tomorrow!"
+          ],
+          "answer": "Hello, friend!"
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l2",
+      "title": "Listen: numbers",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "one apple",
+          "name": "1"
+        },
+        {
+          "glyph": "two cats",
+          "name": "2"
+        },
+        {
+          "glyph": "three balls",
+          "name": "3"
+        },
+        {
+          "glyph": "four cars",
+          "name": "4"
+        },
+        {
+          "glyph": "five birds",
+          "name": "5"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which means \"three\"?",
+          "options": [
+            "three balls",
+            "one apple",
+            "five birds",
+            "four cars"
+          ],
+          "answer": "three balls"
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l3",
+      "title": "Listen: simple actions",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I am running.",
+          "name": "run"
+        },
+        {
+          "glyph": "She is reading.",
+          "name": "read"
+        },
+        {
+          "glyph": "We are eating.",
+          "name": "eat"
+        },
+        {
+          "glyph": "They are sleeping.",
+          "name": "sleep"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who is reading?",
+          "options": [
+            "She is reading.",
+            "I am running.",
+            "We are eating.",
+            "They are sleeping."
+          ],
+          "answer": "She is reading."
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l4",
+      "title": "Listen: a short story",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "The bird flew over the river.",
+          "name": "line 1"
+        },
+        {
+          "glyph": "It landed on a tall tree.",
+          "name": "line 2"
+        },
+        {
+          "glyph": "There it found a tiny nest.",
+          "name": "line 3"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Where did the bird land?",
+          "options": [
+            "On a tall tree",
+            "On the river",
+            "In a nest",
+            "On a rock"
+          ],
+          "answer": "On a tall tree"
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l5",
+      "title": "Listen: days of the week",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Monday",
+          "name": "Mon"
+        },
+        {
+          "glyph": "Tuesday",
+          "name": "Tue"
+        },
+        {
+          "glyph": "Wednesday",
+          "name": "Wed"
+        },
+        {
+          "glyph": "Thursday",
+          "name": "Thu"
+        },
+        {
+          "glyph": "Friday",
+          "name": "Fri"
+        },
+        {
+          "glyph": "Saturday",
+          "name": "Sat"
+        },
+        {
+          "glyph": "Sunday",
+          "name": "Sun"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which is the third day?",
+          "options": [
+            "Wednesday",
+            "Tuesday",
+            "Friday",
+            "Sunday"
+          ],
+          "answer": "Wednesday"
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l6",
+      "title": "Listen: weather",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "It is sunny today.",
+          "name": "sunny"
+        },
+        {
+          "glyph": "It is raining outside.",
+          "name": "rain"
+        },
+        {
+          "glyph": "It is very cold.",
+          "name": "cold"
+        },
+        {
+          "glyph": "It is windy and warm.",
+          "name": "wind"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which means raining?",
+          "options": [
+            "It is raining outside.",
+            "It is sunny today.",
+            "It is very cold.",
+            "It is windy."
+          ],
+          "answer": "It is raining outside."
+        }
+      ]
+    },
+    {
+      "id": "en-p9-l7",
+      "title": "Listen: at the shop",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "How much is this apple?",
+          "name": "price"
+        },
+        {
+          "glyph": "It costs two coins.",
+          "name": "price"
+        },
+        {
+          "glyph": "I will take five apples.",
+          "name": "buy"
+        },
+        {
+          "glyph": "Thank you, here is your change.",
+          "name": "done"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "How many apples?",
+          "options": [
+            "Five",
+            "Two",
+            "Three",
+            "Ten"
+          ],
+          "answer": "Five"
+        }
+      ]
+    }
+  ]
+}

@@ -144,6 +144,105 @@
           "answer": "ぶどう"
         }
       ]
+    },
+    {
+      "id": "ja-p7-l5",
+      "title": "のうじょうで",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "のうじょうには ちゃいろの うし、くろい いぬ、しろい ひつじが います。",
+          "name": "setting"
+        },
+        {
+          "glyph": "うしは まいあさ ぎゅうにゅうを くれます。",
+          "name": "milk"
+        },
+        {
+          "glyph": "いぬは ひつじを みまもります。",
+          "name": "dog"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ぎゅうにゅうを くれるのは?",
+          "options": [
+            "うし",
+            "いぬ",
+            "ひつじ",
+            "ねこ"
+          ],
+          "answer": "うし"
+        }
+      ]
+    },
+    {
+      "id": "ja-p7-l6",
+      "title": "がっこうの ひとひ",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "みらちゃんは まいにち がっこうに いきます。すうがくが だいすきです。",
+          "name": "school"
+        },
+        {
+          "glyph": "ひるごはんは ともだちと たべます。",
+          "name": "lunch"
+        },
+        {
+          "glyph": "ゆうがた しゅくだいを します。",
+          "name": "evening"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "みらちゃんは なにが すき?",
+          "options": [
+            "すうがく",
+            "えいご",
+            "おんがく",
+            "びじゅつ"
+          ],
+          "answer": "すうがく"
+        }
+      ]
+    },
+    {
+      "id": "ja-p7-l7",
+      "title": "こうえんへ",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "にちようびに こうえんに いきました。たかい きと きれいな はなが ありました。",
+          "name": "setting"
+        },
+        {
+          "glyph": "そらで とりが うたって いました。",
+          "name": "birds"
+        },
+        {
+          "glyph": "サッカーを して アイスクリームを たべました。",
+          "name": "play"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "なにを たべましたか?",
+          "options": [
+            "アイスクリーム",
+            "ピザ",
+            "ケーキ",
+            "クッキー"
+          ],
+          "answer": "アイスクリーム"
+        }
+      ]
     }
   ]
 }
