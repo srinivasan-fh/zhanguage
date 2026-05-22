@@ -1,10 +1,10 @@
-import React, { useMemo } from 'react';
-import { View, Text, StyleSheet, Pressable, ScrollView } from 'react-native';
+import React, { useCallback, useMemo } from 'react';
+import { View, Text, StyleSheet, Pressable, FlatList, ListRenderItem } from 'react-native';
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { RootStackParamList } from '@/navigation/types';
 import { ScreenBg } from '@/components/ScreenBg';
 import { LANGUAGES } from '@/content/languages';
-import { getLetters, getSections } from '@/content/letters';
+import { getLetters, getSections, type LetterSection } from '@/content/letters';
 import { useAppSelector } from '@/store/hooks';
 import { selectActiveProfileId } from '@/store/selectors';
 import type { RootState } from '@/store';
@@ -35,87 +35,121 @@ export function AlphabetScreen({ navigation, route }: Props) {
     activeId ? s.points.byStudent[activeId]?.lessonResults ?? {} : {},
   );
 
+  // Pre-compute the global index for every glyph so cell taps don't hit a Map
+  // build during render.
   const indexByGlyph = useMemo(() => {
     const m = new Map<string, number>();
     all.forEach((l, i) => m.set(l.glyph + ':' + l.lessonId, i));
     return m;
   }, [all]);
 
+  const openLetter = useCallback(
+    (gi: number) =>
+      phase === 6
+        ? navigation.navigate('Trace', { language, phase, index: gi })
+        : navigation.navigate('Letter', { language, phase, index: gi }),
+    [navigation, language, phase],
+  );
+  const openQuiz = useCallback(
+    (lessonId: string) =>
+      navigation.navigate('Quiz', { language, phase, lessonId }),
+    [navigation, language, phase],
+  );
+
+  const renderSection: ListRenderItem<LetterSection> = useCallback(
+    ({ item: sec }) => {
+      const seen = lettersSeen[`${language}:${sec.lessonId}`];
+      const seenCount = seen ? Object.keys(seen).length : 0;
+      const result = lessonResults[sec.lessonId];
+      return (
+        <View style={styles.section}>
+          <View style={styles.sectionHead}>
+            <View style={{ flex: 1 }}>
+              <Text style={styles.sectionTitle}>{sec.title}</Text>
+              <Text style={styles.sectionMeta}>
+                {seenCount} / {sec.letters.length}
+                {result ? `  ·  ${result.medal} ${result.scorePct}%` : ''}
+              </Text>
+            </View>
+            {phase !== 6 ? (
+              <Pressable style={styles.quizPill} onPress={() => openQuiz(sec.lessonId)}>
+                <Text style={styles.quizPillLabel}>Quiz</Text>
+              </Pressable>
+            ) : null}
+          </View>
+          <View style={styles.grid}>
+            {sec.letters.map((letter) => {
+              const gi = indexByGlyph.get(letter.glyph + ':' + sec.lessonId) ?? 0;
+              const wasSeen = seen ? !!seen[letter.glyph] : false;
+              return (
+                <Pressable
+                  key={letter.glyph + sec.lessonId + gi}
+                  style={({ pressed }) => [
+                    phase === 1 ? styles.cell : styles.cellWide,
+                    wasSeen && styles.cellSeen,
+                    pressed && { transform: [{ scale: 0.94 }] },
+                  ]}
+                  onPress={() => openLetter(gi)}
+                >
+                  <Text
+                    style={phase === 1 ? styles.cellGlyph : styles.cellGlyphWord}
+                    numberOfLines={1}
+                    adjustsFontSizeToFit
+                    minimumFontScale={0.4}
+                    allowFontScaling={false}
+                  >
+                    {letter.glyph}
+                  </Text>
+                  <Text style={styles.cellName} numberOfLines={1}>{letter.name}</Text>
+                </Pressable>
+              );
+            })}
+          </View>
+        </View>
+      );
+    },
+    [phase, language, lettersSeen, lessonResults, indexByGlyph, openLetter, openQuiz],
+  );
+
+  const ListHeader = useMemo(
+    () => (
+      <View style={styles.heroBlock}>
+        <Text style={styles.heroLabel}>{meta.name.toUpperCase()}</Text>
+        <Text style={styles.heroNative}>{meta.nativeName}</Text>
+        <Text style={styles.heroSub}>{all.length} {itemNoun} · tap any one</Text>
+      </View>
+    ),
+    [meta.name, meta.nativeName, all.length, itemNoun],
+  );
+
   return (
     <ScreenBg>
-      <ScrollView contentContainerStyle={styles.content}>
-        <View style={styles.heroBlock}>
-          <Text style={styles.heroLabel}>{meta.name.toUpperCase()}</Text>
-          <Text style={styles.heroNative}>{meta.nativeName}</Text>
-          <Text style={styles.heroSub}>{all.length} {itemNoun} · tap any one</Text>
-        </View>
-
-        {sections.map((sec) => {
-          const seen = lettersSeen[`${language}:${sec.lessonId}`];
-          const seenCount = seen ? Object.keys(seen).length : 0;
-          const result = lessonResults[sec.lessonId];
-          return (
-            <View key={sec.lessonId} style={styles.section}>
-              <View style={styles.sectionHead}>
-                <View style={{ flex: 1 }}>
-                  <Text style={styles.sectionTitle}>{sec.title}</Text>
-                  <Text style={styles.sectionMeta}>
-                    {seenCount} / {sec.letters.length}
-                    {result ? `  ·  ${result.medal} ${result.scorePct}%` : ''}
-                  </Text>
-                </View>
-                {phase !== 6 ? (
-                  <Pressable
-                    style={styles.quizPill}
-                    onPress={() => navigation.navigate('Quiz', { language, phase, lessonId: sec.lessonId })}
-                  >
-                    <Text style={styles.quizPillLabel}>Quiz</Text>
-                  </Pressable>
-                ) : null}
-              </View>
-              <View style={styles.grid}>
-                {sec.letters.map((letter) => {
-                  const gi = indexByGlyph.get(letter.glyph + ':' + sec.lessonId) ?? 0;
-                  const wasSeen = seen ? !!seen[letter.glyph] : false;
-                  return (
-                    <Pressable
-                      key={letter.glyph + sec.lessonId + gi}
-                      style={({ pressed }) => [
-                        phase === 1 ? styles.cell : styles.cellWide,
-                        wasSeen && styles.cellSeen,
-                        pressed && { transform: [{ scale: 0.94 }] },
-                      ]}
-                      onPress={() =>
-                        phase === 6
-                          ? navigation.navigate('Trace', { language, phase, index: gi })
-                          : navigation.navigate('Letter', { language, phase, index: gi })
-                      }
-                    >
-                      <Text
-                        style={phase === 1 ? styles.cellGlyph : styles.cellGlyphWord}
-                        numberOfLines={1}
-                        adjustsFontSizeToFit
-                        minimumFontScale={0.4}
-                        allowFontScaling={false}
-                      >
-                        {letter.glyph}
-                      </Text>
-                      <Text style={styles.cellName} numberOfLines={1}>{letter.name}</Text>
-                    </Pressable>
-                  );
-                })}
-              </View>
-            </View>
-          );
-        })}
-      </ScrollView>
+      <FlatList
+        data={sections}
+        keyExtractor={(s) => s.lessonId}
+        renderItem={renderSection}
+        ListHeaderComponent={ListHeader}
+        contentContainerStyle={styles.content}
+        // Virtualisation tuning: render the first screenful synchronously,
+        // then stream subsequent sections in as the user scrolls. Keeps the
+        // PhaseList tap from blocking on rendering 100 lessons × N cells.
+        initialNumToRender={4}
+        maxToRenderPerBatch={4}
+        windowSize={5}
+        removeClippedSubviews
+        ItemSeparatorComponent={Spacer}
+      />
     </ScreenBg>
   );
 }
 
+function Spacer() {
+  return <View style={{ height: spacing.lg }} />;
+}
+
 const styles = StyleSheet.create({
-  content: { padding: spacing.lg, paddingBottom: spacing.xxl, gap: spacing.lg },
-  heroBlock: { alignItems: 'center', paddingVertical: spacing.md, gap: 4 },
+  content: { padding: spacing.lg, paddingBottom: spacing.xxl },
+  heroBlock: { alignItems: 'center', paddingVertical: spacing.md, gap: 4, marginBottom: spacing.lg },
   heroLabel: { fontSize: 14, letterSpacing: 6, fontWeight: '800', color: colors.inkMuted },
   heroNative: { fontSize: 48, fontWeight: '900', color: colors.ink, lineHeight: 56 },
   heroSub: { fontSize: 13, color: colors.inkSoft, marginTop: 4 },
@@ -134,8 +168,6 @@ const styles = StyleSheet.create({
   quizPillLabel: { color: colors.primaryDark, fontWeight: '800', fontSize: 12, letterSpacing: 0.5 },
   grid: { flexDirection: 'row', flexWrap: 'wrap', gap: spacing.md, rowGap: spacing.md },
   cell: {
-    // Phase 1 letter cells: 4 per row (~23%) with a generous aspect ratio so
-    // each glyph gets a big, kid-friendly tap target.
     width: '23%',
     aspectRatio: 0.85,
     backgroundColor: colors.glassStrong,
@@ -150,7 +182,6 @@ const styles = StyleSheet.create({
     ...e2,
   },
   cellWide: {
-    // Word / phrase cells for phases 2+: 2 per row, taller, easier to read.
     width: '48%',
     minHeight: 120,
     backgroundColor: colors.glassStrong,
