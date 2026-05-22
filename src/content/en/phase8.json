@@ -2108,6 +2108,5317 @@
           "answer": "A"
         }
       ]
+    },
+    {
+      "id": "en-p8-l41",
+      "title": "Review 1",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I am hungry.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Can I have some bread?",
+          "name": "request"
+        },
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        },
+        {
+          "glyph": "I live in Chennai.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "Thank you so much!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "I like apples.",
+          "name": "prefer",
+          "exampleWord": "liking"
+        },
+        {
+          "glyph": "Good morning.",
+          "name": "greet",
+          "exampleWord": "morning"
+        },
+        {
+          "glyph": "I want some water.",
+          "name": "request",
+          "exampleWord": "want"
+        },
+        {
+          "glyph": "What is your name?",
+          "name": "question",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "This is very tasty!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        },
+        {
+          "glyph": "I don’t like spicy food.",
+          "name": "prefer",
+          "exampleWord": "dislike"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "I am hungry means…",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who is happy today?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I am full",
+          "options": [
+            "I am full, thank you.",
+            "I am hungry",
+            "Please pass water",
+            "This is tasty"
+          ],
+          "answer": "I am full, thank you."
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l42",
+      "title": "Review 2",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        },
+        {
+          "glyph": "I am tired now.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        },
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        },
+        {
+          "glyph": "I need help.",
+          "name": "request",
+          "exampleWord": "need"
+        },
+        {
+          "glyph": "I feel a little sad.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I like apples.",
+          "name": "prefer",
+          "exampleWord": "liking"
+        },
+        {
+          "glyph": "Please pass the water.",
+          "name": "request"
+        },
+        {
+          "glyph": "I want some water.",
+          "name": "request",
+          "exampleWord": "want"
+        },
+        {
+          "glyph": "I am lost, where is the bus stop?",
+          "name": "direction"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I am full",
+          "options": [
+            "I am full, thank you.",
+            "I am hungry",
+            "Please pass water",
+            "This is tasty"
+          ],
+          "answer": "I am full, thank you."
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to \"What is your name?\"",
+          "options": [
+            "My name is Tara",
+            "I live here",
+            "I am fine",
+            "See you"
+          ],
+          "answer": "My name is Tara"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l43",
+      "title": "Review 3",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I need help.",
+          "name": "request",
+          "exampleWord": "need"
+        },
+        {
+          "glyph": "This is very tasty!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "I live in Chennai.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "I am hungry.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am fine.",
+          "name": "reply",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "How are you?",
+          "name": "question",
+          "exampleWord": "ask wellbeing"
+        },
+        {
+          "glyph": "Could you say it again?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "Excuse me, can you help me?",
+          "name": "help"
+        },
+        {
+          "glyph": "I need help.",
+          "name": "request",
+          "exampleWord": "need"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"Hello!\"",
+          "options": [
+            "Hello!",
+            "Goodbye",
+            "I am fine",
+            "Thanks"
+          ],
+          "answer": "Hello!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I want water",
+          "options": [
+            "I want some water",
+            "I like fruit",
+            "I am tired",
+            "I need help"
+          ],
+          "answer": "I want some water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who is happy today?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l44",
+      "title": "Review 4",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Could you say it again?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "I am tired now.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Please pass the water.",
+          "name": "request"
+        },
+        {
+          "glyph": "May I leave the table?",
+          "name": "polite"
+        },
+        {
+          "glyph": "I am lost, where is the bus stop?",
+          "name": "direction"
+        },
+        {
+          "glyph": "B: Hello! How are you?",
+          "name": "line"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am fine.",
+          "name": "reply",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "Please pass the water.",
+          "name": "request"
+        },
+        {
+          "glyph": "This is very tasty!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "I want some water.",
+          "name": "request",
+          "exampleWord": "want"
+        },
+        {
+          "glyph": "How are you?",
+          "name": "question",
+          "exampleWord": "ask wellbeing"
+        },
+        {
+          "glyph": "This is very tasty!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "This is very tasty!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "Good morning.",
+          "name": "greet",
+          "exampleWord": "morning"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to \"What is your name?\"",
+          "options": [
+            "My name is Tara",
+            "I live here",
+            "I am fine",
+            "See you"
+          ],
+          "answer": "My name is Tara"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who is happy today?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l45",
+      "title": "Review 5",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        },
+        {
+          "glyph": "I am fine.",
+          "name": "reply",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "I am full, thank you.",
+          "name": "reply"
+        },
+        {
+          "glyph": "Please pass the water.",
+          "name": "request"
+        },
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        },
+        {
+          "glyph": "What is your name?",
+          "name": "question",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "Goodbye!",
+          "name": "farewell",
+          "exampleWord": "leave"
+        },
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        },
+        {
+          "glyph": "Can I have some bread?",
+          "name": "request"
+        },
+        {
+          "glyph": "I am tired now.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Could you say it again?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "I am lost, where is the bus stop?",
+          "name": "direction"
+        },
+        {
+          "glyph": "I am hungry.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I live in Chennai.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "I live in Chennai.",
+          "name": "answer",
+          "exampleWord": "reply"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Polite way to ask repeat?",
+          "options": [
+            "Could you say it again?",
+            "Help me",
+            "Where is bus stop",
+            "I am lost"
+          ],
+          "answer": "Could you say it again?"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Polite way to ask repeat?",
+          "options": [
+            "Could you say it again?",
+            "Help me",
+            "Where is bus stop",
+            "I am lost"
+          ],
+          "answer": "Could you say it again?"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Polite way to ask repeat?",
+          "options": [
+            "Could you say it again?",
+            "Help me",
+            "Where is bus stop",
+            "I am lost"
+          ],
+          "answer": "Could you say it again?"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l46",
+      "title": "Review 6",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "My name is Tara.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "I am happy today.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Goodbye!",
+          "name": "farewell",
+          "exampleWord": "leave"
+        },
+        {
+          "glyph": "What is your name?",
+          "name": "question",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "A: I am happy today.",
+          "name": "line"
+        },
+        {
+          "glyph": "I am fine.",
+          "name": "reply",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        },
+        {
+          "glyph": "Excuse me, can you help me?",
+          "name": "help"
+        },
+        {
+          "glyph": "I like apples.",
+          "name": "prefer",
+          "exampleWord": "liking"
+        },
+        {
+          "glyph": "Thank you.",
+          "name": "thanks",
+          "exampleWord": "say thanks"
+        },
+        {
+          "glyph": "I am hungry.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Where do you live?",
+          "name": "question",
+          "exampleWord": "ask city"
+        },
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        },
+        {
+          "glyph": "Hello!",
+          "name": "Hello",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "I am happy today.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Polite way to ask repeat?",
+          "options": [
+            "Could you say it again?",
+            "Help me",
+            "Where is bus stop",
+            "I am lost"
+          ],
+          "answer": "Could you say it again?"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"How are you?\"",
+          "options": [
+            "I am fine",
+            "Goodbye",
+            "Hello",
+            "You are kind"
+          ],
+          "answer": "I am fine"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l47",
+      "title": "Review 7",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I am happy today.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Can I have some bread?",
+          "name": "request"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "What is your name?",
+          "name": "question",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "I don’t like spicy food.",
+          "name": "prefer",
+          "exampleWord": "dislike"
+        },
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        },
+        {
+          "glyph": "I am fine.",
+          "name": "reply",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "This is very tasty!",
+          "name": "compliment"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "I am hungry means…",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"Hello!\"",
+          "options": [
+            "Hello!",
+            "Goodbye",
+            "I am fine",
+            "Thanks"
+          ],
+          "answer": "Hello!"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l48",
+      "title": "Review 8",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I need help.",
+          "name": "request",
+          "exampleWord": "need"
+        },
+        {
+          "glyph": "I need help.",
+          "name": "request",
+          "exampleWord": "need"
+        },
+        {
+          "glyph": "Good morning.",
+          "name": "greet",
+          "exampleWord": "morning"
+        },
+        {
+          "glyph": "I want some water.",
+          "name": "request",
+          "exampleWord": "want"
+        },
+        {
+          "glyph": "Thank you so much!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "I want some water.",
+          "name": "request",
+          "exampleWord": "want"
+        },
+        {
+          "glyph": "I am hungry.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am full, thank you.",
+          "name": "reply"
+        },
+        {
+          "glyph": "I am happy today.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am happy today.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am fine.",
+          "name": "reply",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "Please pass the water.",
+          "name": "request"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I want water",
+          "options": [
+            "I want some water",
+            "I like fruit",
+            "I am tired",
+            "I need help"
+          ],
+          "answer": "I want some water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"Hello!\"",
+          "options": [
+            "Hello!",
+            "Goodbye",
+            "I am fine",
+            "Thanks"
+          ],
+          "answer": "Hello!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I want water",
+          "options": [
+            "I want some water",
+            "I like fruit",
+            "I am tired",
+            "I need help"
+          ],
+          "answer": "I want some water"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l49",
+      "title": "Review 9",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        },
+        {
+          "glyph": "Excuse me, can you help me?",
+          "name": "help"
+        },
+        {
+          "glyph": "What is your name?",
+          "name": "question",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "Thank you so much!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "I am hungry.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Hello!",
+          "name": "Hello",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "A: I am happy today.",
+          "name": "line"
+        },
+        {
+          "glyph": "This is very tasty!",
+          "name": "compliment"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Polite way to ask repeat?",
+          "options": [
+            "Could you say it again?",
+            "Help me",
+            "Where is bus stop",
+            "I am lost"
+          ],
+          "answer": "Could you say it again?"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I want water",
+          "options": [
+            "I want some water",
+            "I like fruit",
+            "I am tired",
+            "I need help"
+          ],
+          "answer": "I want some water"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l50",
+      "title": "Review 10",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I am fine.",
+          "name": "reply",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "I feel a little sad.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Can I have some bread?",
+          "name": "request"
+        },
+        {
+          "glyph": "I am lost, where is the bus stop?",
+          "name": "direction"
+        },
+        {
+          "glyph": "Excuse me, can you help me?",
+          "name": "help"
+        },
+        {
+          "glyph": "This is very tasty!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "Good morning.",
+          "name": "greet",
+          "exampleWord": "morning"
+        },
+        {
+          "glyph": "Hello!",
+          "name": "Hello",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "I am fine.",
+          "name": "reply",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "I like apples.",
+          "name": "prefer",
+          "exampleWord": "liking"
+        },
+        {
+          "glyph": "I like apples.",
+          "name": "prefer",
+          "exampleWord": "liking"
+        },
+        {
+          "glyph": "I am hungry.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I want water",
+          "options": [
+            "I want some water",
+            "I like fruit",
+            "I am tired",
+            "I need help"
+          ],
+          "answer": "I want some water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to \"What is your name?\"",
+          "options": [
+            "My name is Tara",
+            "I live here",
+            "I am fine",
+            "See you"
+          ],
+          "answer": "My name is Tara"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l51",
+      "title": "Review 11",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I need help.",
+          "name": "request",
+          "exampleWord": "need"
+        },
+        {
+          "glyph": "I live in Chennai.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "I am hungry.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Goodbye!",
+          "name": "farewell",
+          "exampleWord": "leave"
+        },
+        {
+          "glyph": "Thank you.",
+          "name": "thanks",
+          "exampleWord": "say thanks"
+        },
+        {
+          "glyph": "Hello!",
+          "name": "Hello",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "I am fine.",
+          "name": "reply",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        },
+        {
+          "glyph": "I feel a little sad.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Could you say it again?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "I don’t understand.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to \"What is your name?\"",
+          "options": [
+            "My name is Tara",
+            "I live here",
+            "I am fine",
+            "See you"
+          ],
+          "answer": "My name is Tara"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to \"What is your name?\"",
+          "options": [
+            "My name is Tara",
+            "I live here",
+            "I am fine",
+            "See you"
+          ],
+          "answer": "My name is Tara"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l52",
+      "title": "Review 12",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Hello!",
+          "name": "Hello",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Could you say it again?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "I want some water.",
+          "name": "request",
+          "exampleWord": "want"
+        },
+        {
+          "glyph": "I am hungry.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Excuse me, can you help me?",
+          "name": "help"
+        },
+        {
+          "glyph": "I am hungry.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am tired now.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Thank you.",
+          "name": "thanks",
+          "exampleWord": "say thanks"
+        },
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        },
+        {
+          "glyph": "Good morning.",
+          "name": "greet",
+          "exampleWord": "morning"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Polite way to ask repeat?",
+          "options": [
+            "Could you say it again?",
+            "Help me",
+            "Where is bus stop",
+            "I am lost"
+          ],
+          "answer": "Could you say it again?"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I am full",
+          "options": [
+            "I am full, thank you.",
+            "I am hungry",
+            "Please pass water",
+            "This is tasty"
+          ],
+          "answer": "I am full, thank you."
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Polite way to ask repeat?",
+          "options": [
+            "Could you say it again?",
+            "Help me",
+            "Where is bus stop",
+            "I am lost"
+          ],
+          "answer": "Could you say it again?"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l53",
+      "title": "Review 13",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I like apples.",
+          "name": "prefer",
+          "exampleWord": "liking"
+        },
+        {
+          "glyph": "I am hungry.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I don’t like spicy food.",
+          "name": "prefer",
+          "exampleWord": "dislike"
+        },
+        {
+          "glyph": "May I leave the table?",
+          "name": "polite"
+        },
+        {
+          "glyph": "Can I have some bread?",
+          "name": "request"
+        },
+        {
+          "glyph": "I don’t like spicy food.",
+          "name": "prefer",
+          "exampleWord": "dislike"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Thank you so much!",
+          "name": "thanks"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "I am hungry means…",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"Hello!\"",
+          "options": [
+            "Hello!",
+            "Goodbye",
+            "I am fine",
+            "Thanks"
+          ],
+          "answer": "Hello!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to \"What is your name?\"",
+          "options": [
+            "My name is Tara",
+            "I live here",
+            "I am fine",
+            "See you"
+          ],
+          "answer": "My name is Tara"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l54",
+      "title": "Review 14",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "How are you?",
+          "name": "question",
+          "exampleWord": "ask wellbeing"
+        },
+        {
+          "glyph": "Excuse me, can you help me?",
+          "name": "help"
+        },
+        {
+          "glyph": "Hello!",
+          "name": "Hello",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Thank you.",
+          "name": "thanks",
+          "exampleWord": "say thanks"
+        },
+        {
+          "glyph": "This is very tasty!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "I like apples.",
+          "name": "prefer",
+          "exampleWord": "liking"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I like apples.",
+          "name": "prefer",
+          "exampleWord": "liking"
+        },
+        {
+          "glyph": "I am tired now.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I don’t like spicy food.",
+          "name": "prefer",
+          "exampleWord": "dislike"
+        },
+        {
+          "glyph": "B: Hello! How are you?",
+          "name": "line"
+        },
+        {
+          "glyph": "What is your name?",
+          "name": "question",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "What is your name?",
+          "name": "question",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "Thank you so much!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Excuse me, can you help me?",
+          "name": "help"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Polite way to ask repeat?",
+          "options": [
+            "Could you say it again?",
+            "Help me",
+            "Where is bus stop",
+            "I am lost"
+          ],
+          "answer": "Could you say it again?"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I want water",
+          "options": [
+            "I want some water",
+            "I like fruit",
+            "I am tired",
+            "I need help"
+          ],
+          "answer": "I want some water"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l55",
+      "title": "Review 15",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "May I leave the table?",
+          "name": "polite"
+        },
+        {
+          "glyph": "This is very tasty!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "I live in Chennai.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "I feel a little sad.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Could you say it again?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "Excuse me, can you help me?",
+          "name": "help"
+        },
+        {
+          "glyph": "I don’t understand.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "I am tired now.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am hungry.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "My name is Tara.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "Could you say it again?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        },
+        {
+          "glyph": "May I leave the table?",
+          "name": "polite"
+        },
+        {
+          "glyph": "Thank you so much!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Polite way to ask repeat?",
+          "options": [
+            "Could you say it again?",
+            "Help me",
+            "Where is bus stop",
+            "I am lost"
+          ],
+          "answer": "Could you say it again?"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who is happy today?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l56",
+      "title": "Review 16",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Hello!",
+          "name": "Hello",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "I need help.",
+          "name": "request",
+          "exampleWord": "need"
+        },
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        },
+        {
+          "glyph": "I need help.",
+          "name": "request",
+          "exampleWord": "need"
+        },
+        {
+          "glyph": "I am fine.",
+          "name": "reply",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "I am full, thank you.",
+          "name": "reply"
+        },
+        {
+          "glyph": "Thank you.",
+          "name": "thanks",
+          "exampleWord": "say thanks"
+        },
+        {
+          "glyph": "I am full, thank you.",
+          "name": "reply"
+        },
+        {
+          "glyph": "I feel a little sad.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: Hello! How are you?",
+          "name": "line"
+        },
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        },
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        },
+        {
+          "glyph": "Please pass the water.",
+          "name": "request"
+        },
+        {
+          "glyph": "Where do you live?",
+          "name": "question",
+          "exampleWord": "ask city"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who is happy today?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to \"What is your name?\"",
+          "options": [
+            "My name is Tara",
+            "I live here",
+            "I am fine",
+            "See you"
+          ],
+          "answer": "My name is Tara"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"How are you?\"",
+          "options": [
+            "I am fine",
+            "Goodbye",
+            "Hello",
+            "You are kind"
+          ],
+          "answer": "I am fine"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l57",
+      "title": "Review 17",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "This is very tasty!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "I live in Chennai.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "I need help.",
+          "name": "request",
+          "exampleWord": "need"
+        },
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        },
+        {
+          "glyph": "I want some water.",
+          "name": "request",
+          "exampleWord": "want"
+        },
+        {
+          "glyph": "How are you?",
+          "name": "question",
+          "exampleWord": "ask wellbeing"
+        },
+        {
+          "glyph": "Thank you so much!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "What is your name?",
+          "name": "question",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "Hello!",
+          "name": "Hello",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Can I have some bread?",
+          "name": "request"
+        },
+        {
+          "glyph": "I am lost, where is the bus stop?",
+          "name": "direction"
+        },
+        {
+          "glyph": "I am lost, where is the bus stop?",
+          "name": "direction"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Polite way to ask repeat?",
+          "options": [
+            "Could you say it again?",
+            "Help me",
+            "Where is bus stop",
+            "I am lost"
+          ],
+          "answer": "Could you say it again?"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Polite way to ask repeat?",
+          "options": [
+            "Could you say it again?",
+            "Help me",
+            "Where is bus stop",
+            "I am lost"
+          ],
+          "answer": "Could you say it again?"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to \"What is your name?\"",
+          "options": [
+            "My name is Tara",
+            "I live here",
+            "I am fine",
+            "See you"
+          ],
+          "answer": "My name is Tara"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l58",
+      "title": "Review 18",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I don’t like spicy food.",
+          "name": "prefer",
+          "exampleWord": "dislike"
+        },
+        {
+          "glyph": "May I leave the table?",
+          "name": "polite"
+        },
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        },
+        {
+          "glyph": "I need help.",
+          "name": "request",
+          "exampleWord": "need"
+        },
+        {
+          "glyph": "I want some water.",
+          "name": "request",
+          "exampleWord": "want"
+        },
+        {
+          "glyph": "May I leave the table?",
+          "name": "polite"
+        },
+        {
+          "glyph": "I like apples.",
+          "name": "prefer",
+          "exampleWord": "liking"
+        },
+        {
+          "glyph": "B: Hello! How are you?",
+          "name": "line"
+        },
+        {
+          "glyph": "I am tired now.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am fine.",
+          "name": "reply",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "I feel a little sad.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Could you say it again?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "A: I am happy today.",
+          "name": "line"
+        },
+        {
+          "glyph": "May I leave the table?",
+          "name": "polite"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Polite way to ask repeat?",
+          "options": [
+            "Could you say it again?",
+            "Help me",
+            "Where is bus stop",
+            "I am lost"
+          ],
+          "answer": "Could you say it again?"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I want water",
+          "options": [
+            "I want some water",
+            "I like fruit",
+            "I am tired",
+            "I need help"
+          ],
+          "answer": "I want some water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"How are you?\"",
+          "options": [
+            "I am fine",
+            "Goodbye",
+            "Hello",
+            "You are kind"
+          ],
+          "answer": "I am fine"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l59",
+      "title": "Review 19",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "This is very tasty!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "I live in Chennai.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "Goodbye!",
+          "name": "farewell",
+          "exampleWord": "leave"
+        },
+        {
+          "glyph": "I want some water.",
+          "name": "request",
+          "exampleWord": "want"
+        },
+        {
+          "glyph": "I like apples.",
+          "name": "prefer",
+          "exampleWord": "liking"
+        },
+        {
+          "glyph": "I need help.",
+          "name": "request",
+          "exampleWord": "need"
+        },
+        {
+          "glyph": "I want some water.",
+          "name": "request",
+          "exampleWord": "want"
+        },
+        {
+          "glyph": "My name is Tara.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "Goodbye!",
+          "name": "farewell",
+          "exampleWord": "leave"
+        },
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I am full",
+          "options": [
+            "I am full, thank you.",
+            "I am hungry",
+            "Please pass water",
+            "This is tasty"
+          ],
+          "answer": "I am full, thank you."
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "I am hungry means…",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to \"What is your name?\"",
+          "options": [
+            "My name is Tara",
+            "I live here",
+            "I am fine",
+            "See you"
+          ],
+          "answer": "My name is Tara"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l60",
+      "title": "Review 20",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I am tired now.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am tired now.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "My name is Tara.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "My name is Tara.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        },
+        {
+          "glyph": "Goodbye!",
+          "name": "farewell",
+          "exampleWord": "leave"
+        },
+        {
+          "glyph": "Thank you so much!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Please pass the water.",
+          "name": "request"
+        },
+        {
+          "glyph": "Can I have some bread?",
+          "name": "request"
+        },
+        {
+          "glyph": "I am lost, where is the bus stop?",
+          "name": "direction"
+        },
+        {
+          "glyph": "I don’t understand.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "How are you?",
+          "name": "question",
+          "exampleWord": "ask wellbeing"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "I am hungry means…",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"How are you?\"",
+          "options": [
+            "I am fine",
+            "Goodbye",
+            "Hello",
+            "You are kind"
+          ],
+          "answer": "I am fine"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I want water",
+          "options": [
+            "I want some water",
+            "I like fruit",
+            "I am tired",
+            "I need help"
+          ],
+          "answer": "I want some water"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l61",
+      "title": "Review 21",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I am hungry.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I need help.",
+          "name": "request",
+          "exampleWord": "need"
+        },
+        {
+          "glyph": "Where do you live?",
+          "name": "question",
+          "exampleWord": "ask city"
+        },
+        {
+          "glyph": "Goodbye!",
+          "name": "farewell",
+          "exampleWord": "leave"
+        },
+        {
+          "glyph": "I am fine.",
+          "name": "reply",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "I don’t understand.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "B: Hello! How are you?",
+          "name": "line"
+        },
+        {
+          "glyph": "Goodbye!",
+          "name": "farewell",
+          "exampleWord": "leave"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Good morning.",
+          "name": "greet",
+          "exampleWord": "morning"
+        },
+        {
+          "glyph": "Goodbye!",
+          "name": "farewell",
+          "exampleWord": "leave"
+        },
+        {
+          "glyph": "Could you say it again?",
+          "name": "repeat"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who is happy today?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Polite way to ask repeat?",
+          "options": [
+            "Could you say it again?",
+            "Help me",
+            "Where is bus stop",
+            "I am lost"
+          ],
+          "answer": "Could you say it again?"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l62",
+      "title": "Review 22",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I am hungry.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Goodbye!",
+          "name": "farewell",
+          "exampleWord": "leave"
+        },
+        {
+          "glyph": "May I leave the table?",
+          "name": "polite"
+        },
+        {
+          "glyph": "I live in Chennai.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "I need help.",
+          "name": "request",
+          "exampleWord": "need"
+        },
+        {
+          "glyph": "Thank you so much!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "How are you?",
+          "name": "question",
+          "exampleWord": "ask wellbeing"
+        },
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Excuse me, can you help me?",
+          "name": "help"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "I am hungry means…",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to \"What is your name?\"",
+          "options": [
+            "My name is Tara",
+            "I live here",
+            "I am fine",
+            "See you"
+          ],
+          "answer": "My name is Tara"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"How are you?\"",
+          "options": [
+            "I am fine",
+            "Goodbye",
+            "Hello",
+            "You are kind"
+          ],
+          "answer": "I am fine"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l63",
+      "title": "Review 23",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Hello!",
+          "name": "Hello",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Could you say it again?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "May I leave the table?",
+          "name": "polite"
+        },
+        {
+          "glyph": "How are you?",
+          "name": "question",
+          "exampleWord": "ask wellbeing"
+        },
+        {
+          "glyph": "Excuse me, can you help me?",
+          "name": "help"
+        },
+        {
+          "glyph": "I am tired now.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I don’t like spicy food.",
+          "name": "prefer",
+          "exampleWord": "dislike"
+        },
+        {
+          "glyph": "I am tired now.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: I am happy today.",
+          "name": "line"
+        },
+        {
+          "glyph": "I feel a little sad.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am tired now.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who is happy today?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I am full",
+          "options": [
+            "I am full, thank you.",
+            "I am hungry",
+            "Please pass water",
+            "This is tasty"
+          ],
+          "answer": "I am full, thank you."
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"Hello!\"",
+          "options": [
+            "Hello!",
+            "Goodbye",
+            "I am fine",
+            "Thanks"
+          ],
+          "answer": "Hello!"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l64",
+      "title": "Review 24",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I feel a little sad.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "This is very tasty!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "Excuse me, can you help me?",
+          "name": "help"
+        },
+        {
+          "glyph": "I need help.",
+          "name": "request",
+          "exampleWord": "need"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "This is very tasty!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "My name is Tara.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "I like apples.",
+          "name": "prefer",
+          "exampleWord": "liking"
+        },
+        {
+          "glyph": "Please pass the water.",
+          "name": "request"
+        },
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to \"What is your name?\"",
+          "options": [
+            "My name is Tara",
+            "I live here",
+            "I am fine",
+            "See you"
+          ],
+          "answer": "My name is Tara"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to \"What is your name?\"",
+          "options": [
+            "My name is Tara",
+            "I live here",
+            "I am fine",
+            "See you"
+          ],
+          "answer": "My name is Tara"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l65",
+      "title": "Review 25",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        },
+        {
+          "glyph": "I live in Chennai.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "I feel a little sad.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am happy today.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I live in Chennai.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "I want some water.",
+          "name": "request",
+          "exampleWord": "want"
+        },
+        {
+          "glyph": "How are you?",
+          "name": "question",
+          "exampleWord": "ask wellbeing"
+        },
+        {
+          "glyph": "I want some water.",
+          "name": "request",
+          "exampleWord": "want"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who is happy today?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"Hello!\"",
+          "options": [
+            "Hello!",
+            "Goodbye",
+            "I am fine",
+            "Thanks"
+          ],
+          "answer": "Hello!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I want water",
+          "options": [
+            "I want some water",
+            "I like fruit",
+            "I am tired",
+            "I need help"
+          ],
+          "answer": "I want some water"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l66",
+      "title": "Review 26",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I need help.",
+          "name": "request",
+          "exampleWord": "need"
+        },
+        {
+          "glyph": "May I leave the table?",
+          "name": "polite"
+        },
+        {
+          "glyph": "Goodbye!",
+          "name": "farewell",
+          "exampleWord": "leave"
+        },
+        {
+          "glyph": "I want some water.",
+          "name": "request",
+          "exampleWord": "want"
+        },
+        {
+          "glyph": "How are you?",
+          "name": "question",
+          "exampleWord": "ask wellbeing"
+        },
+        {
+          "glyph": "A: I am happy today.",
+          "name": "line"
+        },
+        {
+          "glyph": "How are you?",
+          "name": "question",
+          "exampleWord": "ask wellbeing"
+        },
+        {
+          "glyph": "I feel a little sad.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Please pass the water.",
+          "name": "request"
+        },
+        {
+          "glyph": "May I leave the table?",
+          "name": "polite"
+        },
+        {
+          "glyph": "I don’t understand.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "I am lost, where is the bus stop?",
+          "name": "direction"
+        },
+        {
+          "glyph": "I am fine.",
+          "name": "reply",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "I don’t like spicy food.",
+          "name": "prefer",
+          "exampleWord": "dislike"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"How are you?\"",
+          "options": [
+            "I am fine",
+            "Goodbye",
+            "Hello",
+            "You are kind"
+          ],
+          "answer": "I am fine"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I am full",
+          "options": [
+            "I am full, thank you.",
+            "I am hungry",
+            "Please pass water",
+            "This is tasty"
+          ],
+          "answer": "I am full, thank you."
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to \"What is your name?\"",
+          "options": [
+            "My name is Tara",
+            "I live here",
+            "I am fine",
+            "See you"
+          ],
+          "answer": "My name is Tara"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l67",
+      "title": "Review 27",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I like apples.",
+          "name": "prefer",
+          "exampleWord": "liking"
+        },
+        {
+          "glyph": "I feel a little sad.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am full, thank you.",
+          "name": "reply"
+        },
+        {
+          "glyph": "Hello!",
+          "name": "Hello",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        },
+        {
+          "glyph": "Excuse me, can you help me?",
+          "name": "help"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Can I have some bread?",
+          "name": "request"
+        },
+        {
+          "glyph": "Could you say it again?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "Good morning.",
+          "name": "greet",
+          "exampleWord": "morning"
+        },
+        {
+          "glyph": "I am hungry.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I live in Chennai.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "I feel a little sad.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Could you say it again?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "What is your name?",
+          "name": "question",
+          "exampleWord": "ask name"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to \"What is your name?\"",
+          "options": [
+            "My name is Tara",
+            "I live here",
+            "I am fine",
+            "See you"
+          ],
+          "answer": "My name is Tara"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I am full",
+          "options": [
+            "I am full, thank you.",
+            "I am hungry",
+            "Please pass water",
+            "This is tasty"
+          ],
+          "answer": "I am full, thank you."
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to \"What is your name?\"",
+          "options": [
+            "My name is Tara",
+            "I live here",
+            "I am fine",
+            "See you"
+          ],
+          "answer": "My name is Tara"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l68",
+      "title": "Review 28",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Could you say it again?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "I am tired now.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I need help.",
+          "name": "request",
+          "exampleWord": "need"
+        },
+        {
+          "glyph": "Hello!",
+          "name": "Hello",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "I feel a little sad.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Excuse me, can you help me?",
+          "name": "help"
+        },
+        {
+          "glyph": "What is your name?",
+          "name": "question",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "I don’t understand.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "I don’t like spicy food.",
+          "name": "prefer",
+          "exampleWord": "dislike"
+        },
+        {
+          "glyph": "I live in Chennai.",
+          "name": "answer",
+          "exampleWord": "reply"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"How are you?\"",
+          "options": [
+            "I am fine",
+            "Goodbye",
+            "Hello",
+            "You are kind"
+          ],
+          "answer": "I am fine"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to \"What is your name?\"",
+          "options": [
+            "My name is Tara",
+            "I live here",
+            "I am fine",
+            "See you"
+          ],
+          "answer": "My name is Tara"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l69",
+      "title": "Review 29",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "May I leave the table?",
+          "name": "polite"
+        },
+        {
+          "glyph": "Please pass the water.",
+          "name": "request"
+        },
+        {
+          "glyph": "How are you?",
+          "name": "question",
+          "exampleWord": "ask wellbeing"
+        },
+        {
+          "glyph": "I don’t understand.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "Thank you.",
+          "name": "thanks",
+          "exampleWord": "say thanks"
+        },
+        {
+          "glyph": "My name is Tara.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "Can I have some bread?",
+          "name": "request"
+        },
+        {
+          "glyph": "I need help.",
+          "name": "request",
+          "exampleWord": "need"
+        },
+        {
+          "glyph": "I don’t like spicy food.",
+          "name": "prefer",
+          "exampleWord": "dislike"
+        },
+        {
+          "glyph": "I am full, thank you.",
+          "name": "reply"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am fine.",
+          "name": "reply",
+          "exampleWord": "answer"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I want water",
+          "options": [
+            "I want some water",
+            "I like fruit",
+            "I am tired",
+            "I need help"
+          ],
+          "answer": "I want some water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "I am hungry means…",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I am full",
+          "options": [
+            "I am full, thank you.",
+            "I am hungry",
+            "Please pass water",
+            "This is tasty"
+          ],
+          "answer": "I am full, thank you."
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l70",
+      "title": "Review 30",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I live in Chennai.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "This is very tasty!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "Good morning.",
+          "name": "greet",
+          "exampleWord": "morning"
+        },
+        {
+          "glyph": "I need help.",
+          "name": "request",
+          "exampleWord": "need"
+        },
+        {
+          "glyph": "I feel a little sad.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I want some water.",
+          "name": "request",
+          "exampleWord": "want"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "What is your name?",
+          "name": "question",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "Goodbye!",
+          "name": "farewell",
+          "exampleWord": "leave"
+        },
+        {
+          "glyph": "I need help.",
+          "name": "request",
+          "exampleWord": "need"
+        },
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        },
+        {
+          "glyph": "Good morning.",
+          "name": "greet",
+          "exampleWord": "morning"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"Hello!\"",
+          "options": [
+            "Hello!",
+            "Goodbye",
+            "I am fine",
+            "Thanks"
+          ],
+          "answer": "Hello!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I want water",
+          "options": [
+            "I want some water",
+            "I like fruit",
+            "I am tired",
+            "I need help"
+          ],
+          "answer": "I want some water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Polite way to ask repeat?",
+          "options": [
+            "Could you say it again?",
+            "Help me",
+            "Where is bus stop",
+            "I am lost"
+          ],
+          "answer": "Could you say it again?"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l71",
+      "title": "Review 31",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I don’t like spicy food.",
+          "name": "prefer",
+          "exampleWord": "dislike"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Goodbye!",
+          "name": "farewell",
+          "exampleWord": "leave"
+        },
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        },
+        {
+          "glyph": "Thank you.",
+          "name": "thanks",
+          "exampleWord": "say thanks"
+        },
+        {
+          "glyph": "I am fine.",
+          "name": "reply",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "Thank you so much!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "I want some water.",
+          "name": "request",
+          "exampleWord": "want"
+        },
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        },
+        {
+          "glyph": "I like apples.",
+          "name": "prefer",
+          "exampleWord": "liking"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I want water",
+          "options": [
+            "I want some water",
+            "I like fruit",
+            "I am tired",
+            "I need help"
+          ],
+          "answer": "I want some water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I want water",
+          "options": [
+            "I want some water",
+            "I like fruit",
+            "I am tired",
+            "I need help"
+          ],
+          "answer": "I want some water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who is happy today?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l72",
+      "title": "Review 32",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Excuse me, can you help me?",
+          "name": "help"
+        },
+        {
+          "glyph": "This is very tasty!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        },
+        {
+          "glyph": "My name is Tara.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "B: Hello! How are you?",
+          "name": "line"
+        },
+        {
+          "glyph": "Good morning.",
+          "name": "greet",
+          "exampleWord": "morning"
+        },
+        {
+          "glyph": "Thank you.",
+          "name": "thanks",
+          "exampleWord": "say thanks"
+        },
+        {
+          "glyph": "May I leave the table?",
+          "name": "polite"
+        },
+        {
+          "glyph": "I live in Chennai.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "Excuse me, can you help me?",
+          "name": "help"
+        },
+        {
+          "glyph": "Good morning.",
+          "name": "greet",
+          "exampleWord": "morning"
+        },
+        {
+          "glyph": "I like apples.",
+          "name": "prefer",
+          "exampleWord": "liking"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who is happy today?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who is happy today?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"Hello!\"",
+          "options": [
+            "Hello!",
+            "Goodbye",
+            "I am fine",
+            "Thanks"
+          ],
+          "answer": "Hello!"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l73",
+      "title": "Review 33",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I don’t like spicy food.",
+          "name": "prefer",
+          "exampleWord": "dislike"
+        },
+        {
+          "glyph": "I want some water.",
+          "name": "request",
+          "exampleWord": "want"
+        },
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        },
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        },
+        {
+          "glyph": "I am full, thank you.",
+          "name": "reply"
+        },
+        {
+          "glyph": "Can I have some bread?",
+          "name": "request"
+        },
+        {
+          "glyph": "I am fine.",
+          "name": "reply",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "I am happy today.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am hungry.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am lost, where is the bus stop?",
+          "name": "direction"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Polite way to ask repeat?",
+          "options": [
+            "Could you say it again?",
+            "Help me",
+            "Where is bus stop",
+            "I am lost"
+          ],
+          "answer": "Could you say it again?"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I am full",
+          "options": [
+            "I am full, thank you.",
+            "I am hungry",
+            "Please pass water",
+            "This is tasty"
+          ],
+          "answer": "I am full, thank you."
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l74",
+      "title": "Review 34",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "What is your name?",
+          "name": "question",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "I feel a little sad.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am lost, where is the bus stop?",
+          "name": "direction"
+        },
+        {
+          "glyph": "I am fine.",
+          "name": "reply",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "Hello!",
+          "name": "Hello",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "This is very tasty!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "I don’t understand.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "I am happy today.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Can I have some bread?",
+          "name": "request"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I live in Chennai.",
+          "name": "answer",
+          "exampleWord": "reply"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who is happy today?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"How are you?\"",
+          "options": [
+            "I am fine",
+            "Goodbye",
+            "Hello",
+            "You are kind"
+          ],
+          "answer": "I am fine"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l75",
+      "title": "Review 35",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "This is very tasty!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "I feel a little sad.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Where do you live?",
+          "name": "question",
+          "exampleWord": "ask city"
+        },
+        {
+          "glyph": "I am happy today.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am hungry.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am tired now.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am hungry.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        },
+        {
+          "glyph": "Goodbye!",
+          "name": "farewell",
+          "exampleWord": "leave"
+        },
+        {
+          "glyph": "I am fine.",
+          "name": "reply",
+          "exampleWord": "answer"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"Hello!\"",
+          "options": [
+            "Hello!",
+            "Goodbye",
+            "I am fine",
+            "Thanks"
+          ],
+          "answer": "Hello!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"Hello!\"",
+          "options": [
+            "Hello!",
+            "Goodbye",
+            "I am fine",
+            "Thanks"
+          ],
+          "answer": "Hello!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I want water",
+          "options": [
+            "I want some water",
+            "I like fruit",
+            "I am tired",
+            "I need help"
+          ],
+          "answer": "I want some water"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l76",
+      "title": "Review 36",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am fine.",
+          "name": "reply",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "Thank you so much!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "This is very tasty!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "Could you say it again?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "Goodbye!",
+          "name": "farewell",
+          "exampleWord": "leave"
+        },
+        {
+          "glyph": "Where do you live?",
+          "name": "question",
+          "exampleWord": "ask city"
+        },
+        {
+          "glyph": "Please pass the water.",
+          "name": "request"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Polite way to ask repeat?",
+          "options": [
+            "Could you say it again?",
+            "Help me",
+            "Where is bus stop",
+            "I am lost"
+          ],
+          "answer": "Could you say it again?"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"Hello!\"",
+          "options": [
+            "Hello!",
+            "Goodbye",
+            "I am fine",
+            "Thanks"
+          ],
+          "answer": "Hello!"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l77",
+      "title": "Review 37",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Could you say it again?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Thank you so much!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        },
+        {
+          "glyph": "Goodbye!",
+          "name": "farewell",
+          "exampleWord": "leave"
+        },
+        {
+          "glyph": "Thank you.",
+          "name": "thanks",
+          "exampleWord": "say thanks"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Thank you.",
+          "name": "thanks",
+          "exampleWord": "say thanks"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"Hello!\"",
+          "options": [
+            "Hello!",
+            "Goodbye",
+            "I am fine",
+            "Thanks"
+          ],
+          "answer": "Hello!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I am full",
+          "options": [
+            "I am full, thank you.",
+            "I am hungry",
+            "Please pass water",
+            "This is tasty"
+          ],
+          "answer": "I am full, thank you."
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l78",
+      "title": "Review 38",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I need help.",
+          "name": "request",
+          "exampleWord": "need"
+        },
+        {
+          "glyph": "I don’t understand.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "A: I am happy today.",
+          "name": "line"
+        },
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        },
+        {
+          "glyph": "I feel a little sad.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Where do you live?",
+          "name": "question",
+          "exampleWord": "ask city"
+        },
+        {
+          "glyph": "I need help.",
+          "name": "request",
+          "exampleWord": "need"
+        },
+        {
+          "glyph": "I want some water.",
+          "name": "request",
+          "exampleWord": "want"
+        },
+        {
+          "glyph": "How are you?",
+          "name": "question",
+          "exampleWord": "ask wellbeing"
+        },
+        {
+          "glyph": "What is your name?",
+          "name": "question",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        },
+        {
+          "glyph": "Excuse me, can you help me?",
+          "name": "help"
+        },
+        {
+          "glyph": "A: I am happy today.",
+          "name": "line"
+        },
+        {
+          "glyph": "I live in Chennai.",
+          "name": "answer",
+          "exampleWord": "reply"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"How are you?\"",
+          "options": [
+            "I am fine",
+            "Goodbye",
+            "Hello",
+            "You are kind"
+          ],
+          "answer": "I am fine"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"How are you?\"",
+          "options": [
+            "I am fine",
+            "Goodbye",
+            "Hello",
+            "You are kind"
+          ],
+          "answer": "I am fine"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l79",
+      "title": "Review 39",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I want some water.",
+          "name": "request",
+          "exampleWord": "want"
+        },
+        {
+          "glyph": "May I leave the table?",
+          "name": "polite"
+        },
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        },
+        {
+          "glyph": "What is your name?",
+          "name": "question",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "This is very tasty!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "I am happy today.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I like apples.",
+          "name": "prefer",
+          "exampleWord": "liking"
+        },
+        {
+          "glyph": "Can I have some bread?",
+          "name": "request"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I want water",
+          "options": [
+            "I want some water",
+            "I like fruit",
+            "I am tired",
+            "I need help"
+          ],
+          "answer": "I want some water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"How are you?\"",
+          "options": [
+            "I am fine",
+            "Goodbye",
+            "Hello",
+            "You are kind"
+          ],
+          "answer": "I am fine"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l80",
+      "title": "Review 40",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "How are you?",
+          "name": "question",
+          "exampleWord": "ask wellbeing"
+        },
+        {
+          "glyph": "I live in Chennai.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "I am happy today.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am fine.",
+          "name": "reply",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "What is your name?",
+          "name": "question",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "Good morning.",
+          "name": "greet",
+          "exampleWord": "morning"
+        },
+        {
+          "glyph": "I am happy today.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: Hello! How are you?",
+          "name": "line"
+        },
+        {
+          "glyph": "This is very tasty!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I need help.",
+          "name": "request",
+          "exampleWord": "need"
+        },
+        {
+          "glyph": "My name is Tara.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "Excuse me, can you help me?",
+          "name": "help"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "How are you?",
+          "name": "question",
+          "exampleWord": "ask wellbeing"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"How are you?\"",
+          "options": [
+            "I am fine",
+            "Goodbye",
+            "Hello",
+            "You are kind"
+          ],
+          "answer": "I am fine"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who is happy today?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I want water",
+          "options": [
+            "I want some water",
+            "I like fruit",
+            "I am tired",
+            "I need help"
+          ],
+          "answer": "I want some water"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l81",
+      "title": "Review 41",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I am lost, where is the bus stop?",
+          "name": "direction"
+        },
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        },
+        {
+          "glyph": "I don’t like spicy food.",
+          "name": "prefer",
+          "exampleWord": "dislike"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: Hello! How are you?",
+          "name": "line"
+        },
+        {
+          "glyph": "Goodbye!",
+          "name": "farewell",
+          "exampleWord": "leave"
+        },
+        {
+          "glyph": "Can I have some bread?",
+          "name": "request"
+        },
+        {
+          "glyph": "Could you say it again?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "I am happy today.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am tired now.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Polite way to ask repeat?",
+          "options": [
+            "Could you say it again?",
+            "Help me",
+            "Where is bus stop",
+            "I am lost"
+          ],
+          "answer": "Could you say it again?"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I am full",
+          "options": [
+            "I am full, thank you.",
+            "I am hungry",
+            "Please pass water",
+            "This is tasty"
+          ],
+          "answer": "I am full, thank you."
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l82",
+      "title": "Review 42",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I am lost, where is the bus stop?",
+          "name": "direction"
+        },
+        {
+          "glyph": "I am full, thank you.",
+          "name": "reply"
+        },
+        {
+          "glyph": "My name is Tara.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "My name is Tara.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "I don’t like spicy food.",
+          "name": "prefer",
+          "exampleWord": "dislike"
+        },
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        },
+        {
+          "glyph": "I don’t understand.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "I am tired now.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am tired now.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who is happy today?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I am full",
+          "options": [
+            "I am full, thank you.",
+            "I am hungry",
+            "Please pass water",
+            "This is tasty"
+          ],
+          "answer": "I am full, thank you."
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who is happy today?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l83",
+      "title": "Review 43",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "What is your name?",
+          "name": "question",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "Goodbye!",
+          "name": "farewell",
+          "exampleWord": "leave"
+        },
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        },
+        {
+          "glyph": "Please pass the water.",
+          "name": "request"
+        },
+        {
+          "glyph": "Where do you live?",
+          "name": "question",
+          "exampleWord": "ask city"
+        },
+        {
+          "glyph": "I don’t understand.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "I don’t understand.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "I am hungry.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am tired now.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Excuse me, can you help me?",
+          "name": "help"
+        },
+        {
+          "glyph": "I live in Chennai.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "May I leave the table?",
+          "name": "polite"
+        },
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        },
+        {
+          "glyph": "I need help.",
+          "name": "request",
+          "exampleWord": "need"
+        },
+        {
+          "glyph": "This is very tasty!",
+          "name": "compliment"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I want water",
+          "options": [
+            "I want some water",
+            "I like fruit",
+            "I am tired",
+            "I need help"
+          ],
+          "answer": "I want some water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to \"What is your name?\"",
+          "options": [
+            "My name is Tara",
+            "I live here",
+            "I am fine",
+            "See you"
+          ],
+          "answer": "My name is Tara"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"How are you?\"",
+          "options": [
+            "I am fine",
+            "Goodbye",
+            "Hello",
+            "You are kind"
+          ],
+          "answer": "I am fine"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l84",
+      "title": "Review 44",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "My name is Tara.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "Can I have some bread?",
+          "name": "request"
+        },
+        {
+          "glyph": "Can I have some bread?",
+          "name": "request"
+        },
+        {
+          "glyph": "How are you?",
+          "name": "question",
+          "exampleWord": "ask wellbeing"
+        },
+        {
+          "glyph": "I feel a little sad.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I live in Chennai.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "Goodbye!",
+          "name": "farewell",
+          "exampleWord": "leave"
+        },
+        {
+          "glyph": "I am tired now.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "What is your name?",
+          "name": "question",
+          "exampleWord": "ask name"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who is happy today?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"How are you?\"",
+          "options": [
+            "I am fine",
+            "Goodbye",
+            "Hello",
+            "You are kind"
+          ],
+          "answer": "I am fine"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l85",
+      "title": "Review 45",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        },
+        {
+          "glyph": "Can I have some bread?",
+          "name": "request"
+        },
+        {
+          "glyph": "I am hungry.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I need help.",
+          "name": "request",
+          "exampleWord": "need"
+        },
+        {
+          "glyph": "I am tired now.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Hello!",
+          "name": "Hello",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "I need help.",
+          "name": "request",
+          "exampleWord": "need"
+        },
+        {
+          "glyph": "B: Hello! How are you?",
+          "name": "line"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I want water",
+          "options": [
+            "I want some water",
+            "I like fruit",
+            "I am tired",
+            "I need help"
+          ],
+          "answer": "I want some water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I want water",
+          "options": [
+            "I want some water",
+            "I like fruit",
+            "I am tired",
+            "I need help"
+          ],
+          "answer": "I want some water"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l86",
+      "title": "Review 46",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I like apples.",
+          "name": "prefer",
+          "exampleWord": "liking"
+        },
+        {
+          "glyph": "I don’t understand.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "I live in Chennai.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        },
+        {
+          "glyph": "I live in Chennai.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "I am happy today.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I live in Chennai.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "I am fine.",
+          "name": "reply",
+          "exampleWord": "answer"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I want water",
+          "options": [
+            "I want some water",
+            "I like fruit",
+            "I am tired",
+            "I need help"
+          ],
+          "answer": "I want some water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"Hello!\"",
+          "options": [
+            "Hello!",
+            "Goodbye",
+            "I am fine",
+            "Thanks"
+          ],
+          "answer": "Hello!"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l87",
+      "title": "Review 47",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "What is your name?",
+          "name": "question",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "Good morning.",
+          "name": "greet",
+          "exampleWord": "morning"
+        },
+        {
+          "glyph": "I don’t understand.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "I don’t understand.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "Goodbye!",
+          "name": "farewell",
+          "exampleWord": "leave"
+        },
+        {
+          "glyph": "I need help.",
+          "name": "request",
+          "exampleWord": "need"
+        },
+        {
+          "glyph": "I am happy today.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Excuse me, can you help me?",
+          "name": "help"
+        },
+        {
+          "glyph": "Thank you.",
+          "name": "thanks",
+          "exampleWord": "say thanks"
+        },
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Polite way to ask repeat?",
+          "options": [
+            "Could you say it again?",
+            "Help me",
+            "Where is bus stop",
+            "I am lost"
+          ],
+          "answer": "Could you say it again?"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who is happy today?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Polite way to ask repeat?",
+          "options": [
+            "Could you say it again?",
+            "Help me",
+            "Where is bus stop",
+            "I am lost"
+          ],
+          "answer": "Could you say it again?"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l88",
+      "title": "Review 48",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I live in Chennai.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "I want some water.",
+          "name": "request",
+          "exampleWord": "want"
+        },
+        {
+          "glyph": "I am tired now.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I need help.",
+          "name": "request",
+          "exampleWord": "need"
+        },
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        },
+        {
+          "glyph": "I am hungry.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Good morning.",
+          "name": "greet",
+          "exampleWord": "morning"
+        },
+        {
+          "glyph": "Could you say it again?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "Hello!",
+          "name": "Hello",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "I am happy today.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Polite way to ask repeat?",
+          "options": [
+            "Could you say it again?",
+            "Help me",
+            "Where is bus stop",
+            "I am lost"
+          ],
+          "answer": "Could you say it again?"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Polite way to ask repeat?",
+          "options": [
+            "Could you say it again?",
+            "Help me",
+            "Where is bus stop",
+            "I am lost"
+          ],
+          "answer": "Could you say it again?"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Polite way to ask repeat?",
+          "options": [
+            "Could you say it again?",
+            "Help me",
+            "Where is bus stop",
+            "I am lost"
+          ],
+          "answer": "Could you say it again?"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l89",
+      "title": "Review 49",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "What is your name?",
+          "name": "question",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "Excuse me, can you help me?",
+          "name": "help"
+        },
+        {
+          "glyph": "A: I am happy today.",
+          "name": "line"
+        },
+        {
+          "glyph": "I don’t understand.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Thank you.",
+          "name": "thanks",
+          "exampleWord": "say thanks"
+        },
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        },
+        {
+          "glyph": "I am lost, where is the bus stop?",
+          "name": "direction"
+        },
+        {
+          "glyph": "Goodbye!",
+          "name": "farewell",
+          "exampleWord": "leave"
+        },
+        {
+          "glyph": "I am tired now.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I want water",
+          "options": [
+            "I want some water",
+            "I like fruit",
+            "I am tired",
+            "I need help"
+          ],
+          "answer": "I want some water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Polite way to ask repeat?",
+          "options": [
+            "Could you say it again?",
+            "Help me",
+            "Where is bus stop",
+            "I am lost"
+          ],
+          "answer": "Could you say it again?"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"How are you?\"",
+          "options": [
+            "I am fine",
+            "Goodbye",
+            "Hello",
+            "You are kind"
+          ],
+          "answer": "I am fine"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l90",
+      "title": "Review 50",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I feel a little sad.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I live in Chennai.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "Thank you.",
+          "name": "thanks",
+          "exampleWord": "say thanks"
+        },
+        {
+          "glyph": "Please pass the water.",
+          "name": "request"
+        },
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        },
+        {
+          "glyph": "I am tired now.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am lost, where is the bus stop?",
+          "name": "direction"
+        },
+        {
+          "glyph": "I am lost, where is the bus stop?",
+          "name": "direction"
+        },
+        {
+          "glyph": "I am happy today.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am tired now.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to \"What is your name?\"",
+          "options": [
+            "My name is Tara",
+            "I live here",
+            "I am fine",
+            "See you"
+          ],
+          "answer": "My name is Tara"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I want water",
+          "options": [
+            "I want some water",
+            "I like fruit",
+            "I am tired",
+            "I need help"
+          ],
+          "answer": "I want some water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who is happy today?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l91",
+      "title": "Review 51",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Goodbye!",
+          "name": "farewell",
+          "exampleWord": "leave"
+        },
+        {
+          "glyph": "I want some water.",
+          "name": "request",
+          "exampleWord": "want"
+        },
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        },
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        },
+        {
+          "glyph": "Excuse me, can you help me?",
+          "name": "help"
+        },
+        {
+          "glyph": "I am lost, where is the bus stop?",
+          "name": "direction"
+        },
+        {
+          "glyph": "I am fine.",
+          "name": "reply",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "Can I have some bread?",
+          "name": "request"
+        },
+        {
+          "glyph": "A: I am happy today.",
+          "name": "line"
+        },
+        {
+          "glyph": "Could you say it again?",
+          "name": "repeat"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I want water",
+          "options": [
+            "I want some water",
+            "I like fruit",
+            "I am tired",
+            "I need help"
+          ],
+          "answer": "I want some water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to \"What is your name?\"",
+          "options": [
+            "My name is Tara",
+            "I live here",
+            "I am fine",
+            "See you"
+          ],
+          "answer": "My name is Tara"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l92",
+      "title": "Review 52",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "How are you?",
+          "name": "question",
+          "exampleWord": "ask wellbeing"
+        },
+        {
+          "glyph": "I feel a little sad.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am happy today.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "This is very tasty!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "This is very tasty!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "Could you say it again?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "B: Hello! How are you?",
+          "name": "line"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Goodbye!",
+          "name": "farewell",
+          "exampleWord": "leave"
+        },
+        {
+          "glyph": "B: Hello! How are you?",
+          "name": "line"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Polite way to ask repeat?",
+          "options": [
+            "Could you say it again?",
+            "Help me",
+            "Where is bus stop",
+            "I am lost"
+          ],
+          "answer": "Could you say it again?"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"How are you?\"",
+          "options": [
+            "I am fine",
+            "Goodbye",
+            "Hello",
+            "You are kind"
+          ],
+          "answer": "I am fine"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l93",
+      "title": "Review 53",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I am full, thank you.",
+          "name": "reply"
+        },
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        },
+        {
+          "glyph": "How are you?",
+          "name": "question",
+          "exampleWord": "ask wellbeing"
+        },
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        },
+        {
+          "glyph": "May I leave the table?",
+          "name": "polite"
+        },
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        },
+        {
+          "glyph": "I live in Chennai.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "A: I am happy today.",
+          "name": "line"
+        },
+        {
+          "glyph": "Hello!",
+          "name": "Hello",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "I like apples.",
+          "name": "prefer",
+          "exampleWord": "liking"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who is happy today?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I am full",
+          "options": [
+            "I am full, thank you.",
+            "I am hungry",
+            "Please pass water",
+            "This is tasty"
+          ],
+          "answer": "I am full, thank you."
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"How are you?\"",
+          "options": [
+            "I am fine",
+            "Goodbye",
+            "Hello",
+            "You are kind"
+          ],
+          "answer": "I am fine"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l94",
+      "title": "Review 54",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I feel a little sad.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Thank you so much!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        },
+        {
+          "glyph": "Hello!",
+          "name": "Hello",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "How are you?",
+          "name": "question",
+          "exampleWord": "ask wellbeing"
+        },
+        {
+          "glyph": "This is very tasty!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "I am hungry.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Thank you so much!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Excuse me, can you help me?",
+          "name": "help"
+        },
+        {
+          "glyph": "I am happy today.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I live in Chennai.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "How are you?",
+          "name": "question",
+          "exampleWord": "ask wellbeing"
+        },
+        {
+          "glyph": "Goodbye!",
+          "name": "farewell",
+          "exampleWord": "leave"
+        },
+        {
+          "glyph": "I live in Chennai.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "I am hungry.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I want water",
+          "options": [
+            "I want some water",
+            "I like fruit",
+            "I am tired",
+            "I need help"
+          ],
+          "answer": "I want some water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"How are you?\"",
+          "options": [
+            "I am fine",
+            "Goodbye",
+            "Hello",
+            "You are kind"
+          ],
+          "answer": "I am fine"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l95",
+      "title": "Review 55",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I live in Chennai.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "I need help.",
+          "name": "request",
+          "exampleWord": "need"
+        },
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Thank you so much!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "What is your name?",
+          "name": "question",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "Please pass the water.",
+          "name": "request"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Can I have some bread?",
+          "name": "request"
+        },
+        {
+          "glyph": "Good morning.",
+          "name": "greet",
+          "exampleWord": "morning"
+        },
+        {
+          "glyph": "I am hungry.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am tired now.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I need help.",
+          "name": "request",
+          "exampleWord": "need"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who is happy today?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"Hello!\"",
+          "options": [
+            "Hello!",
+            "Goodbye",
+            "I am fine",
+            "Thanks"
+          ],
+          "answer": "Hello!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to \"What is your name?\"",
+          "options": [
+            "My name is Tara",
+            "I live here",
+            "I am fine",
+            "See you"
+          ],
+          "answer": "My name is Tara"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l96",
+      "title": "Review 56",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Can I have some bread?",
+          "name": "request"
+        },
+        {
+          "glyph": "Could you say it again?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "Thank you so much!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Please pass the water.",
+          "name": "request"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I like apples.",
+          "name": "prefer",
+          "exampleWord": "liking"
+        },
+        {
+          "glyph": "What is your name?",
+          "name": "question",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "I feel a little sad.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "How are you?",
+          "name": "question",
+          "exampleWord": "ask wellbeing"
+        },
+        {
+          "glyph": "I want some water.",
+          "name": "request",
+          "exampleWord": "want"
+        },
+        {
+          "glyph": "Thank you.",
+          "name": "thanks",
+          "exampleWord": "say thanks"
+        },
+        {
+          "glyph": "I am tired now.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Excuse me, can you help me?",
+          "name": "help"
+        },
+        {
+          "glyph": "I like apples.",
+          "name": "prefer",
+          "exampleWord": "liking"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I am full",
+          "options": [
+            "I am full, thank you.",
+            "I am hungry",
+            "Please pass water",
+            "This is tasty"
+          ],
+          "answer": "I am full, thank you."
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"How are you?\"",
+          "options": [
+            "I am fine",
+            "Goodbye",
+            "Hello",
+            "You are kind"
+          ],
+          "answer": "I am fine"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l97",
+      "title": "Review 57",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Where do you live?",
+          "name": "question",
+          "exampleWord": "ask city"
+        },
+        {
+          "glyph": "Where do you live?",
+          "name": "question",
+          "exampleWord": "ask city"
+        },
+        {
+          "glyph": "I am hungry.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "How are you?",
+          "name": "question",
+          "exampleWord": "ask wellbeing"
+        },
+        {
+          "glyph": "I am fine.",
+          "name": "reply",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "I am fine.",
+          "name": "reply",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "I am tired now.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I am lost, where is the bus stop?",
+          "name": "direction"
+        },
+        {
+          "glyph": "Thank you so much!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "May I leave the table?",
+          "name": "polite"
+        },
+        {
+          "glyph": "A: I am happy today.",
+          "name": "line"
+        },
+        {
+          "glyph": "Goodbye!",
+          "name": "farewell",
+          "exampleWord": "leave"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Polite way to ask repeat?",
+          "options": [
+            "Could you say it again?",
+            "Help me",
+            "Where is bus stop",
+            "I am lost"
+          ],
+          "answer": "Could you say it again?"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Polite way to ask repeat?",
+          "options": [
+            "Could you say it again?",
+            "Help me",
+            "Where is bus stop",
+            "I am lost"
+          ],
+          "answer": "Could you say it again?"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I want water",
+          "options": [
+            "I want some water",
+            "I like fruit",
+            "I am tired",
+            "I need help"
+          ],
+          "answer": "I want some water"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l98",
+      "title": "Review 58",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I am happy today.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "May I leave the table?",
+          "name": "polite"
+        },
+        {
+          "glyph": "I need help.",
+          "name": "request",
+          "exampleWord": "need"
+        },
+        {
+          "glyph": "Could you say it again?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        },
+        {
+          "glyph": "B: Hello! How are you?",
+          "name": "line"
+        },
+        {
+          "glyph": "Where do you live?",
+          "name": "question",
+          "exampleWord": "ask city"
+        },
+        {
+          "glyph": "Could you say it again?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "Thank you so much!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        },
+        {
+          "glyph": "Hello!",
+          "name": "Hello",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Thank you so much!",
+          "name": "thanks"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to \"What is your name?\"",
+          "options": [
+            "My name is Tara",
+            "I live here",
+            "I am fine",
+            "See you"
+          ],
+          "answer": "My name is Tara"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"Hello!\"",
+          "options": [
+            "Hello!",
+            "Goodbye",
+            "I am fine",
+            "Thanks"
+          ],
+          "answer": "Hello!"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l99",
+      "title": "Review 59",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        },
+        {
+          "glyph": "My name is Tara.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "Thank you so much!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "I want some water.",
+          "name": "request",
+          "exampleWord": "want"
+        },
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        },
+        {
+          "glyph": "I am hungry.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I want some water.",
+          "name": "request",
+          "exampleWord": "want"
+        },
+        {
+          "glyph": "This is very tasty!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "This is very tasty!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "I am very excited!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "I don’t like spicy food.",
+          "name": "prefer",
+          "exampleWord": "dislike"
+        },
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to \"What is your name?\"",
+          "options": [
+            "My name is Tara",
+            "I live here",
+            "I am fine",
+            "See you"
+          ],
+          "answer": "My name is Tara"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"How are you?\"",
+          "options": [
+            "I am fine",
+            "Goodbye",
+            "Hello",
+            "You are kind"
+          ],
+          "answer": "I am fine"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who is happy today?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l100",
+      "title": "Review 60",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I feel a little sad.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Excuse me, can you help me?",
+          "name": "help"
+        },
+        {
+          "glyph": "This is very tasty!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "Could you say it again?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        },
+        {
+          "glyph": "I am fine.",
+          "name": "reply",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "I like apples.",
+          "name": "prefer",
+          "exampleWord": "liking"
+        },
+        {
+          "glyph": "What is your name?",
+          "name": "question",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "How are you?",
+          "name": "question",
+          "exampleWord": "ask wellbeing"
+        },
+        {
+          "glyph": "Thank you so much!",
+          "name": "thanks"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to \"What is your name?\"",
+          "options": [
+            "My name is Tara",
+            "I live here",
+            "I am fine",
+            "See you"
+          ],
+          "answer": "My name is Tara"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I want water",
+          "options": [
+            "I want some water",
+            "I like fruit",
+            "I am tired",
+            "I need help"
+          ],
+          "answer": "I want some water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"How are you?\"",
+          "options": [
+            "I am fine",
+            "Goodbye",
+            "Hello",
+            "You are kind"
+          ],
+          "answer": "I am fine"
+        }
+      ]
     }
   ]
 }

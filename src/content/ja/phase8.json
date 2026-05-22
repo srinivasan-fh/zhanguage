@@ -1995,6 +1995,4928 @@
           "answer": "A"
         }
       ]
+    },
+    {
+      "id": "ja-p8-l41",
+      "title": "ふくしゅう 1",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A: こんにちは、ともだち!",
+          "name": ""
+        },
+        {
+          "glyph": "A: こんにちは、ともだち!",
+          "name": ""
+        },
+        {
+          "glyph": "A: きょうは うれしい!",
+          "name": ""
+        },
+        {
+          "glyph": "おはよう ございます。",
+          "name": "morning"
+        },
+        {
+          "glyph": "からい ものは すきじゃ ない。",
+          "name": "dislike"
+        },
+        {
+          "glyph": "みずを ください。",
+          "name": "request"
+        },
+        {
+          "glyph": "こんにちは!",
+          "name": "hello"
+        },
+        {
+          "glyph": "もう おなかいっぱいです。",
+          "name": "reply"
+        },
+        {
+          "glyph": "とうきょうに すんで います。",
+          "name": "a"
+        },
+        {
+          "glyph": "A: きょうは うれしい!",
+          "name": ""
+        },
+        {
+          "glyph": "たすけて ください。",
+          "name": "need"
+        },
+        {
+          "glyph": "もう いちど おねがいします。",
+          "name": "repeat"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l42",
+      "title": "ふくしゅう 2",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "とても わくわくします!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: きょうは うれしい!",
+          "name": ""
+        },
+        {
+          "glyph": "つかれました。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "わかりません。",
+          "name": "clarify"
+        },
+        {
+          "glyph": "きょうは うれしい です。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "おなかが すきました。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "おなまえは なんですか?",
+          "name": "q"
+        },
+        {
+          "glyph": "さようなら!",
+          "name": "bye"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなまえは なんですか?」へのこたえ?",
+          "options": [
+            "わたしは ゆきです",
+            "げんき です",
+            "ありがとう",
+            "こんにちは"
+          ],
+          "answer": "わたしは ゆきです"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「みずが ほしい です」の いみ?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l43",
+      "title": "ふくしゅう 3",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ありがとう。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "みずが ほしい です。",
+          "name": "want"
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "わたしは ゆきです。",
+          "name": "a"
+        },
+        {
+          "glyph": "もう いちど おねがいします。",
+          "name": "repeat"
+        },
+        {
+          "glyph": "とても わくわくします!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "たすけて ください。",
+          "name": "need"
+        },
+        {
+          "glyph": "B: こんにちは! げんき?",
+          "name": ""
+        },
+        {
+          "glyph": "わかりません。",
+          "name": "clarify"
+        },
+        {
+          "glyph": "パンを もらえますか?",
+          "name": "request"
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "B: こんにちは! げんき?",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「みずが ほしい です」の いみ?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l44",
+      "title": "ふくしゅう 4",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "パンを もらえますか?",
+          "name": "request"
+        },
+        {
+          "glyph": "どこに すんで いますか?",
+          "name": "q"
+        },
+        {
+          "glyph": "どうも ありがとう ございました!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "とうきょうに すんで います。",
+          "name": "a"
+        },
+        {
+          "glyph": "みずが ほしい です。",
+          "name": "want"
+        },
+        {
+          "glyph": "からい ものは すきじゃ ない。",
+          "name": "dislike"
+        },
+        {
+          "glyph": "みずが ほしい です。",
+          "name": "want"
+        },
+        {
+          "glyph": "もう おなかいっぱいです。",
+          "name": "reply"
+        },
+        {
+          "glyph": "A: きょうは うれしい!",
+          "name": ""
+        },
+        {
+          "glyph": "からい ものは すきじゃ ない。",
+          "name": "dislike"
+        },
+        {
+          "glyph": "パンを もらえますか?",
+          "name": "request"
+        },
+        {
+          "glyph": "パンを もらえますか?",
+          "name": "request"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかが すきました」?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l45",
+      "title": "ふくしゅう 5",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B: いいね!",
+          "name": ""
+        },
+        {
+          "glyph": "パンを もらえますか?",
+          "name": "request"
+        },
+        {
+          "glyph": "おはよう ございます。",
+          "name": "morning"
+        },
+        {
+          "glyph": "パンを もらえますか?",
+          "name": "request"
+        },
+        {
+          "glyph": "からい ものは すきじゃ ない。",
+          "name": "dislike"
+        },
+        {
+          "glyph": "どこに すんで いますか?",
+          "name": "q"
+        },
+        {
+          "glyph": "もう おなかいっぱいです。",
+          "name": "reply"
+        },
+        {
+          "glyph": "おはよう ございます。",
+          "name": "morning"
+        },
+        {
+          "glyph": "とても わくわくします!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: こんにちは! げんき?",
+          "name": ""
+        },
+        {
+          "glyph": "みずが ほしい です。",
+          "name": "want"
+        },
+        {
+          "glyph": "はい、げんき です。",
+          "name": "reply"
+        },
+        {
+          "glyph": "ちょっと かなしい。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "げんき ですか?",
+          "name": "question"
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなまえは なんですか?」へのこたえ?",
+          "options": [
+            "わたしは ゆきです",
+            "げんき です",
+            "ありがとう",
+            "こんにちは"
+          ],
+          "answer": "わたしは ゆきです"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「わかりません」の いみ?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l46",
+      "title": "ふくしゅう 6",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "もう いちど おねがいします。",
+          "name": "repeat"
+        },
+        {
+          "glyph": "からい ものは すきじゃ ない。",
+          "name": "dislike"
+        },
+        {
+          "glyph": "A: きょうは うれしい!",
+          "name": ""
+        },
+        {
+          "glyph": "げんき ですか?",
+          "name": "question"
+        },
+        {
+          "glyph": "つかれました。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: きょうは うれしい!",
+          "name": ""
+        },
+        {
+          "glyph": "B: いいね!",
+          "name": ""
+        },
+        {
+          "glyph": "こんにちは!",
+          "name": "hello"
+        },
+        {
+          "glyph": "もう おなかいっぱいです。",
+          "name": "reply"
+        },
+        {
+          "glyph": "おなかが すきました。",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかが すきました」?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l47",
+      "title": "ふくしゅう 7",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "パンを もらえますか?",
+          "name": "request"
+        },
+        {
+          "glyph": "たすけて ください。",
+          "name": "need"
+        },
+        {
+          "glyph": "とても わくわくします!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "もう いちど おねがいします。",
+          "name": "repeat"
+        },
+        {
+          "glyph": "とても わくわくします!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "とても わくわくします!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "からい ものは すきじゃ ない。",
+          "name": "dislike"
+        },
+        {
+          "glyph": "こんにちは!",
+          "name": "hello"
+        },
+        {
+          "glyph": "パンを もらえますか?",
+          "name": "request"
+        },
+        {
+          "glyph": "つかれました。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "ちょっと かなしい。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: きょうは うれしい!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l48",
+      "title": "ふくしゅう 8",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "とても おいしいです!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "はい、げんき です。",
+          "name": "reply"
+        },
+        {
+          "glyph": "パンを もらえますか?",
+          "name": "request"
+        },
+        {
+          "glyph": "どうも ありがとう ございました!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "もう いちど おねがいします。",
+          "name": "repeat"
+        },
+        {
+          "glyph": "からい ものは すきじゃ ない。",
+          "name": "dislike"
+        },
+        {
+          "glyph": "とうきょうに すんで います。",
+          "name": "a"
+        },
+        {
+          "glyph": "B: いいね!",
+          "name": ""
+        },
+        {
+          "glyph": "わかりません。",
+          "name": "clarify"
+        },
+        {
+          "glyph": "わたしは ゆきです。",
+          "name": "a"
+        },
+        {
+          "glyph": "もう いちど おねがいします。",
+          "name": "repeat"
+        },
+        {
+          "glyph": "A: こんにちは、ともだち!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかいっぱい」の いみ?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「わかりません」の いみ?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l49",
+      "title": "ふくしゅう 9",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "おなかが すきました。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "せきを たっても いいですか?",
+          "name": "polite"
+        },
+        {
+          "glyph": "B: こんにちは! げんき?",
+          "name": ""
+        },
+        {
+          "glyph": "B: いいね!",
+          "name": ""
+        },
+        {
+          "glyph": "もう おなかいっぱいです。",
+          "name": "reply"
+        },
+        {
+          "glyph": "とても おいしいです!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "わたしは りんごが すき です。",
+          "name": "like"
+        },
+        {
+          "glyph": "もう おなかいっぱいです。",
+          "name": "reply"
+        },
+        {
+          "glyph": "げんき ですか?",
+          "name": "question"
+        },
+        {
+          "glyph": "B: いいね!",
+          "name": ""
+        },
+        {
+          "glyph": "パンを もらえますか?",
+          "name": "request"
+        },
+        {
+          "glyph": "A: こんにちは、ともだち!",
+          "name": ""
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "おはよう ございます。",
+          "name": "morning"
+        },
+        {
+          "glyph": "どこに すんで いますか?",
+          "name": "q"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかが すきました」?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかが すきました」?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l50",
+      "title": "ふくしゅう 10",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "どこに すんで いますか?",
+          "name": "q"
+        },
+        {
+          "glyph": "げんき ですか?",
+          "name": "question"
+        },
+        {
+          "glyph": "はい、げんき です。",
+          "name": "reply"
+        },
+        {
+          "glyph": "わかりません。",
+          "name": "clarify"
+        },
+        {
+          "glyph": "さようなら!",
+          "name": "bye"
+        },
+        {
+          "glyph": "つかれました。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "げんき ですか?",
+          "name": "question"
+        },
+        {
+          "glyph": "こんにちは!",
+          "name": "hello"
+        },
+        {
+          "glyph": "からい ものは すきじゃ ない。",
+          "name": "dislike"
+        },
+        {
+          "glyph": "どうも ありがとう ございました!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "A: きょうは うれしい!",
+          "name": ""
+        },
+        {
+          "glyph": "みずを ください。",
+          "name": "request"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかいっぱい」の いみ?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかが すきました」?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l51",
+      "title": "ふくしゅう 11",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A: こんにちは、ともだち!",
+          "name": ""
+        },
+        {
+          "glyph": "パンを もらえますか?",
+          "name": "request"
+        },
+        {
+          "glyph": "おはよう ございます。",
+          "name": "morning"
+        },
+        {
+          "glyph": "とても わくわくします!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "たすけて ください。",
+          "name": "need"
+        },
+        {
+          "glyph": "とても わくわくします!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "ありがとう。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "B: こんにちは! げんき?",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「わかりません」の いみ?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「みずが ほしい です」の いみ?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l52",
+      "title": "ふくしゅう 12",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "たすけて ください。",
+          "name": "need"
+        },
+        {
+          "glyph": "とても わくわくします!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "はい、げんき です。",
+          "name": "reply"
+        },
+        {
+          "glyph": "ちょっと かなしい。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "つかれました。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "げんき ですか?",
+          "name": "question"
+        },
+        {
+          "glyph": "どこに すんで いますか?",
+          "name": "q"
+        },
+        {
+          "glyph": "A: きょうは うれしい!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかが すきました」?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l53",
+      "title": "ふくしゅう 13",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "つかれました。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: いいね!",
+          "name": ""
+        },
+        {
+          "glyph": "はい、げんき です。",
+          "name": "reply"
+        },
+        {
+          "glyph": "たすけて ください。",
+          "name": "need"
+        },
+        {
+          "glyph": "もう いちど おねがいします。",
+          "name": "repeat"
+        },
+        {
+          "glyph": "とても わくわくします!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "きょうは うれしい です。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "どうも ありがとう ございました!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "パンを もらえますか?",
+          "name": "request"
+        },
+        {
+          "glyph": "おなまえは なんですか?",
+          "name": "q"
+        },
+        {
+          "glyph": "わかりません。",
+          "name": "clarify"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l54",
+      "title": "ふくしゅう 14",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "たすけて ください。",
+          "name": "need"
+        },
+        {
+          "glyph": "ちょっと かなしい。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "パンを もらえますか?",
+          "name": "request"
+        },
+        {
+          "glyph": "みちに まよいました。",
+          "name": "lost"
+        },
+        {
+          "glyph": "みずを ください。",
+          "name": "request"
+        },
+        {
+          "glyph": "おなまえは なんですか?",
+          "name": "q"
+        },
+        {
+          "glyph": "たすけて ください。",
+          "name": "need"
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "どこに すんで いますか?",
+          "name": "q"
+        },
+        {
+          "glyph": "もう おなかいっぱいです。",
+          "name": "reply"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなまえは なんですか?」へのこたえ?",
+          "options": [
+            "わたしは ゆきです",
+            "げんき です",
+            "ありがとう",
+            "こんにちは"
+          ],
+          "answer": "わたしは ゆきです"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「みずが ほしい です」の いみ?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l55",
+      "title": "ふくしゅう 15",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "どうも ありがとう ございました!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "どうも ありがとう ございました!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "B: いいね!",
+          "name": ""
+        },
+        {
+          "glyph": "げんき ですか?",
+          "name": "question"
+        },
+        {
+          "glyph": "こんにちは!",
+          "name": "hello"
+        },
+        {
+          "glyph": "みずを ください。",
+          "name": "request"
+        },
+        {
+          "glyph": "きょうは うれしい です。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "わかりません。",
+          "name": "clarify"
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "たすけて ください。",
+          "name": "need"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「みずが ほしい です」の いみ?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「みずが ほしい です」の いみ?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l56",
+      "title": "ふくしゅう 16",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B: こんにちは! げんき?",
+          "name": ""
+        },
+        {
+          "glyph": "おなまえは なんですか?",
+          "name": "q"
+        },
+        {
+          "glyph": "A: きょうは うれしい!",
+          "name": ""
+        },
+        {
+          "glyph": "もう おなかいっぱいです。",
+          "name": "reply"
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "とても おいしいです!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "せきを たっても いいですか?",
+          "name": "polite"
+        },
+        {
+          "glyph": "おはよう ございます。",
+          "name": "morning"
+        },
+        {
+          "glyph": "とうきょうに すんで います。",
+          "name": "a"
+        },
+        {
+          "glyph": "どうも ありがとう ございました!",
+          "name": "thanks"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなまえは なんですか?」へのこたえ?",
+          "options": [
+            "わたしは ゆきです",
+            "げんき です",
+            "ありがとう",
+            "こんにちは"
+          ],
+          "answer": "わたしは ゆきです"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l57",
+      "title": "ふくしゅう 17",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "どこに すんで いますか?",
+          "name": "q"
+        },
+        {
+          "glyph": "みちに まよいました。",
+          "name": "lost"
+        },
+        {
+          "glyph": "はい、げんき です。",
+          "name": "reply"
+        },
+        {
+          "glyph": "みちに まよいました。",
+          "name": "lost"
+        },
+        {
+          "glyph": "おなまえは なんですか?",
+          "name": "q"
+        },
+        {
+          "glyph": "B: いいね!",
+          "name": ""
+        },
+        {
+          "glyph": "B: こんにちは! げんき?",
+          "name": ""
+        },
+        {
+          "glyph": "わかりません。",
+          "name": "clarify"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなまえは なんですか?」へのこたえ?",
+          "options": [
+            "わたしは ゆきです",
+            "げんき です",
+            "ありがとう",
+            "こんにちは"
+          ],
+          "answer": "わたしは ゆきです"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかいっぱい」の いみ?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l58",
+      "title": "ふくしゅう 18",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "つかれました。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "とうきょうに すんで います。",
+          "name": "a"
+        },
+        {
+          "glyph": "みちに まよいました。",
+          "name": "lost"
+        },
+        {
+          "glyph": "どうも ありがとう ございました!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "さようなら!",
+          "name": "bye"
+        },
+        {
+          "glyph": "B: いいね!",
+          "name": ""
+        },
+        {
+          "glyph": "わたしは りんごが すき です。",
+          "name": "like"
+        },
+        {
+          "glyph": "とても わくわくします!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "もう いちど おねがいします。",
+          "name": "repeat"
+        },
+        {
+          "glyph": "きょうは うれしい です。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "げんき ですか?",
+          "name": "question"
+        },
+        {
+          "glyph": "とても わくわくします!",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「わかりません」の いみ?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「みずが ほしい です」の いみ?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l59",
+      "title": "ふくしゅう 19",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "とても わくわくします!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: きょうは うれしい!",
+          "name": ""
+        },
+        {
+          "glyph": "たすけて ください。",
+          "name": "need"
+        },
+        {
+          "glyph": "とても わくわくします!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "げんき ですか?",
+          "name": "question"
+        },
+        {
+          "glyph": "はい、げんき です。",
+          "name": "reply"
+        },
+        {
+          "glyph": "とても おいしいです!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "みずが ほしい です。",
+          "name": "want"
+        },
+        {
+          "glyph": "ちょっと かなしい。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "からい ものは すきじゃ ない。",
+          "name": "dislike"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「みずが ほしい です」の いみ?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l60",
+      "title": "ふくしゅう 20",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "もう おなかいっぱいです。",
+          "name": "reply"
+        },
+        {
+          "glyph": "きょうは うれしい です。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "みちに まよいました。",
+          "name": "lost"
+        },
+        {
+          "glyph": "もう おなかいっぱいです。",
+          "name": "reply"
+        },
+        {
+          "glyph": "からい ものは すきじゃ ない。",
+          "name": "dislike"
+        },
+        {
+          "glyph": "おなまえは なんですか?",
+          "name": "q"
+        },
+        {
+          "glyph": "さようなら!",
+          "name": "bye"
+        },
+        {
+          "glyph": "ちょっと かなしい。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "どこに すんで いますか?",
+          "name": "q"
+        },
+        {
+          "glyph": "ちょっと かなしい。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "さようなら!",
+          "name": "bye"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかが すきました」?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l61",
+      "title": "ふくしゅう 21",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B: いいね!",
+          "name": ""
+        },
+        {
+          "glyph": "さようなら!",
+          "name": "bye"
+        },
+        {
+          "glyph": "おなまえは なんですか?",
+          "name": "q"
+        },
+        {
+          "glyph": "A: きょうは うれしい!",
+          "name": ""
+        },
+        {
+          "glyph": "きょうは うれしい です。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "とても おいしいです!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "おはよう ございます。",
+          "name": "morning"
+        },
+        {
+          "glyph": "はい、げんき です。",
+          "name": "reply"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなまえは なんですか?」へのこたえ?",
+          "options": [
+            "わたしは ゆきです",
+            "げんき です",
+            "ありがとう",
+            "こんにちは"
+          ],
+          "answer": "わたしは ゆきです"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなまえは なんですか?」へのこたえ?",
+          "options": [
+            "わたしは ゆきです",
+            "げんき です",
+            "ありがとう",
+            "こんにちは"
+          ],
+          "answer": "わたしは ゆきです"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l62",
+      "title": "ふくしゅう 22",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "はい、げんき です。",
+          "name": "reply"
+        },
+        {
+          "glyph": "みちに まよいました。",
+          "name": "lost"
+        },
+        {
+          "glyph": "もう いちど おねがいします。",
+          "name": "repeat"
+        },
+        {
+          "glyph": "たすけて ください。",
+          "name": "need"
+        },
+        {
+          "glyph": "とうきょうに すんで います。",
+          "name": "a"
+        },
+        {
+          "glyph": "おなかが すきました。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "どこに すんで いますか?",
+          "name": "q"
+        },
+        {
+          "glyph": "パンを もらえますか?",
+          "name": "request"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「わかりません」の いみ?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l63",
+      "title": "ふくしゅう 23",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "おはよう ございます。",
+          "name": "morning"
+        },
+        {
+          "glyph": "もう いちど おねがいします。",
+          "name": "repeat"
+        },
+        {
+          "glyph": "B: いいね!",
+          "name": ""
+        },
+        {
+          "glyph": "ちょっと かなしい。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "おなかが すきました。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "きょうは うれしい です。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "わかりません。",
+          "name": "clarify"
+        },
+        {
+          "glyph": "からい ものは すきじゃ ない。",
+          "name": "dislike"
+        },
+        {
+          "glyph": "みずを ください。",
+          "name": "request"
+        },
+        {
+          "glyph": "おはよう ございます。",
+          "name": "morning"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「みずが ほしい です」の いみ?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかいっぱい」の いみ?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなまえは なんですか?」へのこたえ?",
+          "options": [
+            "わたしは ゆきです",
+            "げんき です",
+            "ありがとう",
+            "こんにちは"
+          ],
+          "answer": "わたしは ゆきです"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l64",
+      "title": "ふくしゅう 24",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "きょうは うれしい です。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "わかりません。",
+          "name": "clarify"
+        },
+        {
+          "glyph": "とても おいしいです!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "きょうは うれしい です。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: いいね!",
+          "name": ""
+        },
+        {
+          "glyph": "おなまえは なんですか?",
+          "name": "q"
+        },
+        {
+          "glyph": "もう いちど おねがいします。",
+          "name": "repeat"
+        },
+        {
+          "glyph": "おなかが すきました。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "おはよう ございます。",
+          "name": "morning"
+        },
+        {
+          "glyph": "わたしは ゆきです。",
+          "name": "a"
+        },
+        {
+          "glyph": "みずが ほしい です。",
+          "name": "want"
+        },
+        {
+          "glyph": "B: いいね!",
+          "name": ""
+        },
+        {
+          "glyph": "とても わくわくします!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "わたしは りんごが すき です。",
+          "name": "like"
+        },
+        {
+          "glyph": "ありがとう。",
+          "name": "thanks"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかいっぱい」の いみ?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l65",
+      "title": "ふくしゅう 25",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "もう いちど おねがいします。",
+          "name": "repeat"
+        },
+        {
+          "glyph": "つかれました。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "たすけて ください。",
+          "name": "need"
+        },
+        {
+          "glyph": "げんき ですか?",
+          "name": "question"
+        },
+        {
+          "glyph": "せきを たっても いいですか?",
+          "name": "polite"
+        },
+        {
+          "glyph": "どこに すんで いますか?",
+          "name": "q"
+        },
+        {
+          "glyph": "わたしは りんごが すき です。",
+          "name": "like"
+        },
+        {
+          "glyph": "もう いちど おねがいします。",
+          "name": "repeat"
+        },
+        {
+          "glyph": "とうきょうに すんで います。",
+          "name": "a"
+        },
+        {
+          "glyph": "ありがとう。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "たすけて ください。",
+          "name": "need"
+        },
+        {
+          "glyph": "おなかが すきました。",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかが すきました」?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l66",
+      "title": "ふくしゅう 26",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "もう おなかいっぱいです。",
+          "name": "reply"
+        },
+        {
+          "glyph": "とうきょうに すんで います。",
+          "name": "a"
+        },
+        {
+          "glyph": "せきを たっても いいですか?",
+          "name": "polite"
+        },
+        {
+          "glyph": "わかりません。",
+          "name": "clarify"
+        },
+        {
+          "glyph": "とうきょうに すんで います。",
+          "name": "a"
+        },
+        {
+          "glyph": "おはよう ございます。",
+          "name": "morning"
+        },
+        {
+          "glyph": "A: きょうは うれしい!",
+          "name": ""
+        },
+        {
+          "glyph": "たすけて ください。",
+          "name": "need"
+        },
+        {
+          "glyph": "おはよう ございます。",
+          "name": "morning"
+        },
+        {
+          "glyph": "もう おなかいっぱいです。",
+          "name": "reply"
+        },
+        {
+          "glyph": "みずを ください。",
+          "name": "request"
+        },
+        {
+          "glyph": "もう おなかいっぱいです。",
+          "name": "reply"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなまえは なんですか?」へのこたえ?",
+          "options": [
+            "わたしは ゆきです",
+            "げんき です",
+            "ありがとう",
+            "こんにちは"
+          ],
+          "answer": "わたしは ゆきです"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「わかりません」の いみ?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「わかりません」の いみ?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l67",
+      "title": "ふくしゅう 27",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A: こんにちは、ともだち!",
+          "name": ""
+        },
+        {
+          "glyph": "とても わくわくします!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "せきを たっても いいですか?",
+          "name": "polite"
+        },
+        {
+          "glyph": "おなまえは なんですか?",
+          "name": "q"
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "もう おなかいっぱいです。",
+          "name": "reply"
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "ありがとう。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "どうも ありがとう ございました!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "ちょっと かなしい。",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「みずが ほしい です」の いみ?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l68",
+      "title": "ふくしゅう 28",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B: こんにちは! げんき?",
+          "name": ""
+        },
+        {
+          "glyph": "A: きょうは うれしい!",
+          "name": ""
+        },
+        {
+          "glyph": "A: こんにちは、ともだち!",
+          "name": ""
+        },
+        {
+          "glyph": "とても わくわくします!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "おはよう ございます。",
+          "name": "morning"
+        },
+        {
+          "glyph": "おなかが すきました。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "きょうは うれしい です。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: こんにちは、ともだち!",
+          "name": ""
+        },
+        {
+          "glyph": "わたしは りんごが すき です。",
+          "name": "like"
+        },
+        {
+          "glyph": "どこに すんで いますか?",
+          "name": "q"
+        },
+        {
+          "glyph": "とうきょうに すんで います。",
+          "name": "a"
+        },
+        {
+          "glyph": "もう おなかいっぱいです。",
+          "name": "reply"
+        },
+        {
+          "glyph": "きょうは うれしい です。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "わかりません。",
+          "name": "clarify"
+        },
+        {
+          "glyph": "みちに まよいました。",
+          "name": "lost"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなまえは なんですか?」へのこたえ?",
+          "options": [
+            "わたしは ゆきです",
+            "げんき です",
+            "ありがとう",
+            "こんにちは"
+          ],
+          "answer": "わたしは ゆきです"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l69",
+      "title": "ふくしゅう 29",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "つかれました。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "とうきょうに すんで います。",
+          "name": "a"
+        },
+        {
+          "glyph": "からい ものは すきじゃ ない。",
+          "name": "dislike"
+        },
+        {
+          "glyph": "たすけて ください。",
+          "name": "need"
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "どこに すんで いますか?",
+          "name": "q"
+        },
+        {
+          "glyph": "とても おいしいです!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "げんき ですか?",
+          "name": "question"
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l70",
+      "title": "ふくしゅう 30",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "たすけて ください。",
+          "name": "need"
+        },
+        {
+          "glyph": "さようなら!",
+          "name": "bye"
+        },
+        {
+          "glyph": "おはよう ございます。",
+          "name": "morning"
+        },
+        {
+          "glyph": "ちょっと かなしい。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "もう おなかいっぱいです。",
+          "name": "reply"
+        },
+        {
+          "glyph": "ちょっと かなしい。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "おなかが すきました。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "おなまえは なんですか?",
+          "name": "q"
+        },
+        {
+          "glyph": "ありがとう。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "つかれました。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "とうきょうに すんで います。",
+          "name": "a"
+        },
+        {
+          "glyph": "ありがとう。",
+          "name": "thanks"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかが すきました」?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l71",
+      "title": "ふくしゅう 31",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "とても おいしいです!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "パンを もらえますか?",
+          "name": "request"
+        },
+        {
+          "glyph": "とても わくわくします!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "もう いちど おねがいします。",
+          "name": "repeat"
+        },
+        {
+          "glyph": "おはよう ございます。",
+          "name": "morning"
+        },
+        {
+          "glyph": "A: きょうは うれしい!",
+          "name": ""
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "おはよう ございます。",
+          "name": "morning"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかいっぱい」の いみ?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l72",
+      "title": "ふくしゅう 32",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "とても おいしいです!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "B: いいね!",
+          "name": ""
+        },
+        {
+          "glyph": "おなかが すきました。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "せきを たっても いいですか?",
+          "name": "polite"
+        },
+        {
+          "glyph": "たすけて ください。",
+          "name": "need"
+        },
+        {
+          "glyph": "もう いちど おねがいします。",
+          "name": "repeat"
+        },
+        {
+          "glyph": "げんき ですか?",
+          "name": "question"
+        },
+        {
+          "glyph": "もう いちど おねがいします。",
+          "name": "repeat"
+        },
+        {
+          "glyph": "おはよう ございます。",
+          "name": "morning"
+        },
+        {
+          "glyph": "せきを たっても いいですか?",
+          "name": "polite"
+        },
+        {
+          "glyph": "つかれました。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "もう おなかいっぱいです。",
+          "name": "reply"
+        },
+        {
+          "glyph": "おなまえは なんですか?",
+          "name": "q"
+        },
+        {
+          "glyph": "わたしは りんごが すき です。",
+          "name": "like"
+        },
+        {
+          "glyph": "とても わくわくします!",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「わかりません」の いみ?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l73",
+      "title": "ふくしゅう 33",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "A: きょうは うれしい!",
+          "name": ""
+        },
+        {
+          "glyph": "A: きょうは うれしい!",
+          "name": ""
+        },
+        {
+          "glyph": "みずが ほしい です。",
+          "name": "want"
+        },
+        {
+          "glyph": "みちに まよいました。",
+          "name": "lost"
+        },
+        {
+          "glyph": "もう おなかいっぱいです。",
+          "name": "reply"
+        },
+        {
+          "glyph": "B: いいね!",
+          "name": ""
+        },
+        {
+          "glyph": "からい ものは すきじゃ ない。",
+          "name": "dislike"
+        },
+        {
+          "glyph": "ありがとう。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "せきを たっても いいですか?",
+          "name": "polite"
+        },
+        {
+          "glyph": "どこに すんで いますか?",
+          "name": "q"
+        },
+        {
+          "glyph": "パンを もらえますか?",
+          "name": "request"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかいっぱい」の いみ?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l74",
+      "title": "ふくしゅう 34",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "からい ものは すきじゃ ない。",
+          "name": "dislike"
+        },
+        {
+          "glyph": "A: きょうは うれしい!",
+          "name": ""
+        },
+        {
+          "glyph": "ありがとう。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "さようなら!",
+          "name": "bye"
+        },
+        {
+          "glyph": "パンを もらえますか?",
+          "name": "request"
+        },
+        {
+          "glyph": "みちに まよいました。",
+          "name": "lost"
+        },
+        {
+          "glyph": "げんき ですか?",
+          "name": "question"
+        },
+        {
+          "glyph": "みずが ほしい です。",
+          "name": "want"
+        },
+        {
+          "glyph": "からい ものは すきじゃ ない。",
+          "name": "dislike"
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "わかりません。",
+          "name": "clarify"
+        },
+        {
+          "glyph": "ありがとう。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "みずを ください。",
+          "name": "request"
+        },
+        {
+          "glyph": "とうきょうに すんで います。",
+          "name": "a"
+        },
+        {
+          "glyph": "とうきょうに すんで います。",
+          "name": "a"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかいっぱい」の いみ?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l75",
+      "title": "ふくしゅう 35",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "とても おいしいです!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "A: こんにちは、ともだち!",
+          "name": ""
+        },
+        {
+          "glyph": "もう いちど おねがいします。",
+          "name": "repeat"
+        },
+        {
+          "glyph": "たすけて ください。",
+          "name": "need"
+        },
+        {
+          "glyph": "わたしは りんごが すき です。",
+          "name": "like"
+        },
+        {
+          "glyph": "からい ものは すきじゃ ない。",
+          "name": "dislike"
+        },
+        {
+          "glyph": "わかりません。",
+          "name": "clarify"
+        },
+        {
+          "glyph": "ありがとう。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "どうも ありがとう ございました!",
+          "name": "thanks"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「みずが ほしい です」の いみ?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかが すきました」?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l76",
+      "title": "ふくしゅう 36",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "とうきょうに すんで います。",
+          "name": "a"
+        },
+        {
+          "glyph": "とうきょうに すんで います。",
+          "name": "a"
+        },
+        {
+          "glyph": "どこに すんで いますか?",
+          "name": "q"
+        },
+        {
+          "glyph": "ちょっと かなしい。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: いいね!",
+          "name": ""
+        },
+        {
+          "glyph": "ちょっと かなしい。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "わかりません。",
+          "name": "clarify"
+        },
+        {
+          "glyph": "パンを もらえますか?",
+          "name": "request"
+        },
+        {
+          "glyph": "とても わくわくします!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "わかりません。",
+          "name": "clarify"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「みずが ほしい です」の いみ?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l77",
+      "title": "ふくしゅう 37",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "げんき ですか?",
+          "name": "question"
+        },
+        {
+          "glyph": "つかれました。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "とても おいしいです!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "こんにちは!",
+          "name": "hello"
+        },
+        {
+          "glyph": "からい ものは すきじゃ ない。",
+          "name": "dislike"
+        },
+        {
+          "glyph": "もう おなかいっぱいです。",
+          "name": "reply"
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "A: こんにちは、ともだち!",
+          "name": ""
+        },
+        {
+          "glyph": "A: こんにちは、ともだち!",
+          "name": ""
+        },
+        {
+          "glyph": "はい、げんき です。",
+          "name": "reply"
+        },
+        {
+          "glyph": "わたしは りんごが すき です。",
+          "name": "like"
+        },
+        {
+          "glyph": "A: きょうは うれしい!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかが すきました」?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l78",
+      "title": "ふくしゅう 38",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "はい、げんき です。",
+          "name": "reply"
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "ありがとう。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "わたしは ゆきです。",
+          "name": "a"
+        },
+        {
+          "glyph": "B: いいね!",
+          "name": ""
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "どうも ありがとう ございました!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "きょうは うれしい です。",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかが すきました」?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかが すきました」?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなまえは なんですか?」へのこたえ?",
+          "options": [
+            "わたしは ゆきです",
+            "げんき です",
+            "ありがとう",
+            "こんにちは"
+          ],
+          "answer": "わたしは ゆきです"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l79",
+      "title": "ふくしゅう 39",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B: いいね!",
+          "name": ""
+        },
+        {
+          "glyph": "わたしは ゆきです。",
+          "name": "a"
+        },
+        {
+          "glyph": "B: こんにちは! げんき?",
+          "name": ""
+        },
+        {
+          "glyph": "みずが ほしい です。",
+          "name": "want"
+        },
+        {
+          "glyph": "A: きょうは うれしい!",
+          "name": ""
+        },
+        {
+          "glyph": "とうきょうに すんで います。",
+          "name": "a"
+        },
+        {
+          "glyph": "わかりません。",
+          "name": "clarify"
+        },
+        {
+          "glyph": "みずを ください。",
+          "name": "request"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかいっぱい」の いみ?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「わかりません」の いみ?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l80",
+      "title": "ふくしゅう 40",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "きょうは うれしい です。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "せきを たっても いいですか?",
+          "name": "polite"
+        },
+        {
+          "glyph": "わたしは りんごが すき です。",
+          "name": "like"
+        },
+        {
+          "glyph": "せきを たっても いいですか?",
+          "name": "polite"
+        },
+        {
+          "glyph": "とても おいしいです!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "もう おなかいっぱいです。",
+          "name": "reply"
+        },
+        {
+          "glyph": "どうも ありがとう ございました!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "わたしは りんごが すき です。",
+          "name": "like"
+        },
+        {
+          "glyph": "ありがとう。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "おなかが すきました。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: こんにちは、ともだち!",
+          "name": ""
+        },
+        {
+          "glyph": "パンを もらえますか?",
+          "name": "request"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかが すきました」?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l81",
+      "title": "ふくしゅう 41",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "はい、げんき です。",
+          "name": "reply"
+        },
+        {
+          "glyph": "わたしは ゆきです。",
+          "name": "a"
+        },
+        {
+          "glyph": "ちょっと かなしい。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: きょうは うれしい!",
+          "name": ""
+        },
+        {
+          "glyph": "みちに まよいました。",
+          "name": "lost"
+        },
+        {
+          "glyph": "おはよう ございます。",
+          "name": "morning"
+        },
+        {
+          "glyph": "おなまえは なんですか?",
+          "name": "q"
+        },
+        {
+          "glyph": "きょうは うれしい です。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "みちに まよいました。",
+          "name": "lost"
+        },
+        {
+          "glyph": "つかれました。",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「みずが ほしい です」の いみ?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「わかりません」の いみ?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l82",
+      "title": "ふくしゅう 42",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "せきを たっても いいですか?",
+          "name": "polite"
+        },
+        {
+          "glyph": "どこに すんで いますか?",
+          "name": "q"
+        },
+        {
+          "glyph": "みちに まよいました。",
+          "name": "lost"
+        },
+        {
+          "glyph": "A: きょうは うれしい!",
+          "name": ""
+        },
+        {
+          "glyph": "パンを もらえますか?",
+          "name": "request"
+        },
+        {
+          "glyph": "おはよう ございます。",
+          "name": "morning"
+        },
+        {
+          "glyph": "おなまえは なんですか?",
+          "name": "q"
+        },
+        {
+          "glyph": "とても わくわくします!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "つかれました。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "みちに まよいました。",
+          "name": "lost"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかいっぱい」の いみ?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l83",
+      "title": "ふくしゅう 43",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "からい ものは すきじゃ ない。",
+          "name": "dislike"
+        },
+        {
+          "glyph": "おはよう ございます。",
+          "name": "morning"
+        },
+        {
+          "glyph": "ありがとう。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "どうも ありがとう ございました!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "A: こんにちは、ともだち!",
+          "name": ""
+        },
+        {
+          "glyph": "たすけて ください。",
+          "name": "need"
+        },
+        {
+          "glyph": "こんにちは!",
+          "name": "hello"
+        },
+        {
+          "glyph": "とても おいしいです!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "B: いいね!",
+          "name": ""
+        },
+        {
+          "glyph": "せきを たっても いいですか?",
+          "name": "polite"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなまえは なんですか?」へのこたえ?",
+          "options": [
+            "わたしは ゆきです",
+            "げんき です",
+            "ありがとう",
+            "こんにちは"
+          ],
+          "answer": "わたしは ゆきです"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l84",
+      "title": "ふくしゅう 44",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "きょうは うれしい です。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "どこに すんで いますか?",
+          "name": "q"
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "さようなら!",
+          "name": "bye"
+        },
+        {
+          "glyph": "どこに すんで いますか?",
+          "name": "q"
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "とても わくわくします!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "はい、げんき です。",
+          "name": "reply"
+        },
+        {
+          "glyph": "おはよう ございます。",
+          "name": "morning"
+        },
+        {
+          "glyph": "A: こんにちは、ともだち!",
+          "name": ""
+        },
+        {
+          "glyph": "もう おなかいっぱいです。",
+          "name": "reply"
+        },
+        {
+          "glyph": "わかりません。",
+          "name": "clarify"
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "A: こんにちは、ともだち!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかが すきました」?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l85",
+      "title": "ふくしゅう 45",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "きょうは うれしい です。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "たすけて ください。",
+          "name": "need"
+        },
+        {
+          "glyph": "おはよう ございます。",
+          "name": "morning"
+        },
+        {
+          "glyph": "みずが ほしい です。",
+          "name": "want"
+        },
+        {
+          "glyph": "せきを たっても いいですか?",
+          "name": "polite"
+        },
+        {
+          "glyph": "とても おいしいです!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "どこに すんで いますか?",
+          "name": "q"
+        },
+        {
+          "glyph": "こんにちは!",
+          "name": "hello"
+        },
+        {
+          "glyph": "とても わくわくします!",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなまえは なんですか?」へのこたえ?",
+          "options": [
+            "わたしは ゆきです",
+            "げんき です",
+            "ありがとう",
+            "こんにちは"
+          ],
+          "answer": "わたしは ゆきです"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l86",
+      "title": "ふくしゅう 46",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "B: いいね!",
+          "name": ""
+        },
+        {
+          "glyph": "おはよう ございます。",
+          "name": "morning"
+        },
+        {
+          "glyph": "わたしは りんごが すき です。",
+          "name": "like"
+        },
+        {
+          "glyph": "みずを ください。",
+          "name": "request"
+        },
+        {
+          "glyph": "もう いちど おねがいします。",
+          "name": "repeat"
+        },
+        {
+          "glyph": "とうきょうに すんで います。",
+          "name": "a"
+        },
+        {
+          "glyph": "とても わくわくします!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: こんにちは、ともだち!",
+          "name": ""
+        },
+        {
+          "glyph": "わかりません。",
+          "name": "clarify"
+        },
+        {
+          "glyph": "こんにちは!",
+          "name": "hello"
+        },
+        {
+          "glyph": "わかりません。",
+          "name": "clarify"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかが すきました」?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「わかりません」の いみ?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l87",
+      "title": "ふくしゅう 47",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "おなかが すきました。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "とても わくわくします!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "わかりません。",
+          "name": "clarify"
+        },
+        {
+          "glyph": "わたしは りんごが すき です。",
+          "name": "like"
+        },
+        {
+          "glyph": "B: いいね!",
+          "name": ""
+        },
+        {
+          "glyph": "A: こんにちは、ともだち!",
+          "name": ""
+        },
+        {
+          "glyph": "わたしは りんごが すき です。",
+          "name": "like"
+        },
+        {
+          "glyph": "みずを ください。",
+          "name": "request"
+        },
+        {
+          "glyph": "げんき ですか?",
+          "name": "question"
+        },
+        {
+          "glyph": "ありがとう。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "きょうは うれしい です。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "おなまえは なんですか?",
+          "name": "q"
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "もう おなかいっぱいです。",
+          "name": "reply"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかいっぱい」の いみ?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l88",
+      "title": "ふくしゅう 48",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ありがとう。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "きょうは うれしい です。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "おなかが すきました。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "わたしは りんごが すき です。",
+          "name": "like"
+        },
+        {
+          "glyph": "わかりません。",
+          "name": "clarify"
+        },
+        {
+          "glyph": "もう おなかいっぱいです。",
+          "name": "reply"
+        },
+        {
+          "glyph": "とうきょうに すんで います。",
+          "name": "a"
+        },
+        {
+          "glyph": "わたしは りんごが すき です。",
+          "name": "like"
+        },
+        {
+          "glyph": "みちに まよいました。",
+          "name": "lost"
+        },
+        {
+          "glyph": "せきを たっても いいですか?",
+          "name": "polite"
+        },
+        {
+          "glyph": "せきを たっても いいですか?",
+          "name": "polite"
+        },
+        {
+          "glyph": "A: こんにちは、ともだち!",
+          "name": ""
+        },
+        {
+          "glyph": "さようなら!",
+          "name": "bye"
+        },
+        {
+          "glyph": "からい ものは すきじゃ ない。",
+          "name": "dislike"
+        },
+        {
+          "glyph": "おはよう ございます。",
+          "name": "morning"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「みずが ほしい です」の いみ?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかが すきました」?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l89",
+      "title": "ふくしゅう 49",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "みずが ほしい です。",
+          "name": "want"
+        },
+        {
+          "glyph": "とても わくわくします!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "からい ものは すきじゃ ない。",
+          "name": "dislike"
+        },
+        {
+          "glyph": "おはよう ございます。",
+          "name": "morning"
+        },
+        {
+          "glyph": "おなまえは なんですか?",
+          "name": "q"
+        },
+        {
+          "glyph": "もう おなかいっぱいです。",
+          "name": "reply"
+        },
+        {
+          "glyph": "おなまえは なんですか?",
+          "name": "q"
+        },
+        {
+          "glyph": "おなかが すきました。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: こんにちは、ともだち!",
+          "name": ""
+        },
+        {
+          "glyph": "わたしは りんごが すき です。",
+          "name": "like"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなまえは なんですか?」へのこたえ?",
+          "options": [
+            "わたしは ゆきです",
+            "げんき です",
+            "ありがとう",
+            "こんにちは"
+          ],
+          "answer": "わたしは ゆきです"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「みずが ほしい です」の いみ?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l90",
+      "title": "ふくしゅう 50",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "どこに すんで いますか?",
+          "name": "q"
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "どこに すんで いますか?",
+          "name": "q"
+        },
+        {
+          "glyph": "B: いいね!",
+          "name": ""
+        },
+        {
+          "glyph": "とうきょうに すんで います。",
+          "name": "a"
+        },
+        {
+          "glyph": "げんき ですか?",
+          "name": "question"
+        },
+        {
+          "glyph": "わかりません。",
+          "name": "clarify"
+        },
+        {
+          "glyph": "きょうは うれしい です。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "ちょっと かなしい。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "わたしは りんごが すき です。",
+          "name": "like"
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかいっぱい」の いみ?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなまえは なんですか?」へのこたえ?",
+          "options": [
+            "わたしは ゆきです",
+            "げんき です",
+            "ありがとう",
+            "こんにちは"
+          ],
+          "answer": "わたしは ゆきです"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l91",
+      "title": "ふくしゅう 51",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "きょうは うれしい です。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: きょうは うれしい!",
+          "name": ""
+        },
+        {
+          "glyph": "はい、げんき です。",
+          "name": "reply"
+        },
+        {
+          "glyph": "B: いいね!",
+          "name": ""
+        },
+        {
+          "glyph": "わたしは りんごが すき です。",
+          "name": "like"
+        },
+        {
+          "glyph": "A: きょうは うれしい!",
+          "name": ""
+        },
+        {
+          "glyph": "げんき ですか?",
+          "name": "question"
+        },
+        {
+          "glyph": "どこに すんで いますか?",
+          "name": "q"
+        },
+        {
+          "glyph": "A: こんにちは、ともだち!",
+          "name": ""
+        },
+        {
+          "glyph": "とうきょうに すんで います。",
+          "name": "a"
+        },
+        {
+          "glyph": "B: こんにちは! げんき?",
+          "name": ""
+        },
+        {
+          "glyph": "はい、げんき です。",
+          "name": "reply"
+        },
+        {
+          "glyph": "みちに まよいました。",
+          "name": "lost"
+        },
+        {
+          "glyph": "わたしは ゆきです。",
+          "name": "a"
+        },
+        {
+          "glyph": "ちょっと かなしい。",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなまえは なんですか?」へのこたえ?",
+          "options": [
+            "わたしは ゆきです",
+            "げんき です",
+            "ありがとう",
+            "こんにちは"
+          ],
+          "answer": "わたしは ゆきです"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかいっぱい」の いみ?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかが すきました」?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l92",
+      "title": "ふくしゅう 52",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "きょうは うれしい です。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "たすけて ください。",
+          "name": "need"
+        },
+        {
+          "glyph": "からい ものは すきじゃ ない。",
+          "name": "dislike"
+        },
+        {
+          "glyph": "A: きょうは うれしい!",
+          "name": ""
+        },
+        {
+          "glyph": "ちょっと かなしい。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "パンを もらえますか?",
+          "name": "request"
+        },
+        {
+          "glyph": "はい、げんき です。",
+          "name": "reply"
+        },
+        {
+          "glyph": "とうきょうに すんで います。",
+          "name": "a"
+        },
+        {
+          "glyph": "ありがとう。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "みずを ください。",
+          "name": "request"
+        },
+        {
+          "glyph": "きょうは うれしい です。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "みちに まよいました。",
+          "name": "lost"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなまえは なんですか?」へのこたえ?",
+          "options": [
+            "わたしは ゆきです",
+            "げんき です",
+            "ありがとう",
+            "こんにちは"
+          ],
+          "answer": "わたしは ゆきです"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l93",
+      "title": "ふくしゅう 53",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "もう おなかいっぱいです。",
+          "name": "reply"
+        },
+        {
+          "glyph": "どうも ありがとう ございました!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "どこに すんで いますか?",
+          "name": "q"
+        },
+        {
+          "glyph": "もう おなかいっぱいです。",
+          "name": "reply"
+        },
+        {
+          "glyph": "たすけて ください。",
+          "name": "need"
+        },
+        {
+          "glyph": "わかりません。",
+          "name": "clarify"
+        },
+        {
+          "glyph": "どこに すんで いますか?",
+          "name": "q"
+        },
+        {
+          "glyph": "さようなら!",
+          "name": "bye"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなまえは なんですか?」へのこたえ?",
+          "options": [
+            "わたしは ゆきです",
+            "げんき です",
+            "ありがとう",
+            "こんにちは"
+          ],
+          "answer": "わたしは ゆきです"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかいっぱい」の いみ?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l94",
+      "title": "ふくしゅう 54",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "わたしは ゆきです。",
+          "name": "a"
+        },
+        {
+          "glyph": "きょうは うれしい です。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "きょうは うれしい です。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "ちょっと かなしい。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: こんにちは! げんき?",
+          "name": ""
+        },
+        {
+          "glyph": "もう おなかいっぱいです。",
+          "name": "reply"
+        },
+        {
+          "glyph": "たすけて ください。",
+          "name": "need"
+        },
+        {
+          "glyph": "ちょっと かなしい。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "おはよう ございます。",
+          "name": "morning"
+        },
+        {
+          "glyph": "ありがとう。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "B: いいね!",
+          "name": ""
+        },
+        {
+          "glyph": "きょうは うれしい です。",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなまえは なんですか?」へのこたえ?",
+          "options": [
+            "わたしは ゆきです",
+            "げんき です",
+            "ありがとう",
+            "こんにちは"
+          ],
+          "answer": "わたしは ゆきです"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかが すきました」?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l95",
+      "title": "ふくしゅう 55",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "パンを もらえますか?",
+          "name": "request"
+        },
+        {
+          "glyph": "たすけて ください。",
+          "name": "need"
+        },
+        {
+          "glyph": "わたしは ゆきです。",
+          "name": "a"
+        },
+        {
+          "glyph": "ちょっと かなしい。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: いいね!",
+          "name": ""
+        },
+        {
+          "glyph": "おなかが すきました。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "からい ものは すきじゃ ない。",
+          "name": "dislike"
+        },
+        {
+          "glyph": "わかりません。",
+          "name": "clarify"
+        },
+        {
+          "glyph": "とても わくわくします!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "とうきょうに すんで います。",
+          "name": "a"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「みずが ほしい です」の いみ?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l96",
+      "title": "ふくしゅう 56",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B: こんにちは! げんき?",
+          "name": ""
+        },
+        {
+          "glyph": "たすけて ください。",
+          "name": "need"
+        },
+        {
+          "glyph": "みずが ほしい です。",
+          "name": "want"
+        },
+        {
+          "glyph": "きょうは うれしい です。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "こんにちは!",
+          "name": "hello"
+        },
+        {
+          "glyph": "おはよう ございます。",
+          "name": "morning"
+        },
+        {
+          "glyph": "さようなら!",
+          "name": "bye"
+        },
+        {
+          "glyph": "きょうは うれしい です。",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「わかりません」の いみ?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなまえは なんですか?」へのこたえ?",
+          "options": [
+            "わたしは ゆきです",
+            "げんき です",
+            "ありがとう",
+            "こんにちは"
+          ],
+          "answer": "わたしは ゆきです"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l97",
+      "title": "ふくしゅう 57",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "おはよう ございます。",
+          "name": "morning"
+        },
+        {
+          "glyph": "おはよう ございます。",
+          "name": "morning"
+        },
+        {
+          "glyph": "わたしは ゆきです。",
+          "name": "a"
+        },
+        {
+          "glyph": "どこに すんで いますか?",
+          "name": "q"
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "A: きょうは うれしい!",
+          "name": ""
+        },
+        {
+          "glyph": "とても わくわくします!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "どこに すんで いますか?",
+          "name": "q"
+        },
+        {
+          "glyph": "きょうは うれしい です。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "きょうは うれしい です。",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなまえは なんですか?」へのこたえ?",
+          "options": [
+            "わたしは ゆきです",
+            "げんき です",
+            "ありがとう",
+            "こんにちは"
+          ],
+          "answer": "わたしは ゆきです"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l98",
+      "title": "ふくしゅう 58",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "からい ものは すきじゃ ない。",
+          "name": "dislike"
+        },
+        {
+          "glyph": "みずが ほしい です。",
+          "name": "want"
+        },
+        {
+          "glyph": "どこに すんで いますか?",
+          "name": "q"
+        },
+        {
+          "glyph": "とても おいしいです!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "みずが ほしい です。",
+          "name": "want"
+        },
+        {
+          "glyph": "A: こんにちは、ともだち!",
+          "name": ""
+        },
+        {
+          "glyph": "パンを もらえますか?",
+          "name": "request"
+        },
+        {
+          "glyph": "こんにちは!",
+          "name": "hello"
+        },
+        {
+          "glyph": "どこに すんで いますか?",
+          "name": "q"
+        },
+        {
+          "glyph": "わかりません。",
+          "name": "clarify"
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "みずが ほしい です。",
+          "name": "want"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなかが すきました」?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなまえは なんですか?」へのこたえ?",
+          "options": [
+            "わたしは ゆきです",
+            "げんき です",
+            "ありがとう",
+            "こんにちは"
+          ],
+          "answer": "わたしは ゆきです"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l99",
+      "title": "ふくしゅう 59",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "おなまえは なんですか?",
+          "name": "q"
+        },
+        {
+          "glyph": "せきを たっても いいですか?",
+          "name": "polite"
+        },
+        {
+          "glyph": "A: こんにちは、ともだち!",
+          "name": ""
+        },
+        {
+          "glyph": "みずを ください。",
+          "name": "request"
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "おはよう ございます。",
+          "name": "morning"
+        },
+        {
+          "glyph": "みずが ほしい です。",
+          "name": "want"
+        },
+        {
+          "glyph": "とうきょうに すんで います。",
+          "name": "a"
+        },
+        {
+          "glyph": "みずを ください。",
+          "name": "request"
+        },
+        {
+          "glyph": "つかれました。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "ちょっと かなしい。",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: きょうは うれしい!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなまえは なんですか?」へのこたえ?",
+          "options": [
+            "わたしは ゆきです",
+            "げんき です",
+            "ありがとう",
+            "こんにちは"
+          ],
+          "answer": "わたしは ゆきです"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l100",
+      "title": "ふくしゅう 60",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "おなまえは なんですか?",
+          "name": "q"
+        },
+        {
+          "glyph": "もう おなかいっぱいです。",
+          "name": "reply"
+        },
+        {
+          "glyph": "とうきょうに すんで います。",
+          "name": "a"
+        },
+        {
+          "glyph": "とても わくわくします!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "すみません、てつだって くれますか?",
+          "name": "help"
+        },
+        {
+          "glyph": "ありがとう。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "からい ものは すきじゃ ない。",
+          "name": "dislike"
+        },
+        {
+          "glyph": "わたしは ゆきです。",
+          "name": "a"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「わかりません」の いみ?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「みずが ほしい です」の いみ?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
     }
   ]
 }

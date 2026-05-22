@@ -257,6 +257,3230 @@
           "answer": "É"
         }
       ]
+    },
+    {
+      "id": "fr-p1-l6",
+      "title": "Révision 1",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "É",
+          "name": "eh",
+          "exampleWord": "École"
+        },
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pomme"
+        },
+        {
+          "glyph": "G",
+          "name": "jeh",
+          "exampleWord": "Girafe"
+        },
+        {
+          "glyph": "U",
+          "name": "oo",
+          "exampleWord": "Univers"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Ours"
+        },
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Lapin"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ballon"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Maison"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ash'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oo'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l7",
+      "title": "Révision 2",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "È",
+          "name": "eh grave",
+          "exampleWord": "Mère"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Avion"
+        },
+        {
+          "glyph": "X",
+          "name": "eeks",
+          "exampleWord": "Xylophone"
+        },
+        {
+          "glyph": "U",
+          "name": "oo",
+          "exampleWord": "Univers"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ballon"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Tigre"
+        },
+        {
+          "glyph": "Y",
+          "name": "ee grek",
+          "exampleWord": "Yaourt"
+        },
+        {
+          "glyph": "Z",
+          "name": "zed",
+          "exampleWord": "Zèbre"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Maison"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Roi"
+        },
+        {
+          "glyph": "G",
+          "name": "jeh",
+          "exampleWord": "Girafe"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Kangourou"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ash'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l8",
+      "title": "Révision 3",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ê",
+          "name": "eh hat",
+          "exampleWord": "Tête"
+        },
+        {
+          "glyph": "È",
+          "name": "eh grave",
+          "exampleWord": "Mère"
+        },
+        {
+          "glyph": "H",
+          "name": "ash",
+          "exampleWord": "Hibou"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Roi"
+        },
+        {
+          "glyph": "V",
+          "name": "veh",
+          "exampleWord": "Vache"
+        },
+        {
+          "glyph": "G",
+          "name": "jeh",
+          "exampleWord": "Girafe"
+        },
+        {
+          "glyph": "J",
+          "name": "jee",
+          "exampleWord": "Jardin"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Famille"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oo'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'eh'?",
+          "options": [
+            "É",
+            "È",
+            "Ê",
+            "Ç"
+          ],
+          "answer": "É"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l9",
+      "title": "Révision 4",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Y",
+          "name": "ee grek",
+          "exampleWord": "Yaourt"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Avion"
+        },
+        {
+          "glyph": "E",
+          "name": "euh",
+          "exampleWord": "Éléphant"
+        },
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Dent"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ballon"
+        },
+        {
+          "glyph": "U",
+          "name": "oo",
+          "exampleWord": "Univers"
+        },
+        {
+          "glyph": "È",
+          "name": "eh grave",
+          "exampleWord": "Mère"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Tigre"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Ours"
+        },
+        {
+          "glyph": "Q",
+          "name": "koo",
+          "exampleWord": "Quai"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Île"
+        },
+        {
+          "glyph": "H",
+          "name": "ash",
+          "exampleWord": "Hibou"
+        },
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Neige"
+        },
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pomme"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Roi"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ash'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oo'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l10",
+      "title": "Révision 5",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Dent"
+        },
+        {
+          "glyph": "È",
+          "name": "eh grave",
+          "exampleWord": "Mère"
+        },
+        {
+          "glyph": "Q",
+          "name": "koo",
+          "exampleWord": "Quai"
+        },
+        {
+          "glyph": "W",
+          "name": "doo-bluh-veh",
+          "exampleWord": "Wagon"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Tigre"
+        },
+        {
+          "glyph": "Y",
+          "name": "ee grek",
+          "exampleWord": "Yaourt"
+        },
+        {
+          "glyph": "Ê",
+          "name": "eh hat",
+          "exampleWord": "Tête"
+        },
+        {
+          "glyph": "J",
+          "name": "jee",
+          "exampleWord": "Jardin"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ballon"
+        },
+        {
+          "glyph": "H",
+          "name": "ash",
+          "exampleWord": "Hibou"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Ours"
+        },
+        {
+          "glyph": "U",
+          "name": "oo",
+          "exampleWord": "Univers"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oo'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l11",
+      "title": "Révision 6",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "V",
+          "name": "veh",
+          "exampleWord": "Vache"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Kangourou"
+        },
+        {
+          "glyph": "È",
+          "name": "eh grave",
+          "exampleWord": "Mère"
+        },
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Lapin"
+        },
+        {
+          "glyph": "C",
+          "name": "seh",
+          "exampleWord": "Chat"
+        },
+        {
+          "glyph": "Ê",
+          "name": "eh hat",
+          "exampleWord": "Tête"
+        },
+        {
+          "glyph": "É",
+          "name": "eh",
+          "exampleWord": "École"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Maison"
+        },
+        {
+          "glyph": "E",
+          "name": "euh",
+          "exampleWord": "Éléphant"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Ours"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oo'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l12",
+      "title": "Révision 7",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pomme"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Famille"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Roi"
+        },
+        {
+          "glyph": "É",
+          "name": "eh",
+          "exampleWord": "École"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Avion"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Ours"
+        },
+        {
+          "glyph": "G",
+          "name": "jeh",
+          "exampleWord": "Girafe"
+        },
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Lapin"
+        },
+        {
+          "glyph": "Q",
+          "name": "koo",
+          "exampleWord": "Quai"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Tigre"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Kangourou"
+        },
+        {
+          "glyph": "Ç",
+          "name": "seh",
+          "exampleWord": "Garçon"
+        },
+        {
+          "glyph": "H",
+          "name": "ash",
+          "exampleWord": "Hibou"
+        },
+        {
+          "glyph": "C",
+          "name": "seh",
+          "exampleWord": "Chat"
+        },
+        {
+          "glyph": "V",
+          "name": "veh",
+          "exampleWord": "Vache"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l13",
+      "title": "Révision 8",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Maison"
+        },
+        {
+          "glyph": "V",
+          "name": "veh",
+          "exampleWord": "Vache"
+        },
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Neige"
+        },
+        {
+          "glyph": "Q",
+          "name": "koo",
+          "exampleWord": "Quai"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Roi"
+        },
+        {
+          "glyph": "É",
+          "name": "eh",
+          "exampleWord": "École"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Avion"
+        },
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Lapin"
+        },
+        {
+          "glyph": "Z",
+          "name": "zed",
+          "exampleWord": "Zèbre"
+        },
+        {
+          "glyph": "Y",
+          "name": "ee grek",
+          "exampleWord": "Yaourt"
+        },
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Dent"
+        },
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pomme"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'eh'?",
+          "options": [
+            "É",
+            "È",
+            "Ê",
+            "Ç"
+          ],
+          "answer": "É"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l14",
+      "title": "Révision 9",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Maison"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Famille"
+        },
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Dent"
+        },
+        {
+          "glyph": "W",
+          "name": "doo-bluh-veh",
+          "exampleWord": "Wagon"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Tigre"
+        },
+        {
+          "glyph": "È",
+          "name": "eh grave",
+          "exampleWord": "Mère"
+        },
+        {
+          "glyph": "H",
+          "name": "ash",
+          "exampleWord": "Hibou"
+        },
+        {
+          "glyph": "Ç",
+          "name": "seh",
+          "exampleWord": "Garçon"
+        },
+        {
+          "glyph": "V",
+          "name": "veh",
+          "exampleWord": "Vache"
+        },
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Lapin"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oo'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ash'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l15",
+      "title": "Révision 10",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "J",
+          "name": "jee",
+          "exampleWord": "Jardin"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Avion"
+        },
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Dent"
+        },
+        {
+          "glyph": "Ê",
+          "name": "eh hat",
+          "exampleWord": "Tête"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Maison"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Kangourou"
+        },
+        {
+          "glyph": "X",
+          "name": "eeks",
+          "exampleWord": "Xylophone"
+        },
+        {
+          "glyph": "U",
+          "name": "oo",
+          "exampleWord": "Univers"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Tigre"
+        },
+        {
+          "glyph": "S",
+          "name": "es",
+          "exampleWord": "Soleil"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ash'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l16",
+      "title": "Révision 11",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "E",
+          "name": "euh",
+          "exampleWord": "Éléphant"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Maison"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Tigre"
+        },
+        {
+          "glyph": "H",
+          "name": "ash",
+          "exampleWord": "Hibou"
+        },
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Lapin"
+        },
+        {
+          "glyph": "G",
+          "name": "jeh",
+          "exampleWord": "Girafe"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ballon"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Roi"
+        },
+        {
+          "glyph": "W",
+          "name": "doo-bluh-veh",
+          "exampleWord": "Wagon"
+        },
+        {
+          "glyph": "È",
+          "name": "eh grave",
+          "exampleWord": "Mère"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'eh'?",
+          "options": [
+            "É",
+            "È",
+            "Ê",
+            "Ç"
+          ],
+          "answer": "É"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oo'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l17",
+      "title": "Révision 12",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Roi"
+        },
+        {
+          "glyph": "U",
+          "name": "oo",
+          "exampleWord": "Univers"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Ours"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Kangourou"
+        },
+        {
+          "glyph": "Ê",
+          "name": "eh hat",
+          "exampleWord": "Tête"
+        },
+        {
+          "glyph": "G",
+          "name": "jeh",
+          "exampleWord": "Girafe"
+        },
+        {
+          "glyph": "C",
+          "name": "seh",
+          "exampleWord": "Chat"
+        },
+        {
+          "glyph": "É",
+          "name": "eh",
+          "exampleWord": "École"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ash'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'eh'?",
+          "options": [
+            "É",
+            "È",
+            "Ê",
+            "Ç"
+          ],
+          "answer": "É"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l18",
+      "title": "Révision 13",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "È",
+          "name": "eh grave",
+          "exampleWord": "Mère"
+        },
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Lapin"
+        },
+        {
+          "glyph": "X",
+          "name": "eeks",
+          "exampleWord": "Xylophone"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Kangourou"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Avion"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Famille"
+        },
+        {
+          "glyph": "U",
+          "name": "oo",
+          "exampleWord": "Univers"
+        },
+        {
+          "glyph": "Q",
+          "name": "koo",
+          "exampleWord": "Quai"
+        },
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pomme"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ballon"
+        },
+        {
+          "glyph": "V",
+          "name": "veh",
+          "exampleWord": "Vache"
+        },
+        {
+          "glyph": "Z",
+          "name": "zed",
+          "exampleWord": "Zèbre"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oo'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l19",
+      "title": "Révision 14",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "H",
+          "name": "ash",
+          "exampleWord": "Hibou"
+        },
+        {
+          "glyph": "È",
+          "name": "eh grave",
+          "exampleWord": "Mère"
+        },
+        {
+          "glyph": "G",
+          "name": "jeh",
+          "exampleWord": "Girafe"
+        },
+        {
+          "glyph": "Y",
+          "name": "ee grek",
+          "exampleWord": "Yaourt"
+        },
+        {
+          "glyph": "W",
+          "name": "doo-bluh-veh",
+          "exampleWord": "Wagon"
+        },
+        {
+          "glyph": "U",
+          "name": "oo",
+          "exampleWord": "Univers"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Ours"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Kangourou"
+        },
+        {
+          "glyph": "E",
+          "name": "euh",
+          "exampleWord": "Éléphant"
+        },
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Neige"
+        },
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Lapin"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Famille"
+        },
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pomme"
+        },
+        {
+          "glyph": "J",
+          "name": "jee",
+          "exampleWord": "Jardin"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ballon"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ash'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'eh'?",
+          "options": [
+            "É",
+            "È",
+            "Ê",
+            "Ç"
+          ],
+          "answer": "É"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l20",
+      "title": "Révision 15",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "C",
+          "name": "seh",
+          "exampleWord": "Chat"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Kangourou"
+        },
+        {
+          "glyph": "W",
+          "name": "doo-bluh-veh",
+          "exampleWord": "Wagon"
+        },
+        {
+          "glyph": "Z",
+          "name": "zed",
+          "exampleWord": "Zèbre"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Famille"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ballon"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Tigre"
+        },
+        {
+          "glyph": "Q",
+          "name": "koo",
+          "exampleWord": "Quai"
+        },
+        {
+          "glyph": "Ç",
+          "name": "seh",
+          "exampleWord": "Garçon"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Roi"
+        },
+        {
+          "glyph": "V",
+          "name": "veh",
+          "exampleWord": "Vache"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Île"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l21",
+      "title": "Révision 16",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Z",
+          "name": "zed",
+          "exampleWord": "Zèbre"
+        },
+        {
+          "glyph": "H",
+          "name": "ash",
+          "exampleWord": "Hibou"
+        },
+        {
+          "glyph": "G",
+          "name": "jeh",
+          "exampleWord": "Girafe"
+        },
+        {
+          "glyph": "S",
+          "name": "es",
+          "exampleWord": "Soleil"
+        },
+        {
+          "glyph": "E",
+          "name": "euh",
+          "exampleWord": "Éléphant"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Ours"
+        },
+        {
+          "glyph": "U",
+          "name": "oo",
+          "exampleWord": "Univers"
+        },
+        {
+          "glyph": "X",
+          "name": "eeks",
+          "exampleWord": "Xylophone"
+        },
+        {
+          "glyph": "Ç",
+          "name": "seh",
+          "exampleWord": "Garçon"
+        },
+        {
+          "glyph": "Ê",
+          "name": "eh hat",
+          "exampleWord": "Tête"
+        },
+        {
+          "glyph": "Q",
+          "name": "koo",
+          "exampleWord": "Quai"
+        },
+        {
+          "glyph": "È",
+          "name": "eh grave",
+          "exampleWord": "Mère"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oo'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l22",
+      "title": "Révision 17",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "X",
+          "name": "eeks",
+          "exampleWord": "Xylophone"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Île"
+        },
+        {
+          "glyph": "C",
+          "name": "seh",
+          "exampleWord": "Chat"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Ours"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ballon"
+        },
+        {
+          "glyph": "J",
+          "name": "jee",
+          "exampleWord": "Jardin"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Avion"
+        },
+        {
+          "glyph": "E",
+          "name": "euh",
+          "exampleWord": "Éléphant"
+        },
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Dent"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Maison"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Kangourou"
+        },
+        {
+          "glyph": "H",
+          "name": "ash",
+          "exampleWord": "Hibou"
+        },
+        {
+          "glyph": "U",
+          "name": "oo",
+          "exampleWord": "Univers"
+        },
+        {
+          "glyph": "Y",
+          "name": "ee grek",
+          "exampleWord": "Yaourt"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Famille"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ash'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l23",
+      "title": "Révision 18",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ballon"
+        },
+        {
+          "glyph": "W",
+          "name": "doo-bluh-veh",
+          "exampleWord": "Wagon"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Île"
+        },
+        {
+          "glyph": "J",
+          "name": "jee",
+          "exampleWord": "Jardin"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Roi"
+        },
+        {
+          "glyph": "C",
+          "name": "seh",
+          "exampleWord": "Chat"
+        },
+        {
+          "glyph": "E",
+          "name": "euh",
+          "exampleWord": "Éléphant"
+        },
+        {
+          "glyph": "G",
+          "name": "jeh",
+          "exampleWord": "Girafe"
+        },
+        {
+          "glyph": "È",
+          "name": "eh grave",
+          "exampleWord": "Mère"
+        },
+        {
+          "glyph": "S",
+          "name": "es",
+          "exampleWord": "Soleil"
+        },
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Dent"
+        },
+        {
+          "glyph": "É",
+          "name": "eh",
+          "exampleWord": "École"
+        },
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pomme"
+        },
+        {
+          "glyph": "Ê",
+          "name": "eh hat",
+          "exampleWord": "Tête"
+        },
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Neige"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oo'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'eh'?",
+          "options": [
+            "É",
+            "È",
+            "Ê",
+            "Ç"
+          ],
+          "answer": "É"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l24",
+      "title": "Révision 19",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "H",
+          "name": "ash",
+          "exampleWord": "Hibou"
+        },
+        {
+          "glyph": "S",
+          "name": "es",
+          "exampleWord": "Soleil"
+        },
+        {
+          "glyph": "Ê",
+          "name": "eh hat",
+          "exampleWord": "Tête"
+        },
+        {
+          "glyph": "È",
+          "name": "eh grave",
+          "exampleWord": "Mère"
+        },
+        {
+          "glyph": "G",
+          "name": "jeh",
+          "exampleWord": "Girafe"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ballon"
+        },
+        {
+          "glyph": "E",
+          "name": "euh",
+          "exampleWord": "Éléphant"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Roi"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'eh'?",
+          "options": [
+            "É",
+            "È",
+            "Ê",
+            "Ç"
+          ],
+          "answer": "É"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ash'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l25",
+      "title": "Révision 20",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Lapin"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Maison"
+        },
+        {
+          "glyph": "É",
+          "name": "eh",
+          "exampleWord": "École"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Tigre"
+        },
+        {
+          "glyph": "È",
+          "name": "eh grave",
+          "exampleWord": "Mère"
+        },
+        {
+          "glyph": "S",
+          "name": "es",
+          "exampleWord": "Soleil"
+        },
+        {
+          "glyph": "E",
+          "name": "euh",
+          "exampleWord": "Éléphant"
+        },
+        {
+          "glyph": "Z",
+          "name": "zed",
+          "exampleWord": "Zèbre"
+        },
+        {
+          "glyph": "J",
+          "name": "jee",
+          "exampleWord": "Jardin"
+        },
+        {
+          "glyph": "W",
+          "name": "doo-bluh-veh",
+          "exampleWord": "Wagon"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ash'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l26",
+      "title": "Révision 21",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "È",
+          "name": "eh grave",
+          "exampleWord": "Mère"
+        },
+        {
+          "glyph": "Ç",
+          "name": "seh",
+          "exampleWord": "Garçon"
+        },
+        {
+          "glyph": "X",
+          "name": "eeks",
+          "exampleWord": "Xylophone"
+        },
+        {
+          "glyph": "Ê",
+          "name": "eh hat",
+          "exampleWord": "Tête"
+        },
+        {
+          "glyph": "E",
+          "name": "euh",
+          "exampleWord": "Éléphant"
+        },
+        {
+          "glyph": "É",
+          "name": "eh",
+          "exampleWord": "École"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Ours"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Avion"
+        },
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Lapin"
+        },
+        {
+          "glyph": "H",
+          "name": "ash",
+          "exampleWord": "Hibou"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oo'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'eh'?",
+          "options": [
+            "É",
+            "È",
+            "Ê",
+            "Ç"
+          ],
+          "answer": "É"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l27",
+      "title": "Révision 22",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Roi"
+        },
+        {
+          "glyph": "Ê",
+          "name": "eh hat",
+          "exampleWord": "Tête"
+        },
+        {
+          "glyph": "W",
+          "name": "doo-bluh-veh",
+          "exampleWord": "Wagon"
+        },
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Neige"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Île"
+        },
+        {
+          "glyph": "G",
+          "name": "jeh",
+          "exampleWord": "Girafe"
+        },
+        {
+          "glyph": "C",
+          "name": "seh",
+          "exampleWord": "Chat"
+        },
+        {
+          "glyph": "Y",
+          "name": "ee grek",
+          "exampleWord": "Yaourt"
+        },
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Lapin"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Maison"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'eh'?",
+          "options": [
+            "É",
+            "È",
+            "Ê",
+            "Ç"
+          ],
+          "answer": "É"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l28",
+      "title": "Révision 23",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Avion"
+        },
+        {
+          "glyph": "Q",
+          "name": "koo",
+          "exampleWord": "Quai"
+        },
+        {
+          "glyph": "Y",
+          "name": "ee grek",
+          "exampleWord": "Yaourt"
+        },
+        {
+          "glyph": "U",
+          "name": "oo",
+          "exampleWord": "Univers"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Famille"
+        },
+        {
+          "glyph": "É",
+          "name": "eh",
+          "exampleWord": "École"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Île"
+        },
+        {
+          "glyph": "H",
+          "name": "ash",
+          "exampleWord": "Hibou"
+        },
+        {
+          "glyph": "C",
+          "name": "seh",
+          "exampleWord": "Chat"
+        },
+        {
+          "glyph": "V",
+          "name": "veh",
+          "exampleWord": "Vache"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l29",
+      "title": "Révision 24",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pomme"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Tigre"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Avion"
+        },
+        {
+          "glyph": "G",
+          "name": "jeh",
+          "exampleWord": "Girafe"
+        },
+        {
+          "glyph": "H",
+          "name": "ash",
+          "exampleWord": "Hibou"
+        },
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Lapin"
+        },
+        {
+          "glyph": "C",
+          "name": "seh",
+          "exampleWord": "Chat"
+        },
+        {
+          "glyph": "X",
+          "name": "eeks",
+          "exampleWord": "Xylophone"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Maison"
+        },
+        {
+          "glyph": "U",
+          "name": "oo",
+          "exampleWord": "Univers"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Roi"
+        },
+        {
+          "glyph": "Z",
+          "name": "zed",
+          "exampleWord": "Zèbre"
+        },
+        {
+          "glyph": "E",
+          "name": "euh",
+          "exampleWord": "Éléphant"
+        },
+        {
+          "glyph": "Ê",
+          "name": "eh hat",
+          "exampleWord": "Tête"
+        },
+        {
+          "glyph": "Ç",
+          "name": "seh",
+          "exampleWord": "Garçon"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'eh'?",
+          "options": [
+            "É",
+            "È",
+            "Ê",
+            "Ç"
+          ],
+          "answer": "É"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ash'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l30",
+      "title": "Révision 25",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Y",
+          "name": "ee grek",
+          "exampleWord": "Yaourt"
+        },
+        {
+          "glyph": "É",
+          "name": "eh",
+          "exampleWord": "École"
+        },
+        {
+          "glyph": "Q",
+          "name": "koo",
+          "exampleWord": "Quai"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ballon"
+        },
+        {
+          "glyph": "E",
+          "name": "euh",
+          "exampleWord": "Éléphant"
+        },
+        {
+          "glyph": "J",
+          "name": "jee",
+          "exampleWord": "Jardin"
+        },
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Lapin"
+        },
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Dent"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Avion"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Maison"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ash'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l31",
+      "title": "Révision 26",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "È",
+          "name": "eh grave",
+          "exampleWord": "Mère"
+        },
+        {
+          "glyph": "S",
+          "name": "es",
+          "exampleWord": "Soleil"
+        },
+        {
+          "glyph": "Z",
+          "name": "zed",
+          "exampleWord": "Zèbre"
+        },
+        {
+          "glyph": "V",
+          "name": "veh",
+          "exampleWord": "Vache"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Roi"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Kangourou"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Tigre"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Île"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oo'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l32",
+      "title": "Révision 27",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "H",
+          "name": "ash",
+          "exampleWord": "Hibou"
+        },
+        {
+          "glyph": "È",
+          "name": "eh grave",
+          "exampleWord": "Mère"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Roi"
+        },
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Dent"
+        },
+        {
+          "glyph": "V",
+          "name": "veh",
+          "exampleWord": "Vache"
+        },
+        {
+          "glyph": "X",
+          "name": "eeks",
+          "exampleWord": "Xylophone"
+        },
+        {
+          "glyph": "E",
+          "name": "euh",
+          "exampleWord": "Éléphant"
+        },
+        {
+          "glyph": "W",
+          "name": "doo-bluh-veh",
+          "exampleWord": "Wagon"
+        },
+        {
+          "glyph": "J",
+          "name": "jee",
+          "exampleWord": "Jardin"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Île"
+        },
+        {
+          "glyph": "G",
+          "name": "jeh",
+          "exampleWord": "Girafe"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ballon"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'eh'?",
+          "options": [
+            "É",
+            "È",
+            "Ê",
+            "Ç"
+          ],
+          "answer": "É"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oo'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l33",
+      "title": "Révision 28",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "W",
+          "name": "doo-bluh-veh",
+          "exampleWord": "Wagon"
+        },
+        {
+          "glyph": "E",
+          "name": "euh",
+          "exampleWord": "Éléphant"
+        },
+        {
+          "glyph": "H",
+          "name": "ash",
+          "exampleWord": "Hibou"
+        },
+        {
+          "glyph": "Ç",
+          "name": "seh",
+          "exampleWord": "Garçon"
+        },
+        {
+          "glyph": "X",
+          "name": "eeks",
+          "exampleWord": "Xylophone"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Tigre"
+        },
+        {
+          "glyph": "Z",
+          "name": "zed",
+          "exampleWord": "Zèbre"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Maison"
+        },
+        {
+          "glyph": "Y",
+          "name": "ee grek",
+          "exampleWord": "Yaourt"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ballon"
+        },
+        {
+          "glyph": "V",
+          "name": "veh",
+          "exampleWord": "Vache"
+        },
+        {
+          "glyph": "Ê",
+          "name": "eh hat",
+          "exampleWord": "Tête"
+        },
+        {
+          "glyph": "È",
+          "name": "eh grave",
+          "exampleWord": "Mère"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Ours"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Île"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'eh'?",
+          "options": [
+            "É",
+            "È",
+            "Ê",
+            "Ç"
+          ],
+          "answer": "É"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ash'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l34",
+      "title": "Révision 29",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "V",
+          "name": "veh",
+          "exampleWord": "Vache"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ballon"
+        },
+        {
+          "glyph": "J",
+          "name": "jee",
+          "exampleWord": "Jardin"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Maison"
+        },
+        {
+          "glyph": "E",
+          "name": "euh",
+          "exampleWord": "Éléphant"
+        },
+        {
+          "glyph": "Z",
+          "name": "zed",
+          "exampleWord": "Zèbre"
+        },
+        {
+          "glyph": "Q",
+          "name": "koo",
+          "exampleWord": "Quai"
+        },
+        {
+          "glyph": "Ê",
+          "name": "eh hat",
+          "exampleWord": "Tête"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'eh'?",
+          "options": [
+            "É",
+            "È",
+            "Ê",
+            "Ç"
+          ],
+          "answer": "É"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ash'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l35",
+      "title": "Révision 30",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ç",
+          "name": "seh",
+          "exampleWord": "Garçon"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Île"
+        },
+        {
+          "glyph": "C",
+          "name": "seh",
+          "exampleWord": "Chat"
+        },
+        {
+          "glyph": "G",
+          "name": "jeh",
+          "exampleWord": "Girafe"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Tigre"
+        },
+        {
+          "glyph": "U",
+          "name": "oo",
+          "exampleWord": "Univers"
+        },
+        {
+          "glyph": "Q",
+          "name": "koo",
+          "exampleWord": "Quai"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Famille"
+        },
+        {
+          "glyph": "J",
+          "name": "jee",
+          "exampleWord": "Jardin"
+        },
+        {
+          "glyph": "X",
+          "name": "eeks",
+          "exampleWord": "Xylophone"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ash'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l36",
+      "title": "Révision 31",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ê",
+          "name": "eh hat",
+          "exampleWord": "Tête"
+        },
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Neige"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ballon"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Roi"
+        },
+        {
+          "glyph": "C",
+          "name": "seh",
+          "exampleWord": "Chat"
+        },
+        {
+          "glyph": "Z",
+          "name": "zed",
+          "exampleWord": "Zèbre"
+        },
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Dent"
+        },
+        {
+          "glyph": "S",
+          "name": "es",
+          "exampleWord": "Soleil"
+        },
+        {
+          "glyph": "Y",
+          "name": "ee grek",
+          "exampleWord": "Yaourt"
+        },
+        {
+          "glyph": "H",
+          "name": "ash",
+          "exampleWord": "Hibou"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'eh'?",
+          "options": [
+            "É",
+            "È",
+            "Ê",
+            "Ç"
+          ],
+          "answer": "É"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l37",
+      "title": "Révision 32",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Famille"
+        },
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Neige"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Roi"
+        },
+        {
+          "glyph": "J",
+          "name": "jee",
+          "exampleWord": "Jardin"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Maison"
+        },
+        {
+          "glyph": "V",
+          "name": "veh",
+          "exampleWord": "Vache"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Kangourou"
+        },
+        {
+          "glyph": "H",
+          "name": "ash",
+          "exampleWord": "Hibou"
+        },
+        {
+          "glyph": "Ê",
+          "name": "eh hat",
+          "exampleWord": "Tête"
+        },
+        {
+          "glyph": "W",
+          "name": "doo-bluh-veh",
+          "exampleWord": "Wagon"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l38",
+      "title": "Révision 33",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Ours"
+        },
+        {
+          "glyph": "J",
+          "name": "jee",
+          "exampleWord": "Jardin"
+        },
+        {
+          "glyph": "Ç",
+          "name": "seh",
+          "exampleWord": "Garçon"
+        },
+        {
+          "glyph": "Y",
+          "name": "ee grek",
+          "exampleWord": "Yaourt"
+        },
+        {
+          "glyph": "X",
+          "name": "eeks",
+          "exampleWord": "Xylophone"
+        },
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Neige"
+        },
+        {
+          "glyph": "E",
+          "name": "euh",
+          "exampleWord": "Éléphant"
+        },
+        {
+          "glyph": "Q",
+          "name": "koo",
+          "exampleWord": "Quai"
+        },
+        {
+          "glyph": "C",
+          "name": "seh",
+          "exampleWord": "Chat"
+        },
+        {
+          "glyph": "V",
+          "name": "veh",
+          "exampleWord": "Vache"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oo'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l39",
+      "title": "Révision 34",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "É",
+          "name": "eh",
+          "exampleWord": "École"
+        },
+        {
+          "glyph": "G",
+          "name": "jeh",
+          "exampleWord": "Girafe"
+        },
+        {
+          "glyph": "È",
+          "name": "eh grave",
+          "exampleWord": "Mère"
+        },
+        {
+          "glyph": "E",
+          "name": "euh",
+          "exampleWord": "Éléphant"
+        },
+        {
+          "glyph": "X",
+          "name": "eeks",
+          "exampleWord": "Xylophone"
+        },
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Neige"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Kangourou"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ballon"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ash'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "fr-p1-l40",
+      "title": "Révision 35",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "S",
+          "name": "es",
+          "exampleWord": "Soleil"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Avion"
+        },
+        {
+          "glyph": "X",
+          "name": "eeks",
+          "exampleWord": "Xylophone"
+        },
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pomme"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Maison"
+        },
+        {
+          "glyph": "Z",
+          "name": "zed",
+          "exampleWord": "Zèbre"
+        },
+        {
+          "glyph": "Y",
+          "name": "ee grek",
+          "exampleWord": "Yaourt"
+        },
+        {
+          "glyph": "V",
+          "name": "veh",
+          "exampleWord": "Vache"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Ours"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Kangourou"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Roi"
+        },
+        {
+          "glyph": "É",
+          "name": "eh",
+          "exampleWord": "École"
+        },
+        {
+          "glyph": "C",
+          "name": "seh",
+          "exampleWord": "Chat"
+        },
+        {
+          "glyph": "U",
+          "name": "oo",
+          "exampleWord": "Univers"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Tigre"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oo'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        }
+      ]
     }
   ]
 }

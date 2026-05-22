@@ -186,6 +186,2181 @@
           "answer": "𓋹"
         }
       ]
+    },
+    {
+      "id": "egy-p1-l5",
+      "title": "Review 1",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𓅱",
+          "name": "quail chick (w)"
+        },
+        {
+          "glyph": "𓃀",
+          "name": "foot (b)"
+        },
+        {
+          "glyph": "𓉔",
+          "name": "house (h)"
+        },
+        {
+          "glyph": "𓊃",
+          "name": "door bolt (z/s)"
+        },
+        {
+          "glyph": "𓋹",
+          "name": "ankh (life)"
+        },
+        {
+          "glyph": "𓎛",
+          "name": "wick (ḥ)"
+        },
+        {
+          "glyph": "𓎡",
+          "name": "basket (k)"
+        },
+        {
+          "glyph": "𓂋",
+          "name": "mouth (r)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'vulture (a)'?",
+          "options": [
+            "𓄿",
+            "𓇋",
+            "𓅱",
+            "𓂝"
+          ],
+          "answer": "𓄿"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'sieve (kh)'?",
+          "options": [
+            "𓐍",
+            "𓊃",
+            "𓋴",
+            "𓈙"
+          ],
+          "answer": "𓐍"
+        }
+      ]
+    },
+    {
+      "id": "egy-p1-l6",
+      "title": "Review 2",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𓆑",
+          "name": "viper (f)"
+        },
+        {
+          "glyph": "𓂀",
+          "name": "eye of Horus"
+        },
+        {
+          "glyph": "𓍿",
+          "name": "tether (ṯ)"
+        },
+        {
+          "glyph": "𓎼",
+          "name": "jar (g)"
+        },
+        {
+          "glyph": "𓂋",
+          "name": "sun ra"
+        },
+        {
+          "glyph": "𓃀",
+          "name": "foot (b)"
+        },
+        {
+          "glyph": "𓇋",
+          "name": "reed (i)"
+        },
+        {
+          "glyph": "𓉔",
+          "name": "house (h)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'vulture (a)'?",
+          "options": [
+            "𓄿",
+            "𓇋",
+            "𓅱",
+            "𓂝"
+          ],
+          "answer": "𓄿"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'viper (f)'?",
+          "options": [
+            "𓆑",
+            "𓅓",
+            "𓈖",
+            "𓂋"
+          ],
+          "answer": "𓆑"
+        }
+      ]
+    },
+    {
+      "id": "egy-p1-l7",
+      "title": "Review 3",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𓍿",
+          "name": "tether (ṯ)"
+        },
+        {
+          "glyph": "𓎡",
+          "name": "basket (k)"
+        },
+        {
+          "glyph": "𓅱",
+          "name": "quail chick (w)"
+        },
+        {
+          "glyph": "𓂋",
+          "name": "mouth (r)"
+        },
+        {
+          "glyph": "𓉔",
+          "name": "house (h)"
+        },
+        {
+          "glyph": "𓊪",
+          "name": "stool (p)"
+        },
+        {
+          "glyph": "𓎛",
+          "name": "wick (ḥ)"
+        },
+        {
+          "glyph": "𓐍",
+          "name": "sieve (kh)"
+        },
+        {
+          "glyph": "𓇋",
+          "name": "reed (i)"
+        },
+        {
+          "glyph": "𓋴",
+          "name": "folded cloth (s)"
+        },
+        {
+          "glyph": "𓄿",
+          "name": "vulture (a)"
+        },
+        {
+          "glyph": "𓋹",
+          "name": "ankh (life)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'sieve (kh)'?",
+          "options": [
+            "𓐍",
+            "𓊃",
+            "𓋴",
+            "𓈙"
+          ],
+          "answer": "𓐍"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'viper (f)'?",
+          "options": [
+            "𓆑",
+            "𓅓",
+            "𓈖",
+            "𓂋"
+          ],
+          "answer": "𓆑"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ankh (life)'?",
+          "options": [
+            "𓋹",
+            "𓂀",
+            "𓆣",
+            "𓊽"
+          ],
+          "answer": "𓋹"
+        }
+      ]
+    },
+    {
+      "id": "egy-p1-l8",
+      "title": "Review 4",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𓄿",
+          "name": "vulture (a)"
+        },
+        {
+          "glyph": "𓅱",
+          "name": "quail chick (w)"
+        },
+        {
+          "glyph": "𓏏",
+          "name": "bread (t)"
+        },
+        {
+          "glyph": "𓃀",
+          "name": "foot (b)"
+        },
+        {
+          "glyph": "𓐍",
+          "name": "sieve (kh)"
+        },
+        {
+          "glyph": "𓅓",
+          "name": "owl (m)"
+        },
+        {
+          "glyph": "𓂀",
+          "name": "eye of Horus"
+        },
+        {
+          "glyph": "𓎡",
+          "name": "basket (k)"
+        },
+        {
+          "glyph": "𓊃",
+          "name": "door bolt (z/s)"
+        },
+        {
+          "glyph": "𓇋",
+          "name": "reed (i)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'sieve (kh)'?",
+          "options": [
+            "𓐍",
+            "𓊃",
+            "𓋴",
+            "𓈙"
+          ],
+          "answer": "𓐍"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ankh (life)'?",
+          "options": [
+            "𓋹",
+            "𓂀",
+            "𓆣",
+            "𓊽"
+          ],
+          "answer": "𓋹"
+        }
+      ]
+    },
+    {
+      "id": "egy-p1-l9",
+      "title": "Review 5",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𓊪",
+          "name": "stool (p)"
+        },
+        {
+          "glyph": "𓂋",
+          "name": "mouth (r)"
+        },
+        {
+          "glyph": "𓎡",
+          "name": "basket (k)"
+        },
+        {
+          "glyph": "𓈖",
+          "name": "water (n)"
+        },
+        {
+          "glyph": "𓂋",
+          "name": "sun ra"
+        },
+        {
+          "glyph": "𓏏",
+          "name": "bread (t)"
+        },
+        {
+          "glyph": "𓅱",
+          "name": "quail chick (w)"
+        },
+        {
+          "glyph": "𓉔",
+          "name": "house (h)"
+        },
+        {
+          "glyph": "𓄿",
+          "name": "vulture (a)"
+        },
+        {
+          "glyph": "𓎼",
+          "name": "jar (g)"
+        },
+        {
+          "glyph": "𓇋",
+          "name": "reed (i)"
+        },
+        {
+          "glyph": "𓆣",
+          "name": "scarab (beetle)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'vulture (a)'?",
+          "options": [
+            "𓄿",
+            "𓇋",
+            "𓅱",
+            "𓂝"
+          ],
+          "answer": "𓄿"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ankh (life)'?",
+          "options": [
+            "𓋹",
+            "𓂀",
+            "𓆣",
+            "𓊽"
+          ],
+          "answer": "𓋹"
+        }
+      ]
+    },
+    {
+      "id": "egy-p1-l10",
+      "title": "Review 6",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𓈖",
+          "name": "water (n)"
+        },
+        {
+          "glyph": "𓂋",
+          "name": "mouth (r)"
+        },
+        {
+          "glyph": "𓂋",
+          "name": "sun ra"
+        },
+        {
+          "glyph": "𓃀",
+          "name": "foot (b)"
+        },
+        {
+          "glyph": "𓊃",
+          "name": "door bolt (z/s)"
+        },
+        {
+          "glyph": "𓋹",
+          "name": "ankh (life)"
+        },
+        {
+          "glyph": "𓇋",
+          "name": "reed (i)"
+        },
+        {
+          "glyph": "𓆑",
+          "name": "viper (f)"
+        },
+        {
+          "glyph": "𓉔",
+          "name": "house (h)"
+        },
+        {
+          "glyph": "𓋴",
+          "name": "folded cloth (s)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'sieve (kh)'?",
+          "options": [
+            "𓐍",
+            "𓊃",
+            "𓋴",
+            "𓈙"
+          ],
+          "answer": "𓐍"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'viper (f)'?",
+          "options": [
+            "𓆑",
+            "𓅓",
+            "𓈖",
+            "𓂋"
+          ],
+          "answer": "𓆑"
+        }
+      ]
+    },
+    {
+      "id": "egy-p1-l11",
+      "title": "Review 7",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𓅱",
+          "name": "quail chick (w)"
+        },
+        {
+          "glyph": "𓂀",
+          "name": "eye of Horus"
+        },
+        {
+          "glyph": "𓋴",
+          "name": "folded cloth (s)"
+        },
+        {
+          "glyph": "𓆣",
+          "name": "scarab (beetle)"
+        },
+        {
+          "glyph": "𓐍",
+          "name": "sieve (kh)"
+        },
+        {
+          "glyph": "𓅓",
+          "name": "owl (m)"
+        },
+        {
+          "glyph": "𓂋",
+          "name": "sun ra"
+        },
+        {
+          "glyph": "𓂝",
+          "name": "arm (ʿ)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'viper (f)'?",
+          "options": [
+            "𓆑",
+            "𓅓",
+            "𓈖",
+            "𓂋"
+          ],
+          "answer": "𓆑"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ankh (life)'?",
+          "options": [
+            "𓋹",
+            "𓂀",
+            "𓆣",
+            "𓊽"
+          ],
+          "answer": "𓋹"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'vulture (a)'?",
+          "options": [
+            "𓄿",
+            "𓇋",
+            "𓅱",
+            "𓂝"
+          ],
+          "answer": "𓄿"
+        }
+      ]
+    },
+    {
+      "id": "egy-p1-l12",
+      "title": "Review 8",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𓐍",
+          "name": "sieve (kh)"
+        },
+        {
+          "glyph": "𓊃",
+          "name": "door bolt (z/s)"
+        },
+        {
+          "glyph": "𓎼",
+          "name": "jar (g)"
+        },
+        {
+          "glyph": "𓈖",
+          "name": "water (n)"
+        },
+        {
+          "glyph": "𓄿",
+          "name": "vulture (a)"
+        },
+        {
+          "glyph": "𓇋",
+          "name": "reed (i)"
+        },
+        {
+          "glyph": "𓊽",
+          "name": "djed pillar"
+        },
+        {
+          "glyph": "𓋴",
+          "name": "folded cloth (s)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ankh (life)'?",
+          "options": [
+            "𓋹",
+            "𓂀",
+            "𓆣",
+            "𓊽"
+          ],
+          "answer": "𓋹"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'viper (f)'?",
+          "options": [
+            "𓆑",
+            "𓅓",
+            "𓈖",
+            "𓂋"
+          ],
+          "answer": "𓆑"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'vulture (a)'?",
+          "options": [
+            "𓄿",
+            "𓇋",
+            "𓅱",
+            "𓂝"
+          ],
+          "answer": "𓄿"
+        }
+      ]
+    },
+    {
+      "id": "egy-p1-l13",
+      "title": "Review 9",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𓊃",
+          "name": "door bolt (z/s)"
+        },
+        {
+          "glyph": "𓊪",
+          "name": "stool (p)"
+        },
+        {
+          "glyph": "𓄿",
+          "name": "vulture (a)"
+        },
+        {
+          "glyph": "𓇋",
+          "name": "reed (i)"
+        },
+        {
+          "glyph": "𓂝",
+          "name": "arm (ʿ)"
+        },
+        {
+          "glyph": "𓋹",
+          "name": "ankh (life)"
+        },
+        {
+          "glyph": "𓉔",
+          "name": "house (h)"
+        },
+        {
+          "glyph": "𓎡",
+          "name": "basket (k)"
+        },
+        {
+          "glyph": "𓅓",
+          "name": "owl (m)"
+        },
+        {
+          "glyph": "𓊽",
+          "name": "djed pillar"
+        },
+        {
+          "glyph": "𓃀",
+          "name": "foot (b)"
+        },
+        {
+          "glyph": "𓆑",
+          "name": "viper (f)"
+        },
+        {
+          "glyph": "𓆣",
+          "name": "scarab (beetle)"
+        },
+        {
+          "glyph": "𓈙",
+          "name": "garden pool (sh)"
+        },
+        {
+          "glyph": "𓋴",
+          "name": "folded cloth (s)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'vulture (a)'?",
+          "options": [
+            "𓄿",
+            "𓇋",
+            "𓅱",
+            "𓂝"
+          ],
+          "answer": "𓄿"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'viper (f)'?",
+          "options": [
+            "𓆑",
+            "𓅓",
+            "𓈖",
+            "𓂋"
+          ],
+          "answer": "𓆑"
+        }
+      ]
+    },
+    {
+      "id": "egy-p1-l14",
+      "title": "Review 10",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𓆣",
+          "name": "scarab (beetle)"
+        },
+        {
+          "glyph": "𓂝",
+          "name": "arm (ʿ)"
+        },
+        {
+          "glyph": "𓇋",
+          "name": "reed (i)"
+        },
+        {
+          "glyph": "𓎛",
+          "name": "wick (ḥ)"
+        },
+        {
+          "glyph": "𓊪",
+          "name": "stool (p)"
+        },
+        {
+          "glyph": "𓅓",
+          "name": "owl (m)"
+        },
+        {
+          "glyph": "𓈙",
+          "name": "garden pool (sh)"
+        },
+        {
+          "glyph": "𓍿",
+          "name": "tether (ṯ)"
+        },
+        {
+          "glyph": "𓋹",
+          "name": "ankh (life)"
+        },
+        {
+          "glyph": "𓐍",
+          "name": "sieve (kh)"
+        },
+        {
+          "glyph": "𓏏",
+          "name": "bread (t)"
+        },
+        {
+          "glyph": "𓎼",
+          "name": "jar (g)"
+        },
+        {
+          "glyph": "𓂋",
+          "name": "mouth (r)"
+        },
+        {
+          "glyph": "𓊽",
+          "name": "djed pillar"
+        },
+        {
+          "glyph": "𓊃",
+          "name": "door bolt (z/s)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'sieve (kh)'?",
+          "options": [
+            "𓐍",
+            "𓊃",
+            "𓋴",
+            "𓈙"
+          ],
+          "answer": "𓐍"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'viper (f)'?",
+          "options": [
+            "𓆑",
+            "𓅓",
+            "𓈖",
+            "𓂋"
+          ],
+          "answer": "𓆑"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'vulture (a)'?",
+          "options": [
+            "𓄿",
+            "𓇋",
+            "𓅱",
+            "𓂝"
+          ],
+          "answer": "𓄿"
+        }
+      ]
+    },
+    {
+      "id": "egy-p1-l15",
+      "title": "Review 11",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𓈙",
+          "name": "garden pool (sh)"
+        },
+        {
+          "glyph": "𓅓",
+          "name": "owl (m)"
+        },
+        {
+          "glyph": "𓈖",
+          "name": "water (n)"
+        },
+        {
+          "glyph": "𓏏",
+          "name": "bread (t)"
+        },
+        {
+          "glyph": "𓆣",
+          "name": "scarab (beetle)"
+        },
+        {
+          "glyph": "𓂋",
+          "name": "sun ra"
+        },
+        {
+          "glyph": "𓆑",
+          "name": "viper (f)"
+        },
+        {
+          "glyph": "𓊽",
+          "name": "djed pillar"
+        },
+        {
+          "glyph": "𓎛",
+          "name": "wick (ḥ)"
+        },
+        {
+          "glyph": "𓎼",
+          "name": "jar (g)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'sieve (kh)'?",
+          "options": [
+            "𓐍",
+            "𓊃",
+            "𓋴",
+            "𓈙"
+          ],
+          "answer": "𓐍"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ankh (life)'?",
+          "options": [
+            "𓋹",
+            "𓂀",
+            "𓆣",
+            "𓊽"
+          ],
+          "answer": "𓋹"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'vulture (a)'?",
+          "options": [
+            "𓄿",
+            "𓇋",
+            "𓅱",
+            "𓂝"
+          ],
+          "answer": "𓄿"
+        }
+      ]
+    },
+    {
+      "id": "egy-p1-l16",
+      "title": "Review 12",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𓉔",
+          "name": "house (h)"
+        },
+        {
+          "glyph": "𓊽",
+          "name": "djed pillar"
+        },
+        {
+          "glyph": "𓎡",
+          "name": "basket (k)"
+        },
+        {
+          "glyph": "𓅓",
+          "name": "owl (m)"
+        },
+        {
+          "glyph": "𓇋",
+          "name": "reed (i)"
+        },
+        {
+          "glyph": "𓈖",
+          "name": "water (n)"
+        },
+        {
+          "glyph": "𓂋",
+          "name": "mouth (r)"
+        },
+        {
+          "glyph": "𓊪",
+          "name": "stool (p)"
+        },
+        {
+          "glyph": "𓄿",
+          "name": "vulture (a)"
+        },
+        {
+          "glyph": "𓊃",
+          "name": "door bolt (z/s)"
+        },
+        {
+          "glyph": "𓎼",
+          "name": "jar (g)"
+        },
+        {
+          "glyph": "𓂋",
+          "name": "sun ra"
+        },
+        {
+          "glyph": "𓃀",
+          "name": "foot (b)"
+        },
+        {
+          "glyph": "𓍿",
+          "name": "tether (ṯ)"
+        },
+        {
+          "glyph": "𓂀",
+          "name": "eye of Horus"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'sieve (kh)'?",
+          "options": [
+            "𓐍",
+            "𓊃",
+            "𓋴",
+            "𓈙"
+          ],
+          "answer": "𓐍"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ankh (life)'?",
+          "options": [
+            "𓋹",
+            "𓂀",
+            "𓆣",
+            "𓊽"
+          ],
+          "answer": "𓋹"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'vulture (a)'?",
+          "options": [
+            "𓄿",
+            "𓇋",
+            "𓅱",
+            "𓂝"
+          ],
+          "answer": "𓄿"
+        }
+      ]
+    },
+    {
+      "id": "egy-p1-l17",
+      "title": "Review 13",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𓉔",
+          "name": "house (h)"
+        },
+        {
+          "glyph": "𓆣",
+          "name": "scarab (beetle)"
+        },
+        {
+          "glyph": "𓊽",
+          "name": "djed pillar"
+        },
+        {
+          "glyph": "𓈖",
+          "name": "water (n)"
+        },
+        {
+          "glyph": "𓎛",
+          "name": "wick (ḥ)"
+        },
+        {
+          "glyph": "𓍿",
+          "name": "tether (ṯ)"
+        },
+        {
+          "glyph": "𓅓",
+          "name": "owl (m)"
+        },
+        {
+          "glyph": "𓊪",
+          "name": "stool (p)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'vulture (a)'?",
+          "options": [
+            "𓄿",
+            "𓇋",
+            "𓅱",
+            "𓂝"
+          ],
+          "answer": "𓄿"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ankh (life)'?",
+          "options": [
+            "𓋹",
+            "𓂀",
+            "𓆣",
+            "𓊽"
+          ],
+          "answer": "𓋹"
+        }
+      ]
+    },
+    {
+      "id": "egy-p1-l18",
+      "title": "Review 14",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𓇋",
+          "name": "reed (i)"
+        },
+        {
+          "glyph": "𓊽",
+          "name": "djed pillar"
+        },
+        {
+          "glyph": "𓂋",
+          "name": "mouth (r)"
+        },
+        {
+          "glyph": "𓂝",
+          "name": "arm (ʿ)"
+        },
+        {
+          "glyph": "𓈙",
+          "name": "garden pool (sh)"
+        },
+        {
+          "glyph": "𓂋",
+          "name": "sun ra"
+        },
+        {
+          "glyph": "𓎡",
+          "name": "basket (k)"
+        },
+        {
+          "glyph": "𓃀",
+          "name": "foot (b)"
+        },
+        {
+          "glyph": "𓅓",
+          "name": "owl (m)"
+        },
+        {
+          "glyph": "𓐍",
+          "name": "sieve (kh)"
+        },
+        {
+          "glyph": "𓆣",
+          "name": "scarab (beetle)"
+        },
+        {
+          "glyph": "𓊪",
+          "name": "stool (p)"
+        },
+        {
+          "glyph": "𓉔",
+          "name": "house (h)"
+        },
+        {
+          "glyph": "𓄿",
+          "name": "vulture (a)"
+        },
+        {
+          "glyph": "𓋴",
+          "name": "folded cloth (s)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'sieve (kh)'?",
+          "options": [
+            "𓐍",
+            "𓊃",
+            "𓋴",
+            "𓈙"
+          ],
+          "answer": "𓐍"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'viper (f)'?",
+          "options": [
+            "𓆑",
+            "𓅓",
+            "𓈖",
+            "𓂋"
+          ],
+          "answer": "𓆑"
+        }
+      ]
+    },
+    {
+      "id": "egy-p1-l19",
+      "title": "Review 15",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𓋴",
+          "name": "folded cloth (s)"
+        },
+        {
+          "glyph": "𓍿",
+          "name": "tether (ṯ)"
+        },
+        {
+          "glyph": "𓃀",
+          "name": "foot (b)"
+        },
+        {
+          "glyph": "𓎡",
+          "name": "basket (k)"
+        },
+        {
+          "glyph": "𓊽",
+          "name": "djed pillar"
+        },
+        {
+          "glyph": "𓎛",
+          "name": "wick (ḥ)"
+        },
+        {
+          "glyph": "𓂀",
+          "name": "eye of Horus"
+        },
+        {
+          "glyph": "𓇋",
+          "name": "reed (i)"
+        },
+        {
+          "glyph": "𓅓",
+          "name": "owl (m)"
+        },
+        {
+          "glyph": "𓏏",
+          "name": "bread (t)"
+        },
+        {
+          "glyph": "𓊪",
+          "name": "stool (p)"
+        },
+        {
+          "glyph": "𓆣",
+          "name": "scarab (beetle)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'vulture (a)'?",
+          "options": [
+            "𓄿",
+            "𓇋",
+            "𓅱",
+            "𓂝"
+          ],
+          "answer": "𓄿"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'viper (f)'?",
+          "options": [
+            "𓆑",
+            "𓅓",
+            "𓈖",
+            "𓂋"
+          ],
+          "answer": "𓆑"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ankh (life)'?",
+          "options": [
+            "𓋹",
+            "𓂀",
+            "𓆣",
+            "𓊽"
+          ],
+          "answer": "𓋹"
+        }
+      ]
+    },
+    {
+      "id": "egy-p1-l20",
+      "title": "Review 16",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𓈙",
+          "name": "garden pool (sh)"
+        },
+        {
+          "glyph": "𓂀",
+          "name": "eye of Horus"
+        },
+        {
+          "glyph": "𓇋",
+          "name": "reed (i)"
+        },
+        {
+          "glyph": "𓍿",
+          "name": "tether (ṯ)"
+        },
+        {
+          "glyph": "𓋹",
+          "name": "ankh (life)"
+        },
+        {
+          "glyph": "𓉔",
+          "name": "house (h)"
+        },
+        {
+          "glyph": "𓅱",
+          "name": "quail chick (w)"
+        },
+        {
+          "glyph": "𓆑",
+          "name": "viper (f)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'viper (f)'?",
+          "options": [
+            "𓆑",
+            "𓅓",
+            "𓈖",
+            "𓂋"
+          ],
+          "answer": "𓆑"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'sieve (kh)'?",
+          "options": [
+            "𓐍",
+            "𓊃",
+            "𓋴",
+            "𓈙"
+          ],
+          "answer": "𓐍"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ankh (life)'?",
+          "options": [
+            "𓋹",
+            "𓂀",
+            "𓆣",
+            "𓊽"
+          ],
+          "answer": "𓋹"
+        }
+      ]
+    },
+    {
+      "id": "egy-p1-l21",
+      "title": "Review 17",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𓋹",
+          "name": "ankh (life)"
+        },
+        {
+          "glyph": "𓎼",
+          "name": "jar (g)"
+        },
+        {
+          "glyph": "𓋴",
+          "name": "folded cloth (s)"
+        },
+        {
+          "glyph": "𓈖",
+          "name": "water (n)"
+        },
+        {
+          "glyph": "𓊪",
+          "name": "stool (p)"
+        },
+        {
+          "glyph": "𓅱",
+          "name": "quail chick (w)"
+        },
+        {
+          "glyph": "𓅓",
+          "name": "owl (m)"
+        },
+        {
+          "glyph": "𓎡",
+          "name": "basket (k)"
+        },
+        {
+          "glyph": "𓄿",
+          "name": "vulture (a)"
+        },
+        {
+          "glyph": "𓐍",
+          "name": "sieve (kh)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'sieve (kh)'?",
+          "options": [
+            "𓐍",
+            "𓊃",
+            "𓋴",
+            "𓈙"
+          ],
+          "answer": "𓐍"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ankh (life)'?",
+          "options": [
+            "𓋹",
+            "𓂀",
+            "𓆣",
+            "𓊽"
+          ],
+          "answer": "𓋹"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'vulture (a)'?",
+          "options": [
+            "𓄿",
+            "𓇋",
+            "𓅱",
+            "𓂝"
+          ],
+          "answer": "𓄿"
+        }
+      ]
+    },
+    {
+      "id": "egy-p1-l22",
+      "title": "Review 18",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𓍿",
+          "name": "tether (ṯ)"
+        },
+        {
+          "glyph": "𓐍",
+          "name": "sieve (kh)"
+        },
+        {
+          "glyph": "𓂋",
+          "name": "mouth (r)"
+        },
+        {
+          "glyph": "𓂋",
+          "name": "sun ra"
+        },
+        {
+          "glyph": "𓈙",
+          "name": "garden pool (sh)"
+        },
+        {
+          "glyph": "𓊪",
+          "name": "stool (p)"
+        },
+        {
+          "glyph": "𓊃",
+          "name": "door bolt (z/s)"
+        },
+        {
+          "glyph": "𓈖",
+          "name": "water (n)"
+        },
+        {
+          "glyph": "𓂝",
+          "name": "arm (ʿ)"
+        },
+        {
+          "glyph": "𓊽",
+          "name": "djed pillar"
+        },
+        {
+          "glyph": "𓆣",
+          "name": "scarab (beetle)"
+        },
+        {
+          "glyph": "𓇋",
+          "name": "reed (i)"
+        },
+        {
+          "glyph": "𓎡",
+          "name": "basket (k)"
+        },
+        {
+          "glyph": "𓆑",
+          "name": "viper (f)"
+        },
+        {
+          "glyph": "𓎛",
+          "name": "wick (ḥ)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'viper (f)'?",
+          "options": [
+            "𓆑",
+            "𓅓",
+            "𓈖",
+            "𓂋"
+          ],
+          "answer": "𓆑"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'vulture (a)'?",
+          "options": [
+            "𓄿",
+            "𓇋",
+            "𓅱",
+            "𓂝"
+          ],
+          "answer": "𓄿"
+        }
+      ]
+    },
+    {
+      "id": "egy-p1-l23",
+      "title": "Review 19",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𓂋",
+          "name": "mouth (r)"
+        },
+        {
+          "glyph": "𓈙",
+          "name": "garden pool (sh)"
+        },
+        {
+          "glyph": "𓎼",
+          "name": "jar (g)"
+        },
+        {
+          "glyph": "𓋴",
+          "name": "folded cloth (s)"
+        },
+        {
+          "glyph": "𓏏",
+          "name": "bread (t)"
+        },
+        {
+          "glyph": "𓉔",
+          "name": "house (h)"
+        },
+        {
+          "glyph": "𓆑",
+          "name": "viper (f)"
+        },
+        {
+          "glyph": "𓆣",
+          "name": "scarab (beetle)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'viper (f)'?",
+          "options": [
+            "𓆑",
+            "𓅓",
+            "𓈖",
+            "𓂋"
+          ],
+          "answer": "𓆑"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ankh (life)'?",
+          "options": [
+            "𓋹",
+            "𓂀",
+            "𓆣",
+            "𓊽"
+          ],
+          "answer": "𓋹"
+        }
+      ]
+    },
+    {
+      "id": "egy-p1-l24",
+      "title": "Review 20",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𓎼",
+          "name": "jar (g)"
+        },
+        {
+          "glyph": "𓊃",
+          "name": "door bolt (z/s)"
+        },
+        {
+          "glyph": "𓉔",
+          "name": "house (h)"
+        },
+        {
+          "glyph": "𓋴",
+          "name": "folded cloth (s)"
+        },
+        {
+          "glyph": "𓏏",
+          "name": "bread (t)"
+        },
+        {
+          "glyph": "𓎡",
+          "name": "basket (k)"
+        },
+        {
+          "glyph": "𓈖",
+          "name": "water (n)"
+        },
+        {
+          "glyph": "𓍿",
+          "name": "tether (ṯ)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'viper (f)'?",
+          "options": [
+            "𓆑",
+            "𓅓",
+            "𓈖",
+            "𓂋"
+          ],
+          "answer": "𓆑"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'vulture (a)'?",
+          "options": [
+            "𓄿",
+            "𓇋",
+            "𓅱",
+            "𓂝"
+          ],
+          "answer": "𓄿"
+        }
+      ]
+    },
+    {
+      "id": "egy-p1-l25",
+      "title": "Review 21",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𓆑",
+          "name": "viper (f)"
+        },
+        {
+          "glyph": "𓈙",
+          "name": "garden pool (sh)"
+        },
+        {
+          "glyph": "𓊽",
+          "name": "djed pillar"
+        },
+        {
+          "glyph": "𓅱",
+          "name": "quail chick (w)"
+        },
+        {
+          "glyph": "𓊪",
+          "name": "stool (p)"
+        },
+        {
+          "glyph": "𓄿",
+          "name": "vulture (a)"
+        },
+        {
+          "glyph": "𓋹",
+          "name": "ankh (life)"
+        },
+        {
+          "glyph": "𓂋",
+          "name": "sun ra"
+        },
+        {
+          "glyph": "𓉔",
+          "name": "house (h)"
+        },
+        {
+          "glyph": "𓎛",
+          "name": "wick (ḥ)"
+        },
+        {
+          "glyph": "𓎼",
+          "name": "jar (g)"
+        },
+        {
+          "glyph": "𓐍",
+          "name": "sieve (kh)"
+        },
+        {
+          "glyph": "𓂀",
+          "name": "eye of Horus"
+        },
+        {
+          "glyph": "𓍿",
+          "name": "tether (ṯ)"
+        },
+        {
+          "glyph": "𓃀",
+          "name": "foot (b)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'viper (f)'?",
+          "options": [
+            "𓆑",
+            "𓅓",
+            "𓈖",
+            "𓂋"
+          ],
+          "answer": "𓆑"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ankh (life)'?",
+          "options": [
+            "𓋹",
+            "𓂀",
+            "𓆣",
+            "𓊽"
+          ],
+          "answer": "𓋹"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'vulture (a)'?",
+          "options": [
+            "𓄿",
+            "𓇋",
+            "𓅱",
+            "𓂝"
+          ],
+          "answer": "𓄿"
+        }
+      ]
+    },
+    {
+      "id": "egy-p1-l26",
+      "title": "Review 22",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𓋴",
+          "name": "folded cloth (s)"
+        },
+        {
+          "glyph": "𓎼",
+          "name": "jar (g)"
+        },
+        {
+          "glyph": "𓍿",
+          "name": "tether (ṯ)"
+        },
+        {
+          "glyph": "𓏏",
+          "name": "bread (t)"
+        },
+        {
+          "glyph": "𓈙",
+          "name": "garden pool (sh)"
+        },
+        {
+          "glyph": "𓅓",
+          "name": "owl (m)"
+        },
+        {
+          "glyph": "𓇋",
+          "name": "reed (i)"
+        },
+        {
+          "glyph": "𓄿",
+          "name": "vulture (a)"
+        },
+        {
+          "glyph": "𓆑",
+          "name": "viper (f)"
+        },
+        {
+          "glyph": "𓉔",
+          "name": "house (h)"
+        },
+        {
+          "glyph": "𓂝",
+          "name": "arm (ʿ)"
+        },
+        {
+          "glyph": "𓂋",
+          "name": "sun ra"
+        },
+        {
+          "glyph": "𓐍",
+          "name": "sieve (kh)"
+        },
+        {
+          "glyph": "𓆣",
+          "name": "scarab (beetle)"
+        },
+        {
+          "glyph": "𓂋",
+          "name": "mouth (r)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'viper (f)'?",
+          "options": [
+            "𓆑",
+            "𓅓",
+            "𓈖",
+            "𓂋"
+          ],
+          "answer": "𓆑"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'vulture (a)'?",
+          "options": [
+            "𓄿",
+            "𓇋",
+            "𓅱",
+            "𓂝"
+          ],
+          "answer": "𓄿"
+        }
+      ]
+    },
+    {
+      "id": "egy-p1-l27",
+      "title": "Review 23",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𓊽",
+          "name": "djed pillar"
+        },
+        {
+          "glyph": "𓅱",
+          "name": "quail chick (w)"
+        },
+        {
+          "glyph": "𓋹",
+          "name": "ankh (life)"
+        },
+        {
+          "glyph": "𓈙",
+          "name": "garden pool (sh)"
+        },
+        {
+          "glyph": "𓎡",
+          "name": "basket (k)"
+        },
+        {
+          "glyph": "𓂋",
+          "name": "mouth (r)"
+        },
+        {
+          "glyph": "𓆣",
+          "name": "scarab (beetle)"
+        },
+        {
+          "glyph": "𓂝",
+          "name": "arm (ʿ)"
+        },
+        {
+          "glyph": "𓐍",
+          "name": "sieve (kh)"
+        },
+        {
+          "glyph": "𓂋",
+          "name": "sun ra"
+        },
+        {
+          "glyph": "𓎼",
+          "name": "jar (g)"
+        },
+        {
+          "glyph": "𓅓",
+          "name": "owl (m)"
+        },
+        {
+          "glyph": "𓊪",
+          "name": "stool (p)"
+        },
+        {
+          "glyph": "𓃀",
+          "name": "foot (b)"
+        },
+        {
+          "glyph": "𓉔",
+          "name": "house (h)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'vulture (a)'?",
+          "options": [
+            "𓄿",
+            "𓇋",
+            "𓅱",
+            "𓂝"
+          ],
+          "answer": "𓄿"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'viper (f)'?",
+          "options": [
+            "𓆑",
+            "𓅓",
+            "𓈖",
+            "𓂋"
+          ],
+          "answer": "𓆑"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ankh (life)'?",
+          "options": [
+            "𓋹",
+            "𓂀",
+            "𓆣",
+            "𓊽"
+          ],
+          "answer": "𓋹"
+        }
+      ]
+    },
+    {
+      "id": "egy-p1-l28",
+      "title": "Review 24",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𓂋",
+          "name": "mouth (r)"
+        },
+        {
+          "glyph": "𓄿",
+          "name": "vulture (a)"
+        },
+        {
+          "glyph": "𓇋",
+          "name": "reed (i)"
+        },
+        {
+          "glyph": "𓎛",
+          "name": "wick (ḥ)"
+        },
+        {
+          "glyph": "𓂀",
+          "name": "eye of Horus"
+        },
+        {
+          "glyph": "𓎡",
+          "name": "basket (k)"
+        },
+        {
+          "glyph": "𓂋",
+          "name": "sun ra"
+        },
+        {
+          "glyph": "𓂝",
+          "name": "arm (ʿ)"
+        },
+        {
+          "glyph": "𓅱",
+          "name": "quail chick (w)"
+        },
+        {
+          "glyph": "𓅓",
+          "name": "owl (m)"
+        },
+        {
+          "glyph": "𓏏",
+          "name": "bread (t)"
+        },
+        {
+          "glyph": "𓐍",
+          "name": "sieve (kh)"
+        },
+        {
+          "glyph": "𓊽",
+          "name": "djed pillar"
+        },
+        {
+          "glyph": "𓈖",
+          "name": "water (n)"
+        },
+        {
+          "glyph": "𓎼",
+          "name": "jar (g)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'viper (f)'?",
+          "options": [
+            "𓆑",
+            "𓅓",
+            "𓈖",
+            "𓂋"
+          ],
+          "answer": "𓆑"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'sieve (kh)'?",
+          "options": [
+            "𓐍",
+            "𓊃",
+            "𓋴",
+            "𓈙"
+          ],
+          "answer": "𓐍"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'vulture (a)'?",
+          "options": [
+            "𓄿",
+            "𓇋",
+            "𓅱",
+            "𓂝"
+          ],
+          "answer": "𓄿"
+        }
+      ]
+    },
+    {
+      "id": "egy-p1-l29",
+      "title": "Review 25",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𓆣",
+          "name": "scarab (beetle)"
+        },
+        {
+          "glyph": "𓏏",
+          "name": "bread (t)"
+        },
+        {
+          "glyph": "𓎼",
+          "name": "jar (g)"
+        },
+        {
+          "glyph": "𓂋",
+          "name": "sun ra"
+        },
+        {
+          "glyph": "𓋴",
+          "name": "folded cloth (s)"
+        },
+        {
+          "glyph": "𓋹",
+          "name": "ankh (life)"
+        },
+        {
+          "glyph": "𓊃",
+          "name": "door bolt (z/s)"
+        },
+        {
+          "glyph": "𓅓",
+          "name": "owl (m)"
+        },
+        {
+          "glyph": "𓂋",
+          "name": "mouth (r)"
+        },
+        {
+          "glyph": "𓅱",
+          "name": "quail chick (w)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'vulture (a)'?",
+          "options": [
+            "𓄿",
+            "𓇋",
+            "𓅱",
+            "𓂝"
+          ],
+          "answer": "𓄿"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ankh (life)'?",
+          "options": [
+            "𓋹",
+            "𓂀",
+            "𓆣",
+            "𓊽"
+          ],
+          "answer": "𓋹"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'viper (f)'?",
+          "options": [
+            "𓆑",
+            "𓅓",
+            "𓈖",
+            "𓂋"
+          ],
+          "answer": "𓆑"
+        }
+      ]
+    },
+    {
+      "id": "egy-p1-l30",
+      "title": "Review 26",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "𓅱",
+          "name": "quail chick (w)"
+        },
+        {
+          "glyph": "𓂝",
+          "name": "arm (ʿ)"
+        },
+        {
+          "glyph": "𓎼",
+          "name": "jar (g)"
+        },
+        {
+          "glyph": "𓆑",
+          "name": "viper (f)"
+        },
+        {
+          "glyph": "𓋹",
+          "name": "ankh (life)"
+        },
+        {
+          "glyph": "𓊽",
+          "name": "djed pillar"
+        },
+        {
+          "glyph": "𓆣",
+          "name": "scarab (beetle)"
+        },
+        {
+          "glyph": "𓊪",
+          "name": "stool (p)"
+        },
+        {
+          "glyph": "𓉔",
+          "name": "house (h)"
+        },
+        {
+          "glyph": "𓎛",
+          "name": "wick (ḥ)"
+        },
+        {
+          "glyph": "𓃀",
+          "name": "foot (b)"
+        },
+        {
+          "glyph": "𓈙",
+          "name": "garden pool (sh)"
+        },
+        {
+          "glyph": "𓇋",
+          "name": "reed (i)"
+        },
+        {
+          "glyph": "𓊃",
+          "name": "door bolt (z/s)"
+        },
+        {
+          "glyph": "𓍿",
+          "name": "tether (ṯ)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'vulture (a)'?",
+          "options": [
+            "𓄿",
+            "𓇋",
+            "𓅱",
+            "𓂝"
+          ],
+          "answer": "𓄿"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'sieve (kh)'?",
+          "options": [
+            "𓐍",
+            "𓊃",
+            "𓋴",
+            "𓈙"
+          ],
+          "answer": "𓐍"
+        }
+      ]
     }
   ]
 }

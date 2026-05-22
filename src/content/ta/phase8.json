@@ -2073,6 +2073,5285 @@
           "answer": "wants food"
         }
       ]
+    },
+    {
+      "id": "ta-p8-l41",
+      "title": "மீள்பார்வை 1",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "எப்படி இருக்கிறீர்கள்?",
+          "name": "question",
+          "exampleWord": "ask"
+        },
+        {
+          "glyph": "போய் வருகிறேன்!",
+          "name": "bye"
+        },
+        {
+          "glyph": "நன்றி.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "எனக்கு பழம் பிடிக்கும்.",
+          "name": "like"
+        },
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "எனக்கு பழம் பிடிக்கும்.",
+          "name": "like"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நிரம்பிவிட்டேன், நன்றி.",
+          "name": "reply"
+        },
+        {
+          "glyph": "இது மிகவும் சுவையாக இருக்கிறது!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "மீண்டும் சொல்ல முடியுமா?",
+          "name": "repeat"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"பசியாக\" என்றால்?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"புரியவில்லை\" என்றால்?",
+          "options": [
+            "I don't understand",
+            "Help me",
+            "Thank you",
+            "Goodbye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"உனது பெயர் என்ன?\" க்கு பதில்?",
+          "options": [
+            "என் பெயர் தாரா.",
+            "நான் நலம்",
+            "நன்றி",
+            "அங்கு"
+          ],
+          "answer": "என் பெயர் தாரா."
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l42",
+      "title": "மீள்பார்வை 2",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "நான் பசியாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "மன்னியுங்கள், எனக்கு உதவ முடியுமா?",
+          "name": "help"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "எனக்கு காரம் பிடிக்காது.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "நான் தொலைந்துவிட்டேன்.",
+          "name": "lost"
+        },
+        {
+          "glyph": "நான் நலமாக இருக்கிறேன்.",
+          "name": "reply",
+          "exampleWord": "ok"
+        },
+        {
+          "glyph": "கொஞ்சம் ரொட்டி தாருங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "கொஞ்சம் ரொட்டி தாருங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "B: அருமை!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"நிரம்பிவிட்டேன்\" பொருள்?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "please water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "இன்று மகிழ்ச்சியில் யார்?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"எனக்கு தண்ணீர் வேண்டும்\" என்பதன் பொருள்?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I want sleep"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l43",
+      "title": "மீள்பார்வை 3",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "உனது பெயர் என்ன?",
+          "name": "q",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        },
+        {
+          "glyph": "தண்ணீர் கொடுங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் தொலைந்துவிட்டேன்.",
+          "name": "lost"
+        },
+        {
+          "glyph": "கொஞ்சம் ரொட்டி தாருங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "A: இன்று மகிழ்ச்சியாக இருக்கிறேன்.",
+          "name": ""
+        },
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        },
+        {
+          "glyph": "நான் பசியாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "எப்படி இருக்கிறீர்கள்?",
+          "name": "question",
+          "exampleWord": "ask"
+        },
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "எனக்கு தண்ணீர் வேண்டும்.",
+          "name": "want"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"உனது பெயர் என்ன?\" க்கு பதில்?",
+          "options": [
+            "என் பெயர் தாரா.",
+            "நான் நலம்",
+            "நன்றி",
+            "அங்கு"
+          ],
+          "answer": "என் பெயர் தாரா."
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"பசியாக\" என்றால்?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"வணக்கம்!\" க்கு பதில்?",
+          "options": [
+            "வணக்கம்!",
+            "நன்றி",
+            "நலம்",
+            "போய் வருகிறேன்"
+          ],
+          "answer": "வணக்கம்!"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l44",
+      "title": "மீள்பார்வை 4",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "தண்ணீர் கொடுங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "நான் சென்னையில் வசிக்கிறேன்.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "கொஞ்சம் ரொட்டி தாருங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் சென்னையில் வசிக்கிறேன்.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "நன்றி.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "நான் எழுந்திருக்கலாமா?",
+          "name": "polite"
+        },
+        {
+          "glyph": "நான் நலமாக இருக்கிறேன்.",
+          "name": "reply",
+          "exampleWord": "ok"
+        },
+        {
+          "glyph": "எனக்கு உதவி தேவை.",
+          "name": "need"
+        },
+        {
+          "glyph": "எனக்கு தண்ணீர் வேண்டும்.",
+          "name": "want"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "என் பெயர் தாரா.",
+          "name": "a",
+          "exampleWord": "reply"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"பசியாக\" என்றால்?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"வணக்கம்!\" க்கு பதில்?",
+          "options": [
+            "வணக்கம்!",
+            "நன்றி",
+            "நலம்",
+            "போய் வருகிறேன்"
+          ],
+          "answer": "வணக்கம்!"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l45",
+      "title": "மீள்பார்வை 5",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B: அருமை!",
+          "name": ""
+        },
+        {
+          "glyph": "நான் சென்னையில் வசிக்கிறேன்.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "எனக்கு உதவி தேவை.",
+          "name": "need"
+        },
+        {
+          "glyph": "உனது பெயர் என்ன?",
+          "name": "q",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "எனக்கு பழம் பிடிக்கும்.",
+          "name": "like"
+        },
+        {
+          "glyph": "எப்படி இருக்கிறீர்கள்?",
+          "name": "question",
+          "exampleWord": "ask"
+        },
+        {
+          "glyph": "எனக்கு காரம் பிடிக்காது.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "A: இன்று மகிழ்ச்சியாக இருக்கிறேன்.",
+          "name": ""
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: அருமை!",
+          "name": ""
+        },
+        {
+          "glyph": "மீண்டும் சொல்ல முடியுமா?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "A: இன்று மகிழ்ச்சியாக இருக்கிறேன்.",
+          "name": ""
+        },
+        {
+          "glyph": "எப்படி இருக்கிறீர்கள்?",
+          "name": "question",
+          "exampleWord": "ask"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"புரியவில்லை\" என்றால்?",
+          "options": [
+            "I don't understand",
+            "Help me",
+            "Thank you",
+            "Goodbye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"நிரம்பிவிட்டேன்\" பொருள்?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "please water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l46",
+      "title": "மீள்பார்வை 6",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "நான் எழுந்திருக்கலாமா?",
+          "name": "polite"
+        },
+        {
+          "glyph": "A: வணக்கம், நண்பா!",
+          "name": ""
+        },
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "எனக்கு தண்ணீர் வேண்டும்.",
+          "name": "want"
+        },
+        {
+          "glyph": "மன்னியுங்கள், எனக்கு உதவ முடியுமா?",
+          "name": "help"
+        },
+        {
+          "glyph": "மன்னியுங்கள், எனக்கு உதவ முடியுமா?",
+          "name": "help"
+        },
+        {
+          "glyph": "இது மிகவும் சுவையாக இருக்கிறது!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "நான் நலமாக இருக்கிறேன்.",
+          "name": "reply",
+          "exampleWord": "ok"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"வணக்கம்!\" க்கு பதில்?",
+          "options": [
+            "வணக்கம்!",
+            "நன்றி",
+            "நலம்",
+            "போய் வருகிறேன்"
+          ],
+          "answer": "வணக்கம்!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"புரியவில்லை\" என்றால்?",
+          "options": [
+            "I don't understand",
+            "Help me",
+            "Thank you",
+            "Goodbye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l47",
+      "title": "மீள்பார்வை 7",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "நான் தொலைந்துவிட்டேன்.",
+          "name": "lost"
+        },
+        {
+          "glyph": "காலை வணக்கம்.",
+          "name": "morning",
+          "exampleWord": "am greet"
+        },
+        {
+          "glyph": "நன்றி.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "நான் எழுந்திருக்கலாமா?",
+          "name": "polite"
+        },
+        {
+          "glyph": "B: அருமை!",
+          "name": ""
+        },
+        {
+          "glyph": "நிரம்பிவிட்டேன், நன்றி.",
+          "name": "reply"
+        },
+        {
+          "glyph": "B: அருமை!",
+          "name": ""
+        },
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "இது மிகவும் சுவையாக இருக்கிறது!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "கொஞ்சம் ரொட்டி தாருங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "கொஞ்சம் ரொட்டி தாருங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "மன்னியுங்கள், எனக்கு உதவ முடியுமா?",
+          "name": "help"
+        },
+        {
+          "glyph": "எனக்கு பழம் பிடிக்கும்.",
+          "name": "like"
+        },
+        {
+          "glyph": "நான் எழுந்திருக்கலாமா?",
+          "name": "polite"
+        },
+        {
+          "glyph": "போய் வருகிறேன்!",
+          "name": "bye"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"புரியவில்லை\" என்றால்?",
+          "options": [
+            "I don't understand",
+            "Help me",
+            "Thank you",
+            "Goodbye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"உனது பெயர் என்ன?\" க்கு பதில்?",
+          "options": [
+            "என் பெயர் தாரா.",
+            "நான் நலம்",
+            "நன்றி",
+            "அங்கு"
+          ],
+          "answer": "என் பெயர் தாரா."
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"எனக்கு தண்ணீர் வேண்டும்\" என்பதன் பொருள்?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I want sleep"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l48",
+      "title": "மீள்பார்வை 8",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "என் பெயர் தாரா.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "இது மிகவும் சுவையாக இருக்கிறது!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "இது மிகவும் சுவையாக இருக்கிறது!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "மிக்க நன்றி!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "நான் நலமாக இருக்கிறேன்.",
+          "name": "reply",
+          "exampleWord": "ok"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: இன்று மகிழ்ச்சியாக இருக்கிறேன்.",
+          "name": ""
+        },
+        {
+          "glyph": "நான் கொஞ்சம் வருத்தமாக இருக்கிறேன்.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "இன்று மகிழ்ச்சியில் யார்?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"புரியவில்லை\" என்றால்?",
+          "options": [
+            "I don't understand",
+            "Help me",
+            "Thank you",
+            "Goodbye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l49",
+      "title": "மீள்பார்வை 9",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A: வணக்கம், நண்பா!",
+          "name": ""
+        },
+        {
+          "glyph": "A: இன்று மகிழ்ச்சியாக இருக்கிறேன்.",
+          "name": ""
+        },
+        {
+          "glyph": "நான் இன்று சந்தோஷமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் இன்று சந்தோஷமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "எனக்கு உதவி தேவை.",
+          "name": "need"
+        },
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நிரம்பிவிட்டேன், நன்றி.",
+          "name": "reply"
+        },
+        {
+          "glyph": "நிரம்பிவிட்டேன், நன்றி.",
+          "name": "reply"
+        },
+        {
+          "glyph": "எனக்கு உதவி தேவை.",
+          "name": "need"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் இன்று சந்தோஷமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "உனது பெயர் என்ன?",
+          "name": "q",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "நான் இன்று சந்தோஷமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "தண்ணீர் கொடுங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"புரியவில்லை\" என்றால்?",
+          "options": [
+            "I don't understand",
+            "Help me",
+            "Thank you",
+            "Goodbye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"புரியவில்லை\" என்றால்?",
+          "options": [
+            "I don't understand",
+            "Help me",
+            "Thank you",
+            "Goodbye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l50",
+      "title": "மீள்பார்வை 10",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "நன்றி.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "எனக்கு உதவி தேவை.",
+          "name": "need"
+        },
+        {
+          "glyph": "A: இன்று மகிழ்ச்சியாக இருக்கிறேன்.",
+          "name": ""
+        },
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "A: வணக்கம், நண்பா!",
+          "name": ""
+        },
+        {
+          "glyph": "நான் தொலைந்துவிட்டேன்.",
+          "name": "lost"
+        },
+        {
+          "glyph": "எப்படி இருக்கிறீர்கள்?",
+          "name": "question",
+          "exampleWord": "ask"
+        },
+        {
+          "glyph": "A: இன்று மகிழ்ச்சியாக இருக்கிறேன்.",
+          "name": ""
+        },
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "இது மிகவும் சுவையாக இருக்கிறது!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "நான் பசியாக இருக்கிறேன்.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"எனக்கு தண்ணீர் வேண்டும்\" என்பதன் பொருள்?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I want sleep"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"உனது பெயர் என்ன?\" க்கு பதில்?",
+          "options": [
+            "என் பெயர் தாரா.",
+            "நான் நலம்",
+            "நன்றி",
+            "அங்கு"
+          ],
+          "answer": "என் பெயர் தாரா."
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "இன்று மகிழ்ச்சியில் யார்?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l51",
+      "title": "மீள்பார்வை 11",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "கொஞ்சம் ரொட்டி தாருங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "எனக்கு தண்ணீர் வேண்டும்.",
+          "name": "want"
+        },
+        {
+          "glyph": "தண்ணீர் கொடுங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "A: வணக்கம், நண்பா!",
+          "name": ""
+        },
+        {
+          "glyph": "A: வணக்கம், நண்பா!",
+          "name": ""
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        },
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "காலை வணக்கம்.",
+          "name": "morning",
+          "exampleWord": "am greet"
+        },
+        {
+          "glyph": "கொஞ்சம் ரொட்டி தாருங்கள்.",
+          "name": "request"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"எனக்கு தண்ணீர் வேண்டும்\" என்பதன் பொருள்?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I want sleep"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"பசியாக\" என்றால்?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l52",
+      "title": "மீள்பார்வை 12",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "என் பெயர் தாரா.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "உனது பெயர் என்ன?",
+          "name": "q",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "போய் வருகிறேன்!",
+          "name": "bye"
+        },
+        {
+          "glyph": "A: வணக்கம், நண்பா!",
+          "name": ""
+        },
+        {
+          "glyph": "எனக்கு காரம் பிடிக்காது.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "கொஞ்சம் ரொட்டி தாருங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "கொஞ்சம் ரொட்டி தாருங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        },
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"புரியவில்லை\" என்றால்?",
+          "options": [
+            "I don't understand",
+            "Help me",
+            "Thank you",
+            "Goodbye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"புரியவில்லை\" என்றால்?",
+          "options": [
+            "I don't understand",
+            "Help me",
+            "Thank you",
+            "Goodbye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"நிரம்பிவிட்டேன்\" பொருள்?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "please water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l53",
+      "title": "மீள்பார்வை 13",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "நான் கொஞ்சம் வருத்தமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: இன்று மகிழ்ச்சியாக இருக்கிறேன்.",
+          "name": ""
+        },
+        {
+          "glyph": "A: இன்று மகிழ்ச்சியாக இருக்கிறேன்.",
+          "name": ""
+        },
+        {
+          "glyph": "எப்படி இருக்கிறீர்கள்?",
+          "name": "question",
+          "exampleWord": "ask"
+        },
+        {
+          "glyph": "நான் சென்னையில் வசிக்கிறேன்.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "தண்ணீர் கொடுங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "தண்ணீர் கொடுங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "மிக்க நன்றி!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "நான் எழுந்திருக்கலாமா?",
+          "name": "polite"
+        },
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "நான் இன்று சந்தோஷமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நன்றி.",
+          "name": "thanks"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"புரியவில்லை\" என்றால்?",
+          "options": [
+            "I don't understand",
+            "Help me",
+            "Thank you",
+            "Goodbye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"எனக்கு தண்ணீர் வேண்டும்\" என்பதன் பொருள்?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I want sleep"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l54",
+      "title": "மீள்பார்வை 14",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A: வணக்கம், நண்பா!",
+          "name": ""
+        },
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "நான் எழுந்திருக்கலாமா?",
+          "name": "polite"
+        },
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        },
+        {
+          "glyph": "A: இன்று மகிழ்ச்சியாக இருக்கிறேன்.",
+          "name": ""
+        },
+        {
+          "glyph": "எனக்கு காரம் பிடிக்காது.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"பசியாக\" என்றால்?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"நிரம்பிவிட்டேன்\" பொருள்?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "please water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"உனது பெயர் என்ன?\" க்கு பதில்?",
+          "options": [
+            "என் பெயர் தாரா.",
+            "நான் நலம்",
+            "நன்றி",
+            "அங்கு"
+          ],
+          "answer": "என் பெயர் தாரா."
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l55",
+      "title": "மீள்பார்வை 15",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "எனக்கு உதவி தேவை.",
+          "name": "need"
+        },
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "எனக்கு தண்ணீர் வேண்டும்.",
+          "name": "want"
+        },
+        {
+          "glyph": "B: அருமை!",
+          "name": ""
+        },
+        {
+          "glyph": "எனக்கு தண்ணீர் வேண்டும்.",
+          "name": "want"
+        },
+        {
+          "glyph": "நான் கொஞ்சம் வருத்தமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "காலை வணக்கம்.",
+          "name": "morning",
+          "exampleWord": "am greet"
+        },
+        {
+          "glyph": "நன்றி.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "என் பெயர் தாரா.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "இது மிகவும் சுவையாக இருக்கிறது!",
+          "name": "compliment"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"வணக்கம்!\" க்கு பதில்?",
+          "options": [
+            "வணக்கம்!",
+            "நன்றி",
+            "நலம்",
+            "போய் வருகிறேன்"
+          ],
+          "answer": "வணக்கம்!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"எனக்கு தண்ணீர் வேண்டும்\" என்பதன் பொருள்?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I want sleep"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l56",
+      "title": "மீள்பார்வை 16",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        },
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் கொஞ்சம் வருத்தமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "எப்படி இருக்கிறீர்கள்?",
+          "name": "question",
+          "exampleWord": "ask"
+        },
+        {
+          "glyph": "நான் கொஞ்சம் வருத்தமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        },
+        {
+          "glyph": "நான் சென்னையில் வசிக்கிறேன்.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "நான் நலமாக இருக்கிறேன்.",
+          "name": "reply",
+          "exampleWord": "ok"
+        },
+        {
+          "glyph": "B: அருமை!",
+          "name": ""
+        },
+        {
+          "glyph": "நன்றி.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "A: இன்று மகிழ்ச்சியாக இருக்கிறேன்.",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"புரியவில்லை\" என்றால்?",
+          "options": [
+            "I don't understand",
+            "Help me",
+            "Thank you",
+            "Goodbye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"நிரம்பிவிட்டேன்\" பொருள்?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "please water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l57",
+      "title": "மீள்பார்வை 17",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "கொஞ்சம் ரொட்டி தாருங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        },
+        {
+          "glyph": "காலை வணக்கம்.",
+          "name": "morning",
+          "exampleWord": "am greet"
+        },
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "நான் தொலைந்துவிட்டேன்.",
+          "name": "lost"
+        },
+        {
+          "glyph": "நான் இன்று சந்தோஷமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் சென்னையில் வசிக்கிறேன்.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "மன்னியுங்கள், எனக்கு உதவ முடியுமா?",
+          "name": "help"
+        },
+        {
+          "glyph": "A: இன்று மகிழ்ச்சியாக இருக்கிறேன்.",
+          "name": ""
+        },
+        {
+          "glyph": "என் பெயர் தாரா.",
+          "name": "a",
+          "exampleWord": "reply"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"புரியவில்லை\" என்றால்?",
+          "options": [
+            "I don't understand",
+            "Help me",
+            "Thank you",
+            "Goodbye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"வணக்கம்!\" க்கு பதில்?",
+          "options": [
+            "வணக்கம்!",
+            "நன்றி",
+            "நலம்",
+            "போய் வருகிறேன்"
+          ],
+          "answer": "வணக்கம்!"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l58",
+      "title": "மீள்பார்வை 18",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B: அருமை!",
+          "name": ""
+        },
+        {
+          "glyph": "தண்ணீர் கொடுங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் சென்னையில் வசிக்கிறேன்.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "என் பெயர் தாரா.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "எனக்கு உதவி தேவை.",
+          "name": "need"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "மன்னியுங்கள், எனக்கு உதவ முடியுமா?",
+          "name": "help"
+        },
+        {
+          "glyph": "மிக்க நன்றி!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "காலை வணக்கம்.",
+          "name": "morning",
+          "exampleWord": "am greet"
+        },
+        {
+          "glyph": "நான் கொஞ்சம் வருத்தமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நிரம்பிவிட்டேன், நன்றி.",
+          "name": "reply"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "இன்று மகிழ்ச்சியில் யார்?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"நிரம்பிவிட்டேன்\" பொருள்?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "please water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"வணக்கம்!\" க்கு பதில்?",
+          "options": [
+            "வணக்கம்!",
+            "நன்றி",
+            "நலம்",
+            "போய் வருகிறேன்"
+          ],
+          "answer": "வணக்கம்!"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l59",
+      "title": "மீள்பார்வை 19",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "நான் கொஞ்சம் வருத்தமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: வணக்கம், நண்பா!",
+          "name": ""
+        },
+        {
+          "glyph": "B: அருமை!",
+          "name": ""
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "எனக்கு பழம் பிடிக்கும்.",
+          "name": "like"
+        },
+        {
+          "glyph": "நான் கொஞ்சம் வருத்தமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "எனக்கு காரம் பிடிக்காது.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "போய் வருகிறேன்!",
+          "name": "bye"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"உனது பெயர் என்ன?\" க்கு பதில்?",
+          "options": [
+            "என் பெயர் தாரா.",
+            "நான் நலம்",
+            "நன்றி",
+            "அங்கு"
+          ],
+          "answer": "என் பெயர் தாரா."
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "இன்று மகிழ்ச்சியில் யார்?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"உனது பெயர் என்ன?\" க்கு பதில்?",
+          "options": [
+            "என் பெயர் தாரா.",
+            "நான் நலம்",
+            "நன்றி",
+            "அங்கு"
+          ],
+          "answer": "என் பெயர் தாரா."
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l60",
+      "title": "மீள்பார்வை 20",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "நான் சென்னையில் வசிக்கிறேன்.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "நான் இன்று சந்தோஷமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "எனக்கு பழம் பிடிக்கும்.",
+          "name": "like"
+        },
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "எனக்கு தண்ணீர் வேண்டும்.",
+          "name": "want"
+        },
+        {
+          "glyph": "நான் தொலைந்துவிட்டேன்.",
+          "name": "lost"
+        },
+        {
+          "glyph": "B: அருமை!",
+          "name": ""
+        },
+        {
+          "glyph": "எனக்கு உதவி தேவை.",
+          "name": "need"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"புரியவில்லை\" என்றால்?",
+          "options": [
+            "I don't understand",
+            "Help me",
+            "Thank you",
+            "Goodbye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"எனக்கு தண்ணீர் வேண்டும்\" என்பதன் பொருள்?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I want sleep"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l61",
+      "title": "மீள்பார்வை 21",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "நான் நலமாக இருக்கிறேன்.",
+          "name": "reply",
+          "exampleWord": "ok"
+        },
+        {
+          "glyph": "A: இன்று மகிழ்ச்சியாக இருக்கிறேன்.",
+          "name": ""
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: வணக்கம், நண்பா!",
+          "name": ""
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "எப்படி இருக்கிறீர்கள்?",
+          "name": "question",
+          "exampleWord": "ask"
+        },
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        },
+        {
+          "glyph": "A: இன்று மகிழ்ச்சியாக இருக்கிறேன்.",
+          "name": ""
+        },
+        {
+          "glyph": "நன்றி.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் கொஞ்சம் வருத்தமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "எனக்கு பழம் பிடிக்கும்.",
+          "name": "like"
+        },
+        {
+          "glyph": "உனது பெயர் என்ன?",
+          "name": "q",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "எப்படி இருக்கிறீர்கள்?",
+          "name": "question",
+          "exampleWord": "ask"
+        },
+        {
+          "glyph": "நான் எழுந்திருக்கலாமா?",
+          "name": "polite"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"பசியாக\" என்றால்?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"புரியவில்லை\" என்றால்?",
+          "options": [
+            "I don't understand",
+            "Help me",
+            "Thank you",
+            "Goodbye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"பசியாக\" என்றால்?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l62",
+      "title": "மீள்பார்வை 22",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "மீண்டும் சொல்ல முடியுமா?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "கொஞ்சம் ரொட்டி தாருங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "என் பெயர் தாரா.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "எப்படி இருக்கிறீர்கள்?",
+          "name": "question",
+          "exampleWord": "ask"
+        },
+        {
+          "glyph": "எனக்கு பழம் பிடிக்கும்.",
+          "name": "like"
+        },
+        {
+          "glyph": "எப்படி இருக்கிறீர்கள்?",
+          "name": "question",
+          "exampleWord": "ask"
+        },
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "போய் வருகிறேன்!",
+          "name": "bye"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"வணக்கம்!\" க்கு பதில்?",
+          "options": [
+            "வணக்கம்!",
+            "நன்றி",
+            "நலம்",
+            "போய் வருகிறேன்"
+          ],
+          "answer": "வணக்கம்!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"வணக்கம்!\" க்கு பதில்?",
+          "options": [
+            "வணக்கம்!",
+            "நன்றி",
+            "நலம்",
+            "போய் வருகிறேன்"
+          ],
+          "answer": "வணக்கம்!"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l63",
+      "title": "மீள்பார்வை 23",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        },
+        {
+          "glyph": "மீண்டும் சொல்ல முடியுமா?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "B: அருமை!",
+          "name": ""
+        },
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "காலை வணக்கம்.",
+          "name": "morning",
+          "exampleWord": "am greet"
+        },
+        {
+          "glyph": "A: இன்று மகிழ்ச்சியாக இருக்கிறேன்.",
+          "name": ""
+        },
+        {
+          "glyph": "எனக்கு தண்ணீர் வேண்டும்.",
+          "name": "want"
+        },
+        {
+          "glyph": "நான் எழுந்திருக்கலாமா?",
+          "name": "polite"
+        },
+        {
+          "glyph": "தண்ணீர் கொடுங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "இது மிகவும் சுவையாக இருக்கிறது!",
+          "name": "compliment"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"வணக்கம்!\" க்கு பதில்?",
+          "options": [
+            "வணக்கம்!",
+            "நன்றி",
+            "நலம்",
+            "போய் வருகிறேன்"
+          ],
+          "answer": "வணக்கம்!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"நிரம்பிவிட்டேன்\" பொருள்?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "please water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "இன்று மகிழ்ச்சியில் யார்?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l64",
+      "title": "மீள்பார்வை 24",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "போய் வருகிறேன்!",
+          "name": "bye"
+        },
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        },
+        {
+          "glyph": "நான் சென்னையில் வசிக்கிறேன்.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        },
+        {
+          "glyph": "எனக்கு காரம் பிடிக்காது.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "எனக்கு காரம் பிடிக்காது.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "நான் நலமாக இருக்கிறேன்.",
+          "name": "reply",
+          "exampleWord": "ok"
+        },
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        },
+        {
+          "glyph": "B: அருமை!",
+          "name": ""
+        },
+        {
+          "glyph": "மன்னியுங்கள், எனக்கு உதவ முடியுமா?",
+          "name": "help"
+        },
+        {
+          "glyph": "நிரம்பிவிட்டேன், நன்றி.",
+          "name": "reply"
+        },
+        {
+          "glyph": "எனக்கு காரம் பிடிக்காது.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "போய் வருகிறேன்!",
+          "name": "bye"
+        },
+        {
+          "glyph": "மீண்டும் சொல்ல முடியுமா?",
+          "name": "repeat"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"புரியவில்லை\" என்றால்?",
+          "options": [
+            "I don't understand",
+            "Help me",
+            "Thank you",
+            "Goodbye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"உனது பெயர் என்ன?\" க்கு பதில்?",
+          "options": [
+            "என் பெயர் தாரா.",
+            "நான் நலம்",
+            "நன்றி",
+            "அங்கு"
+          ],
+          "answer": "என் பெயர் தாரா."
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"உனது பெயர் என்ன?\" க்கு பதில்?",
+          "options": [
+            "என் பெயர் தாரா.",
+            "நான் நலம்",
+            "நன்றி",
+            "அங்கு"
+          ],
+          "answer": "என் பெயர் தாரா."
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l65",
+      "title": "மீள்பார்வை 25",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "எப்படி இருக்கிறீர்கள்?",
+          "name": "question",
+          "exampleWord": "ask"
+        },
+        {
+          "glyph": "நான் எழுந்திருக்கலாமா?",
+          "name": "polite"
+        },
+        {
+          "glyph": "நான் நலமாக இருக்கிறேன்.",
+          "name": "reply",
+          "exampleWord": "ok"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "எனக்கு பழம் பிடிக்கும்.",
+          "name": "like"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "எப்படி இருக்கிறீர்கள்?",
+          "name": "question",
+          "exampleWord": "ask"
+        },
+        {
+          "glyph": "எனக்கு காரம் பிடிக்காது.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "என் பெயர் தாரா.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "நான் பசியாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "கொஞ்சம் ரொட்டி தாருங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "போய் வருகிறேன்!",
+          "name": "bye"
+        },
+        {
+          "glyph": "எனக்கு காரம் பிடிக்காது.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"புரியவில்லை\" என்றால்?",
+          "options": [
+            "I don't understand",
+            "Help me",
+            "Thank you",
+            "Goodbye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"எனக்கு தண்ணீர் வேண்டும்\" என்பதன் பொருள்?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I want sleep"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l66",
+      "title": "மீள்பார்வை 26",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "என் பெயர் தாரா.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "B: வணக்கம்! எப்படி இருக்கிறாய்?",
+          "name": ""
+        },
+        {
+          "glyph": "B: அருமை!",
+          "name": ""
+        },
+        {
+          "glyph": "நான் சென்னையில் வசிக்கிறேன்.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "A: இன்று மகிழ்ச்சியாக இருக்கிறேன்.",
+          "name": ""
+        },
+        {
+          "glyph": "எனக்கு உதவி தேவை.",
+          "name": "need"
+        },
+        {
+          "glyph": "A: இன்று மகிழ்ச்சியாக இருக்கிறேன்.",
+          "name": ""
+        },
+        {
+          "glyph": "கொஞ்சம் ரொட்டி தாருங்கள்.",
+          "name": "request"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"நிரம்பிவிட்டேன்\" பொருள்?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "please water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"புரியவில்லை\" என்றால்?",
+          "options": [
+            "I don't understand",
+            "Help me",
+            "Thank you",
+            "Goodbye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"வணக்கம்!\" க்கு பதில்?",
+          "options": [
+            "வணக்கம்!",
+            "நன்றி",
+            "நலம்",
+            "போய் வருகிறேன்"
+          ],
+          "answer": "வணக்கம்!"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l67",
+      "title": "மீள்பார்வை 27",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "நான் எழுந்திருக்கலாமா?",
+          "name": "polite"
+        },
+        {
+          "glyph": "போய் வருகிறேன்!",
+          "name": "bye"
+        },
+        {
+          "glyph": "A: வணக்கம், நண்பா!",
+          "name": ""
+        },
+        {
+          "glyph": "நான் எழுந்திருக்கலாமா?",
+          "name": "polite"
+        },
+        {
+          "glyph": "உனது பெயர் என்ன?",
+          "name": "q",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "நான் தொலைந்துவிட்டேன்.",
+          "name": "lost"
+        },
+        {
+          "glyph": "எனக்கு தண்ணீர் வேண்டும்.",
+          "name": "want"
+        },
+        {
+          "glyph": "எனக்கு உதவி தேவை.",
+          "name": "need"
+        },
+        {
+          "glyph": "காலை வணக்கம்.",
+          "name": "morning",
+          "exampleWord": "am greet"
+        },
+        {
+          "glyph": "எனக்கு தண்ணீர் வேண்டும்.",
+          "name": "want"
+        },
+        {
+          "glyph": "காலை வணக்கம்.",
+          "name": "morning",
+          "exampleWord": "am greet"
+        },
+        {
+          "glyph": "உனது பெயர் என்ன?",
+          "name": "q",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "நிரம்பிவிட்டேன், நன்றி.",
+          "name": "reply"
+        },
+        {
+          "glyph": "நான் தொலைந்துவிட்டேன்.",
+          "name": "lost"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"உனது பெயர் என்ன?\" க்கு பதில்?",
+          "options": [
+            "என் பெயர் தாரா.",
+            "நான் நலம்",
+            "நன்றி",
+            "அங்கு"
+          ],
+          "answer": "என் பெயர் தாரா."
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"நிரம்பிவிட்டேன்\" பொருள்?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "please water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"வணக்கம்!\" க்கு பதில்?",
+          "options": [
+            "வணக்கம்!",
+            "நன்றி",
+            "நலம்",
+            "போய் வருகிறேன்"
+          ],
+          "answer": "வணக்கம்!"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l68",
+      "title": "மீள்பார்வை 28",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "மிக்க நன்றி!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "எனக்கு தண்ணீர் வேண்டும்.",
+          "name": "want"
+        },
+        {
+          "glyph": "நான் இன்று சந்தோஷமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் கொஞ்சம் வருத்தமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "போய் வருகிறேன்!",
+          "name": "bye"
+        },
+        {
+          "glyph": "நான் சென்னையில் வசிக்கிறேன்.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "காலை வணக்கம்.",
+          "name": "morning",
+          "exampleWord": "am greet"
+        },
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "போய் வருகிறேன்!",
+          "name": "bye"
+        },
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "இது மிகவும் சுவையாக இருக்கிறது!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "உனது பெயர் என்ன?",
+          "name": "q",
+          "exampleWord": "ask name"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"வணக்கம்!\" க்கு பதில்?",
+          "options": [
+            "வணக்கம்!",
+            "நன்றி",
+            "நலம்",
+            "போய் வருகிறேன்"
+          ],
+          "answer": "வணக்கம்!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"நிரம்பிவிட்டேன்\" பொருள்?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "please water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "இன்று மகிழ்ச்சியில் யார்?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l69",
+      "title": "மீள்பார்வை 29",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A: இன்று மகிழ்ச்சியாக இருக்கிறேன்.",
+          "name": ""
+        },
+        {
+          "glyph": "நான் கொஞ்சம் வருத்தமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "போய் வருகிறேன்!",
+          "name": "bye"
+        },
+        {
+          "glyph": "எனக்கு உதவி தேவை.",
+          "name": "need"
+        },
+        {
+          "glyph": "என் பெயர் தாரா.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "தண்ணீர் கொடுங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: அருமை!",
+          "name": ""
+        },
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "எனக்கு தண்ணீர் வேண்டும்.",
+          "name": "want"
+        },
+        {
+          "glyph": "நான் இன்று சந்தோஷமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: வணக்கம்! எப்படி இருக்கிறாய்?",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"எனக்கு தண்ணீர் வேண்டும்\" என்பதன் பொருள்?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I want sleep"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"வணக்கம்!\" க்கு பதில்?",
+          "options": [
+            "வணக்கம்!",
+            "நன்றி",
+            "நலம்",
+            "போய் வருகிறேன்"
+          ],
+          "answer": "வணக்கம்!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"பசியாக\" என்றால்?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l70",
+      "title": "மீள்பார்வை 30",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "நான் நலமாக இருக்கிறேன்.",
+          "name": "reply",
+          "exampleWord": "ok"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "எனக்கு காரம் பிடிக்காது.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "நான் சென்னையில் வசிக்கிறேன்.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "என் பெயர் தாரா.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "மீண்டும் சொல்ல முடியுமா?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "B: அருமை!",
+          "name": ""
+        },
+        {
+          "glyph": "நான் நலமாக இருக்கிறேன்.",
+          "name": "reply",
+          "exampleWord": "ok"
+        },
+        {
+          "glyph": "நான் இன்று சந்தோஷமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "கொஞ்சம் ரொட்டி தாருங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "என் பெயர் தாரா.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "போய் வருகிறேன்!",
+          "name": "bye"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"எனக்கு தண்ணீர் வேண்டும்\" என்பதன் பொருள்?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I want sleep"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"வணக்கம்!\" க்கு பதில்?",
+          "options": [
+            "வணக்கம்!",
+            "நன்றி",
+            "நலம்",
+            "போய் வருகிறேன்"
+          ],
+          "answer": "வணக்கம்!"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l71",
+      "title": "மீள்பார்வை 31",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "கொஞ்சம் ரொட்டி தாருங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "நான் சென்னையில் வசிக்கிறேன்.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "கொஞ்சம் ரொட்டி தாருங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "நிரம்பிவிட்டேன், நன்றி.",
+          "name": "reply"
+        },
+        {
+          "glyph": "உனது பெயர் என்ன?",
+          "name": "q",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நிரம்பிவிட்டேன், நன்றி.",
+          "name": "reply"
+        },
+        {
+          "glyph": "எனக்கு பழம் பிடிக்கும்.",
+          "name": "like"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"பசியாக\" என்றால்?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"நிரம்பிவிட்டேன்\" பொருள்?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "please water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"பசியாக\" என்றால்?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l72",
+      "title": "மீள்பார்வை 32",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "நான் நலமாக இருக்கிறேன்.",
+          "name": "reply",
+          "exampleWord": "ok"
+        },
+        {
+          "glyph": "நிரம்பிவிட்டேன், நன்றி.",
+          "name": "reply"
+        },
+        {
+          "glyph": "A: இன்று மகிழ்ச்சியாக இருக்கிறேன்.",
+          "name": ""
+        },
+        {
+          "glyph": "B: வணக்கம்! எப்படி இருக்கிறாய்?",
+          "name": ""
+        },
+        {
+          "glyph": "உனது பெயர் என்ன?",
+          "name": "q",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "கொஞ்சம் ரொட்டி தாருங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "எனக்கு தண்ணீர் வேண்டும்.",
+          "name": "want"
+        },
+        {
+          "glyph": "நிரம்பிவிட்டேன், நன்றி.",
+          "name": "reply"
+        },
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        },
+        {
+          "glyph": "இது மிகவும் சுவையாக இருக்கிறது!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "கொஞ்சம் ரொட்டி தாருங்கள்.",
+          "name": "request"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"நிரம்பிவிட்டேன்\" பொருள்?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "please water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "இன்று மகிழ்ச்சியில் யார்?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l73",
+      "title": "மீள்பார்வை 33",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "மன்னியுங்கள், எனக்கு உதவ முடியுமா?",
+          "name": "help"
+        },
+        {
+          "glyph": "எனக்கு பழம் பிடிக்கும்.",
+          "name": "like"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "நான் எழுந்திருக்கலாமா?",
+          "name": "polite"
+        },
+        {
+          "glyph": "காலை வணக்கம்.",
+          "name": "morning",
+          "exampleWord": "am greet"
+        },
+        {
+          "glyph": "நான் பசியாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் எழுந்திருக்கலாமா?",
+          "name": "polite"
+        },
+        {
+          "glyph": "நான் நலமாக இருக்கிறேன்.",
+          "name": "reply",
+          "exampleWord": "ok"
+        },
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "எனக்கு காரம் பிடிக்காது.",
+          "name": "dislike"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"நிரம்பிவிட்டேன்\" பொருள்?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "please water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"வணக்கம்!\" க்கு பதில்?",
+          "options": [
+            "வணக்கம்!",
+            "நன்றி",
+            "நலம்",
+            "போய் வருகிறேன்"
+          ],
+          "answer": "வணக்கம்!"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l74",
+      "title": "மீள்பார்வை 34",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "உனது பெயர் என்ன?",
+          "name": "q",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "நிரம்பிவிட்டேன், நன்றி.",
+          "name": "reply"
+        },
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        },
+        {
+          "glyph": "எனக்கு காரம் பிடிக்காது.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "மன்னியுங்கள், எனக்கு உதவ முடியுமா?",
+          "name": "help"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "எனக்கு பழம் பிடிக்கும்.",
+          "name": "like"
+        },
+        {
+          "glyph": "B: வணக்கம்! எப்படி இருக்கிறாய்?",
+          "name": ""
+        },
+        {
+          "glyph": "உனது பெயர் என்ன?",
+          "name": "q",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "நான் பசியாக இருக்கிறேன்.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"பசியாக\" என்றால்?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"பசியாக\" என்றால்?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l75",
+      "title": "மீள்பார்வை 35",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "எனக்கு தண்ணீர் வேண்டும்.",
+          "name": "want"
+        },
+        {
+          "glyph": "நான் எழுந்திருக்கலாமா?",
+          "name": "polite"
+        },
+        {
+          "glyph": "நான் சென்னையில் வசிக்கிறேன்.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "A: இன்று மகிழ்ச்சியாக இருக்கிறேன்.",
+          "name": ""
+        },
+        {
+          "glyph": "எனக்கு பழம் பிடிக்கும்.",
+          "name": "like"
+        },
+        {
+          "glyph": "எப்படி இருக்கிறீர்கள்?",
+          "name": "question",
+          "exampleWord": "ask"
+        },
+        {
+          "glyph": "எனக்கு பழம் பிடிக்கும்.",
+          "name": "like"
+        },
+        {
+          "glyph": "நான் கொஞ்சம் வருத்தமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "காலை வணக்கம்.",
+          "name": "morning",
+          "exampleWord": "am greet"
+        },
+        {
+          "glyph": "தண்ணீர் கொடுங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "காலை வணக்கம்.",
+          "name": "morning",
+          "exampleWord": "am greet"
+        },
+        {
+          "glyph": "நான் கொஞ்சம் வருத்தமாக இருக்கிறேன்.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"நிரம்பிவிட்டேன்\" பொருள்?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "please water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"புரியவில்லை\" என்றால்?",
+          "options": [
+            "I don't understand",
+            "Help me",
+            "Thank you",
+            "Goodbye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"பசியாக\" என்றால்?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l76",
+      "title": "மீள்பார்வை 36",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "நான் கொஞ்சம் வருத்தமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் சென்னையில் வசிக்கிறேன்.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "எனக்கு உதவி தேவை.",
+          "name": "need"
+        },
+        {
+          "glyph": "தண்ணீர் கொடுங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "மன்னியுங்கள், எனக்கு உதவ முடியுமா?",
+          "name": "help"
+        },
+        {
+          "glyph": "எனக்கு தண்ணீர் வேண்டும்.",
+          "name": "want"
+        },
+        {
+          "glyph": "மன்னியுங்கள், எனக்கு உதவ முடியுமா?",
+          "name": "help"
+        },
+        {
+          "glyph": "நான் சென்னையில் வசிக்கிறேன்.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "என் பெயர் தாரா.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "எனக்கு காரம் பிடிக்காது.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "மீண்டும் சொல்ல முடியுமா?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "எப்படி இருக்கிறீர்கள்?",
+          "name": "question",
+          "exampleWord": "ask"
+        },
+        {
+          "glyph": "மீண்டும் சொல்ல முடியுமா?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "A: இன்று மகிழ்ச்சியாக இருக்கிறேன்.",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"வணக்கம்!\" க்கு பதில்?",
+          "options": [
+            "வணக்கம்!",
+            "நன்றி",
+            "நலம்",
+            "போய் வருகிறேன்"
+          ],
+          "answer": "வணக்கம்!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "இன்று மகிழ்ச்சியில் யார்?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l77",
+      "title": "மீள்பார்வை 37",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A: இன்று மகிழ்ச்சியாக இருக்கிறேன்.",
+          "name": ""
+        },
+        {
+          "glyph": "தண்ணீர் கொடுங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "நான் தொலைந்துவிட்டேன்.",
+          "name": "lost"
+        },
+        {
+          "glyph": "நிரம்பிவிட்டேன், நன்றி.",
+          "name": "reply"
+        },
+        {
+          "glyph": "எப்படி இருக்கிறீர்கள்?",
+          "name": "question",
+          "exampleWord": "ask"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: அருமை!",
+          "name": ""
+        },
+        {
+          "glyph": "எனக்கு தண்ணீர் வேண்டும்.",
+          "name": "want"
+        },
+        {
+          "glyph": "தண்ணீர் கொடுங்கள்.",
+          "name": "request"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"நிரம்பிவிட்டேன்\" பொருள்?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "please water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"நிரம்பிவிட்டேன்\" பொருள்?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "please water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l78",
+      "title": "மீள்பார்வை 38",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "போய் வருகிறேன்!",
+          "name": "bye"
+        },
+        {
+          "glyph": "எனக்கு தண்ணீர் வேண்டும்.",
+          "name": "want"
+        },
+        {
+          "glyph": "இது மிகவும் சுவையாக இருக்கிறது!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "எப்படி இருக்கிறீர்கள்?",
+          "name": "question",
+          "exampleWord": "ask"
+        },
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "காலை வணக்கம்.",
+          "name": "morning",
+          "exampleWord": "am greet"
+        },
+        {
+          "glyph": "நான் பசியாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: அருமை!",
+          "name": ""
+        },
+        {
+          "glyph": "உனது பெயர் என்ன?",
+          "name": "q",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "நான் நலமாக இருக்கிறேன்.",
+          "name": "reply",
+          "exampleWord": "ok"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"வணக்கம்!\" க்கு பதில்?",
+          "options": [
+            "வணக்கம்!",
+            "நன்றி",
+            "நலம்",
+            "போய் வருகிறேன்"
+          ],
+          "answer": "வணக்கம்!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"உனது பெயர் என்ன?\" க்கு பதில்?",
+          "options": [
+            "என் பெயர் தாரா.",
+            "நான் நலம்",
+            "நன்றி",
+            "அங்கு"
+          ],
+          "answer": "என் பெயர் தாரா."
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "இன்று மகிழ்ச்சியில் யார்?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l79",
+      "title": "மீள்பார்வை 39",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "தண்ணீர் கொடுங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "மன்னியுங்கள், எனக்கு உதவ முடியுமா?",
+          "name": "help"
+        },
+        {
+          "glyph": "எனக்கு உதவி தேவை.",
+          "name": "need"
+        },
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        },
+        {
+          "glyph": "எனக்கு காரம் பிடிக்காது.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "B: வணக்கம்! எப்படி இருக்கிறாய்?",
+          "name": ""
+        },
+        {
+          "glyph": "எப்படி இருக்கிறீர்கள்?",
+          "name": "question",
+          "exampleWord": "ask"
+        },
+        {
+          "glyph": "நான் எழுந்திருக்கலாமா?",
+          "name": "polite"
+        },
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"உனது பெயர் என்ன?\" க்கு பதில்?",
+          "options": [
+            "என் பெயர் தாரா.",
+            "நான் நலம்",
+            "நன்றி",
+            "அங்கு"
+          ],
+          "answer": "என் பெயர் தாரா."
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"வணக்கம்!\" க்கு பதில்?",
+          "options": [
+            "வணக்கம்!",
+            "நன்றி",
+            "நலம்",
+            "போய் வருகிறேன்"
+          ],
+          "answer": "வணக்கம்!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"நிரம்பிவிட்டேன்\" பொருள்?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "please water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l80",
+      "title": "மீள்பார்வை 40",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "உனது பெயர் என்ன?",
+          "name": "q",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "தண்ணீர் கொடுங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "எனக்கு உதவி தேவை.",
+          "name": "need"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "நன்றி.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "உனது பெயர் என்ன?",
+          "name": "q",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "எப்படி இருக்கிறீர்கள்?",
+          "name": "question",
+          "exampleWord": "ask"
+        },
+        {
+          "glyph": "நான் எழுந்திருக்கலாமா?",
+          "name": "polite"
+        },
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "காலை வணக்கம்.",
+          "name": "morning",
+          "exampleWord": "am greet"
+        },
+        {
+          "glyph": "நான் இன்று சந்தோஷமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: வணக்கம், நண்பா!",
+          "name": ""
+        },
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"புரியவில்லை\" என்றால்?",
+          "options": [
+            "I don't understand",
+            "Help me",
+            "Thank you",
+            "Goodbye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"உனது பெயர் என்ன?\" க்கு பதில்?",
+          "options": [
+            "என் பெயர் தாரா.",
+            "நான் நலம்",
+            "நன்றி",
+            "அங்கு"
+          ],
+          "answer": "என் பெயர் தாரா."
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"வணக்கம்!\" க்கு பதில்?",
+          "options": [
+            "வணக்கம்!",
+            "நன்றி",
+            "நலம்",
+            "போய் வருகிறேன்"
+          ],
+          "answer": "வணக்கம்!"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l81",
+      "title": "மீள்பார்வை 41",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "போய் வருகிறேன்!",
+          "name": "bye"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் இன்று சந்தோஷமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் சென்னையில் வசிக்கிறேன்.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "A: இன்று மகிழ்ச்சியாக இருக்கிறேன்.",
+          "name": ""
+        },
+        {
+          "glyph": "என் பெயர் தாரா.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "தண்ணீர் கொடுங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "நான் கொஞ்சம் வருத்தமாக இருக்கிறேன்.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"உனது பெயர் என்ன?\" க்கு பதில்?",
+          "options": [
+            "என் பெயர் தாரா.",
+            "நான் நலம்",
+            "நன்றி",
+            "அங்கு"
+          ],
+          "answer": "என் பெயர் தாரா."
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"பசியாக\" என்றால்?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l82",
+      "title": "மீள்பார்வை 42",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "கொஞ்சம் ரொட்டி தாருங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "நான் தொலைந்துவிட்டேன்.",
+          "name": "lost"
+        },
+        {
+          "glyph": "மீண்டும் சொல்ல முடியுமா?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "B: அருமை!",
+          "name": ""
+        },
+        {
+          "glyph": "நான் நலமாக இருக்கிறேன்.",
+          "name": "reply",
+          "exampleWord": "ok"
+        },
+        {
+          "glyph": "எனக்கு தண்ணீர் வேண்டும்.",
+          "name": "want"
+        },
+        {
+          "glyph": "உனது பெயர் என்ன?",
+          "name": "q",
+          "exampleWord": "ask name"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"பசியாக\" என்றால்?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"நிரம்பிவிட்டேன்\" பொருள்?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "please water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"வணக்கம்!\" க்கு பதில்?",
+          "options": [
+            "வணக்கம்!",
+            "நன்றி",
+            "நலம்",
+            "போய் வருகிறேன்"
+          ],
+          "answer": "வணக்கம்!"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l83",
+      "title": "மீள்பார்வை 43",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "நான் கொஞ்சம் வருத்தமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "கொஞ்சம் ரொட்டி தாருங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "மன்னியுங்கள், எனக்கு உதவ முடியுமா?",
+          "name": "help"
+        },
+        {
+          "glyph": "எப்படி இருக்கிறீர்கள்?",
+          "name": "question",
+          "exampleWord": "ask"
+        },
+        {
+          "glyph": "எனக்கு தண்ணீர் வேண்டும்.",
+          "name": "want"
+        },
+        {
+          "glyph": "நிரம்பிவிட்டேன், நன்றி.",
+          "name": "reply"
+        },
+        {
+          "glyph": "உனது பெயர் என்ன?",
+          "name": "q",
+          "exampleWord": "ask name"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"பசியாக\" என்றால்?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"நிரம்பிவிட்டேன்\" பொருள்?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "please water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"எனக்கு தண்ணீர் வேண்டும்\" என்பதன் பொருள்?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I want sleep"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l84",
+      "title": "மீள்பார்வை 44",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B: அருமை!",
+          "name": ""
+        },
+        {
+          "glyph": "காலை வணக்கம்.",
+          "name": "morning",
+          "exampleWord": "am greet"
+        },
+        {
+          "glyph": "மீண்டும் சொல்ல முடியுமா?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: இன்று மகிழ்ச்சியாக இருக்கிறேன்.",
+          "name": ""
+        },
+        {
+          "glyph": "தண்ணீர் கொடுங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "நான் இன்று சந்தோஷமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "காலை வணக்கம்.",
+          "name": "morning",
+          "exampleWord": "am greet"
+        },
+        {
+          "glyph": "எப்படி இருக்கிறீர்கள்?",
+          "name": "question",
+          "exampleWord": "ask"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"புரியவில்லை\" என்றால்?",
+          "options": [
+            "I don't understand",
+            "Help me",
+            "Thank you",
+            "Goodbye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"வணக்கம்!\" க்கு பதில்?",
+          "options": [
+            "வணக்கம்!",
+            "நன்றி",
+            "நலம்",
+            "போய் வருகிறேன்"
+          ],
+          "answer": "வணக்கம்!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"எனக்கு தண்ணீர் வேண்டும்\" என்பதன் பொருள்?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I want sleep"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l85",
+      "title": "மீள்பார்வை 45",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A: இன்று மகிழ்ச்சியாக இருக்கிறேன்.",
+          "name": ""
+        },
+        {
+          "glyph": "எனக்கு காரம் பிடிக்காது.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "நான் எழுந்திருக்கலாமா?",
+          "name": "polite"
+        },
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் கொஞ்சம் வருத்தமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் இன்று சந்தோஷமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "எனக்கு பழம் பிடிக்கும்.",
+          "name": "like"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"வணக்கம்!\" க்கு பதில்?",
+          "options": [
+            "வணக்கம்!",
+            "நன்றி",
+            "நலம்",
+            "போய் வருகிறேன்"
+          ],
+          "answer": "வணக்கம்!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"எனக்கு தண்ணீர் வேண்டும்\" என்பதன் பொருள்?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I want sleep"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l86",
+      "title": "மீள்பார்வை 46",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "எனக்கு உதவி தேவை.",
+          "name": "need"
+        },
+        {
+          "glyph": "நான் தொலைந்துவிட்டேன்.",
+          "name": "lost"
+        },
+        {
+          "glyph": "என் பெயர் தாரா.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "நான் கொஞ்சம் வருத்தமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நிரம்பிவிட்டேன், நன்றி.",
+          "name": "reply"
+        },
+        {
+          "glyph": "எப்படி இருக்கிறீர்கள்?",
+          "name": "question",
+          "exampleWord": "ask"
+        },
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் பசியாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: அருமை!",
+          "name": ""
+        },
+        {
+          "glyph": "போய் வருகிறேன்!",
+          "name": "bye"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"பசியாக\" என்றால்?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"வணக்கம்!\" க்கு பதில்?",
+          "options": [
+            "வணக்கம்!",
+            "நன்றி",
+            "நலம்",
+            "போய் வருகிறேன்"
+          ],
+          "answer": "வணக்கம்!"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l87",
+      "title": "மீள்பார்வை 47",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        },
+        {
+          "glyph": "எப்படி இருக்கிறீர்கள்?",
+          "name": "question",
+          "exampleWord": "ask"
+        },
+        {
+          "glyph": "நான் நலமாக இருக்கிறேன்.",
+          "name": "reply",
+          "exampleWord": "ok"
+        },
+        {
+          "glyph": "எனக்கு தண்ணீர் வேண்டும்.",
+          "name": "want"
+        },
+        {
+          "glyph": "மன்னியுங்கள், எனக்கு உதவ முடியுமா?",
+          "name": "help"
+        },
+        {
+          "glyph": "B: வணக்கம்! எப்படி இருக்கிறாய்?",
+          "name": ""
+        },
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "நான் இன்று சந்தோஷமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "எனக்கு பழம் பிடிக்கும்.",
+          "name": "like"
+        },
+        {
+          "glyph": "B: அருமை!",
+          "name": ""
+        },
+        {
+          "glyph": "கொஞ்சம் ரொட்டி தாருங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "எனக்கு பழம் பிடிக்கும்.",
+          "name": "like"
+        },
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "எனக்கு காரம் பிடிக்காது.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "மன்னியுங்கள், எனக்கு உதவ முடியுமா?",
+          "name": "help"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"எனக்கு தண்ணீர் வேண்டும்\" என்பதன் பொருள்?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I want sleep"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"வணக்கம்!\" க்கு பதில்?",
+          "options": [
+            "வணக்கம்!",
+            "நன்றி",
+            "நலம்",
+            "போய் வருகிறேன்"
+          ],
+          "answer": "வணக்கம்!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"எனக்கு தண்ணீர் வேண்டும்\" என்பதன் பொருள்?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I want sleep"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l88",
+      "title": "மீள்பார்வை 48",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "நான் நலமாக இருக்கிறேன்.",
+          "name": "reply",
+          "exampleWord": "ok"
+        },
+        {
+          "glyph": "நான் நலமாக இருக்கிறேன்.",
+          "name": "reply",
+          "exampleWord": "ok"
+        },
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        },
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        },
+        {
+          "glyph": "கொஞ்சம் ரொட்டி தாருங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "எனக்கு தண்ணீர் வேண்டும்.",
+          "name": "want"
+        },
+        {
+          "glyph": "நான் கொஞ்சம் வருத்தமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"புரியவில்லை\" என்றால்?",
+          "options": [
+            "I don't understand",
+            "Help me",
+            "Thank you",
+            "Goodbye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"பசியாக\" என்றால்?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l89",
+      "title": "மீள்பார்வை 49",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A: இன்று மகிழ்ச்சியாக இருக்கிறேன்.",
+          "name": ""
+        },
+        {
+          "glyph": "எனக்கு உதவி தேவை.",
+          "name": "need"
+        },
+        {
+          "glyph": "எனக்கு பழம் பிடிக்கும்.",
+          "name": "like"
+        },
+        {
+          "glyph": "எனக்கு உதவி தேவை.",
+          "name": "need"
+        },
+        {
+          "glyph": "நான் சென்னையில் வசிக்கிறேன்.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "மன்னியுங்கள், எனக்கு உதவ முடியுமா?",
+          "name": "help"
+        },
+        {
+          "glyph": "என் பெயர் தாரா.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "உனது பெயர் என்ன?",
+          "name": "q",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "நான் தொலைந்துவிட்டேன்.",
+          "name": "lost"
+        },
+        {
+          "glyph": "நான் பசியாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "மீண்டும் சொல்ல முடியுமா?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "எனக்கு காரம் பிடிக்காது.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "எப்படி இருக்கிறீர்கள்?",
+          "name": "question",
+          "exampleWord": "ask"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"உனது பெயர் என்ன?\" க்கு பதில்?",
+          "options": [
+            "என் பெயர் தாரா.",
+            "நான் நலம்",
+            "நன்றி",
+            "அங்கு"
+          ],
+          "answer": "என் பெயர் தாரா."
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"புரியவில்லை\" என்றால்?",
+          "options": [
+            "I don't understand",
+            "Help me",
+            "Thank you",
+            "Goodbye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"வணக்கம்!\" க்கு பதில்?",
+          "options": [
+            "வணக்கம்!",
+            "நன்றி",
+            "நலம்",
+            "போய் வருகிறேன்"
+          ],
+          "answer": "வணக்கம்!"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l90",
+      "title": "மீள்பார்வை 50",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "நான் எழுந்திருக்கலாமா?",
+          "name": "polite"
+        },
+        {
+          "glyph": "எனக்கு உதவி தேவை.",
+          "name": "need"
+        },
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "எனக்கு உதவி தேவை.",
+          "name": "need"
+        },
+        {
+          "glyph": "நான் கொஞ்சம் வருத்தமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: இன்று மகிழ்ச்சியாக இருக்கிறேன்.",
+          "name": ""
+        },
+        {
+          "glyph": "காலை வணக்கம்.",
+          "name": "morning",
+          "exampleWord": "am greet"
+        },
+        {
+          "glyph": "என் பெயர் தாரா.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "மன்னியுங்கள், எனக்கு உதவ முடியுமா?",
+          "name": "help"
+        },
+        {
+          "glyph": "தண்ணீர் கொடுங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "காலை வணக்கம்.",
+          "name": "morning",
+          "exampleWord": "am greet"
+        },
+        {
+          "glyph": "எனக்கு காரம் பிடிக்காது.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "நிரம்பிவிட்டேன், நன்றி.",
+          "name": "reply"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"உனது பெயர் என்ன?\" க்கு பதில்?",
+          "options": [
+            "என் பெயர் தாரா.",
+            "நான் நலம்",
+            "நன்றி",
+            "அங்கு"
+          ],
+          "answer": "என் பெயர் தாரா."
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "இன்று மகிழ்ச்சியில் யார்?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"பசியாக\" என்றால்?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l91",
+      "title": "மீள்பார்வை 51",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B: வணக்கம்! எப்படி இருக்கிறாய்?",
+          "name": ""
+        },
+        {
+          "glyph": "A: வணக்கம், நண்பா!",
+          "name": ""
+        },
+        {
+          "glyph": "எனக்கு காரம் பிடிக்காது.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "எனக்கு காரம் பிடிக்காது.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "நான் கொஞ்சம் வருத்தமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "எனக்கு உதவி தேவை.",
+          "name": "need"
+        },
+        {
+          "glyph": "போய் வருகிறேன்!",
+          "name": "bye"
+        },
+        {
+          "glyph": "எனக்கு தண்ணீர் வேண்டும்.",
+          "name": "want"
+        },
+        {
+          "glyph": "எனக்கு தண்ணீர் வேண்டும்.",
+          "name": "want"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"நிரம்பிவிட்டேன்\" பொருள்?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "please water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"எனக்கு தண்ணீர் வேண்டும்\" என்பதன் பொருள்?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I want sleep"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l92",
+      "title": "மீள்பார்வை 52",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "எப்படி இருக்கிறீர்கள்?",
+          "name": "question",
+          "exampleWord": "ask"
+        },
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "A: வணக்கம், நண்பா!",
+          "name": ""
+        },
+        {
+          "glyph": "எனக்கு காரம் பிடிக்காது.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "மீண்டும் சொல்ல முடியுமா?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் கொஞ்சம் வருத்தமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"பசியாக\" என்றால்?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"புரியவில்லை\" என்றால்?",
+          "options": [
+            "I don't understand",
+            "Help me",
+            "Thank you",
+            "Goodbye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"புரியவில்லை\" என்றால்?",
+          "options": [
+            "I don't understand",
+            "Help me",
+            "Thank you",
+            "Goodbye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l93",
+      "title": "மீள்பார்வை 53",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "கொஞ்சம் ரொட்டி தாருங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "போய் வருகிறேன்!",
+          "name": "bye"
+        },
+        {
+          "glyph": "எனக்கு தண்ணீர் வேண்டும்.",
+          "name": "want"
+        },
+        {
+          "glyph": "என் பெயர் தாரா.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "தண்ணீர் கொடுங்கள்.",
+          "name": "request"
+        },
+        {
+          "glyph": "எப்படி இருக்கிறீர்கள்?",
+          "name": "question",
+          "exampleWord": "ask"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"உனது பெயர் என்ன?\" க்கு பதில்?",
+          "options": [
+            "என் பெயர் தாரா.",
+            "நான் நலம்",
+            "நன்றி",
+            "அங்கு"
+          ],
+          "answer": "என் பெயர் தாரா."
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"உனது பெயர் என்ன?\" க்கு பதில்?",
+          "options": [
+            "என் பெயர் தாரா.",
+            "நான் நலம்",
+            "நன்றி",
+            "அங்கு"
+          ],
+          "answer": "என் பெயர் தாரா."
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"உனது பெயர் என்ன?\" க்கு பதில்?",
+          "options": [
+            "என் பெயர் தாரா.",
+            "நான் நலம்",
+            "நன்றி",
+            "அங்கு"
+          ],
+          "answer": "என் பெயர் தாரா."
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l94",
+      "title": "மீள்பார்வை 54",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "உனது பெயர் என்ன?",
+          "name": "q",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "எனக்கு காரம் பிடிக்காது.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "எனக்கு காரம் பிடிக்காது.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "எப்படி இருக்கிறீர்கள்?",
+          "name": "question",
+          "exampleWord": "ask"
+        },
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "எப்படி இருக்கிறீர்கள்?",
+          "name": "question",
+          "exampleWord": "ask"
+        },
+        {
+          "glyph": "நான் சென்னையில் வசிக்கிறேன்.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "நான் கொஞ்சம் வருத்தமாக இருக்கிறேன்.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"பசியாக\" என்றால்?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"எனக்கு தண்ணீர் வேண்டும்\" என்பதன் பொருள்?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I want sleep"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l95",
+      "title": "மீள்பார்வை 55",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "எனக்கு காரம் பிடிக்காது.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "நான் கொஞ்சம் வருத்தமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "என் பெயர் தாரா.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "காலை வணக்கம்.",
+          "name": "morning",
+          "exampleWord": "am greet"
+        },
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "மன்னியுங்கள், எனக்கு உதவ முடியுமா?",
+          "name": "help"
+        },
+        {
+          "glyph": "என் பெயர் தாரா.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "என் பெயர் தாரா.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "உனது பெயர் என்ன?",
+          "name": "q",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "எனக்கு உதவி தேவை.",
+          "name": "need"
+        },
+        {
+          "glyph": "எனக்கு தண்ணீர் வேண்டும்.",
+          "name": "want"
+        },
+        {
+          "glyph": "இது மிகவும் சுவையாக இருக்கிறது!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "நான் கொஞ்சம் வருத்தமாக இருக்கிறேன்.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"எனக்கு தண்ணீர் வேண்டும்\" என்பதன் பொருள்?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I want sleep"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"எனக்கு தண்ணீர் வேண்டும்\" என்பதன் பொருள்?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I want sleep"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"வணக்கம்!\" க்கு பதில்?",
+          "options": [
+            "வணக்கம்!",
+            "நன்றி",
+            "நலம்",
+            "போய் வருகிறேன்"
+          ],
+          "answer": "வணக்கம்!"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l96",
+      "title": "மீள்பார்வை 56",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "உனது பெயர் என்ன?",
+          "name": "q",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "நன்றி.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "நான் நலமாக இருக்கிறேன்.",
+          "name": "reply",
+          "exampleWord": "ok"
+        },
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        },
+        {
+          "glyph": "B: வணக்கம்! எப்படி இருக்கிறாய்?",
+          "name": ""
+        },
+        {
+          "glyph": "நான் கொஞ்சம் வருத்தமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "போய் வருகிறேன்!",
+          "name": "bye"
+        },
+        {
+          "glyph": "எப்படி இருக்கிறீர்கள்?",
+          "name": "question",
+          "exampleWord": "ask"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "இன்று மகிழ்ச்சியில் யார்?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"நிரம்பிவிட்டேன்\" பொருள்?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "please water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l97",
+      "title": "மீள்பார்வை 57",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "நான் சோர்வாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் மிகவும் உற்சாகமாக இருக்கிறேன்!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நான் பசியாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "எனக்கு தண்ணீர் வேண்டும்.",
+          "name": "want"
+        },
+        {
+          "glyph": "நான் சென்னையில் வசிக்கிறேன்.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "என் பெயர் தாரா.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "மன்னியுங்கள், எனக்கு உதவ முடியுமா?",
+          "name": "help"
+        },
+        {
+          "glyph": "மன்னியுங்கள், எனக்கு உதவ முடியுமா?",
+          "name": "help"
+        },
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "எனக்கு பழம் பிடிக்கும்.",
+          "name": "like"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"எனக்கு தண்ணீர் வேண்டும்\" என்பதன் பொருள்?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I want sleep"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"பசியாக\" என்றால்?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l98",
+      "title": "மீள்பார்வை 58",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        },
+        {
+          "glyph": "நான் எழுந்திருக்கலாமா?",
+          "name": "polite"
+        },
+        {
+          "glyph": "நான் இன்று சந்தோஷமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "எனக்கு தண்ணீர் வேண்டும்.",
+          "name": "want"
+        },
+        {
+          "glyph": "எனக்கு உதவி தேவை.",
+          "name": "need"
+        },
+        {
+          "glyph": "எனக்கு தண்ணீர் வேண்டும்.",
+          "name": "want"
+        },
+        {
+          "glyph": "A: வணக்கம், நண்பா!",
+          "name": ""
+        },
+        {
+          "glyph": "காலை வணக்கம்.",
+          "name": "morning",
+          "exampleWord": "am greet"
+        },
+        {
+          "glyph": "நான் இன்று சந்தோஷமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "இது மிகவும் சுவையாக இருக்கிறது!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "நான் தொலைந்துவிட்டேன்.",
+          "name": "lost"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"பசியாக\" என்றால்?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"புரியவில்லை\" என்றால்?",
+          "options": [
+            "I don't understand",
+            "Help me",
+            "Thank you",
+            "Goodbye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"புரியவில்லை\" என்றால்?",
+          "options": [
+            "I don't understand",
+            "Help me",
+            "Thank you",
+            "Goodbye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l99",
+      "title": "மீள்பார்வை 59",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "காலை வணக்கம்.",
+          "name": "morning",
+          "exampleWord": "am greet"
+        },
+        {
+          "glyph": "நான் நலமாக இருக்கிறேன்.",
+          "name": "reply",
+          "exampleWord": "ok"
+        },
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        },
+        {
+          "glyph": "நான் எழுந்திருக்கலாமா?",
+          "name": "polite"
+        },
+        {
+          "glyph": "நான் கொஞ்சம் வருத்தமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        },
+        {
+          "glyph": "காலை வணக்கம்.",
+          "name": "morning",
+          "exampleWord": "am greet"
+        },
+        {
+          "glyph": "மன்னியுங்கள், எனக்கு உதவ முடியுமா?",
+          "name": "help"
+        },
+        {
+          "glyph": "நான் எழுந்திருக்கலாமா?",
+          "name": "polite"
+        },
+        {
+          "glyph": "நான் பசியாக இருக்கிறேன்.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"புரியவில்லை\" என்றால்?",
+          "options": [
+            "I don't understand",
+            "Help me",
+            "Thank you",
+            "Goodbye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"வணக்கம்!\" க்கு பதில்?",
+          "options": [
+            "வணக்கம்!",
+            "நன்றி",
+            "நலம்",
+            "போய் வருகிறேன்"
+          ],
+          "answer": "வணக்கம்!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"எனக்கு தண்ணீர் வேண்டும்\" என்பதன் பொருள்?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I want sleep"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l100",
+      "title": "மீள்பார்வை 60",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "காலை வணக்கம்.",
+          "name": "morning",
+          "exampleWord": "am greet"
+        },
+        {
+          "glyph": "என் பெயர் தாரா.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "எனக்கு புரியவில்லை.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "எனக்கு தண்ணீர் வேண்டும்.",
+          "name": "want"
+        },
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        },
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        },
+        {
+          "glyph": "நான் கொஞ்சம் வருத்தமாக இருக்கிறேன்.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        },
+        {
+          "glyph": "நான் எழுந்திருக்கலாமா?",
+          "name": "polite"
+        },
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "காலை வணக்கம்.",
+          "name": "morning",
+          "exampleWord": "am greet"
+        },
+        {
+          "glyph": "நான் நலமாக இருக்கிறேன்.",
+          "name": "reply",
+          "exampleWord": "ok"
+        },
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        },
+        {
+          "glyph": "B: அருமை!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"வணக்கம்!\" க்கு பதில்?",
+          "options": [
+            "வணக்கம்!",
+            "நன்றி",
+            "நலம்",
+            "போய் வருகிறேன்"
+          ],
+          "answer": "வணக்கம்!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"வணக்கம்!\" க்கு பதில்?",
+          "options": [
+            "வணக்கம்!",
+            "நன்றி",
+            "நலம்",
+            "போய் வருகிறேன்"
+          ],
+          "answer": "வணக்கம்!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"புரியவில்லை\" என்றால்?",
+          "options": [
+            "I don't understand",
+            "Help me",
+            "Thank you",
+            "Goodbye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
     }
   ]
 }

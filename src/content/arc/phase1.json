@@ -153,6 +153,2186 @@
           "answer": "ס"
         }
       ]
+    },
+    {
+      "id": "arc-p1-l4",
+      "title": "חזרה 1",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ש",
+          "name": "sheen"
+        },
+        {
+          "glyph": "א",
+          "name": "alaph"
+        },
+        {
+          "glyph": "נ",
+          "name": "noon"
+        },
+        {
+          "glyph": "ח",
+          "name": "heth"
+        },
+        {
+          "glyph": "ו",
+          "name": "waw"
+        },
+        {
+          "glyph": "פ",
+          "name": "peh"
+        },
+        {
+          "glyph": "ע",
+          "name": "e"
+        },
+        {
+          "glyph": "צ",
+          "name": "sadhe"
+        },
+        {
+          "glyph": "ס",
+          "name": "semkath"
+        },
+        {
+          "glyph": "ז",
+          "name": "zain"
+        },
+        {
+          "glyph": "ד",
+          "name": "dalath"
+        },
+        {
+          "glyph": "מ",
+          "name": "meem"
+        },
+        {
+          "glyph": "ק",
+          "name": "qoph"
+        },
+        {
+          "glyph": "ג",
+          "name": "gamal"
+        },
+        {
+          "glyph": "ט",
+          "name": "teth"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alaph'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'heth'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'semkath'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        }
+      ]
+    },
+    {
+      "id": "arc-p1-l5",
+      "title": "חזרה 2",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ר",
+          "name": "resh"
+        },
+        {
+          "glyph": "ש",
+          "name": "sheen"
+        },
+        {
+          "glyph": "ו",
+          "name": "waw"
+        },
+        {
+          "glyph": "ע",
+          "name": "e"
+        },
+        {
+          "glyph": "י",
+          "name": "yodh"
+        },
+        {
+          "glyph": "ז",
+          "name": "zain"
+        },
+        {
+          "glyph": "ב",
+          "name": "beth"
+        },
+        {
+          "glyph": "ח",
+          "name": "heth"
+        },
+        {
+          "glyph": "ת",
+          "name": "taw"
+        },
+        {
+          "glyph": "פ",
+          "name": "peh"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alaph'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'semkath'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        }
+      ]
+    },
+    {
+      "id": "arc-p1-l6",
+      "title": "חזרה 3",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ו",
+          "name": "waw"
+        },
+        {
+          "glyph": "נ",
+          "name": "noon"
+        },
+        {
+          "glyph": "פ",
+          "name": "peh"
+        },
+        {
+          "glyph": "ח",
+          "name": "heth"
+        },
+        {
+          "glyph": "ט",
+          "name": "teth"
+        },
+        {
+          "glyph": "ג",
+          "name": "gamal"
+        },
+        {
+          "glyph": "ע",
+          "name": "e"
+        },
+        {
+          "glyph": "י",
+          "name": "yodh"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'semkath'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alaph'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        }
+      ]
+    },
+    {
+      "id": "arc-p1-l7",
+      "title": "חזרה 4",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ע",
+          "name": "e"
+        },
+        {
+          "glyph": "ז",
+          "name": "zain"
+        },
+        {
+          "glyph": "ה",
+          "name": "heh"
+        },
+        {
+          "glyph": "ד",
+          "name": "dalath"
+        },
+        {
+          "glyph": "י",
+          "name": "yodh"
+        },
+        {
+          "glyph": "ג",
+          "name": "gamal"
+        },
+        {
+          "glyph": "צ",
+          "name": "sadhe"
+        },
+        {
+          "glyph": "ל",
+          "name": "lamadh"
+        },
+        {
+          "glyph": "ש",
+          "name": "sheen"
+        },
+        {
+          "glyph": "מ",
+          "name": "meem"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'semkath'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alaph'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        }
+      ]
+    },
+    {
+      "id": "arc-p1-l8",
+      "title": "חזרה 5",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "א",
+          "name": "alaph"
+        },
+        {
+          "glyph": "ה",
+          "name": "heh"
+        },
+        {
+          "glyph": "ק",
+          "name": "qoph"
+        },
+        {
+          "glyph": "ג",
+          "name": "gamal"
+        },
+        {
+          "glyph": "מ",
+          "name": "meem"
+        },
+        {
+          "glyph": "ס",
+          "name": "semkath"
+        },
+        {
+          "glyph": "ל",
+          "name": "lamadh"
+        },
+        {
+          "glyph": "י",
+          "name": "yodh"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alaph'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'heth'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'semkath'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        }
+      ]
+    },
+    {
+      "id": "arc-p1-l9",
+      "title": "חזרה 6",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "צ",
+          "name": "sadhe"
+        },
+        {
+          "glyph": "פ",
+          "name": "peh"
+        },
+        {
+          "glyph": "ח",
+          "name": "heth"
+        },
+        {
+          "glyph": "ש",
+          "name": "sheen"
+        },
+        {
+          "glyph": "ת",
+          "name": "taw"
+        },
+        {
+          "glyph": "כ",
+          "name": "kaph"
+        },
+        {
+          "glyph": "ק",
+          "name": "qoph"
+        },
+        {
+          "glyph": "ב",
+          "name": "beth"
+        },
+        {
+          "glyph": "ז",
+          "name": "zain"
+        },
+        {
+          "glyph": "ו",
+          "name": "waw"
+        },
+        {
+          "glyph": "ע",
+          "name": "e"
+        },
+        {
+          "glyph": "ל",
+          "name": "lamadh"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'heth'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'semkath'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alaph'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        }
+      ]
+    },
+    {
+      "id": "arc-p1-l10",
+      "title": "חזרה 7",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "מ",
+          "name": "meem"
+        },
+        {
+          "glyph": "ל",
+          "name": "lamadh"
+        },
+        {
+          "glyph": "כ",
+          "name": "kaph"
+        },
+        {
+          "glyph": "נ",
+          "name": "noon"
+        },
+        {
+          "glyph": "פ",
+          "name": "peh"
+        },
+        {
+          "glyph": "צ",
+          "name": "sadhe"
+        },
+        {
+          "glyph": "ב",
+          "name": "beth"
+        },
+        {
+          "glyph": "ח",
+          "name": "heth"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alaph'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'semkath'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'heth'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        }
+      ]
+    },
+    {
+      "id": "arc-p1-l11",
+      "title": "חזרה 8",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "נ",
+          "name": "noon"
+        },
+        {
+          "glyph": "צ",
+          "name": "sadhe"
+        },
+        {
+          "glyph": "פ",
+          "name": "peh"
+        },
+        {
+          "glyph": "י",
+          "name": "yodh"
+        },
+        {
+          "glyph": "ט",
+          "name": "teth"
+        },
+        {
+          "glyph": "מ",
+          "name": "meem"
+        },
+        {
+          "glyph": "ה",
+          "name": "heh"
+        },
+        {
+          "glyph": "ח",
+          "name": "heth"
+        },
+        {
+          "glyph": "ל",
+          "name": "lamadh"
+        },
+        {
+          "glyph": "ת",
+          "name": "taw"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alaph'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'semkath'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'heth'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        }
+      ]
+    },
+    {
+      "id": "arc-p1-l12",
+      "title": "חזרה 9",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ס",
+          "name": "semkath"
+        },
+        {
+          "glyph": "ב",
+          "name": "beth"
+        },
+        {
+          "glyph": "ק",
+          "name": "qoph"
+        },
+        {
+          "glyph": "כ",
+          "name": "kaph"
+        },
+        {
+          "glyph": "ט",
+          "name": "teth"
+        },
+        {
+          "glyph": "ו",
+          "name": "waw"
+        },
+        {
+          "glyph": "א",
+          "name": "alaph"
+        },
+        {
+          "glyph": "ז",
+          "name": "zain"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alaph'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'semkath'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        }
+      ]
+    },
+    {
+      "id": "arc-p1-l13",
+      "title": "חזרה 10",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ק",
+          "name": "qoph"
+        },
+        {
+          "glyph": "ש",
+          "name": "sheen"
+        },
+        {
+          "glyph": "צ",
+          "name": "sadhe"
+        },
+        {
+          "glyph": "מ",
+          "name": "meem"
+        },
+        {
+          "glyph": "ר",
+          "name": "resh"
+        },
+        {
+          "glyph": "ו",
+          "name": "waw"
+        },
+        {
+          "glyph": "ד",
+          "name": "dalath"
+        },
+        {
+          "glyph": "ס",
+          "name": "semkath"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'heth'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alaph'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        }
+      ]
+    },
+    {
+      "id": "arc-p1-l14",
+      "title": "חזרה 11",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ת",
+          "name": "taw"
+        },
+        {
+          "glyph": "ש",
+          "name": "sheen"
+        },
+        {
+          "glyph": "ז",
+          "name": "zain"
+        },
+        {
+          "glyph": "ח",
+          "name": "heth"
+        },
+        {
+          "glyph": "ב",
+          "name": "beth"
+        },
+        {
+          "glyph": "ע",
+          "name": "e"
+        },
+        {
+          "glyph": "מ",
+          "name": "meem"
+        },
+        {
+          "glyph": "כ",
+          "name": "kaph"
+        },
+        {
+          "glyph": "ס",
+          "name": "semkath"
+        },
+        {
+          "glyph": "י",
+          "name": "yodh"
+        },
+        {
+          "glyph": "ל",
+          "name": "lamadh"
+        },
+        {
+          "glyph": "ג",
+          "name": "gamal"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'heth'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'semkath'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alaph'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        }
+      ]
+    },
+    {
+      "id": "arc-p1-l15",
+      "title": "חזרה 12",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ז",
+          "name": "zain"
+        },
+        {
+          "glyph": "פ",
+          "name": "peh"
+        },
+        {
+          "glyph": "ר",
+          "name": "resh"
+        },
+        {
+          "glyph": "ה",
+          "name": "heh"
+        },
+        {
+          "glyph": "נ",
+          "name": "noon"
+        },
+        {
+          "glyph": "צ",
+          "name": "sadhe"
+        },
+        {
+          "glyph": "י",
+          "name": "yodh"
+        },
+        {
+          "glyph": "ד",
+          "name": "dalath"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alaph'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'heth'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'semkath'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        }
+      ]
+    },
+    {
+      "id": "arc-p1-l16",
+      "title": "חזרה 13",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ח",
+          "name": "heth"
+        },
+        {
+          "glyph": "ל",
+          "name": "lamadh"
+        },
+        {
+          "glyph": "נ",
+          "name": "noon"
+        },
+        {
+          "glyph": "מ",
+          "name": "meem"
+        },
+        {
+          "glyph": "ק",
+          "name": "qoph"
+        },
+        {
+          "glyph": "ת",
+          "name": "taw"
+        },
+        {
+          "glyph": "ט",
+          "name": "teth"
+        },
+        {
+          "glyph": "צ",
+          "name": "sadhe"
+        },
+        {
+          "glyph": "ז",
+          "name": "zain"
+        },
+        {
+          "glyph": "ד",
+          "name": "dalath"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'semkath'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'heth'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        }
+      ]
+    },
+    {
+      "id": "arc-p1-l17",
+      "title": "חזרה 14",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ו",
+          "name": "waw"
+        },
+        {
+          "glyph": "ק",
+          "name": "qoph"
+        },
+        {
+          "glyph": "צ",
+          "name": "sadhe"
+        },
+        {
+          "glyph": "ה",
+          "name": "heh"
+        },
+        {
+          "glyph": "ח",
+          "name": "heth"
+        },
+        {
+          "glyph": "ס",
+          "name": "semkath"
+        },
+        {
+          "glyph": "נ",
+          "name": "noon"
+        },
+        {
+          "glyph": "א",
+          "name": "alaph"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'heth'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'semkath'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alaph'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        }
+      ]
+    },
+    {
+      "id": "arc-p1-l18",
+      "title": "חזרה 15",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "צ",
+          "name": "sadhe"
+        },
+        {
+          "glyph": "ש",
+          "name": "sheen"
+        },
+        {
+          "glyph": "ת",
+          "name": "taw"
+        },
+        {
+          "glyph": "נ",
+          "name": "noon"
+        },
+        {
+          "glyph": "ק",
+          "name": "qoph"
+        },
+        {
+          "glyph": "ס",
+          "name": "semkath"
+        },
+        {
+          "glyph": "ח",
+          "name": "heth"
+        },
+        {
+          "glyph": "ז",
+          "name": "zain"
+        },
+        {
+          "glyph": "פ",
+          "name": "peh"
+        },
+        {
+          "glyph": "ג",
+          "name": "gamal"
+        },
+        {
+          "glyph": "א",
+          "name": "alaph"
+        },
+        {
+          "glyph": "ב",
+          "name": "beth"
+        },
+        {
+          "glyph": "ט",
+          "name": "teth"
+        },
+        {
+          "glyph": "מ",
+          "name": "meem"
+        },
+        {
+          "glyph": "ה",
+          "name": "heh"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alaph'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'heth'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'semkath'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        }
+      ]
+    },
+    {
+      "id": "arc-p1-l19",
+      "title": "חזרה 16",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ק",
+          "name": "qoph"
+        },
+        {
+          "glyph": "ש",
+          "name": "sheen"
+        },
+        {
+          "glyph": "מ",
+          "name": "meem"
+        },
+        {
+          "glyph": "ח",
+          "name": "heth"
+        },
+        {
+          "glyph": "ר",
+          "name": "resh"
+        },
+        {
+          "glyph": "פ",
+          "name": "peh"
+        },
+        {
+          "glyph": "ה",
+          "name": "heh"
+        },
+        {
+          "glyph": "א",
+          "name": "alaph"
+        },
+        {
+          "glyph": "ו",
+          "name": "waw"
+        },
+        {
+          "glyph": "ע",
+          "name": "e"
+        },
+        {
+          "glyph": "ד",
+          "name": "dalath"
+        },
+        {
+          "glyph": "נ",
+          "name": "noon"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'semkath'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alaph'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        }
+      ]
+    },
+    {
+      "id": "arc-p1-l20",
+      "title": "חזרה 17",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ע",
+          "name": "e"
+        },
+        {
+          "glyph": "כ",
+          "name": "kaph"
+        },
+        {
+          "glyph": "ה",
+          "name": "heh"
+        },
+        {
+          "glyph": "מ",
+          "name": "meem"
+        },
+        {
+          "glyph": "ב",
+          "name": "beth"
+        },
+        {
+          "glyph": "ק",
+          "name": "qoph"
+        },
+        {
+          "glyph": "ר",
+          "name": "resh"
+        },
+        {
+          "glyph": "ו",
+          "name": "waw"
+        },
+        {
+          "glyph": "ח",
+          "name": "heth"
+        },
+        {
+          "glyph": "ל",
+          "name": "lamadh"
+        },
+        {
+          "glyph": "נ",
+          "name": "noon"
+        },
+        {
+          "glyph": "ס",
+          "name": "semkath"
+        },
+        {
+          "glyph": "ד",
+          "name": "dalath"
+        },
+        {
+          "glyph": "י",
+          "name": "yodh"
+        },
+        {
+          "glyph": "צ",
+          "name": "sadhe"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'heth'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alaph'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'semkath'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        }
+      ]
+    },
+    {
+      "id": "arc-p1-l21",
+      "title": "חזרה 18",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ק",
+          "name": "qoph"
+        },
+        {
+          "glyph": "ב",
+          "name": "beth"
+        },
+        {
+          "glyph": "פ",
+          "name": "peh"
+        },
+        {
+          "glyph": "ש",
+          "name": "sheen"
+        },
+        {
+          "glyph": "ל",
+          "name": "lamadh"
+        },
+        {
+          "glyph": "י",
+          "name": "yodh"
+        },
+        {
+          "glyph": "ו",
+          "name": "waw"
+        },
+        {
+          "glyph": "ה",
+          "name": "heh"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'semkath'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'heth'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        }
+      ]
+    },
+    {
+      "id": "arc-p1-l22",
+      "title": "חזרה 19",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ס",
+          "name": "semkath"
+        },
+        {
+          "glyph": "ה",
+          "name": "heh"
+        },
+        {
+          "glyph": "י",
+          "name": "yodh"
+        },
+        {
+          "glyph": "ש",
+          "name": "sheen"
+        },
+        {
+          "glyph": "א",
+          "name": "alaph"
+        },
+        {
+          "glyph": "ת",
+          "name": "taw"
+        },
+        {
+          "glyph": "ג",
+          "name": "gamal"
+        },
+        {
+          "glyph": "ר",
+          "name": "resh"
+        },
+        {
+          "glyph": "ז",
+          "name": "zain"
+        },
+        {
+          "glyph": "ק",
+          "name": "qoph"
+        },
+        {
+          "glyph": "ו",
+          "name": "waw"
+        },
+        {
+          "glyph": "ב",
+          "name": "beth"
+        },
+        {
+          "glyph": "פ",
+          "name": "peh"
+        },
+        {
+          "glyph": "ח",
+          "name": "heth"
+        },
+        {
+          "glyph": "מ",
+          "name": "meem"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alaph'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'semkath'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        }
+      ]
+    },
+    {
+      "id": "arc-p1-l23",
+      "title": "חזרה 20",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "כ",
+          "name": "kaph"
+        },
+        {
+          "glyph": "ד",
+          "name": "dalath"
+        },
+        {
+          "glyph": "ט",
+          "name": "teth"
+        },
+        {
+          "glyph": "ק",
+          "name": "qoph"
+        },
+        {
+          "glyph": "ש",
+          "name": "sheen"
+        },
+        {
+          "glyph": "ל",
+          "name": "lamadh"
+        },
+        {
+          "glyph": "ע",
+          "name": "e"
+        },
+        {
+          "glyph": "ה",
+          "name": "heh"
+        },
+        {
+          "glyph": "ת",
+          "name": "taw"
+        },
+        {
+          "glyph": "צ",
+          "name": "sadhe"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alaph'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'heth'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        }
+      ]
+    },
+    {
+      "id": "arc-p1-l24",
+      "title": "חזרה 21",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "פ",
+          "name": "peh"
+        },
+        {
+          "glyph": "כ",
+          "name": "kaph"
+        },
+        {
+          "glyph": "ב",
+          "name": "beth"
+        },
+        {
+          "glyph": "ס",
+          "name": "semkath"
+        },
+        {
+          "glyph": "ש",
+          "name": "sheen"
+        },
+        {
+          "glyph": "ר",
+          "name": "resh"
+        },
+        {
+          "glyph": "י",
+          "name": "yodh"
+        },
+        {
+          "glyph": "א",
+          "name": "alaph"
+        },
+        {
+          "glyph": "מ",
+          "name": "meem"
+        },
+        {
+          "glyph": "ו",
+          "name": "waw"
+        },
+        {
+          "glyph": "ע",
+          "name": "e"
+        },
+        {
+          "glyph": "ח",
+          "name": "heth"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alaph'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'semkath'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'heth'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        }
+      ]
+    },
+    {
+      "id": "arc-p1-l25",
+      "title": "חזרה 22",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "צ",
+          "name": "sadhe"
+        },
+        {
+          "glyph": "א",
+          "name": "alaph"
+        },
+        {
+          "glyph": "ע",
+          "name": "e"
+        },
+        {
+          "glyph": "ח",
+          "name": "heth"
+        },
+        {
+          "glyph": "ש",
+          "name": "sheen"
+        },
+        {
+          "glyph": "ל",
+          "name": "lamadh"
+        },
+        {
+          "glyph": "ס",
+          "name": "semkath"
+        },
+        {
+          "glyph": "כ",
+          "name": "kaph"
+        },
+        {
+          "glyph": "ה",
+          "name": "heh"
+        },
+        {
+          "glyph": "ד",
+          "name": "dalath"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'heth'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alaph'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'semkath'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        }
+      ]
+    },
+    {
+      "id": "arc-p1-l26",
+      "title": "חזרה 23",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "י",
+          "name": "yodh"
+        },
+        {
+          "glyph": "א",
+          "name": "alaph"
+        },
+        {
+          "glyph": "ע",
+          "name": "e"
+        },
+        {
+          "glyph": "ה",
+          "name": "heh"
+        },
+        {
+          "glyph": "ד",
+          "name": "dalath"
+        },
+        {
+          "glyph": "פ",
+          "name": "peh"
+        },
+        {
+          "glyph": "מ",
+          "name": "meem"
+        },
+        {
+          "glyph": "ז",
+          "name": "zain"
+        },
+        {
+          "glyph": "ס",
+          "name": "semkath"
+        },
+        {
+          "glyph": "ל",
+          "name": "lamadh"
+        },
+        {
+          "glyph": "ר",
+          "name": "resh"
+        },
+        {
+          "glyph": "ט",
+          "name": "teth"
+        },
+        {
+          "glyph": "ק",
+          "name": "qoph"
+        },
+        {
+          "glyph": "ח",
+          "name": "heth"
+        },
+        {
+          "glyph": "ש",
+          "name": "sheen"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'semkath'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alaph'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'heth'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        }
+      ]
+    },
+    {
+      "id": "arc-p1-l27",
+      "title": "חזרה 24",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ק",
+          "name": "qoph"
+        },
+        {
+          "glyph": "צ",
+          "name": "sadhe"
+        },
+        {
+          "glyph": "ו",
+          "name": "waw"
+        },
+        {
+          "glyph": "מ",
+          "name": "meem"
+        },
+        {
+          "glyph": "ד",
+          "name": "dalath"
+        },
+        {
+          "glyph": "ר",
+          "name": "resh"
+        },
+        {
+          "glyph": "ז",
+          "name": "zain"
+        },
+        {
+          "glyph": "ג",
+          "name": "gamal"
+        },
+        {
+          "glyph": "ח",
+          "name": "heth"
+        },
+        {
+          "glyph": "ש",
+          "name": "sheen"
+        },
+        {
+          "glyph": "ט",
+          "name": "teth"
+        },
+        {
+          "glyph": "א",
+          "name": "alaph"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'heth'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'semkath'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alaph'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        }
+      ]
+    },
+    {
+      "id": "arc-p1-l28",
+      "title": "חזרה 25",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "נ",
+          "name": "noon"
+        },
+        {
+          "glyph": "ה",
+          "name": "heh"
+        },
+        {
+          "glyph": "י",
+          "name": "yodh"
+        },
+        {
+          "glyph": "כ",
+          "name": "kaph"
+        },
+        {
+          "glyph": "ח",
+          "name": "heth"
+        },
+        {
+          "glyph": "ש",
+          "name": "sheen"
+        },
+        {
+          "glyph": "ק",
+          "name": "qoph"
+        },
+        {
+          "glyph": "ל",
+          "name": "lamadh"
+        },
+        {
+          "glyph": "ר",
+          "name": "resh"
+        },
+        {
+          "glyph": "א",
+          "name": "alaph"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'heth'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'semkath'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        }
+      ]
+    },
+    {
+      "id": "arc-p1-l29",
+      "title": "חזרה 26",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ר",
+          "name": "resh"
+        },
+        {
+          "glyph": "ג",
+          "name": "gamal"
+        },
+        {
+          "glyph": "ש",
+          "name": "sheen"
+        },
+        {
+          "glyph": "ס",
+          "name": "semkath"
+        },
+        {
+          "glyph": "ח",
+          "name": "heth"
+        },
+        {
+          "glyph": "ל",
+          "name": "lamadh"
+        },
+        {
+          "glyph": "ט",
+          "name": "teth"
+        },
+        {
+          "glyph": "נ",
+          "name": "noon"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alaph'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'heth'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'semkath'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        }
+      ]
+    },
+    {
+      "id": "arc-p1-l30",
+      "title": "חזרה 27",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ע",
+          "name": "e"
+        },
+        {
+          "glyph": "צ",
+          "name": "sadhe"
+        },
+        {
+          "glyph": "י",
+          "name": "yodh"
+        },
+        {
+          "glyph": "ק",
+          "name": "qoph"
+        },
+        {
+          "glyph": "ס",
+          "name": "semkath"
+        },
+        {
+          "glyph": "ח",
+          "name": "heth"
+        },
+        {
+          "glyph": "ש",
+          "name": "sheen"
+        },
+        {
+          "glyph": "ו",
+          "name": "waw"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'semkath'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'heth'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alaph'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        }
+      ]
     }
   ]
 }

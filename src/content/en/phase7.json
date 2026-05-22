@@ -2189,6 +2189,5440 @@
           "answer": "Brown"
         }
       ]
+    },
+    {
+      "id": "en-p7-l41",
+      "title": "Review 1",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "The cat sat on the mat.",
+          "name": "sentence 1",
+          "exampleWord": "pet on rug"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What is the dog’s name?",
+          "options": [
+            "Spot",
+            "Rex",
+            "Buddy",
+            "Max"
+          ],
+          "answer": "Spot"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who gives milk?",
+          "options": [
+            "The cow",
+            "The dog",
+            "The sheep",
+            "The cat"
+          ],
+          "answer": "The cow"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What did they eat?",
+          "options": [
+            "Ice cream",
+            "Pizza",
+            "Cake",
+            "Cookies"
+          ],
+          "answer": "Ice cream"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l42",
+      "title": "Review 2",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        },
+        {
+          "glyph": "In the evening she does her homework.",
+          "name": "evening"
+        },
+        {
+          "glyph": "We played football and ate ice cream.",
+          "name": "play"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What did the fox see?",
+          "options": [
+            "Grapes",
+            "Apples",
+            "Plums",
+            "Honey"
+          ],
+          "answer": "Grapes"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What did the fox see?",
+          "options": [
+            "Grapes",
+            "Apples",
+            "Plums",
+            "Honey"
+          ],
+          "answer": "Grapes"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "When does she do homework?",
+          "options": [
+            "Evening",
+            "Morning",
+            "Lunch",
+            "Night"
+          ],
+          "answer": "Evening"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l43",
+      "title": "Review 3",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "We played football and ate ice cream.",
+          "name": "play"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What is the dog’s name?",
+          "options": [
+            "Spot",
+            "Rex",
+            "Buddy",
+            "Max"
+          ],
+          "answer": "Spot"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who gives milk?",
+          "options": [
+            "The cow",
+            "The dog",
+            "The sheep",
+            "The cat"
+          ],
+          "answer": "The cow"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l44",
+      "title": "Review 4",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        },
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "On the farm we see a brown cow, a black dog, and many white sheep.",
+          "name": "about animals"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What is the boy’s name?",
+          "options": [
+            "Ben",
+            "Sam",
+            "Jack",
+            "Tim"
+          ],
+          "answer": "Ben"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who sat on the mat?",
+          "options": [
+            "The cat",
+            "The dog",
+            "The bird",
+            "The fish"
+          ],
+          "answer": "The cat"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who gives milk?",
+          "options": [
+            "The cow",
+            "The dog",
+            "The sheep",
+            "The cat"
+          ],
+          "answer": "The cow"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l45",
+      "title": "Review 5",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "We played football and ate ice cream.",
+          "name": "play"
+        },
+        {
+          "glyph": "The cat sat on the mat.",
+          "name": "sentence 1",
+          "exampleWord": "pet on rug"
+        },
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "On the farm we see a brown cow, a black dog, and many white sheep.",
+          "name": "about animals"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who gives milk?",
+          "options": [
+            "The cow",
+            "The dog",
+            "The sheep",
+            "The cat"
+          ],
+          "answer": "The cow"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who sat on the mat?",
+          "options": [
+            "The cat",
+            "The dog",
+            "The bird",
+            "The fish"
+          ],
+          "answer": "The cat"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Where do birds fly?",
+          "options": [
+            "In the sky",
+            "In water",
+            "In sand",
+            "In bed"
+          ],
+          "answer": "In the sky"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l46",
+      "title": "Review 6",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who started the talk?",
+          "options": [
+            "Anna",
+            "Ben",
+            "Mom",
+            "Tom"
+          ],
+          "answer": "Anna"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who started the talk?",
+          "options": [
+            "Anna",
+            "Ben",
+            "Mom",
+            "Tom"
+          ],
+          "answer": "Anna"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l47",
+      "title": "Review 7",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        },
+        {
+          "glyph": "The cat sat on the mat.",
+          "name": "sentence 1",
+          "exampleWord": "pet on rug"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What is the dog’s name?",
+          "options": [
+            "Spot",
+            "Rex",
+            "Buddy",
+            "Max"
+          ],
+          "answer": "Spot"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What is the boy’s name?",
+          "options": [
+            "Ben",
+            "Sam",
+            "Jack",
+            "Tim"
+          ],
+          "answer": "Ben"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l48",
+      "title": "Review 8",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "We played football and ate ice cream.",
+          "name": "play"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What is the boy’s name?",
+          "options": [
+            "Ben",
+            "Sam",
+            "Jack",
+            "Tim"
+          ],
+          "answer": "Ben"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What is the dog’s name?",
+          "options": [
+            "Spot",
+            "Rex",
+            "Buddy",
+            "Max"
+          ],
+          "answer": "Spot"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l49",
+      "title": "Review 9",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What is the dog’s name?",
+          "options": [
+            "Spot",
+            "Rex",
+            "Buddy",
+            "Max"
+          ],
+          "answer": "Spot"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who gives milk?",
+          "options": [
+            "The cow",
+            "The dog",
+            "The sheep",
+            "The cat"
+          ],
+          "answer": "The cow"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l50",
+      "title": "Review 10",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "We played football and ate ice cream.",
+          "name": "play"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "When does she do homework?",
+          "options": [
+            "Evening",
+            "Morning",
+            "Lunch",
+            "Night"
+          ],
+          "answer": "Evening"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Where do birds fly?",
+          "options": [
+            "In the sky",
+            "In water",
+            "In sand",
+            "In bed"
+          ],
+          "answer": "In the sky"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "When does she do homework?",
+          "options": [
+            "Evening",
+            "Morning",
+            "Lunch",
+            "Night"
+          ],
+          "answer": "Evening"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l51",
+      "title": "Review 11",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "In the evening she does her homework.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is the ball?",
+          "options": [
+            "Red",
+            "Blue",
+            "Yellow",
+            "Green"
+          ],
+          "answer": "Red"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who sat on the mat?",
+          "options": [
+            "The cat",
+            "The dog",
+            "The bird",
+            "The fish"
+          ],
+          "answer": "The cat"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l52",
+      "title": "Review 12",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "We played football and ate ice cream.",
+          "name": "play"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What does Mira like the most?",
+          "options": [
+            "Maths",
+            "English",
+            "Music",
+            "Drawing"
+          ],
+          "answer": "Maths"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Where do birds fly?",
+          "options": [
+            "In the sky",
+            "In water",
+            "In sand",
+            "In bed"
+          ],
+          "answer": "In the sky"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l53",
+      "title": "Review 13",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "We played football and ate ice cream.",
+          "name": "play"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "On the farm we see a brown cow, a black dog, and many white sheep.",
+          "name": "about animals"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is the dog?",
+          "options": [
+            "Black",
+            "Brown",
+            "White",
+            "Grey"
+          ],
+          "answer": "Black"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What did the fox see?",
+          "options": [
+            "Grapes",
+            "Apples",
+            "Plums",
+            "Honey"
+          ],
+          "answer": "Grapes"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What is the boy’s name?",
+          "options": [
+            "Ben",
+            "Sam",
+            "Jack",
+            "Tim"
+          ],
+          "answer": "Ben"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l54",
+      "title": "Review 14",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        },
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        },
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        },
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        },
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "In the evening she does her homework.",
+          "name": "evening"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who sat on the mat?",
+          "options": [
+            "The cat",
+            "The dog",
+            "The bird",
+            "The fish"
+          ],
+          "answer": "The cat"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who sat on the mat?",
+          "options": [
+            "The cat",
+            "The dog",
+            "The bird",
+            "The fish"
+          ],
+          "answer": "The cat"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l55",
+      "title": "Review 15",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who started the talk?",
+          "options": [
+            "Anna",
+            "Ben",
+            "Mom",
+            "Tom"
+          ],
+          "answer": "Anna"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What did the fox see?",
+          "options": [
+            "Grapes",
+            "Apples",
+            "Plums",
+            "Honey"
+          ],
+          "answer": "Grapes"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Where do birds fly?",
+          "options": [
+            "In the sky",
+            "In water",
+            "In sand",
+            "In bed"
+          ],
+          "answer": "In the sky"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l56",
+      "title": "Review 16",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What does Mira like the most?",
+          "options": [
+            "Maths",
+            "English",
+            "Music",
+            "Drawing"
+          ],
+          "answer": "Maths"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What does Mira like the most?",
+          "options": [
+            "Maths",
+            "English",
+            "Music",
+            "Drawing"
+          ],
+          "answer": "Maths"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l57",
+      "title": "Review 17",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        },
+        {
+          "glyph": "On the farm we see a brown cow, a black dog, and many white sheep.",
+          "name": "about animals"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Could he reach them?",
+          "options": [
+            "No",
+            "Yes",
+            "Maybe",
+            "Only the small ones"
+          ],
+          "answer": "No"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who gives milk?",
+          "options": [
+            "The cow",
+            "The dog",
+            "The sheep",
+            "The cat"
+          ],
+          "answer": "The cow"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "When do they play?",
+          "options": [
+            "Every evening",
+            "Every morning",
+            "At night",
+            "At noon"
+          ],
+          "answer": "Every evening"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l58",
+      "title": "Review 18",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "On the farm we see a brown cow, a black dog, and many white sheep.",
+          "name": "about animals"
+        },
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        },
+        {
+          "glyph": "We played football and ate ice cream.",
+          "name": "play"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What is the boy’s name?",
+          "options": [
+            "Ben",
+            "Sam",
+            "Jack",
+            "Tim"
+          ],
+          "answer": "Ben"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who gives milk?",
+          "options": [
+            "The cow",
+            "The dog",
+            "The sheep",
+            "The cat"
+          ],
+          "answer": "The cow"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l59",
+      "title": "Review 19",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What does Mira like the most?",
+          "options": [
+            "Maths",
+            "English",
+            "Music",
+            "Drawing"
+          ],
+          "answer": "Maths"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What does Mira like the most?",
+          "options": [
+            "Maths",
+            "English",
+            "Music",
+            "Drawing"
+          ],
+          "answer": "Maths"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l60",
+      "title": "Review 20",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        },
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "The cat sat on the mat.",
+          "name": "sentence 1",
+          "exampleWord": "pet on rug"
+        },
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "On the farm we see a brown cow, a black dog, and many white sheep.",
+          "name": "about animals"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is Spot?",
+          "options": [
+            "Brown",
+            "Black",
+            "White",
+            "Grey"
+          ],
+          "answer": "Brown"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who started the talk?",
+          "options": [
+            "Anna",
+            "Ben",
+            "Mom",
+            "Tom"
+          ],
+          "answer": "Anna"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What is the boy’s name?",
+          "options": [
+            "Ben",
+            "Sam",
+            "Jack",
+            "Tim"
+          ],
+          "answer": "Ben"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l61",
+      "title": "Review 21",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        },
+        {
+          "glyph": "In the evening she does her homework.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is the ball?",
+          "options": [
+            "Red",
+            "Blue",
+            "Yellow",
+            "Green"
+          ],
+          "answer": "Red"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What does Mira like the most?",
+          "options": [
+            "Maths",
+            "English",
+            "Music",
+            "Drawing"
+          ],
+          "answer": "Maths"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l62",
+      "title": "Review 22",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "We played football and ate ice cream.",
+          "name": "play"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "We played football and ate ice cream.",
+          "name": "play"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is the ball?",
+          "options": [
+            "Red",
+            "Blue",
+            "Yellow",
+            "Green"
+          ],
+          "answer": "Red"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What did he say?",
+          "options": [
+            "They are sour",
+            "They are sweet",
+            "I am tired",
+            "I will try again"
+          ],
+          "answer": "They are sour"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What is the boy’s name?",
+          "options": [
+            "Ben",
+            "Sam",
+            "Jack",
+            "Tim"
+          ],
+          "answer": "Ben"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l63",
+      "title": "Review 23",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        },
+        {
+          "glyph": "The cat sat on the mat.",
+          "name": "sentence 1",
+          "exampleWord": "pet on rug"
+        },
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        },
+        {
+          "glyph": "We played football and ate ice cream.",
+          "name": "play"
+        },
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is the dog?",
+          "options": [
+            "Black",
+            "Brown",
+            "White",
+            "Grey"
+          ],
+          "answer": "Black"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What does Mira like the most?",
+          "options": [
+            "Maths",
+            "English",
+            "Music",
+            "Drawing"
+          ],
+          "answer": "Maths"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is the dog?",
+          "options": [
+            "Black",
+            "Brown",
+            "White",
+            "Grey"
+          ],
+          "answer": "Black"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l64",
+      "title": "Review 24",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        },
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "On the farm we see a brown cow, a black dog, and many white sheep.",
+          "name": "about animals"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "When do they play?",
+          "options": [
+            "Every evening",
+            "Every morning",
+            "At night",
+            "At noon"
+          ],
+          "answer": "Every evening"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is the ball?",
+          "options": [
+            "Red",
+            "Blue",
+            "Yellow",
+            "Green"
+          ],
+          "answer": "Red"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l65",
+      "title": "Review 25",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        },
+        {
+          "glyph": "The cat sat on the mat.",
+          "name": "sentence 1",
+          "exampleWord": "pet on rug"
+        },
+        {
+          "glyph": "On the farm we see a brown cow, a black dog, and many white sheep.",
+          "name": "about animals"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        },
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is Spot?",
+          "options": [
+            "Brown",
+            "Black",
+            "White",
+            "Grey"
+          ],
+          "answer": "Brown"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who gives milk?",
+          "options": [
+            "The cow",
+            "The dog",
+            "The sheep",
+            "The cat"
+          ],
+          "answer": "The cow"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l66",
+      "title": "Review 26",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        },
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Could he reach them?",
+          "options": [
+            "No",
+            "Yes",
+            "Maybe",
+            "Only the small ones"
+          ],
+          "answer": "No"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What is the dog’s name?",
+          "options": [
+            "Spot",
+            "Rex",
+            "Buddy",
+            "Max"
+          ],
+          "answer": "Spot"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l67",
+      "title": "Review 27",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "On the farm we see a brown cow, a black dog, and many white sheep.",
+          "name": "about animals"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "In the evening she does her homework.",
+          "name": "evening"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is the ball?",
+          "options": [
+            "Red",
+            "Blue",
+            "Yellow",
+            "Green"
+          ],
+          "answer": "Red"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "When does she do homework?",
+          "options": [
+            "Evening",
+            "Morning",
+            "Lunch",
+            "Night"
+          ],
+          "answer": "Evening"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What did the fox see?",
+          "options": [
+            "Grapes",
+            "Apples",
+            "Plums",
+            "Honey"
+          ],
+          "answer": "Grapes"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l68",
+      "title": "Review 28",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "We played football and ate ice cream.",
+          "name": "play"
+        },
+        {
+          "glyph": "We played football and ate ice cream.",
+          "name": "play"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        },
+        {
+          "glyph": "On the farm we see a brown cow, a black dog, and many white sheep.",
+          "name": "about animals"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Could he reach them?",
+          "options": [
+            "No",
+            "Yes",
+            "Maybe",
+            "Only the small ones"
+          ],
+          "answer": "No"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What did the fox see?",
+          "options": [
+            "Grapes",
+            "Apples",
+            "Plums",
+            "Honey"
+          ],
+          "answer": "Grapes"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l69",
+      "title": "Review 29",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "In the evening she does her homework.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        },
+        {
+          "glyph": "In the evening she does her homework.",
+          "name": "evening"
+        },
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is Spot?",
+          "options": [
+            "Brown",
+            "Black",
+            "White",
+            "Grey"
+          ],
+          "answer": "Brown"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Where do birds fly?",
+          "options": [
+            "In the sky",
+            "In water",
+            "In sand",
+            "In bed"
+          ],
+          "answer": "In the sky"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l70",
+      "title": "Review 30",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "The cat sat on the mat.",
+          "name": "sentence 1",
+          "exampleWord": "pet on rug"
+        },
+        {
+          "glyph": "We played football and ate ice cream.",
+          "name": "play"
+        },
+        {
+          "glyph": "We played football and ate ice cream.",
+          "name": "play"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who gives milk?",
+          "options": [
+            "The cow",
+            "The dog",
+            "The sheep",
+            "The cat"
+          ],
+          "answer": "The cow"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What does Mira like the most?",
+          "options": [
+            "Maths",
+            "English",
+            "Music",
+            "Drawing"
+          ],
+          "answer": "Maths"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l71",
+      "title": "Review 31",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "On the farm we see a brown cow, a black dog, and many white sheep.",
+          "name": "about animals"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "We played football and ate ice cream.",
+          "name": "play"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "We played football and ate ice cream.",
+          "name": "play"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who sat on the mat?",
+          "options": [
+            "The cat",
+            "The dog",
+            "The bird",
+            "The fish"
+          ],
+          "answer": "The cat"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is Spot?",
+          "options": [
+            "Brown",
+            "Black",
+            "White",
+            "Grey"
+          ],
+          "answer": "Brown"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l72",
+      "title": "Review 32",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "We played football and ate ice cream.",
+          "name": "play"
+        },
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "When does she do homework?",
+          "options": [
+            "Evening",
+            "Morning",
+            "Lunch",
+            "Night"
+          ],
+          "answer": "Evening"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What does Mira like the most?",
+          "options": [
+            "Maths",
+            "English",
+            "Music",
+            "Drawing"
+          ],
+          "answer": "Maths"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l73",
+      "title": "Review 33",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "The cat sat on the mat.",
+          "name": "sentence 1",
+          "exampleWord": "pet on rug"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "We played football and ate ice cream.",
+          "name": "play"
+        },
+        {
+          "glyph": "The cat sat on the mat.",
+          "name": "sentence 1",
+          "exampleWord": "pet on rug"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "When does she do homework?",
+          "options": [
+            "Evening",
+            "Morning",
+            "Lunch",
+            "Night"
+          ],
+          "answer": "Evening"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is the ball?",
+          "options": [
+            "Red",
+            "Blue",
+            "Yellow",
+            "Green"
+          ],
+          "answer": "Red"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who gives milk?",
+          "options": [
+            "The cow",
+            "The dog",
+            "The sheep",
+            "The cat"
+          ],
+          "answer": "The cow"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l74",
+      "title": "Review 34",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "In the evening she does her homework.",
+          "name": "evening"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who sat on the mat?",
+          "options": [
+            "The cat",
+            "The dog",
+            "The bird",
+            "The fish"
+          ],
+          "answer": "The cat"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is Spot?",
+          "options": [
+            "Brown",
+            "Black",
+            "White",
+            "Grey"
+          ],
+          "answer": "Brown"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l75",
+      "title": "Review 35",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        },
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "In the evening she does her homework.",
+          "name": "evening"
+        },
+        {
+          "glyph": "On the farm we see a brown cow, a black dog, and many white sheep.",
+          "name": "about animals"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        },
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who started the talk?",
+          "options": [
+            "Anna",
+            "Ben",
+            "Mom",
+            "Tom"
+          ],
+          "answer": "Anna"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is Spot?",
+          "options": [
+            "Brown",
+            "Black",
+            "White",
+            "Grey"
+          ],
+          "answer": "Brown"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l76",
+      "title": "Review 36",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        },
+        {
+          "glyph": "We played football and ate ice cream.",
+          "name": "play"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Could he reach them?",
+          "options": [
+            "No",
+            "Yes",
+            "Maybe",
+            "Only the small ones"
+          ],
+          "answer": "No"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "When does she do homework?",
+          "options": [
+            "Evening",
+            "Morning",
+            "Lunch",
+            "Night"
+          ],
+          "answer": "Evening"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is the ball?",
+          "options": [
+            "Red",
+            "Blue",
+            "Yellow",
+            "Green"
+          ],
+          "answer": "Red"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l77",
+      "title": "Review 37",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "On the farm we see a brown cow, a black dog, and many white sheep.",
+          "name": "about animals"
+        },
+        {
+          "glyph": "On the farm we see a brown cow, a black dog, and many white sheep.",
+          "name": "about animals"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who sat on the mat?",
+          "options": [
+            "The cat",
+            "The dog",
+            "The bird",
+            "The fish"
+          ],
+          "answer": "The cat"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who started the talk?",
+          "options": [
+            "Anna",
+            "Ben",
+            "Mom",
+            "Tom"
+          ],
+          "answer": "Anna"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l78",
+      "title": "Review 38",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "We played football and ate ice cream.",
+          "name": "play"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What does Mira like the most?",
+          "options": [
+            "Maths",
+            "English",
+            "Music",
+            "Drawing"
+          ],
+          "answer": "Maths"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is the dog?",
+          "options": [
+            "Black",
+            "Brown",
+            "White",
+            "Grey"
+          ],
+          "answer": "Black"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l79",
+      "title": "Review 39",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who gives milk?",
+          "options": [
+            "The cow",
+            "The dog",
+            "The sheep",
+            "The cat"
+          ],
+          "answer": "The cow"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Could he reach them?",
+          "options": [
+            "No",
+            "Yes",
+            "Maybe",
+            "Only the small ones"
+          ],
+          "answer": "No"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l80",
+      "title": "Review 40",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "In the evening she does her homework.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "The cat sat on the mat.",
+          "name": "sentence 1",
+          "exampleWord": "pet on rug"
+        },
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What did he say?",
+          "options": [
+            "They are sour",
+            "They are sweet",
+            "I am tired",
+            "I will try again"
+          ],
+          "answer": "They are sour"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who sat on the mat?",
+          "options": [
+            "The cat",
+            "The dog",
+            "The bird",
+            "The fish"
+          ],
+          "answer": "The cat"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Where do birds fly?",
+          "options": [
+            "In the sky",
+            "In water",
+            "In sand",
+            "In bed"
+          ],
+          "answer": "In the sky"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l81",
+      "title": "Review 41",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Could he reach them?",
+          "options": [
+            "No",
+            "Yes",
+            "Maybe",
+            "Only the small ones"
+          ],
+          "answer": "No"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Where do birds fly?",
+          "options": [
+            "In the sky",
+            "In water",
+            "In sand",
+            "In bed"
+          ],
+          "answer": "In the sky"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is the dog?",
+          "options": [
+            "Black",
+            "Brown",
+            "White",
+            "Grey"
+          ],
+          "answer": "Black"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l82",
+      "title": "Review 42",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "When do they play?",
+          "options": [
+            "Every evening",
+            "Every morning",
+            "At night",
+            "At noon"
+          ],
+          "answer": "Every evening"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is Spot?",
+          "options": [
+            "Brown",
+            "Black",
+            "White",
+            "Grey"
+          ],
+          "answer": "Brown"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l83",
+      "title": "Review 43",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "We played football and ate ice cream.",
+          "name": "play"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Could he reach them?",
+          "options": [
+            "No",
+            "Yes",
+            "Maybe",
+            "Only the small ones"
+          ],
+          "answer": "No"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is Spot?",
+          "options": [
+            "Brown",
+            "Black",
+            "White",
+            "Grey"
+          ],
+          "answer": "Brown"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l84",
+      "title": "Review 44",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "On the farm we see a brown cow, a black dog, and many white sheep.",
+          "name": "about animals"
+        },
+        {
+          "glyph": "The cat sat on the mat.",
+          "name": "sentence 1",
+          "exampleWord": "pet on rug"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "When do they play?",
+          "options": [
+            "Every evening",
+            "Every morning",
+            "At night",
+            "At noon"
+          ],
+          "answer": "Every evening"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What is the dog’s name?",
+          "options": [
+            "Spot",
+            "Rex",
+            "Buddy",
+            "Max"
+          ],
+          "answer": "Spot"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l85",
+      "title": "Review 45",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is Spot?",
+          "options": [
+            "Brown",
+            "Black",
+            "White",
+            "Grey"
+          ],
+          "answer": "Brown"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What did the fox see?",
+          "options": [
+            "Grapes",
+            "Apples",
+            "Plums",
+            "Honey"
+          ],
+          "answer": "Grapes"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l86",
+      "title": "Review 46",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "We played football and ate ice cream.",
+          "name": "play"
+        },
+        {
+          "glyph": "We played football and ate ice cream.",
+          "name": "play"
+        },
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        },
+        {
+          "glyph": "In the evening she does her homework.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "We played football and ate ice cream.",
+          "name": "play"
+        },
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What did he say?",
+          "options": [
+            "They are sour",
+            "They are sweet",
+            "I am tired",
+            "I will try again"
+          ],
+          "answer": "They are sour"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What does Mira like the most?",
+          "options": [
+            "Maths",
+            "English",
+            "Music",
+            "Drawing"
+          ],
+          "answer": "Maths"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is the dog?",
+          "options": [
+            "Black",
+            "Brown",
+            "White",
+            "Grey"
+          ],
+          "answer": "Black"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l87",
+      "title": "Review 47",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "In the evening she does her homework.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is Spot?",
+          "options": [
+            "Brown",
+            "Black",
+            "White",
+            "Grey"
+          ],
+          "answer": "Brown"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What did they eat?",
+          "options": [
+            "Ice cream",
+            "Pizza",
+            "Cake",
+            "Cookies"
+          ],
+          "answer": "Ice cream"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who started the talk?",
+          "options": [
+            "Anna",
+            "Ben",
+            "Mom",
+            "Tom"
+          ],
+          "answer": "Anna"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l88",
+      "title": "Review 48",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "In the evening she does her homework.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "On the farm we see a brown cow, a black dog, and many white sheep.",
+          "name": "about animals"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "On the farm we see a brown cow, a black dog, and many white sheep.",
+          "name": "about animals"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "The cat sat on the mat.",
+          "name": "sentence 1",
+          "exampleWord": "pet on rug"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is Spot?",
+          "options": [
+            "Brown",
+            "Black",
+            "White",
+            "Grey"
+          ],
+          "answer": "Brown"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What is the dog’s name?",
+          "options": [
+            "Spot",
+            "Rex",
+            "Buddy",
+            "Max"
+          ],
+          "answer": "Spot"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is the dog?",
+          "options": [
+            "Black",
+            "Brown",
+            "White",
+            "Grey"
+          ],
+          "answer": "Black"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l89",
+      "title": "Review 49",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who started the talk?",
+          "options": [
+            "Anna",
+            "Ben",
+            "Mom",
+            "Tom"
+          ],
+          "answer": "Anna"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is the dog?",
+          "options": [
+            "Black",
+            "Brown",
+            "White",
+            "Grey"
+          ],
+          "answer": "Black"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l90",
+      "title": "Review 50",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "We played football and ate ice cream.",
+          "name": "play"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        },
+        {
+          "glyph": "On the farm we see a brown cow, a black dog, and many white sheep.",
+          "name": "about animals"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        },
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who gives milk?",
+          "options": [
+            "The cow",
+            "The dog",
+            "The sheep",
+            "The cat"
+          ],
+          "answer": "The cow"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Could he reach them?",
+          "options": [
+            "No",
+            "Yes",
+            "Maybe",
+            "Only the small ones"
+          ],
+          "answer": "No"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l91",
+      "title": "Review 51",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "In the evening she does her homework.",
+          "name": "evening"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "In the evening she does her homework.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        },
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is the dog?",
+          "options": [
+            "Black",
+            "Brown",
+            "White",
+            "Grey"
+          ],
+          "answer": "Black"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What did they eat?",
+          "options": [
+            "Ice cream",
+            "Pizza",
+            "Cake",
+            "Cookies"
+          ],
+          "answer": "Ice cream"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l92",
+      "title": "Review 52",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "The cat sat on the mat.",
+          "name": "sentence 1",
+          "exampleWord": "pet on rug"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "When do they play?",
+          "options": [
+            "Every evening",
+            "Every morning",
+            "At night",
+            "At noon"
+          ],
+          "answer": "Every evening"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who started the talk?",
+          "options": [
+            "Anna",
+            "Ben",
+            "Mom",
+            "Tom"
+          ],
+          "answer": "Anna"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l93",
+      "title": "Review 53",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "On the farm we see a brown cow, a black dog, and many white sheep.",
+          "name": "about animals"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is the ball?",
+          "options": [
+            "Red",
+            "Blue",
+            "Yellow",
+            "Green"
+          ],
+          "answer": "Red"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What did they eat?",
+          "options": [
+            "Ice cream",
+            "Pizza",
+            "Cake",
+            "Cookies"
+          ],
+          "answer": "Ice cream"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l94",
+      "title": "Review 54",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        },
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        },
+        {
+          "glyph": "We played football and ate ice cream.",
+          "name": "play"
+        },
+        {
+          "glyph": "On the farm we see a brown cow, a black dog, and many white sheep.",
+          "name": "about animals"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "When do they play?",
+          "options": [
+            "Every evening",
+            "Every morning",
+            "At night",
+            "At noon"
+          ],
+          "answer": "Every evening"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "When does she do homework?",
+          "options": [
+            "Evening",
+            "Morning",
+            "Lunch",
+            "Night"
+          ],
+          "answer": "Evening"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What is the dog’s name?",
+          "options": [
+            "Spot",
+            "Rex",
+            "Buddy",
+            "Max"
+          ],
+          "answer": "Spot"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l95",
+      "title": "Review 55",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is the dog?",
+          "options": [
+            "Black",
+            "Brown",
+            "White",
+            "Grey"
+          ],
+          "answer": "Black"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who gives milk?",
+          "options": [
+            "The cow",
+            "The dog",
+            "The sheep",
+            "The cat"
+          ],
+          "answer": "The cow"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l96",
+      "title": "Review 56",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who gives milk?",
+          "options": [
+            "The cow",
+            "The dog",
+            "The sheep",
+            "The cat"
+          ],
+          "answer": "The cow"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Could he reach them?",
+          "options": [
+            "No",
+            "Yes",
+            "Maybe",
+            "Only the small ones"
+          ],
+          "answer": "No"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What does Mira like the most?",
+          "options": [
+            "Maths",
+            "English",
+            "Music",
+            "Drawing"
+          ],
+          "answer": "Maths"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l97",
+      "title": "Review 57",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        },
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        },
+        {
+          "glyph": "We played football and ate ice cream.",
+          "name": "play"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is Spot?",
+          "options": [
+            "Brown",
+            "Black",
+            "White",
+            "Grey"
+          ],
+          "answer": "Brown"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is the ball?",
+          "options": [
+            "Red",
+            "Blue",
+            "Yellow",
+            "Green"
+          ],
+          "answer": "Red"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l98",
+      "title": "Review 58",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "The cat sat on the mat.",
+          "name": "sentence 1",
+          "exampleWord": "pet on rug"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who gives milk?",
+          "options": [
+            "The cow",
+            "The dog",
+            "The sheep",
+            "The cat"
+          ],
+          "answer": "The cow"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is the ball?",
+          "options": [
+            "Red",
+            "Blue",
+            "Yellow",
+            "Green"
+          ],
+          "answer": "Red"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l99",
+      "title": "Review 59",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "The cat sat on the mat.",
+          "name": "sentence 1",
+          "exampleWord": "pet on rug"
+        },
+        {
+          "glyph": "On the farm we see a brown cow, a black dog, and many white sheep.",
+          "name": "about animals"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "The dog watches the sheep.",
+          "name": "dog"
+        },
+        {
+          "glyph": "In the evening she does her homework.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        },
+        {
+          "glyph": "Mira goes to school every morning. She likes maths the most.",
+          "name": "school"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        },
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What did they eat?",
+          "options": [
+            "Ice cream",
+            "Pizza",
+            "Cake",
+            "Cookies"
+          ],
+          "answer": "Ice cream"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What did the fox see?",
+          "options": [
+            "Grapes",
+            "Apples",
+            "Plums",
+            "Honey"
+          ],
+          "answer": "Grapes"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l100",
+      "title": "Review 60",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "The cow gives milk every morning.",
+          "name": "milk"
+        },
+        {
+          "glyph": "On Sunday we went to the park. There were tall trees and bright flowers.",
+          "name": "setting"
+        },
+        {
+          "glyph": "At lunch she eats with her friends.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "On the farm we see a brown cow, a black dog, and many white sheep.",
+          "name": "about animals"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Birds were singing in the sky.",
+          "name": "birds"
+        },
+        {
+          "glyph": "The cat sat on the mat.",
+          "name": "sentence 1",
+          "exampleWord": "pet on rug"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        },
+        {
+          "glyph": "We played football and ate ice cream.",
+          "name": "play"
+        },
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What did he say?",
+          "options": [
+            "They are sour",
+            "They are sweet",
+            "I am tired",
+            "I will try again"
+          ],
+          "answer": "They are sour"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What does Mira like the most?",
+          "options": [
+            "Maths",
+            "English",
+            "Music",
+            "Drawing"
+          ],
+          "answer": "Maths"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What did he say?",
+          "options": [
+            "They are sour",
+            "They are sweet",
+            "I am tired",
+            "I will try again"
+          ],
+          "answer": "They are sour"
+        }
+      ]
     }
   ]
 }

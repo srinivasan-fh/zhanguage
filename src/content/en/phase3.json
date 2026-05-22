@@ -2455,6 +2455,5675 @@
           "answer": "pie"
         }
       ]
+    },
+    {
+      "id": "en-p3-l41",
+      "title": "Review 1",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "jam",
+          "name": "jam",
+          "exampleWord": "on bread"
+        },
+        {
+          "glyph": "fox",
+          "name": "fox",
+          "exampleWord": "red tail"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "leg",
+          "name": "leg",
+          "exampleWord": "for walking"
+        },
+        {
+          "glyph": "hut",
+          "name": "hut",
+          "exampleWord": "small home"
+        },
+        {
+          "glyph": "cat",
+          "name": "cat",
+          "exampleWord": "meow"
+        },
+        {
+          "glyph": "fox",
+          "name": "fox",
+          "exampleWord": "red tail"
+        },
+        {
+          "glyph": "ant",
+          "name": "ant",
+          "exampleWord": "small bug"
+        },
+        {
+          "glyph": "ham",
+          "name": "ham",
+          "exampleWord": "salty meat"
+        },
+        {
+          "glyph": "gum",
+          "name": "gum",
+          "exampleWord": "in your mouth"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'for hearing'?",
+          "options": [
+            "ear",
+            "eye",
+            "lip",
+            "arm"
+          ],
+          "answer": "ear"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l42",
+      "title": "Review 2",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "oil",
+          "name": "oil",
+          "exampleWord": "used in cooking"
+        },
+        {
+          "glyph": "hat",
+          "name": "hat",
+          "exampleWord": "on the head"
+        },
+        {
+          "glyph": "pie",
+          "name": "pie",
+          "exampleWord": "sweet treat"
+        },
+        {
+          "glyph": "sea",
+          "name": "sea",
+          "exampleWord": "big salty water"
+        },
+        {
+          "glyph": "sky",
+          "name": "sky",
+          "exampleWord": "up above"
+        },
+        {
+          "glyph": "pea",
+          "name": "pea",
+          "exampleWord": "green ball"
+        },
+        {
+          "glyph": "sky",
+          "name": "sky",
+          "exampleWord": "up above"
+        },
+        {
+          "glyph": "fox",
+          "name": "fox",
+          "exampleWord": "red tail"
+        },
+        {
+          "glyph": "owl",
+          "name": "owl",
+          "exampleWord": "hoots at night"
+        },
+        {
+          "glyph": "jaw",
+          "name": "jaw",
+          "exampleWord": "lower face"
+        },
+        {
+          "glyph": "gum",
+          "name": "gum",
+          "exampleWord": "in your mouth"
+        },
+        {
+          "glyph": "pea",
+          "name": "pea",
+          "exampleWord": "green ball"
+        },
+        {
+          "glyph": "ant",
+          "name": "ant",
+          "exampleWord": "small bug"
+        },
+        {
+          "glyph": "gum",
+          "name": "gum",
+          "exampleWord": "in your mouth"
+        },
+        {
+          "glyph": "cow",
+          "name": "cow",
+          "exampleWord": "moo"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l43",
+      "title": "Review 3",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "sky",
+          "name": "sky",
+          "exampleWord": "up above"
+        },
+        {
+          "glyph": "ham",
+          "name": "ham",
+          "exampleWord": "salty meat"
+        },
+        {
+          "glyph": "ice",
+          "name": "ice",
+          "exampleWord": "frozen water"
+        },
+        {
+          "glyph": "hat",
+          "name": "hat",
+          "exampleWord": "on the head"
+        },
+        {
+          "glyph": "ham",
+          "name": "ham",
+          "exampleWord": "salty meat"
+        },
+        {
+          "glyph": "jam",
+          "name": "jam",
+          "exampleWord": "on bread"
+        },
+        {
+          "glyph": "fog",
+          "name": "fog",
+          "exampleWord": "cloudy ground"
+        },
+        {
+          "glyph": "jam",
+          "name": "jam",
+          "exampleWord": "on bread"
+        },
+        {
+          "glyph": "pig",
+          "name": "pig",
+          "exampleWord": "oink"
+        },
+        {
+          "glyph": "tea",
+          "name": "tea",
+          "exampleWord": "hot drink"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'small bug'?",
+          "options": [
+            "ant",
+            "bee",
+            "cat",
+            "cow"
+          ],
+          "answer": "ant"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l44",
+      "title": "Review 4",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "cat",
+          "name": "cat",
+          "exampleWord": "meow"
+        },
+        {
+          "glyph": "rat",
+          "name": "rat",
+          "exampleWord": "small grey"
+        },
+        {
+          "glyph": "pie",
+          "name": "pie",
+          "exampleWord": "sweet treat"
+        },
+        {
+          "glyph": "ice",
+          "name": "ice",
+          "exampleWord": "frozen water"
+        },
+        {
+          "glyph": "cow",
+          "name": "cow",
+          "exampleWord": "moo"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "toe",
+          "name": "toe",
+          "exampleWord": "on foot"
+        },
+        {
+          "glyph": "owl",
+          "name": "owl",
+          "exampleWord": "hoots at night"
+        },
+        {
+          "glyph": "pea",
+          "name": "pea",
+          "exampleWord": "green ball"
+        },
+        {
+          "glyph": "gum",
+          "name": "gum",
+          "exampleWord": "in your mouth"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'small bug'?",
+          "options": [
+            "ant",
+            "bee",
+            "cat",
+            "cow"
+          ],
+          "answer": "ant"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l45",
+      "title": "Review 5",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "oil",
+          "name": "oil",
+          "exampleWord": "used in cooking"
+        },
+        {
+          "glyph": "hip",
+          "name": "hip",
+          "exampleWord": "side body"
+        },
+        {
+          "glyph": "dog",
+          "name": "dog",
+          "exampleWord": "woof"
+        },
+        {
+          "glyph": "ear",
+          "name": "ear",
+          "exampleWord": "for hearing"
+        },
+        {
+          "glyph": "pea",
+          "name": "pea",
+          "exampleWord": "green ball"
+        },
+        {
+          "glyph": "log",
+          "name": "log",
+          "exampleWord": "piece of wood"
+        },
+        {
+          "glyph": "dew",
+          "name": "dew",
+          "exampleWord": "wet grass"
+        },
+        {
+          "glyph": "gum",
+          "name": "gum",
+          "exampleWord": "in your mouth"
+        },
+        {
+          "glyph": "rat",
+          "name": "rat",
+          "exampleWord": "small grey"
+        },
+        {
+          "glyph": "rat",
+          "name": "rat",
+          "exampleWord": "small grey"
+        },
+        {
+          "glyph": "ant",
+          "name": "ant",
+          "exampleWord": "small bug"
+        },
+        {
+          "glyph": "owl",
+          "name": "owl",
+          "exampleWord": "hoots at night"
+        },
+        {
+          "glyph": "jam",
+          "name": "jam",
+          "exampleWord": "on bread"
+        },
+        {
+          "glyph": "sky",
+          "name": "sky",
+          "exampleWord": "up above"
+        },
+        {
+          "glyph": "dew",
+          "name": "dew",
+          "exampleWord": "wet grass"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l46",
+      "title": "Review 6",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "jaw",
+          "name": "jaw",
+          "exampleWord": "lower face"
+        },
+        {
+          "glyph": "hip",
+          "name": "hip",
+          "exampleWord": "side body"
+        },
+        {
+          "glyph": "eye",
+          "name": "eye",
+          "exampleWord": "for seeing"
+        },
+        {
+          "glyph": "eye",
+          "name": "eye",
+          "exampleWord": "for seeing"
+        },
+        {
+          "glyph": "sea",
+          "name": "sea",
+          "exampleWord": "big salty water"
+        },
+        {
+          "glyph": "egg",
+          "name": "egg",
+          "exampleWord": "from a hen"
+        },
+        {
+          "glyph": "fig",
+          "name": "fig",
+          "exampleWord": "small fruit"
+        },
+        {
+          "glyph": "hip",
+          "name": "hip",
+          "exampleWord": "side body"
+        },
+        {
+          "glyph": "sea",
+          "name": "sea",
+          "exampleWord": "big salty water"
+        },
+        {
+          "glyph": "mud",
+          "name": "mud",
+          "exampleWord": "wet earth"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'small bug'?",
+          "options": [
+            "ant",
+            "bee",
+            "cat",
+            "cow"
+          ],
+          "answer": "ant"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l47",
+      "title": "Review 7",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "rat",
+          "name": "rat",
+          "exampleWord": "small grey"
+        },
+        {
+          "glyph": "cow",
+          "name": "cow",
+          "exampleWord": "moo"
+        },
+        {
+          "glyph": "fig",
+          "name": "fig",
+          "exampleWord": "small fruit"
+        },
+        {
+          "glyph": "bee",
+          "name": "bee",
+          "exampleWord": "makes honey"
+        },
+        {
+          "glyph": "cow",
+          "name": "cow",
+          "exampleWord": "moo"
+        },
+        {
+          "glyph": "egg",
+          "name": "egg",
+          "exampleWord": "from a hen"
+        },
+        {
+          "glyph": "fox",
+          "name": "fox",
+          "exampleWord": "red tail"
+        },
+        {
+          "glyph": "fox",
+          "name": "fox",
+          "exampleWord": "red tail"
+        },
+        {
+          "glyph": "ice",
+          "name": "ice",
+          "exampleWord": "frozen water"
+        },
+        {
+          "glyph": "ear",
+          "name": "ear",
+          "exampleWord": "for hearing"
+        },
+        {
+          "glyph": "bun",
+          "name": "bun",
+          "exampleWord": "soft bread"
+        },
+        {
+          "glyph": "dew",
+          "name": "dew",
+          "exampleWord": "wet grass"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l48",
+      "title": "Review 8",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "gum",
+          "name": "gum",
+          "exampleWord": "in your mouth"
+        },
+        {
+          "glyph": "log",
+          "name": "log",
+          "exampleWord": "piece of wood"
+        },
+        {
+          "glyph": "toe",
+          "name": "toe",
+          "exampleWord": "on foot"
+        },
+        {
+          "glyph": "gum",
+          "name": "gum",
+          "exampleWord": "in your mouth"
+        },
+        {
+          "glyph": "gum",
+          "name": "gum",
+          "exampleWord": "in your mouth"
+        },
+        {
+          "glyph": "jaw",
+          "name": "jaw",
+          "exampleWord": "lower face"
+        },
+        {
+          "glyph": "bun",
+          "name": "bun",
+          "exampleWord": "soft bread"
+        },
+        {
+          "glyph": "gum",
+          "name": "gum",
+          "exampleWord": "in your mouth"
+        },
+        {
+          "glyph": "hip",
+          "name": "hip",
+          "exampleWord": "side body"
+        },
+        {
+          "glyph": "owl",
+          "name": "owl",
+          "exampleWord": "hoots at night"
+        },
+        {
+          "glyph": "fox",
+          "name": "fox",
+          "exampleWord": "red tail"
+        },
+        {
+          "glyph": "hat",
+          "name": "hat",
+          "exampleWord": "on the head"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l49",
+      "title": "Review 9",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ice",
+          "name": "ice",
+          "exampleWord": "frozen water"
+        },
+        {
+          "glyph": "fig",
+          "name": "fig",
+          "exampleWord": "small fruit"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "cow",
+          "name": "cow",
+          "exampleWord": "moo"
+        },
+        {
+          "glyph": "hen",
+          "name": "hen",
+          "exampleWord": "lays eggs"
+        },
+        {
+          "glyph": "ear",
+          "name": "ear",
+          "exampleWord": "for hearing"
+        },
+        {
+          "glyph": "gum",
+          "name": "gum",
+          "exampleWord": "in your mouth"
+        },
+        {
+          "glyph": "ham",
+          "name": "ham",
+          "exampleWord": "salty meat"
+        },
+        {
+          "glyph": "rat",
+          "name": "rat",
+          "exampleWord": "small grey"
+        },
+        {
+          "glyph": "fog",
+          "name": "fog",
+          "exampleWord": "cloudy ground"
+        },
+        {
+          "glyph": "egg",
+          "name": "egg",
+          "exampleWord": "from a hen"
+        },
+        {
+          "glyph": "jam",
+          "name": "jam",
+          "exampleWord": "on bread"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'for hearing'?",
+          "options": [
+            "ear",
+            "eye",
+            "lip",
+            "arm"
+          ],
+          "answer": "ear"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l50",
+      "title": "Review 10",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "gum",
+          "name": "gum",
+          "exampleWord": "in your mouth"
+        },
+        {
+          "glyph": "hen",
+          "name": "hen",
+          "exampleWord": "lays eggs"
+        },
+        {
+          "glyph": "egg",
+          "name": "egg",
+          "exampleWord": "from a hen"
+        },
+        {
+          "glyph": "lip",
+          "name": "lip",
+          "exampleWord": "around mouth"
+        },
+        {
+          "glyph": "ham",
+          "name": "ham",
+          "exampleWord": "salty meat"
+        },
+        {
+          "glyph": "dog",
+          "name": "dog",
+          "exampleWord": "woof"
+        },
+        {
+          "glyph": "ant",
+          "name": "ant",
+          "exampleWord": "small bug"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "bun",
+          "name": "bun",
+          "exampleWord": "soft bread"
+        },
+        {
+          "glyph": "log",
+          "name": "log",
+          "exampleWord": "piece of wood"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l51",
+      "title": "Review 11",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "fig",
+          "name": "fig",
+          "exampleWord": "small fruit"
+        },
+        {
+          "glyph": "pie",
+          "name": "pie",
+          "exampleWord": "sweet treat"
+        },
+        {
+          "glyph": "pie",
+          "name": "pie",
+          "exampleWord": "sweet treat"
+        },
+        {
+          "glyph": "ear",
+          "name": "ear",
+          "exampleWord": "for hearing"
+        },
+        {
+          "glyph": "jam",
+          "name": "jam",
+          "exampleWord": "on bread"
+        },
+        {
+          "glyph": "jaw",
+          "name": "jaw",
+          "exampleWord": "lower face"
+        },
+        {
+          "glyph": "cow",
+          "name": "cow",
+          "exampleWord": "moo"
+        },
+        {
+          "glyph": "owl",
+          "name": "owl",
+          "exampleWord": "hoots at night"
+        },
+        {
+          "glyph": "ice",
+          "name": "ice",
+          "exampleWord": "frozen water"
+        },
+        {
+          "glyph": "eye",
+          "name": "eye",
+          "exampleWord": "for seeing"
+        },
+        {
+          "glyph": "cat",
+          "name": "cat",
+          "exampleWord": "meow"
+        },
+        {
+          "glyph": "fog",
+          "name": "fog",
+          "exampleWord": "cloudy ground"
+        },
+        {
+          "glyph": "ham",
+          "name": "ham",
+          "exampleWord": "salty meat"
+        },
+        {
+          "glyph": "owl",
+          "name": "owl",
+          "exampleWord": "hoots at night"
+        },
+        {
+          "glyph": "rat",
+          "name": "rat",
+          "exampleWord": "small grey"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l52",
+      "title": "Review 12",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "bun",
+          "name": "bun",
+          "exampleWord": "soft bread"
+        },
+        {
+          "glyph": "pie",
+          "name": "pie",
+          "exampleWord": "sweet treat"
+        },
+        {
+          "glyph": "arm",
+          "name": "arm",
+          "exampleWord": "for hugging"
+        },
+        {
+          "glyph": "sun",
+          "name": "sun",
+          "exampleWord": "shines by day"
+        },
+        {
+          "glyph": "ear",
+          "name": "ear",
+          "exampleWord": "for hearing"
+        },
+        {
+          "glyph": "bay",
+          "name": "bay",
+          "exampleWord": "curve of sea"
+        },
+        {
+          "glyph": "oil",
+          "name": "oil",
+          "exampleWord": "used in cooking"
+        },
+        {
+          "glyph": "bun",
+          "name": "bun",
+          "exampleWord": "soft bread"
+        },
+        {
+          "glyph": "fig",
+          "name": "fig",
+          "exampleWord": "small fruit"
+        },
+        {
+          "glyph": "ice",
+          "name": "ice",
+          "exampleWord": "frozen water"
+        },
+        {
+          "glyph": "dog",
+          "name": "dog",
+          "exampleWord": "woof"
+        },
+        {
+          "glyph": "sea",
+          "name": "sea",
+          "exampleWord": "big salty water"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'for hearing'?",
+          "options": [
+            "ear",
+            "eye",
+            "lip",
+            "arm"
+          ],
+          "answer": "ear"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l53",
+      "title": "Review 13",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "sky",
+          "name": "sky",
+          "exampleWord": "up above"
+        },
+        {
+          "glyph": "log",
+          "name": "log",
+          "exampleWord": "piece of wood"
+        },
+        {
+          "glyph": "gum",
+          "name": "gum",
+          "exampleWord": "in your mouth"
+        },
+        {
+          "glyph": "hat",
+          "name": "hat",
+          "exampleWord": "on the head"
+        },
+        {
+          "glyph": "pea",
+          "name": "pea",
+          "exampleWord": "green ball"
+        },
+        {
+          "glyph": "gum",
+          "name": "gum",
+          "exampleWord": "in your mouth"
+        },
+        {
+          "glyph": "oil",
+          "name": "oil",
+          "exampleWord": "used in cooking"
+        },
+        {
+          "glyph": "pea",
+          "name": "pea",
+          "exampleWord": "green ball"
+        },
+        {
+          "glyph": "ant",
+          "name": "ant",
+          "exampleWord": "small bug"
+        },
+        {
+          "glyph": "toe",
+          "name": "toe",
+          "exampleWord": "on foot"
+        },
+        {
+          "glyph": "hip",
+          "name": "hip",
+          "exampleWord": "side body"
+        },
+        {
+          "glyph": "ice",
+          "name": "ice",
+          "exampleWord": "frozen water"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'for hearing'?",
+          "options": [
+            "ear",
+            "eye",
+            "lip",
+            "arm"
+          ],
+          "answer": "ear"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l54",
+      "title": "Review 14",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "oil",
+          "name": "oil",
+          "exampleWord": "used in cooking"
+        },
+        {
+          "glyph": "jaw",
+          "name": "jaw",
+          "exampleWord": "lower face"
+        },
+        {
+          "glyph": "mud",
+          "name": "mud",
+          "exampleWord": "wet earth"
+        },
+        {
+          "glyph": "hip",
+          "name": "hip",
+          "exampleWord": "side body"
+        },
+        {
+          "glyph": "jam",
+          "name": "jam",
+          "exampleWord": "on bread"
+        },
+        {
+          "glyph": "pea",
+          "name": "pea",
+          "exampleWord": "green ball"
+        },
+        {
+          "glyph": "ham",
+          "name": "ham",
+          "exampleWord": "salty meat"
+        },
+        {
+          "glyph": "sun",
+          "name": "sun",
+          "exampleWord": "shines by day"
+        },
+        {
+          "glyph": "pig",
+          "name": "pig",
+          "exampleWord": "oink"
+        },
+        {
+          "glyph": "mud",
+          "name": "mud",
+          "exampleWord": "wet earth"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "toe",
+          "name": "toe",
+          "exampleWord": "on foot"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'for hearing'?",
+          "options": [
+            "ear",
+            "eye",
+            "lip",
+            "arm"
+          ],
+          "answer": "ear"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l55",
+      "title": "Review 15",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "leg",
+          "name": "leg",
+          "exampleWord": "for walking"
+        },
+        {
+          "glyph": "pea",
+          "name": "pea",
+          "exampleWord": "green ball"
+        },
+        {
+          "glyph": "hip",
+          "name": "hip",
+          "exampleWord": "side body"
+        },
+        {
+          "glyph": "gum",
+          "name": "gum",
+          "exampleWord": "in your mouth"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "ear",
+          "name": "ear",
+          "exampleWord": "for hearing"
+        },
+        {
+          "glyph": "cow",
+          "name": "cow",
+          "exampleWord": "moo"
+        },
+        {
+          "glyph": "arm",
+          "name": "arm",
+          "exampleWord": "for hugging"
+        },
+        {
+          "glyph": "oil",
+          "name": "oil",
+          "exampleWord": "used in cooking"
+        },
+        {
+          "glyph": "fog",
+          "name": "fog",
+          "exampleWord": "cloudy ground"
+        },
+        {
+          "glyph": "sun",
+          "name": "sun",
+          "exampleWord": "shines by day"
+        },
+        {
+          "glyph": "cow",
+          "name": "cow",
+          "exampleWord": "moo"
+        },
+        {
+          "glyph": "gum",
+          "name": "gum",
+          "exampleWord": "in your mouth"
+        },
+        {
+          "glyph": "bee",
+          "name": "bee",
+          "exampleWord": "makes honey"
+        },
+        {
+          "glyph": "dew",
+          "name": "dew",
+          "exampleWord": "wet grass"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'for hearing'?",
+          "options": [
+            "ear",
+            "eye",
+            "lip",
+            "arm"
+          ],
+          "answer": "ear"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l56",
+      "title": "Review 16",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "oil",
+          "name": "oil",
+          "exampleWord": "used in cooking"
+        },
+        {
+          "glyph": "ice",
+          "name": "ice",
+          "exampleWord": "frozen water"
+        },
+        {
+          "glyph": "jam",
+          "name": "jam",
+          "exampleWord": "on bread"
+        },
+        {
+          "glyph": "oil",
+          "name": "oil",
+          "exampleWord": "used in cooking"
+        },
+        {
+          "glyph": "oil",
+          "name": "oil",
+          "exampleWord": "used in cooking"
+        },
+        {
+          "glyph": "hen",
+          "name": "hen",
+          "exampleWord": "lays eggs"
+        },
+        {
+          "glyph": "hat",
+          "name": "hat",
+          "exampleWord": "on the head"
+        },
+        {
+          "glyph": "bun",
+          "name": "bun",
+          "exampleWord": "soft bread"
+        },
+        {
+          "glyph": "fox",
+          "name": "fox",
+          "exampleWord": "red tail"
+        },
+        {
+          "glyph": "oil",
+          "name": "oil",
+          "exampleWord": "used in cooking"
+        },
+        {
+          "glyph": "fox",
+          "name": "fox",
+          "exampleWord": "red tail"
+        },
+        {
+          "glyph": "cat",
+          "name": "cat",
+          "exampleWord": "meow"
+        },
+        {
+          "glyph": "ice",
+          "name": "ice",
+          "exampleWord": "frozen water"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "pie",
+          "name": "pie",
+          "exampleWord": "sweet treat"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l57",
+      "title": "Review 17",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "cat",
+          "name": "cat",
+          "exampleWord": "meow"
+        },
+        {
+          "glyph": "rat",
+          "name": "rat",
+          "exampleWord": "small grey"
+        },
+        {
+          "glyph": "ear",
+          "name": "ear",
+          "exampleWord": "for hearing"
+        },
+        {
+          "glyph": "ham",
+          "name": "ham",
+          "exampleWord": "salty meat"
+        },
+        {
+          "glyph": "oil",
+          "name": "oil",
+          "exampleWord": "used in cooking"
+        },
+        {
+          "glyph": "leg",
+          "name": "leg",
+          "exampleWord": "for walking"
+        },
+        {
+          "glyph": "leg",
+          "name": "leg",
+          "exampleWord": "for walking"
+        },
+        {
+          "glyph": "fog",
+          "name": "fog",
+          "exampleWord": "cloudy ground"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'small bug'?",
+          "options": [
+            "ant",
+            "bee",
+            "cat",
+            "cow"
+          ],
+          "answer": "ant"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l58",
+      "title": "Review 18",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "fog",
+          "name": "fog",
+          "exampleWord": "cloudy ground"
+        },
+        {
+          "glyph": "eye",
+          "name": "eye",
+          "exampleWord": "for seeing"
+        },
+        {
+          "glyph": "egg",
+          "name": "egg",
+          "exampleWord": "from a hen"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "arm",
+          "name": "arm",
+          "exampleWord": "for hugging"
+        },
+        {
+          "glyph": "fox",
+          "name": "fox",
+          "exampleWord": "red tail"
+        },
+        {
+          "glyph": "owl",
+          "name": "owl",
+          "exampleWord": "hoots at night"
+        },
+        {
+          "glyph": "lip",
+          "name": "lip",
+          "exampleWord": "around mouth"
+        },
+        {
+          "glyph": "owl",
+          "name": "owl",
+          "exampleWord": "hoots at night"
+        },
+        {
+          "glyph": "rat",
+          "name": "rat",
+          "exampleWord": "small grey"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'small bug'?",
+          "options": [
+            "ant",
+            "bee",
+            "cat",
+            "cow"
+          ],
+          "answer": "ant"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l59",
+      "title": "Review 19",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "log",
+          "name": "log",
+          "exampleWord": "piece of wood"
+        },
+        {
+          "glyph": "cow",
+          "name": "cow",
+          "exampleWord": "moo"
+        },
+        {
+          "glyph": "ice",
+          "name": "ice",
+          "exampleWord": "frozen water"
+        },
+        {
+          "glyph": "sky",
+          "name": "sky",
+          "exampleWord": "up above"
+        },
+        {
+          "glyph": "fox",
+          "name": "fox",
+          "exampleWord": "red tail"
+        },
+        {
+          "glyph": "rat",
+          "name": "rat",
+          "exampleWord": "small grey"
+        },
+        {
+          "glyph": "rat",
+          "name": "rat",
+          "exampleWord": "small grey"
+        },
+        {
+          "glyph": "ham",
+          "name": "ham",
+          "exampleWord": "salty meat"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'small bug'?",
+          "options": [
+            "ant",
+            "bee",
+            "cat",
+            "cow"
+          ],
+          "answer": "ant"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'small bug'?",
+          "options": [
+            "ant",
+            "bee",
+            "cat",
+            "cow"
+          ],
+          "answer": "ant"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l60",
+      "title": "Review 20",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "jaw",
+          "name": "jaw",
+          "exampleWord": "lower face"
+        },
+        {
+          "glyph": "gum",
+          "name": "gum",
+          "exampleWord": "in your mouth"
+        },
+        {
+          "glyph": "sea",
+          "name": "sea",
+          "exampleWord": "big salty water"
+        },
+        {
+          "glyph": "ear",
+          "name": "ear",
+          "exampleWord": "for hearing"
+        },
+        {
+          "glyph": "gum",
+          "name": "gum",
+          "exampleWord": "in your mouth"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "toe",
+          "name": "toe",
+          "exampleWord": "on foot"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'small bug'?",
+          "options": [
+            "ant",
+            "bee",
+            "cat",
+            "cow"
+          ],
+          "answer": "ant"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l61",
+      "title": "Review 21",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "hen",
+          "name": "hen",
+          "exampleWord": "lays eggs"
+        },
+        {
+          "glyph": "owl",
+          "name": "owl",
+          "exampleWord": "hoots at night"
+        },
+        {
+          "glyph": "bun",
+          "name": "bun",
+          "exampleWord": "soft bread"
+        },
+        {
+          "glyph": "jam",
+          "name": "jam",
+          "exampleWord": "on bread"
+        },
+        {
+          "glyph": "fox",
+          "name": "fox",
+          "exampleWord": "red tail"
+        },
+        {
+          "glyph": "sun",
+          "name": "sun",
+          "exampleWord": "shines by day"
+        },
+        {
+          "glyph": "ice",
+          "name": "ice",
+          "exampleWord": "frozen water"
+        },
+        {
+          "glyph": "hat",
+          "name": "hat",
+          "exampleWord": "on the head"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l62",
+      "title": "Review 22",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "lip",
+          "name": "lip",
+          "exampleWord": "around mouth"
+        },
+        {
+          "glyph": "arm",
+          "name": "arm",
+          "exampleWord": "for hugging"
+        },
+        {
+          "glyph": "fog",
+          "name": "fog",
+          "exampleWord": "cloudy ground"
+        },
+        {
+          "glyph": "ice",
+          "name": "ice",
+          "exampleWord": "frozen water"
+        },
+        {
+          "glyph": "leg",
+          "name": "leg",
+          "exampleWord": "for walking"
+        },
+        {
+          "glyph": "toe",
+          "name": "toe",
+          "exampleWord": "on foot"
+        },
+        {
+          "glyph": "hen",
+          "name": "hen",
+          "exampleWord": "lays eggs"
+        },
+        {
+          "glyph": "jaw",
+          "name": "jaw",
+          "exampleWord": "lower face"
+        },
+        {
+          "glyph": "hen",
+          "name": "hen",
+          "exampleWord": "lays eggs"
+        },
+        {
+          "glyph": "ice",
+          "name": "ice",
+          "exampleWord": "frozen water"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'for hearing'?",
+          "options": [
+            "ear",
+            "eye",
+            "lip",
+            "arm"
+          ],
+          "answer": "ear"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l63",
+      "title": "Review 23",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "owl",
+          "name": "owl",
+          "exampleWord": "hoots at night"
+        },
+        {
+          "glyph": "lip",
+          "name": "lip",
+          "exampleWord": "around mouth"
+        },
+        {
+          "glyph": "fox",
+          "name": "fox",
+          "exampleWord": "red tail"
+        },
+        {
+          "glyph": "dew",
+          "name": "dew",
+          "exampleWord": "wet grass"
+        },
+        {
+          "glyph": "pie",
+          "name": "pie",
+          "exampleWord": "sweet treat"
+        },
+        {
+          "glyph": "bee",
+          "name": "bee",
+          "exampleWord": "makes honey"
+        },
+        {
+          "glyph": "gum",
+          "name": "gum",
+          "exampleWord": "in your mouth"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "hen",
+          "name": "hen",
+          "exampleWord": "lays eggs"
+        },
+        {
+          "glyph": "pea",
+          "name": "pea",
+          "exampleWord": "green ball"
+        },
+        {
+          "glyph": "ant",
+          "name": "ant",
+          "exampleWord": "small bug"
+        },
+        {
+          "glyph": "ice",
+          "name": "ice",
+          "exampleWord": "frozen water"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l64",
+      "title": "Review 24",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "hip",
+          "name": "hip",
+          "exampleWord": "side body"
+        },
+        {
+          "glyph": "dew",
+          "name": "dew",
+          "exampleWord": "wet grass"
+        },
+        {
+          "glyph": "owl",
+          "name": "owl",
+          "exampleWord": "hoots at night"
+        },
+        {
+          "glyph": "egg",
+          "name": "egg",
+          "exampleWord": "from a hen"
+        },
+        {
+          "glyph": "ear",
+          "name": "ear",
+          "exampleWord": "for hearing"
+        },
+        {
+          "glyph": "ear",
+          "name": "ear",
+          "exampleWord": "for hearing"
+        },
+        {
+          "glyph": "fog",
+          "name": "fog",
+          "exampleWord": "cloudy ground"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l65",
+      "title": "Review 25",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "pea",
+          "name": "pea",
+          "exampleWord": "green ball"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "fox",
+          "name": "fox",
+          "exampleWord": "red tail"
+        },
+        {
+          "glyph": "gum",
+          "name": "gum",
+          "exampleWord": "in your mouth"
+        },
+        {
+          "glyph": "oil",
+          "name": "oil",
+          "exampleWord": "used in cooking"
+        },
+        {
+          "glyph": "ham",
+          "name": "ham",
+          "exampleWord": "salty meat"
+        },
+        {
+          "glyph": "cow",
+          "name": "cow",
+          "exampleWord": "moo"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "dog",
+          "name": "dog",
+          "exampleWord": "woof"
+        },
+        {
+          "glyph": "toe",
+          "name": "toe",
+          "exampleWord": "on foot"
+        },
+        {
+          "glyph": "gum",
+          "name": "gum",
+          "exampleWord": "in your mouth"
+        },
+        {
+          "glyph": "jaw",
+          "name": "jaw",
+          "exampleWord": "lower face"
+        },
+        {
+          "glyph": "rat",
+          "name": "rat",
+          "exampleWord": "small grey"
+        },
+        {
+          "glyph": "pie",
+          "name": "pie",
+          "exampleWord": "sweet treat"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'small bug'?",
+          "options": [
+            "ant",
+            "bee",
+            "cat",
+            "cow"
+          ],
+          "answer": "ant"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l66",
+      "title": "Review 26",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "hut",
+          "name": "hut",
+          "exampleWord": "small home"
+        },
+        {
+          "glyph": "oil",
+          "name": "oil",
+          "exampleWord": "used in cooking"
+        },
+        {
+          "glyph": "rat",
+          "name": "rat",
+          "exampleWord": "small grey"
+        },
+        {
+          "glyph": "ice",
+          "name": "ice",
+          "exampleWord": "frozen water"
+        },
+        {
+          "glyph": "leg",
+          "name": "leg",
+          "exampleWord": "for walking"
+        },
+        {
+          "glyph": "mud",
+          "name": "mud",
+          "exampleWord": "wet earth"
+        },
+        {
+          "glyph": "eye",
+          "name": "eye",
+          "exampleWord": "for seeing"
+        },
+        {
+          "glyph": "dew",
+          "name": "dew",
+          "exampleWord": "wet grass"
+        },
+        {
+          "glyph": "owl",
+          "name": "owl",
+          "exampleWord": "hoots at night"
+        },
+        {
+          "glyph": "pig",
+          "name": "pig",
+          "exampleWord": "oink"
+        },
+        {
+          "glyph": "ice",
+          "name": "ice",
+          "exampleWord": "frozen water"
+        },
+        {
+          "glyph": "jam",
+          "name": "jam",
+          "exampleWord": "on bread"
+        },
+        {
+          "glyph": "hip",
+          "name": "hip",
+          "exampleWord": "side body"
+        },
+        {
+          "glyph": "arm",
+          "name": "arm",
+          "exampleWord": "for hugging"
+        },
+        {
+          "glyph": "egg",
+          "name": "egg",
+          "exampleWord": "from a hen"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'small bug'?",
+          "options": [
+            "ant",
+            "bee",
+            "cat",
+            "cow"
+          ],
+          "answer": "ant"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l67",
+      "title": "Review 27",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "pie",
+          "name": "pie",
+          "exampleWord": "sweet treat"
+        },
+        {
+          "glyph": "lip",
+          "name": "lip",
+          "exampleWord": "around mouth"
+        },
+        {
+          "glyph": "pea",
+          "name": "pea",
+          "exampleWord": "green ball"
+        },
+        {
+          "glyph": "owl",
+          "name": "owl",
+          "exampleWord": "hoots at night"
+        },
+        {
+          "glyph": "gum",
+          "name": "gum",
+          "exampleWord": "in your mouth"
+        },
+        {
+          "glyph": "sky",
+          "name": "sky",
+          "exampleWord": "up above"
+        },
+        {
+          "glyph": "rat",
+          "name": "rat",
+          "exampleWord": "small grey"
+        },
+        {
+          "glyph": "jaw",
+          "name": "jaw",
+          "exampleWord": "lower face"
+        },
+        {
+          "glyph": "ice",
+          "name": "ice",
+          "exampleWord": "frozen water"
+        },
+        {
+          "glyph": "ice",
+          "name": "ice",
+          "exampleWord": "frozen water"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'small bug'?",
+          "options": [
+            "ant",
+            "bee",
+            "cat",
+            "cow"
+          ],
+          "answer": "ant"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l68",
+      "title": "Review 28",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ear",
+          "name": "ear",
+          "exampleWord": "for hearing"
+        },
+        {
+          "glyph": "ice",
+          "name": "ice",
+          "exampleWord": "frozen water"
+        },
+        {
+          "glyph": "jam",
+          "name": "jam",
+          "exampleWord": "on bread"
+        },
+        {
+          "glyph": "bun",
+          "name": "bun",
+          "exampleWord": "soft bread"
+        },
+        {
+          "glyph": "dog",
+          "name": "dog",
+          "exampleWord": "woof"
+        },
+        {
+          "glyph": "cat",
+          "name": "cat",
+          "exampleWord": "meow"
+        },
+        {
+          "glyph": "cow",
+          "name": "cow",
+          "exampleWord": "moo"
+        },
+        {
+          "glyph": "rat",
+          "name": "rat",
+          "exampleWord": "small grey"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'small bug'?",
+          "options": [
+            "ant",
+            "bee",
+            "cat",
+            "cow"
+          ],
+          "answer": "ant"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l69",
+      "title": "Review 29",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "pea",
+          "name": "pea",
+          "exampleWord": "green ball"
+        },
+        {
+          "glyph": "toe",
+          "name": "toe",
+          "exampleWord": "on foot"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "jam",
+          "name": "jam",
+          "exampleWord": "on bread"
+        },
+        {
+          "glyph": "fig",
+          "name": "fig",
+          "exampleWord": "small fruit"
+        },
+        {
+          "glyph": "arm",
+          "name": "arm",
+          "exampleWord": "for hugging"
+        },
+        {
+          "glyph": "bun",
+          "name": "bun",
+          "exampleWord": "soft bread"
+        },
+        {
+          "glyph": "toe",
+          "name": "toe",
+          "exampleWord": "on foot"
+        },
+        {
+          "glyph": "ice",
+          "name": "ice",
+          "exampleWord": "frozen water"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'for hearing'?",
+          "options": [
+            "ear",
+            "eye",
+            "lip",
+            "arm"
+          ],
+          "answer": "ear"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l70",
+      "title": "Review 30",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "sea",
+          "name": "sea",
+          "exampleWord": "big salty water"
+        },
+        {
+          "glyph": "fig",
+          "name": "fig",
+          "exampleWord": "small fruit"
+        },
+        {
+          "glyph": "eye",
+          "name": "eye",
+          "exampleWord": "for seeing"
+        },
+        {
+          "glyph": "jam",
+          "name": "jam",
+          "exampleWord": "on bread"
+        },
+        {
+          "glyph": "sun",
+          "name": "sun",
+          "exampleWord": "shines by day"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "log",
+          "name": "log",
+          "exampleWord": "piece of wood"
+        },
+        {
+          "glyph": "mud",
+          "name": "mud",
+          "exampleWord": "wet earth"
+        },
+        {
+          "glyph": "sky",
+          "name": "sky",
+          "exampleWord": "up above"
+        },
+        {
+          "glyph": "pea",
+          "name": "pea",
+          "exampleWord": "green ball"
+        },
+        {
+          "glyph": "rat",
+          "name": "rat",
+          "exampleWord": "small grey"
+        },
+        {
+          "glyph": "ear",
+          "name": "ear",
+          "exampleWord": "for hearing"
+        },
+        {
+          "glyph": "tea",
+          "name": "tea",
+          "exampleWord": "hot drink"
+        },
+        {
+          "glyph": "hut",
+          "name": "hut",
+          "exampleWord": "small home"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'for hearing'?",
+          "options": [
+            "ear",
+            "eye",
+            "lip",
+            "arm"
+          ],
+          "answer": "ear"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l71",
+      "title": "Review 31",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "hip",
+          "name": "hip",
+          "exampleWord": "side body"
+        },
+        {
+          "glyph": "sun",
+          "name": "sun",
+          "exampleWord": "shines by day"
+        },
+        {
+          "glyph": "bun",
+          "name": "bun",
+          "exampleWord": "soft bread"
+        },
+        {
+          "glyph": "leg",
+          "name": "leg",
+          "exampleWord": "for walking"
+        },
+        {
+          "glyph": "oil",
+          "name": "oil",
+          "exampleWord": "used in cooking"
+        },
+        {
+          "glyph": "jam",
+          "name": "jam",
+          "exampleWord": "on bread"
+        },
+        {
+          "glyph": "oil",
+          "name": "oil",
+          "exampleWord": "used in cooking"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "ice",
+          "name": "ice",
+          "exampleWord": "frozen water"
+        },
+        {
+          "glyph": "jaw",
+          "name": "jaw",
+          "exampleWord": "lower face"
+        },
+        {
+          "glyph": "mud",
+          "name": "mud",
+          "exampleWord": "wet earth"
+        },
+        {
+          "glyph": "cat",
+          "name": "cat",
+          "exampleWord": "meow"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'small bug'?",
+          "options": [
+            "ant",
+            "bee",
+            "cat",
+            "cow"
+          ],
+          "answer": "ant"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l72",
+      "title": "Review 32",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "fig",
+          "name": "fig",
+          "exampleWord": "small fruit"
+        },
+        {
+          "glyph": "log",
+          "name": "log",
+          "exampleWord": "piece of wood"
+        },
+        {
+          "glyph": "fox",
+          "name": "fox",
+          "exampleWord": "red tail"
+        },
+        {
+          "glyph": "jam",
+          "name": "jam",
+          "exampleWord": "on bread"
+        },
+        {
+          "glyph": "sky",
+          "name": "sky",
+          "exampleWord": "up above"
+        },
+        {
+          "glyph": "sun",
+          "name": "sun",
+          "exampleWord": "shines by day"
+        },
+        {
+          "glyph": "owl",
+          "name": "owl",
+          "exampleWord": "hoots at night"
+        },
+        {
+          "glyph": "fox",
+          "name": "fox",
+          "exampleWord": "red tail"
+        },
+        {
+          "glyph": "owl",
+          "name": "owl",
+          "exampleWord": "hoots at night"
+        },
+        {
+          "glyph": "fig",
+          "name": "fig",
+          "exampleWord": "small fruit"
+        },
+        {
+          "glyph": "pie",
+          "name": "pie",
+          "exampleWord": "sweet treat"
+        },
+        {
+          "glyph": "tea",
+          "name": "tea",
+          "exampleWord": "hot drink"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'small bug'?",
+          "options": [
+            "ant",
+            "bee",
+            "cat",
+            "cow"
+          ],
+          "answer": "ant"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'small bug'?",
+          "options": [
+            "ant",
+            "bee",
+            "cat",
+            "cow"
+          ],
+          "answer": "ant"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'for hearing'?",
+          "options": [
+            "ear",
+            "eye",
+            "lip",
+            "arm"
+          ],
+          "answer": "ear"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l73",
+      "title": "Review 33",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "eye",
+          "name": "eye",
+          "exampleWord": "for seeing"
+        },
+        {
+          "glyph": "sky",
+          "name": "sky",
+          "exampleWord": "up above"
+        },
+        {
+          "glyph": "oil",
+          "name": "oil",
+          "exampleWord": "used in cooking"
+        },
+        {
+          "glyph": "pea",
+          "name": "pea",
+          "exampleWord": "green ball"
+        },
+        {
+          "glyph": "rat",
+          "name": "rat",
+          "exampleWord": "small grey"
+        },
+        {
+          "glyph": "hat",
+          "name": "hat",
+          "exampleWord": "on the head"
+        },
+        {
+          "glyph": "owl",
+          "name": "owl",
+          "exampleWord": "hoots at night"
+        },
+        {
+          "glyph": "bun",
+          "name": "bun",
+          "exampleWord": "soft bread"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'for hearing'?",
+          "options": [
+            "ear",
+            "eye",
+            "lip",
+            "arm"
+          ],
+          "answer": "ear"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'small bug'?",
+          "options": [
+            "ant",
+            "bee",
+            "cat",
+            "cow"
+          ],
+          "answer": "ant"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'for hearing'?",
+          "options": [
+            "ear",
+            "eye",
+            "lip",
+            "arm"
+          ],
+          "answer": "ear"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l74",
+      "title": "Review 34",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "log",
+          "name": "log",
+          "exampleWord": "piece of wood"
+        },
+        {
+          "glyph": "hen",
+          "name": "hen",
+          "exampleWord": "lays eggs"
+        },
+        {
+          "glyph": "toe",
+          "name": "toe",
+          "exampleWord": "on foot"
+        },
+        {
+          "glyph": "jam",
+          "name": "jam",
+          "exampleWord": "on bread"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "leg",
+          "name": "leg",
+          "exampleWord": "for walking"
+        },
+        {
+          "glyph": "lip",
+          "name": "lip",
+          "exampleWord": "around mouth"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l75",
+      "title": "Review 35",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "jam",
+          "name": "jam",
+          "exampleWord": "on bread"
+        },
+        {
+          "glyph": "hen",
+          "name": "hen",
+          "exampleWord": "lays eggs"
+        },
+        {
+          "glyph": "jaw",
+          "name": "jaw",
+          "exampleWord": "lower face"
+        },
+        {
+          "glyph": "egg",
+          "name": "egg",
+          "exampleWord": "from a hen"
+        },
+        {
+          "glyph": "eye",
+          "name": "eye",
+          "exampleWord": "for seeing"
+        },
+        {
+          "glyph": "bun",
+          "name": "bun",
+          "exampleWord": "soft bread"
+        },
+        {
+          "glyph": "ant",
+          "name": "ant",
+          "exampleWord": "small bug"
+        },
+        {
+          "glyph": "pig",
+          "name": "pig",
+          "exampleWord": "oink"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'for hearing'?",
+          "options": [
+            "ear",
+            "eye",
+            "lip",
+            "arm"
+          ],
+          "answer": "ear"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l76",
+      "title": "Review 36",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "fog",
+          "name": "fog",
+          "exampleWord": "cloudy ground"
+        },
+        {
+          "glyph": "pie",
+          "name": "pie",
+          "exampleWord": "sweet treat"
+        },
+        {
+          "glyph": "egg",
+          "name": "egg",
+          "exampleWord": "from a hen"
+        },
+        {
+          "glyph": "cat",
+          "name": "cat",
+          "exampleWord": "meow"
+        },
+        {
+          "glyph": "pie",
+          "name": "pie",
+          "exampleWord": "sweet treat"
+        },
+        {
+          "glyph": "ear",
+          "name": "ear",
+          "exampleWord": "for hearing"
+        },
+        {
+          "glyph": "mud",
+          "name": "mud",
+          "exampleWord": "wet earth"
+        },
+        {
+          "glyph": "hat",
+          "name": "hat",
+          "exampleWord": "on the head"
+        },
+        {
+          "glyph": "oil",
+          "name": "oil",
+          "exampleWord": "used in cooking"
+        },
+        {
+          "glyph": "tea",
+          "name": "tea",
+          "exampleWord": "hot drink"
+        },
+        {
+          "glyph": "gum",
+          "name": "gum",
+          "exampleWord": "in your mouth"
+        },
+        {
+          "glyph": "jam",
+          "name": "jam",
+          "exampleWord": "on bread"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l77",
+      "title": "Review 37",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "leg",
+          "name": "leg",
+          "exampleWord": "for walking"
+        },
+        {
+          "glyph": "oil",
+          "name": "oil",
+          "exampleWord": "used in cooking"
+        },
+        {
+          "glyph": "eye",
+          "name": "eye",
+          "exampleWord": "for seeing"
+        },
+        {
+          "glyph": "sun",
+          "name": "sun",
+          "exampleWord": "shines by day"
+        },
+        {
+          "glyph": "eye",
+          "name": "eye",
+          "exampleWord": "for seeing"
+        },
+        {
+          "glyph": "sky",
+          "name": "sky",
+          "exampleWord": "up above"
+        },
+        {
+          "glyph": "leg",
+          "name": "leg",
+          "exampleWord": "for walking"
+        },
+        {
+          "glyph": "cat",
+          "name": "cat",
+          "exampleWord": "meow"
+        },
+        {
+          "glyph": "jaw",
+          "name": "jaw",
+          "exampleWord": "lower face"
+        },
+        {
+          "glyph": "pea",
+          "name": "pea",
+          "exampleWord": "green ball"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'small bug'?",
+          "options": [
+            "ant",
+            "bee",
+            "cat",
+            "cow"
+          ],
+          "answer": "ant"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l78",
+      "title": "Review 38",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "fog",
+          "name": "fog",
+          "exampleWord": "cloudy ground"
+        },
+        {
+          "glyph": "gum",
+          "name": "gum",
+          "exampleWord": "in your mouth"
+        },
+        {
+          "glyph": "sea",
+          "name": "sea",
+          "exampleWord": "big salty water"
+        },
+        {
+          "glyph": "fig",
+          "name": "fig",
+          "exampleWord": "small fruit"
+        },
+        {
+          "glyph": "pig",
+          "name": "pig",
+          "exampleWord": "oink"
+        },
+        {
+          "glyph": "ear",
+          "name": "ear",
+          "exampleWord": "for hearing"
+        },
+        {
+          "glyph": "mud",
+          "name": "mud",
+          "exampleWord": "wet earth"
+        },
+        {
+          "glyph": "sky",
+          "name": "sky",
+          "exampleWord": "up above"
+        },
+        {
+          "glyph": "bay",
+          "name": "bay",
+          "exampleWord": "curve of sea"
+        },
+        {
+          "glyph": "bun",
+          "name": "bun",
+          "exampleWord": "soft bread"
+        },
+        {
+          "glyph": "ant",
+          "name": "ant",
+          "exampleWord": "small bug"
+        },
+        {
+          "glyph": "gum",
+          "name": "gum",
+          "exampleWord": "in your mouth"
+        },
+        {
+          "glyph": "oil",
+          "name": "oil",
+          "exampleWord": "used in cooking"
+        },
+        {
+          "glyph": "cow",
+          "name": "cow",
+          "exampleWord": "moo"
+        },
+        {
+          "glyph": "mud",
+          "name": "mud",
+          "exampleWord": "wet earth"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'for hearing'?",
+          "options": [
+            "ear",
+            "eye",
+            "lip",
+            "arm"
+          ],
+          "answer": "ear"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l79",
+      "title": "Review 39",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "jam",
+          "name": "jam",
+          "exampleWord": "on bread"
+        },
+        {
+          "glyph": "oil",
+          "name": "oil",
+          "exampleWord": "used in cooking"
+        },
+        {
+          "glyph": "rat",
+          "name": "rat",
+          "exampleWord": "small grey"
+        },
+        {
+          "glyph": "mud",
+          "name": "mud",
+          "exampleWord": "wet earth"
+        },
+        {
+          "glyph": "oil",
+          "name": "oil",
+          "exampleWord": "used in cooking"
+        },
+        {
+          "glyph": "hen",
+          "name": "hen",
+          "exampleWord": "lays eggs"
+        },
+        {
+          "glyph": "hen",
+          "name": "hen",
+          "exampleWord": "lays eggs"
+        },
+        {
+          "glyph": "rat",
+          "name": "rat",
+          "exampleWord": "small grey"
+        },
+        {
+          "glyph": "bee",
+          "name": "bee",
+          "exampleWord": "makes honey"
+        },
+        {
+          "glyph": "owl",
+          "name": "owl",
+          "exampleWord": "hoots at night"
+        },
+        {
+          "glyph": "cow",
+          "name": "cow",
+          "exampleWord": "moo"
+        },
+        {
+          "glyph": "pig",
+          "name": "pig",
+          "exampleWord": "oink"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'for hearing'?",
+          "options": [
+            "ear",
+            "eye",
+            "lip",
+            "arm"
+          ],
+          "answer": "ear"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'small bug'?",
+          "options": [
+            "ant",
+            "bee",
+            "cat",
+            "cow"
+          ],
+          "answer": "ant"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l80",
+      "title": "Review 40",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "sky",
+          "name": "sky",
+          "exampleWord": "up above"
+        },
+        {
+          "glyph": "ear",
+          "name": "ear",
+          "exampleWord": "for hearing"
+        },
+        {
+          "glyph": "pie",
+          "name": "pie",
+          "exampleWord": "sweet treat"
+        },
+        {
+          "glyph": "pie",
+          "name": "pie",
+          "exampleWord": "sweet treat"
+        },
+        {
+          "glyph": "pea",
+          "name": "pea",
+          "exampleWord": "green ball"
+        },
+        {
+          "glyph": "jam",
+          "name": "jam",
+          "exampleWord": "on bread"
+        },
+        {
+          "glyph": "owl",
+          "name": "owl",
+          "exampleWord": "hoots at night"
+        },
+        {
+          "glyph": "sea",
+          "name": "sea",
+          "exampleWord": "big salty water"
+        },
+        {
+          "glyph": "leg",
+          "name": "leg",
+          "exampleWord": "for walking"
+        },
+        {
+          "glyph": "log",
+          "name": "log",
+          "exampleWord": "piece of wood"
+        },
+        {
+          "glyph": "bun",
+          "name": "bun",
+          "exampleWord": "soft bread"
+        },
+        {
+          "glyph": "fig",
+          "name": "fig",
+          "exampleWord": "small fruit"
+        },
+        {
+          "glyph": "cow",
+          "name": "cow",
+          "exampleWord": "moo"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l81",
+      "title": "Review 41",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "cat",
+          "name": "cat",
+          "exampleWord": "meow"
+        },
+        {
+          "glyph": "cow",
+          "name": "cow",
+          "exampleWord": "moo"
+        },
+        {
+          "glyph": "hut",
+          "name": "hut",
+          "exampleWord": "small home"
+        },
+        {
+          "glyph": "leg",
+          "name": "leg",
+          "exampleWord": "for walking"
+        },
+        {
+          "glyph": "hut",
+          "name": "hut",
+          "exampleWord": "small home"
+        },
+        {
+          "glyph": "bay",
+          "name": "bay",
+          "exampleWord": "curve of sea"
+        },
+        {
+          "glyph": "eye",
+          "name": "eye",
+          "exampleWord": "for seeing"
+        },
+        {
+          "glyph": "fox",
+          "name": "fox",
+          "exampleWord": "red tail"
+        },
+        {
+          "glyph": "ice",
+          "name": "ice",
+          "exampleWord": "frozen water"
+        },
+        {
+          "glyph": "pea",
+          "name": "pea",
+          "exampleWord": "green ball"
+        },
+        {
+          "glyph": "sky",
+          "name": "sky",
+          "exampleWord": "up above"
+        },
+        {
+          "glyph": "ice",
+          "name": "ice",
+          "exampleWord": "frozen water"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'small bug'?",
+          "options": [
+            "ant",
+            "bee",
+            "cat",
+            "cow"
+          ],
+          "answer": "ant"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l82",
+      "title": "Review 42",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "jam",
+          "name": "jam",
+          "exampleWord": "on bread"
+        },
+        {
+          "glyph": "tea",
+          "name": "tea",
+          "exampleWord": "hot drink"
+        },
+        {
+          "glyph": "gum",
+          "name": "gum",
+          "exampleWord": "in your mouth"
+        },
+        {
+          "glyph": "dog",
+          "name": "dog",
+          "exampleWord": "woof"
+        },
+        {
+          "glyph": "log",
+          "name": "log",
+          "exampleWord": "piece of wood"
+        },
+        {
+          "glyph": "pie",
+          "name": "pie",
+          "exampleWord": "sweet treat"
+        },
+        {
+          "glyph": "ham",
+          "name": "ham",
+          "exampleWord": "salty meat"
+        },
+        {
+          "glyph": "log",
+          "name": "log",
+          "exampleWord": "piece of wood"
+        },
+        {
+          "glyph": "pea",
+          "name": "pea",
+          "exampleWord": "green ball"
+        },
+        {
+          "glyph": "pea",
+          "name": "pea",
+          "exampleWord": "green ball"
+        },
+        {
+          "glyph": "egg",
+          "name": "egg",
+          "exampleWord": "from a hen"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "bun",
+          "name": "bun",
+          "exampleWord": "soft bread"
+        },
+        {
+          "glyph": "ant",
+          "name": "ant",
+          "exampleWord": "small bug"
+        },
+        {
+          "glyph": "fig",
+          "name": "fig",
+          "exampleWord": "small fruit"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'for hearing'?",
+          "options": [
+            "ear",
+            "eye",
+            "lip",
+            "arm"
+          ],
+          "answer": "ear"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l83",
+      "title": "Review 43",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "cat",
+          "name": "cat",
+          "exampleWord": "meow"
+        },
+        {
+          "glyph": "rat",
+          "name": "rat",
+          "exampleWord": "small grey"
+        },
+        {
+          "glyph": "rat",
+          "name": "rat",
+          "exampleWord": "small grey"
+        },
+        {
+          "glyph": "rat",
+          "name": "rat",
+          "exampleWord": "small grey"
+        },
+        {
+          "glyph": "jaw",
+          "name": "jaw",
+          "exampleWord": "lower face"
+        },
+        {
+          "glyph": "sun",
+          "name": "sun",
+          "exampleWord": "shines by day"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "owl",
+          "name": "owl",
+          "exampleWord": "hoots at night"
+        },
+        {
+          "glyph": "ear",
+          "name": "ear",
+          "exampleWord": "for hearing"
+        },
+        {
+          "glyph": "arm",
+          "name": "arm",
+          "exampleWord": "for hugging"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'small bug'?",
+          "options": [
+            "ant",
+            "bee",
+            "cat",
+            "cow"
+          ],
+          "answer": "ant"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l84",
+      "title": "Review 44",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "pea",
+          "name": "pea",
+          "exampleWord": "green ball"
+        },
+        {
+          "glyph": "cow",
+          "name": "cow",
+          "exampleWord": "moo"
+        },
+        {
+          "glyph": "cow",
+          "name": "cow",
+          "exampleWord": "moo"
+        },
+        {
+          "glyph": "jam",
+          "name": "jam",
+          "exampleWord": "on bread"
+        },
+        {
+          "glyph": "ice",
+          "name": "ice",
+          "exampleWord": "frozen water"
+        },
+        {
+          "glyph": "leg",
+          "name": "leg",
+          "exampleWord": "for walking"
+        },
+        {
+          "glyph": "oil",
+          "name": "oil",
+          "exampleWord": "used in cooking"
+        },
+        {
+          "glyph": "ham",
+          "name": "ham",
+          "exampleWord": "salty meat"
+        },
+        {
+          "glyph": "fig",
+          "name": "fig",
+          "exampleWord": "small fruit"
+        },
+        {
+          "glyph": "dew",
+          "name": "dew",
+          "exampleWord": "wet grass"
+        },
+        {
+          "glyph": "ant",
+          "name": "ant",
+          "exampleWord": "small bug"
+        },
+        {
+          "glyph": "fig",
+          "name": "fig",
+          "exampleWord": "small fruit"
+        },
+        {
+          "glyph": "jam",
+          "name": "jam",
+          "exampleWord": "on bread"
+        },
+        {
+          "glyph": "rat",
+          "name": "rat",
+          "exampleWord": "small grey"
+        },
+        {
+          "glyph": "owl",
+          "name": "owl",
+          "exampleWord": "hoots at night"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'for hearing'?",
+          "options": [
+            "ear",
+            "eye",
+            "lip",
+            "arm"
+          ],
+          "answer": "ear"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l85",
+      "title": "Review 45",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "oil",
+          "name": "oil",
+          "exampleWord": "used in cooking"
+        },
+        {
+          "glyph": "toe",
+          "name": "toe",
+          "exampleWord": "on foot"
+        },
+        {
+          "glyph": "arm",
+          "name": "arm",
+          "exampleWord": "for hugging"
+        },
+        {
+          "glyph": "toe",
+          "name": "toe",
+          "exampleWord": "on foot"
+        },
+        {
+          "glyph": "dew",
+          "name": "dew",
+          "exampleWord": "wet grass"
+        },
+        {
+          "glyph": "tea",
+          "name": "tea",
+          "exampleWord": "hot drink"
+        },
+        {
+          "glyph": "pie",
+          "name": "pie",
+          "exampleWord": "sweet treat"
+        },
+        {
+          "glyph": "ear",
+          "name": "ear",
+          "exampleWord": "for hearing"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'for hearing'?",
+          "options": [
+            "ear",
+            "eye",
+            "lip",
+            "arm"
+          ],
+          "answer": "ear"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l86",
+      "title": "Review 46",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "jaw",
+          "name": "jaw",
+          "exampleWord": "lower face"
+        },
+        {
+          "glyph": "hut",
+          "name": "hut",
+          "exampleWord": "small home"
+        },
+        {
+          "glyph": "dew",
+          "name": "dew",
+          "exampleWord": "wet grass"
+        },
+        {
+          "glyph": "hip",
+          "name": "hip",
+          "exampleWord": "side body"
+        },
+        {
+          "glyph": "fig",
+          "name": "fig",
+          "exampleWord": "small fruit"
+        },
+        {
+          "glyph": "pea",
+          "name": "pea",
+          "exampleWord": "green ball"
+        },
+        {
+          "glyph": "fox",
+          "name": "fox",
+          "exampleWord": "red tail"
+        },
+        {
+          "glyph": "sky",
+          "name": "sky",
+          "exampleWord": "up above"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l87",
+      "title": "Review 47",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "jaw",
+          "name": "jaw",
+          "exampleWord": "lower face"
+        },
+        {
+          "glyph": "leg",
+          "name": "leg",
+          "exampleWord": "for walking"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "lip",
+          "name": "lip",
+          "exampleWord": "around mouth"
+        },
+        {
+          "glyph": "pie",
+          "name": "pie",
+          "exampleWord": "sweet treat"
+        },
+        {
+          "glyph": "fox",
+          "name": "fox",
+          "exampleWord": "red tail"
+        },
+        {
+          "glyph": "bun",
+          "name": "bun",
+          "exampleWord": "soft bread"
+        },
+        {
+          "glyph": "oil",
+          "name": "oil",
+          "exampleWord": "used in cooking"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'small bug'?",
+          "options": [
+            "ant",
+            "bee",
+            "cat",
+            "cow"
+          ],
+          "answer": "ant"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l88",
+      "title": "Review 48",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ear",
+          "name": "ear",
+          "exampleWord": "for hearing"
+        },
+        {
+          "glyph": "ice",
+          "name": "ice",
+          "exampleWord": "frozen water"
+        },
+        {
+          "glyph": "bun",
+          "name": "bun",
+          "exampleWord": "soft bread"
+        },
+        {
+          "glyph": "jaw",
+          "name": "jaw",
+          "exampleWord": "lower face"
+        },
+        {
+          "glyph": "ham",
+          "name": "ham",
+          "exampleWord": "salty meat"
+        },
+        {
+          "glyph": "oil",
+          "name": "oil",
+          "exampleWord": "used in cooking"
+        },
+        {
+          "glyph": "ice",
+          "name": "ice",
+          "exampleWord": "frozen water"
+        },
+        {
+          "glyph": "ant",
+          "name": "ant",
+          "exampleWord": "small bug"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'small bug'?",
+          "options": [
+            "ant",
+            "bee",
+            "cat",
+            "cow"
+          ],
+          "answer": "ant"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l89",
+      "title": "Review 49",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "pea",
+          "name": "pea",
+          "exampleWord": "green ball"
+        },
+        {
+          "glyph": "ear",
+          "name": "ear",
+          "exampleWord": "for hearing"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "sky",
+          "name": "sky",
+          "exampleWord": "up above"
+        },
+        {
+          "glyph": "ham",
+          "name": "ham",
+          "exampleWord": "salty meat"
+        },
+        {
+          "glyph": "ear",
+          "name": "ear",
+          "exampleWord": "for hearing"
+        },
+        {
+          "glyph": "egg",
+          "name": "egg",
+          "exampleWord": "from a hen"
+        },
+        {
+          "glyph": "eye",
+          "name": "eye",
+          "exampleWord": "for seeing"
+        },
+        {
+          "glyph": "sun",
+          "name": "sun",
+          "exampleWord": "shines by day"
+        },
+        {
+          "glyph": "pie",
+          "name": "pie",
+          "exampleWord": "sweet treat"
+        },
+        {
+          "glyph": "ham",
+          "name": "ham",
+          "exampleWord": "salty meat"
+        },
+        {
+          "glyph": "gum",
+          "name": "gum",
+          "exampleWord": "in your mouth"
+        },
+        {
+          "glyph": "ham",
+          "name": "ham",
+          "exampleWord": "salty meat"
+        },
+        {
+          "glyph": "fog",
+          "name": "fog",
+          "exampleWord": "cloudy ground"
+        },
+        {
+          "glyph": "dew",
+          "name": "dew",
+          "exampleWord": "wet grass"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'small bug'?",
+          "options": [
+            "ant",
+            "bee",
+            "cat",
+            "cow"
+          ],
+          "answer": "ant"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'small bug'?",
+          "options": [
+            "ant",
+            "bee",
+            "cat",
+            "cow"
+          ],
+          "answer": "ant"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l90",
+      "title": "Review 50",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "egg",
+          "name": "egg",
+          "exampleWord": "from a hen"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "owl",
+          "name": "owl",
+          "exampleWord": "hoots at night"
+        },
+        {
+          "glyph": "ham",
+          "name": "ham",
+          "exampleWord": "salty meat"
+        },
+        {
+          "glyph": "rat",
+          "name": "rat",
+          "exampleWord": "small grey"
+        },
+        {
+          "glyph": "pea",
+          "name": "pea",
+          "exampleWord": "green ball"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "log",
+          "name": "log",
+          "exampleWord": "piece of wood"
+        },
+        {
+          "glyph": "toe",
+          "name": "toe",
+          "exampleWord": "on foot"
+        },
+        {
+          "glyph": "eye",
+          "name": "eye",
+          "exampleWord": "for seeing"
+        },
+        {
+          "glyph": "egg",
+          "name": "egg",
+          "exampleWord": "from a hen"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'for hearing'?",
+          "options": [
+            "ear",
+            "eye",
+            "lip",
+            "arm"
+          ],
+          "answer": "ear"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l91",
+      "title": "Review 51",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "hip",
+          "name": "hip",
+          "exampleWord": "side body"
+        },
+        {
+          "glyph": "fox",
+          "name": "fox",
+          "exampleWord": "red tail"
+        },
+        {
+          "glyph": "fig",
+          "name": "fig",
+          "exampleWord": "small fruit"
+        },
+        {
+          "glyph": "ham",
+          "name": "ham",
+          "exampleWord": "salty meat"
+        },
+        {
+          "glyph": "hen",
+          "name": "hen",
+          "exampleWord": "lays eggs"
+        },
+        {
+          "glyph": "log",
+          "name": "log",
+          "exampleWord": "piece of wood"
+        },
+        {
+          "glyph": "dew",
+          "name": "dew",
+          "exampleWord": "wet grass"
+        },
+        {
+          "glyph": "jam",
+          "name": "jam",
+          "exampleWord": "on bread"
+        },
+        {
+          "glyph": "pea",
+          "name": "pea",
+          "exampleWord": "green ball"
+        },
+        {
+          "glyph": "ant",
+          "name": "ant",
+          "exampleWord": "small bug"
+        },
+        {
+          "glyph": "oil",
+          "name": "oil",
+          "exampleWord": "used in cooking"
+        },
+        {
+          "glyph": "hen",
+          "name": "hen",
+          "exampleWord": "lays eggs"
+        },
+        {
+          "glyph": "hip",
+          "name": "hip",
+          "exampleWord": "side body"
+        },
+        {
+          "glyph": "fog",
+          "name": "fog",
+          "exampleWord": "cloudy ground"
+        },
+        {
+          "glyph": "jaw",
+          "name": "jaw",
+          "exampleWord": "lower face"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l92",
+      "title": "Review 52",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "pea",
+          "name": "pea",
+          "exampleWord": "green ball"
+        },
+        {
+          "glyph": "bay",
+          "name": "bay",
+          "exampleWord": "curve of sea"
+        },
+        {
+          "glyph": "fog",
+          "name": "fog",
+          "exampleWord": "cloudy ground"
+        },
+        {
+          "glyph": "gum",
+          "name": "gum",
+          "exampleWord": "in your mouth"
+        },
+        {
+          "glyph": "jam",
+          "name": "jam",
+          "exampleWord": "on bread"
+        },
+        {
+          "glyph": "ear",
+          "name": "ear",
+          "exampleWord": "for hearing"
+        },
+        {
+          "glyph": "sun",
+          "name": "sun",
+          "exampleWord": "shines by day"
+        },
+        {
+          "glyph": "fog",
+          "name": "fog",
+          "exampleWord": "cloudy ground"
+        },
+        {
+          "glyph": "ham",
+          "name": "ham",
+          "exampleWord": "salty meat"
+        },
+        {
+          "glyph": "fig",
+          "name": "fig",
+          "exampleWord": "small fruit"
+        },
+        {
+          "glyph": "sky",
+          "name": "sky",
+          "exampleWord": "up above"
+        },
+        {
+          "glyph": "hut",
+          "name": "hut",
+          "exampleWord": "small home"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'for hearing'?",
+          "options": [
+            "ear",
+            "eye",
+            "lip",
+            "arm"
+          ],
+          "answer": "ear"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'small bug'?",
+          "options": [
+            "ant",
+            "bee",
+            "cat",
+            "cow"
+          ],
+          "answer": "ant"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l93",
+      "title": "Review 53",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "hut",
+          "name": "hut",
+          "exampleWord": "small home"
+        },
+        {
+          "glyph": "fox",
+          "name": "fox",
+          "exampleWord": "red tail"
+        },
+        {
+          "glyph": "ice",
+          "name": "ice",
+          "exampleWord": "frozen water"
+        },
+        {
+          "glyph": "ice",
+          "name": "ice",
+          "exampleWord": "frozen water"
+        },
+        {
+          "glyph": "eye",
+          "name": "eye",
+          "exampleWord": "for seeing"
+        },
+        {
+          "glyph": "hip",
+          "name": "hip",
+          "exampleWord": "side body"
+        },
+        {
+          "glyph": "bun",
+          "name": "bun",
+          "exampleWord": "soft bread"
+        },
+        {
+          "glyph": "eye",
+          "name": "eye",
+          "exampleWord": "for seeing"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'for hearing'?",
+          "options": [
+            "ear",
+            "eye",
+            "lip",
+            "arm"
+          ],
+          "answer": "ear"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l94",
+      "title": "Review 54",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "fog",
+          "name": "fog",
+          "exampleWord": "cloudy ground"
+        },
+        {
+          "glyph": "ham",
+          "name": "ham",
+          "exampleWord": "salty meat"
+        },
+        {
+          "glyph": "toe",
+          "name": "toe",
+          "exampleWord": "on foot"
+        },
+        {
+          "glyph": "eye",
+          "name": "eye",
+          "exampleWord": "for seeing"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "cat",
+          "name": "cat",
+          "exampleWord": "meow"
+        },
+        {
+          "glyph": "pig",
+          "name": "pig",
+          "exampleWord": "oink"
+        },
+        {
+          "glyph": "leg",
+          "name": "leg",
+          "exampleWord": "for walking"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'for hearing'?",
+          "options": [
+            "ear",
+            "eye",
+            "lip",
+            "arm"
+          ],
+          "answer": "ear"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l95",
+      "title": "Review 55",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ice",
+          "name": "ice",
+          "exampleWord": "frozen water"
+        },
+        {
+          "glyph": "cow",
+          "name": "cow",
+          "exampleWord": "moo"
+        },
+        {
+          "glyph": "jam",
+          "name": "jam",
+          "exampleWord": "on bread"
+        },
+        {
+          "glyph": "pie",
+          "name": "pie",
+          "exampleWord": "sweet treat"
+        },
+        {
+          "glyph": "hen",
+          "name": "hen",
+          "exampleWord": "lays eggs"
+        },
+        {
+          "glyph": "mud",
+          "name": "mud",
+          "exampleWord": "wet earth"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "hip",
+          "name": "hip",
+          "exampleWord": "side body"
+        },
+        {
+          "glyph": "ice",
+          "name": "ice",
+          "exampleWord": "frozen water"
+        },
+        {
+          "glyph": "rat",
+          "name": "rat",
+          "exampleWord": "small grey"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'small bug'?",
+          "options": [
+            "ant",
+            "bee",
+            "cat",
+            "cow"
+          ],
+          "answer": "ant"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l96",
+      "title": "Review 56",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "pie",
+          "name": "pie",
+          "exampleWord": "sweet treat"
+        },
+        {
+          "glyph": "sun",
+          "name": "sun",
+          "exampleWord": "shines by day"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "cat",
+          "name": "cat",
+          "exampleWord": "meow"
+        },
+        {
+          "glyph": "pie",
+          "name": "pie",
+          "exampleWord": "sweet treat"
+        },
+        {
+          "glyph": "log",
+          "name": "log",
+          "exampleWord": "piece of wood"
+        },
+        {
+          "glyph": "jaw",
+          "name": "jaw",
+          "exampleWord": "lower face"
+        },
+        {
+          "glyph": "ear",
+          "name": "ear",
+          "exampleWord": "for hearing"
+        },
+        {
+          "glyph": "fig",
+          "name": "fig",
+          "exampleWord": "small fruit"
+        },
+        {
+          "glyph": "leg",
+          "name": "leg",
+          "exampleWord": "for walking"
+        },
+        {
+          "glyph": "log",
+          "name": "log",
+          "exampleWord": "piece of wood"
+        },
+        {
+          "glyph": "sun",
+          "name": "sun",
+          "exampleWord": "shines by day"
+        },
+        {
+          "glyph": "jam",
+          "name": "jam",
+          "exampleWord": "on bread"
+        },
+        {
+          "glyph": "ham",
+          "name": "ham",
+          "exampleWord": "salty meat"
+        },
+        {
+          "glyph": "jaw",
+          "name": "jaw",
+          "exampleWord": "lower face"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l97",
+      "title": "Review 57",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "tea",
+          "name": "tea",
+          "exampleWord": "hot drink"
+        },
+        {
+          "glyph": "leg",
+          "name": "leg",
+          "exampleWord": "for walking"
+        },
+        {
+          "glyph": "sun",
+          "name": "sun",
+          "exampleWord": "shines by day"
+        },
+        {
+          "glyph": "cat",
+          "name": "cat",
+          "exampleWord": "meow"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "pie",
+          "name": "pie",
+          "exampleWord": "sweet treat"
+        },
+        {
+          "glyph": "bun",
+          "name": "bun",
+          "exampleWord": "soft bread"
+        },
+        {
+          "glyph": "dog",
+          "name": "dog",
+          "exampleWord": "woof"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'small bug'?",
+          "options": [
+            "ant",
+            "bee",
+            "cat",
+            "cow"
+          ],
+          "answer": "ant"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l98",
+      "title": "Review 58",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "owl",
+          "name": "owl",
+          "exampleWord": "hoots at night"
+        },
+        {
+          "glyph": "rat",
+          "name": "rat",
+          "exampleWord": "small grey"
+        },
+        {
+          "glyph": "egg",
+          "name": "egg",
+          "exampleWord": "from a hen"
+        },
+        {
+          "glyph": "ear",
+          "name": "ear",
+          "exampleWord": "for hearing"
+        },
+        {
+          "glyph": "owl",
+          "name": "owl",
+          "exampleWord": "hoots at night"
+        },
+        {
+          "glyph": "hen",
+          "name": "hen",
+          "exampleWord": "lays eggs"
+        },
+        {
+          "glyph": "fox",
+          "name": "fox",
+          "exampleWord": "red tail"
+        },
+        {
+          "glyph": "fog",
+          "name": "fog",
+          "exampleWord": "cloudy ground"
+        },
+        {
+          "glyph": "bun",
+          "name": "bun",
+          "exampleWord": "soft bread"
+        },
+        {
+          "glyph": "mud",
+          "name": "mud",
+          "exampleWord": "wet earth"
+        },
+        {
+          "glyph": "fox",
+          "name": "fox",
+          "exampleWord": "red tail"
+        },
+        {
+          "glyph": "sea",
+          "name": "sea",
+          "exampleWord": "big salty water"
+        },
+        {
+          "glyph": "owl",
+          "name": "owl",
+          "exampleWord": "hoots at night"
+        },
+        {
+          "glyph": "cow",
+          "name": "cow",
+          "exampleWord": "moo"
+        },
+        {
+          "glyph": "dew",
+          "name": "dew",
+          "exampleWord": "wet grass"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'for hearing'?",
+          "options": [
+            "ear",
+            "eye",
+            "lip",
+            "arm"
+          ],
+          "answer": "ear"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l99",
+      "title": "Review 59",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "fox",
+          "name": "fox",
+          "exampleWord": "red tail"
+        },
+        {
+          "glyph": "dew",
+          "name": "dew",
+          "exampleWord": "wet grass"
+        },
+        {
+          "glyph": "fig",
+          "name": "fig",
+          "exampleWord": "small fruit"
+        },
+        {
+          "glyph": "oil",
+          "name": "oil",
+          "exampleWord": "used in cooking"
+        },
+        {
+          "glyph": "gum",
+          "name": "gum",
+          "exampleWord": "in your mouth"
+        },
+        {
+          "glyph": "ice",
+          "name": "ice",
+          "exampleWord": "frozen water"
+        },
+        {
+          "glyph": "hen",
+          "name": "hen",
+          "exampleWord": "lays eggs"
+        },
+        {
+          "glyph": "arm",
+          "name": "arm",
+          "exampleWord": "for hugging"
+        },
+        {
+          "glyph": "mud",
+          "name": "mud",
+          "exampleWord": "wet earth"
+        },
+        {
+          "glyph": "rib",
+          "name": "rib",
+          "exampleWord": "chest bone"
+        },
+        {
+          "glyph": "log",
+          "name": "log",
+          "exampleWord": "piece of wood"
+        },
+        {
+          "glyph": "bun",
+          "name": "bun",
+          "exampleWord": "soft bread"
+        },
+        {
+          "glyph": "jam",
+          "name": "jam",
+          "exampleWord": "on bread"
+        },
+        {
+          "glyph": "oil",
+          "name": "oil",
+          "exampleWord": "used in cooking"
+        },
+        {
+          "glyph": "jam",
+          "name": "jam",
+          "exampleWord": "on bread"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'shines by day'?",
+          "options": [
+            "sun",
+            "sky",
+            "sea",
+            "mud"
+          ],
+          "answer": "sun"
+        }
+      ]
+    },
+    {
+      "id": "en-p3-l100",
+      "title": "Review 60",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "pea",
+          "name": "pea",
+          "exampleWord": "green ball"
+        },
+        {
+          "glyph": "bun",
+          "name": "bun",
+          "exampleWord": "soft bread"
+        },
+        {
+          "glyph": "hip",
+          "name": "hip",
+          "exampleWord": "side body"
+        },
+        {
+          "glyph": "bay",
+          "name": "bay",
+          "exampleWord": "curve of sea"
+        },
+        {
+          "glyph": "ham",
+          "name": "ham",
+          "exampleWord": "salty meat"
+        },
+        {
+          "glyph": "lip",
+          "name": "lip",
+          "exampleWord": "around mouth"
+        },
+        {
+          "glyph": "dew",
+          "name": "dew",
+          "exampleWord": "wet grass"
+        },
+        {
+          "glyph": "eye",
+          "name": "eye",
+          "exampleWord": "for seeing"
+        },
+        {
+          "glyph": "pea",
+          "name": "pea",
+          "exampleWord": "green ball"
+        },
+        {
+          "glyph": "sun",
+          "name": "sun",
+          "exampleWord": "shines by day"
+        },
+        {
+          "glyph": "gum",
+          "name": "gum",
+          "exampleWord": "in your mouth"
+        },
+        {
+          "glyph": "hip",
+          "name": "hip",
+          "exampleWord": "side body"
+        },
+        {
+          "glyph": "eye",
+          "name": "eye",
+          "exampleWord": "for seeing"
+        },
+        {
+          "glyph": "pig",
+          "name": "pig",
+          "exampleWord": "oink"
+        },
+        {
+          "glyph": "fox",
+          "name": "fox",
+          "exampleWord": "red tail"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'for hearing'?",
+          "options": [
+            "ear",
+            "eye",
+            "lip",
+            "arm"
+          ],
+          "answer": "ear"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet treat'?",
+          "options": [
+            "pie",
+            "jam",
+            "egg",
+            "tea"
+          ],
+          "answer": "pie"
+        }
+      ]
     }
   ]
 }

@@ -2556,6 +2556,4820 @@
           "answer": "ह"
         }
       ]
+    },
+    {
+      "id": "hi-p1-l42",
+      "title": "समीक्षा 1",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "फि",
+          "name": "phi"
+        },
+        {
+          "glyph": "च",
+          "name": "cha"
+        },
+        {
+          "glyph": "दृ",
+          "name": "dri"
+        },
+        {
+          "glyph": "स",
+          "name": "sa"
+        },
+        {
+          "glyph": "ञू",
+          "name": "nyuu"
+        },
+        {
+          "glyph": "धृ",
+          "name": "dhri"
+        },
+        {
+          "glyph": "रै",
+          "name": "rai"
+        },
+        {
+          "glyph": "झु",
+          "name": "jhu"
+        },
+        {
+          "glyph": "री",
+          "name": "rii"
+        },
+        {
+          "glyph": "णी",
+          "name": "Nii"
+        },
+        {
+          "glyph": "ऐ",
+          "name": "ai",
+          "exampleWord": "ऐनक"
+        },
+        {
+          "glyph": "मु",
+          "name": "mu"
+        },
+        {
+          "glyph": "छू",
+          "name": "chhuu"
+        },
+        {
+          "glyph": "ठा",
+          "name": "Thaa"
+        },
+        {
+          "glyph": "नी",
+          "name": "nii"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ध वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ध",
+            "धा",
+            "धि",
+            "धी"
+          ],
+          "answer": "ध"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ह वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ह",
+            "हा",
+            "हि",
+            "ही"
+          ],
+          "answer": "ह"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "उल्लू किस अक्षर से शुरू होता है?",
+          "options": [
+            "ऊ",
+            "उ",
+            "आ",
+            "ई"
+          ],
+          "answer": "उ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l43",
+      "title": "समीक्षा 2",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "वौ",
+          "name": "vau"
+        },
+        {
+          "glyph": "कौ",
+          "name": "kau"
+        },
+        {
+          "glyph": "य",
+          "name": "ya",
+          "exampleWord": "यज्ञ"
+        },
+        {
+          "glyph": "ठे",
+          "name": "The"
+        },
+        {
+          "glyph": "त",
+          "name": "ta",
+          "exampleWord": "तरबूज़"
+        },
+        {
+          "glyph": "चृ",
+          "name": "chri"
+        },
+        {
+          "glyph": "फू",
+          "name": "phuu"
+        },
+        {
+          "glyph": "सू",
+          "name": "suu"
+        },
+        {
+          "glyph": "यो",
+          "name": "yo"
+        },
+        {
+          "glyph": "षी",
+          "name": "Shii"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "म वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "म",
+            "मा",
+            "मि",
+            "मी"
+          ],
+          "answer": "म"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "क वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "क",
+            "का",
+            "कि",
+            "की"
+          ],
+          "answer": "क"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l44",
+      "title": "समीक्षा 3",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "दे",
+          "name": "de"
+        },
+        {
+          "glyph": "डि",
+          "name": "Di"
+        },
+        {
+          "glyph": "था",
+          "name": "thaa"
+        },
+        {
+          "glyph": "झि",
+          "name": "jhi"
+        },
+        {
+          "glyph": "चि",
+          "name": "chi"
+        },
+        {
+          "glyph": "व",
+          "name": "va",
+          "exampleWord": "वन"
+        },
+        {
+          "glyph": "पो",
+          "name": "po"
+        },
+        {
+          "glyph": "बौ",
+          "name": "bau"
+        },
+        {
+          "glyph": "तू",
+          "name": "tuu"
+        },
+        {
+          "glyph": "र",
+          "name": "ra"
+        },
+        {
+          "glyph": "जु",
+          "name": "ju"
+        },
+        {
+          "glyph": "ठ",
+          "name": "Tha",
+          "exampleWord": "ठग"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ग वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ग",
+            "गा",
+            "गि",
+            "गी"
+          ],
+          "answer": "ग"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "य वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "य",
+            "या",
+            "यि",
+            "यी"
+          ],
+          "answer": "य"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l45",
+      "title": "समीक्षा 4",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "खै",
+          "name": "khai"
+        },
+        {
+          "glyph": "पै",
+          "name": "pai"
+        },
+        {
+          "glyph": "जै",
+          "name": "jai"
+        },
+        {
+          "glyph": "शा",
+          "name": "shaa"
+        },
+        {
+          "glyph": "ला",
+          "name": "laa"
+        },
+        {
+          "glyph": "झु",
+          "name": "jhu"
+        },
+        {
+          "glyph": "दृ",
+          "name": "dri"
+        },
+        {
+          "glyph": "ङो",
+          "name": "ngo"
+        },
+        {
+          "glyph": "घा",
+          "name": "ghaa"
+        },
+        {
+          "glyph": "णू",
+          "name": "Nuu"
+        },
+        {
+          "glyph": "भो",
+          "name": "bho"
+        },
+        {
+          "glyph": "भ",
+          "name": "bha"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "झ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "झ",
+            "झा",
+            "झि",
+            "झी"
+          ],
+          "answer": "झ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "चमचा किस अक्षर से शुरू होता है?",
+          "options": [
+            "च",
+            "छ",
+            "ज",
+            "झ"
+          ],
+          "answer": "च"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ढ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ढ",
+            "ढा",
+            "ढि",
+            "ढी"
+          ],
+          "answer": "ढ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l46",
+      "title": "समीक्षा 5",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "णू",
+          "name": "Nuu"
+        },
+        {
+          "glyph": "घ",
+          "name": "gha",
+          "exampleWord": "घड़ी"
+        },
+        {
+          "glyph": "णी",
+          "name": "Nii"
+        },
+        {
+          "glyph": "बो",
+          "name": "bo"
+        },
+        {
+          "glyph": "ढु",
+          "name": "Dhu"
+        },
+        {
+          "glyph": "मे",
+          "name": "me"
+        },
+        {
+          "glyph": "झृ",
+          "name": "jhri"
+        },
+        {
+          "glyph": "वौ",
+          "name": "vau"
+        },
+        {
+          "glyph": "गी",
+          "name": "gii"
+        },
+        {
+          "glyph": "च",
+          "name": "cha",
+          "exampleWord": "चमचा"
+        },
+        {
+          "glyph": "र",
+          "name": "ra"
+        },
+        {
+          "glyph": "टा",
+          "name": "Taa"
+        },
+        {
+          "glyph": "नौ",
+          "name": "nau"
+        },
+        {
+          "glyph": "जो",
+          "name": "jo"
+        },
+        {
+          "glyph": "तो",
+          "name": "to"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "स वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "स",
+            "सा",
+            "सि",
+            "सी"
+          ],
+          "answer": "स"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "भ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "भ",
+            "भा",
+            "भि",
+            "भी"
+          ],
+          "answer": "भ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l47",
+      "title": "समीक्षा 6",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "घी",
+          "name": "ghii"
+        },
+        {
+          "glyph": "झी",
+          "name": "jhii"
+        },
+        {
+          "glyph": "खृ",
+          "name": "khri"
+        },
+        {
+          "glyph": "फो",
+          "name": "pho"
+        },
+        {
+          "glyph": "यु",
+          "name": "yu"
+        },
+        {
+          "glyph": "रो",
+          "name": "ro"
+        },
+        {
+          "glyph": "यी",
+          "name": "yii"
+        },
+        {
+          "glyph": "थौ",
+          "name": "thau"
+        },
+        {
+          "glyph": "षू",
+          "name": "Shuu"
+        },
+        {
+          "glyph": "ट",
+          "name": "Ta"
+        },
+        {
+          "glyph": "डू",
+          "name": "Duu"
+        },
+        {
+          "glyph": "दै",
+          "name": "dai"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "व वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "व",
+            "वा",
+            "वि",
+            "वी"
+          ],
+          "answer": "व"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ज वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ज",
+            "जा",
+            "जि",
+            "जी"
+          ],
+          "answer": "ज"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "शेर किस अक्षर से शुरू होता है?",
+          "options": [
+            "श",
+            "ष",
+            "स",
+            "ह"
+          ],
+          "answer": "श"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l48",
+      "title": "समीक्षा 7",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "धी",
+          "name": "dhii"
+        },
+        {
+          "glyph": "री",
+          "name": "rii"
+        },
+        {
+          "glyph": "र",
+          "name": "ra",
+          "exampleWord": "रथ"
+        },
+        {
+          "glyph": "को",
+          "name": "ko"
+        },
+        {
+          "glyph": "भी",
+          "name": "bhii"
+        },
+        {
+          "glyph": "थृ",
+          "name": "thri"
+        },
+        {
+          "glyph": "जि",
+          "name": "ji"
+        },
+        {
+          "glyph": "कै",
+          "name": "kai"
+        },
+        {
+          "glyph": "ञृ",
+          "name": "nyri"
+        },
+        {
+          "glyph": "हि",
+          "name": "hi"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ध वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ध",
+            "धा",
+            "धि",
+            "धी"
+          ],
+          "answer": "ध"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "फ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "फ",
+            "फा",
+            "फि",
+            "फी"
+          ],
+          "answer": "फ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "व वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "व",
+            "वा",
+            "वि",
+            "वी"
+          ],
+          "answer": "व"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l49",
+      "title": "समीक्षा 8",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ओ",
+          "name": "o",
+          "exampleWord": "ओखली"
+        },
+        {
+          "glyph": "षे",
+          "name": "She"
+        },
+        {
+          "glyph": "कौ",
+          "name": "kau"
+        },
+        {
+          "glyph": "र",
+          "name": "ra",
+          "exampleWord": "रथ"
+        },
+        {
+          "glyph": "चा",
+          "name": "chaa"
+        },
+        {
+          "glyph": "छे",
+          "name": "chhe"
+        },
+        {
+          "glyph": "हो",
+          "name": "ho"
+        },
+        {
+          "glyph": "मु",
+          "name": "mu"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ण वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ण",
+            "णा",
+            "णि",
+            "णी"
+          ],
+          "answer": "ण"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ख वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ख",
+            "खा",
+            "खि",
+            "खी"
+          ],
+          "answer": "ख"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l50",
+      "title": "समीक्षा 9",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "रे",
+          "name": "re"
+        },
+        {
+          "glyph": "घू",
+          "name": "ghuu"
+        },
+        {
+          "glyph": "जी",
+          "name": "jii"
+        },
+        {
+          "glyph": "मौ",
+          "name": "mau"
+        },
+        {
+          "glyph": "भा",
+          "name": "bhaa"
+        },
+        {
+          "glyph": "धृ",
+          "name": "dhri"
+        },
+        {
+          "glyph": "श",
+          "name": "sha",
+          "exampleWord": "शेर"
+        },
+        {
+          "glyph": "षा",
+          "name": "Shaa"
+        },
+        {
+          "glyph": "शे",
+          "name": "she"
+        },
+        {
+          "glyph": "की",
+          "name": "kii"
+        },
+        {
+          "glyph": "सौ",
+          "name": "sau"
+        },
+        {
+          "glyph": "सृ",
+          "name": "sri"
+        },
+        {
+          "glyph": "प",
+          "name": "pa"
+        },
+        {
+          "glyph": "शा",
+          "name": "shaa"
+        },
+        {
+          "glyph": "झ",
+          "name": "jha",
+          "exampleWord": "झंडा"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "प वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "प",
+            "पा",
+            "पि",
+            "पी"
+          ],
+          "answer": "प"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "म वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "म",
+            "मा",
+            "मि",
+            "मी"
+          ],
+          "answer": "म"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ठ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ठ",
+            "ठा",
+            "ठि",
+            "ठी"
+          ],
+          "answer": "ठ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l51",
+      "title": "समीक्षा 10",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "बी",
+          "name": "bii"
+        },
+        {
+          "glyph": "थ",
+          "name": "tha",
+          "exampleWord": "थैला"
+        },
+        {
+          "glyph": "प",
+          "name": "pa",
+          "exampleWord": "पतंग"
+        },
+        {
+          "glyph": "छे",
+          "name": "chhe"
+        },
+        {
+          "glyph": "पा",
+          "name": "paa"
+        },
+        {
+          "glyph": "फी",
+          "name": "phii"
+        },
+        {
+          "glyph": "कु",
+          "name": "ku"
+        },
+        {
+          "glyph": "सो",
+          "name": "so"
+        },
+        {
+          "glyph": "नि",
+          "name": "ni"
+        },
+        {
+          "glyph": "णी",
+          "name": "Nii"
+        },
+        {
+          "glyph": "ङृ",
+          "name": "ngri"
+        },
+        {
+          "glyph": "षो",
+          "name": "Sho"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ढ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ढ",
+            "ढा",
+            "ढि",
+            "ढी"
+          ],
+          "answer": "ढ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "भ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "भ",
+            "भा",
+            "भि",
+            "भी"
+          ],
+          "answer": "भ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ण वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ण",
+            "णा",
+            "णि",
+            "णी"
+          ],
+          "answer": "ण"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l52",
+      "title": "समीक्षा 11",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "शे",
+          "name": "she"
+        },
+        {
+          "glyph": "ञि",
+          "name": "nyi"
+        },
+        {
+          "glyph": "ङ",
+          "name": "nga",
+          "exampleWord": "वाङ्मय"
+        },
+        {
+          "glyph": "षौ",
+          "name": "Shau"
+        },
+        {
+          "glyph": "य",
+          "name": "ya"
+        },
+        {
+          "glyph": "छ",
+          "name": "chha"
+        },
+        {
+          "glyph": "ङू",
+          "name": "nguu"
+        },
+        {
+          "glyph": "वृ",
+          "name": "vri"
+        },
+        {
+          "glyph": "मि",
+          "name": "mi"
+        },
+        {
+          "glyph": "ङे",
+          "name": "nge"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "टमाटर किस अक्षर से शुरू होता है?",
+          "options": [
+            "ट",
+            "ठ",
+            "ड",
+            "ढ"
+          ],
+          "answer": "ट"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "छ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "छ",
+            "छा",
+            "छि",
+            "छी"
+          ],
+          "answer": "छ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l53",
+      "title": "समीक्षा 12",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ण",
+          "name": "Na",
+          "exampleWord": "गणेश"
+        },
+        {
+          "glyph": "गी",
+          "name": "gii"
+        },
+        {
+          "glyph": "पि",
+          "name": "pi"
+        },
+        {
+          "glyph": "लु",
+          "name": "lu"
+        },
+        {
+          "glyph": "लू",
+          "name": "luu"
+        },
+        {
+          "glyph": "ब",
+          "name": "ba",
+          "exampleWord": "बकरी"
+        },
+        {
+          "glyph": "शे",
+          "name": "she"
+        },
+        {
+          "glyph": "षे",
+          "name": "She"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "क वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "क",
+            "का",
+            "कि",
+            "की"
+          ],
+          "answer": "क"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ह वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ह",
+            "हा",
+            "हि",
+            "ही"
+          ],
+          "answer": "ह"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l54",
+      "title": "समीक्षा 13",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "मौ",
+          "name": "mau"
+        },
+        {
+          "glyph": "ऐ",
+          "name": "ai",
+          "exampleWord": "ऐनक"
+        },
+        {
+          "glyph": "भृ",
+          "name": "bhri"
+        },
+        {
+          "glyph": "औ",
+          "name": "au",
+          "exampleWord": "औरत"
+        },
+        {
+          "glyph": "बौ",
+          "name": "bau"
+        },
+        {
+          "glyph": "शो",
+          "name": "sho"
+        },
+        {
+          "glyph": "रृ",
+          "name": "rri"
+        },
+        {
+          "glyph": "आ",
+          "name": "aa",
+          "exampleWord": "आम"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ब वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ब",
+            "बा",
+            "बि",
+            "बी"
+          ],
+          "answer": "ब"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "क वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "क",
+            "का",
+            "कि",
+            "की"
+          ],
+          "answer": "क"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l55",
+      "title": "समीक्षा 14",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ठ",
+          "name": "Tha",
+          "exampleWord": "ठग"
+        },
+        {
+          "glyph": "णै",
+          "name": "Nai"
+        },
+        {
+          "glyph": "ढ",
+          "name": "Dha",
+          "exampleWord": "ढोल"
+        },
+        {
+          "glyph": "टै",
+          "name": "Tai"
+        },
+        {
+          "glyph": "ङै",
+          "name": "ngai"
+        },
+        {
+          "glyph": "घौ",
+          "name": "ghau"
+        },
+        {
+          "glyph": "मा",
+          "name": "maa"
+        },
+        {
+          "glyph": "के",
+          "name": "ke"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "स वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "स",
+            "सा",
+            "सि",
+            "सी"
+          ],
+          "answer": "स"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ण वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ण",
+            "णा",
+            "णि",
+            "णी"
+          ],
+          "answer": "ण"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l56",
+      "title": "समीक्षा 15",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "वो",
+          "name": "vo"
+        },
+        {
+          "glyph": "रि",
+          "name": "ri"
+        },
+        {
+          "glyph": "त",
+          "name": "ta",
+          "exampleWord": "तरबूज़"
+        },
+        {
+          "glyph": "खो",
+          "name": "kho"
+        },
+        {
+          "glyph": "सी",
+          "name": "sii"
+        },
+        {
+          "glyph": "ङौ",
+          "name": "ngau"
+        },
+        {
+          "glyph": "श",
+          "name": "sha"
+        },
+        {
+          "glyph": "फ",
+          "name": "pha"
+        },
+        {
+          "glyph": "झि",
+          "name": "jhi"
+        },
+        {
+          "glyph": "थै",
+          "name": "thai"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "उल्लू किस अक्षर से शुरू होता है?",
+          "options": [
+            "ऊ",
+            "उ",
+            "आ",
+            "ई"
+          ],
+          "answer": "उ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "र वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "र",
+            "रा",
+            "रि",
+            "री"
+          ],
+          "answer": "र"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l57",
+      "title": "समीक्षा 16",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "हि",
+          "name": "hi"
+        },
+        {
+          "glyph": "रौ",
+          "name": "rau"
+        },
+        {
+          "glyph": "षी",
+          "name": "Shii"
+        },
+        {
+          "glyph": "लृ",
+          "name": "lri"
+        },
+        {
+          "glyph": "तौ",
+          "name": "tau"
+        },
+        {
+          "glyph": "भ",
+          "name": "bha"
+        },
+        {
+          "glyph": "ढै",
+          "name": "Dhai"
+        },
+        {
+          "glyph": "णु",
+          "name": "Nu"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ट वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ट",
+            "टा",
+            "टि",
+            "टी"
+          ],
+          "answer": "ट"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "य वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "य",
+            "या",
+            "यि",
+            "यी"
+          ],
+          "answer": "य"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l58",
+      "title": "समीक्षा 17",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "षा",
+          "name": "Shaa"
+        },
+        {
+          "glyph": "हा",
+          "name": "haa"
+        },
+        {
+          "glyph": "वे",
+          "name": "ve"
+        },
+        {
+          "glyph": "छौ",
+          "name": "chhau"
+        },
+        {
+          "glyph": "अं",
+          "name": "an",
+          "exampleWord": "अंगूर"
+        },
+        {
+          "glyph": "ढे",
+          "name": "Dhe"
+        },
+        {
+          "glyph": "बो",
+          "name": "bo"
+        },
+        {
+          "glyph": "भृ",
+          "name": "bhri"
+        },
+        {
+          "glyph": "धै",
+          "name": "dhai"
+        },
+        {
+          "glyph": "ढू",
+          "name": "Dhuu"
+        },
+        {
+          "glyph": "घृ",
+          "name": "ghri"
+        },
+        {
+          "glyph": "न",
+          "name": "na",
+          "exampleWord": "नल"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "प वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "प",
+            "पा",
+            "पि",
+            "पी"
+          ],
+          "answer": "प"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "फ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "फ",
+            "फा",
+            "फि",
+            "फी"
+          ],
+          "answer": "फ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "शेर किस अक्षर से शुरू होता है?",
+          "options": [
+            "श",
+            "ष",
+            "स",
+            "ह"
+          ],
+          "answer": "श"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l59",
+      "title": "समीक्षा 18",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "वे",
+          "name": "ve"
+        },
+        {
+          "glyph": "ए",
+          "name": "e",
+          "exampleWord": "एक"
+        },
+        {
+          "glyph": "लृ",
+          "name": "lri"
+        },
+        {
+          "glyph": "द",
+          "name": "da",
+          "exampleWord": "दीपक"
+        },
+        {
+          "glyph": "गी",
+          "name": "gii"
+        },
+        {
+          "glyph": "घो",
+          "name": "gho"
+        },
+        {
+          "glyph": "ब",
+          "name": "ba"
+        },
+        {
+          "glyph": "ब",
+          "name": "ba",
+          "exampleWord": "बकरी"
+        },
+        {
+          "glyph": "झौ",
+          "name": "jhau"
+        },
+        {
+          "glyph": "सृ",
+          "name": "sri"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "पतंग किस अक्षर से शुरू होता है?",
+          "options": [
+            "प",
+            "फ",
+            "ब",
+            "भ"
+          ],
+          "answer": "प"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "चमचा किस अक्षर से शुरू होता है?",
+          "options": [
+            "च",
+            "छ",
+            "ज",
+            "झ"
+          ],
+          "answer": "च"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ङ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ङ",
+            "ङा",
+            "ङि",
+            "ङी"
+          ],
+          "answer": "ङ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l60",
+      "title": "समीक्षा 19",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ङू",
+          "name": "nguu"
+        },
+        {
+          "glyph": "णौ",
+          "name": "Nau"
+        },
+        {
+          "glyph": "नि",
+          "name": "ni"
+        },
+        {
+          "glyph": "भे",
+          "name": "bhe"
+        },
+        {
+          "glyph": "ङौ",
+          "name": "ngau"
+        },
+        {
+          "glyph": "बु",
+          "name": "bu"
+        },
+        {
+          "glyph": "भी",
+          "name": "bhii"
+        },
+        {
+          "glyph": "झि",
+          "name": "jhi"
+        },
+        {
+          "glyph": "शृ",
+          "name": "shri"
+        },
+        {
+          "glyph": "छौ",
+          "name": "chhau"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "व वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "व",
+            "वा",
+            "वि",
+            "वी"
+          ],
+          "answer": "व"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "पतंग किस अक्षर से शुरू होता है?",
+          "options": [
+            "प",
+            "फ",
+            "ब",
+            "भ"
+          ],
+          "answer": "प"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l61",
+      "title": "समीक्षा 20",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "उ",
+          "name": "u",
+          "exampleWord": "उल्लू"
+        },
+        {
+          "glyph": "के",
+          "name": "ke"
+        },
+        {
+          "glyph": "बे",
+          "name": "be"
+        },
+        {
+          "glyph": "णे",
+          "name": "Ne"
+        },
+        {
+          "glyph": "बै",
+          "name": "bai"
+        },
+        {
+          "glyph": "दु",
+          "name": "du"
+        },
+        {
+          "glyph": "फृ",
+          "name": "phri"
+        },
+        {
+          "glyph": "ङृ",
+          "name": "ngri"
+        },
+        {
+          "glyph": "चृ",
+          "name": "chri"
+        },
+        {
+          "glyph": "अः",
+          "name": "ah",
+          "exampleWord": "प्रातः"
+        },
+        {
+          "glyph": "भ",
+          "name": "bha"
+        },
+        {
+          "glyph": "वू",
+          "name": "vuu"
+        },
+        {
+          "glyph": "णृ",
+          "name": "Nri"
+        },
+        {
+          "glyph": "न",
+          "name": "na"
+        },
+        {
+          "glyph": "बू",
+          "name": "buu"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ण वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ण",
+            "णा",
+            "णि",
+            "णी"
+          ],
+          "answer": "ण"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "चमचा किस अक्षर से शुरू होता है?",
+          "options": [
+            "च",
+            "छ",
+            "ज",
+            "झ"
+          ],
+          "answer": "च"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ङ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ङ",
+            "ङा",
+            "ङि",
+            "ङी"
+          ],
+          "answer": "ङ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l62",
+      "title": "समीक्षा 21",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ण",
+          "name": "Na",
+          "exampleWord": "गणेश"
+        },
+        {
+          "glyph": "चि",
+          "name": "chi"
+        },
+        {
+          "glyph": "च",
+          "name": "cha"
+        },
+        {
+          "glyph": "धौ",
+          "name": "dhau"
+        },
+        {
+          "glyph": "ङृ",
+          "name": "ngri"
+        },
+        {
+          "glyph": "यू",
+          "name": "yuu"
+        },
+        {
+          "glyph": "ढे",
+          "name": "Dhe"
+        },
+        {
+          "glyph": "थु",
+          "name": "thu"
+        },
+        {
+          "glyph": "घि",
+          "name": "ghi"
+        },
+        {
+          "glyph": "ङू",
+          "name": "nguu"
+        },
+        {
+          "glyph": "ञै",
+          "name": "nyai"
+        },
+        {
+          "glyph": "मू",
+          "name": "muu"
+        },
+        {
+          "glyph": "ञौ",
+          "name": "nyau"
+        },
+        {
+          "glyph": "भ",
+          "name": "bha",
+          "exampleWord": "भालू"
+        },
+        {
+          "glyph": "डौ",
+          "name": "Dau"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "य वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "य",
+            "या",
+            "यि",
+            "यी"
+          ],
+          "answer": "य"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "पतंग किस अक्षर से शुरू होता है?",
+          "options": [
+            "प",
+            "फ",
+            "ब",
+            "भ"
+          ],
+          "answer": "प"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "फ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "फ",
+            "फा",
+            "फि",
+            "फी"
+          ],
+          "answer": "फ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l63",
+      "title": "समीक्षा 22",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "यै",
+          "name": "yai"
+        },
+        {
+          "glyph": "ते",
+          "name": "te"
+        },
+        {
+          "glyph": "सो",
+          "name": "so"
+        },
+        {
+          "glyph": "ञ",
+          "name": "nya",
+          "exampleWord": "ज्ञान"
+        },
+        {
+          "glyph": "थै",
+          "name": "thai"
+        },
+        {
+          "glyph": "रे",
+          "name": "re"
+        },
+        {
+          "glyph": "गी",
+          "name": "gii"
+        },
+        {
+          "glyph": "भ",
+          "name": "bha"
+        },
+        {
+          "glyph": "छि",
+          "name": "chhi"
+        },
+        {
+          "glyph": "ति",
+          "name": "ti"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ट वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ट",
+            "टा",
+            "टि",
+            "टी"
+          ],
+          "answer": "ट"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ग वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ग",
+            "गा",
+            "गि",
+            "गी"
+          ],
+          "answer": "ग"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l64",
+      "title": "समीक्षा 23",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "य",
+          "name": "ya"
+        },
+        {
+          "glyph": "मे",
+          "name": "me"
+        },
+        {
+          "glyph": "लृ",
+          "name": "lri"
+        },
+        {
+          "glyph": "व",
+          "name": "va"
+        },
+        {
+          "glyph": "दू",
+          "name": "duu"
+        },
+        {
+          "glyph": "ठु",
+          "name": "Thu"
+        },
+        {
+          "glyph": "रि",
+          "name": "ri"
+        },
+        {
+          "glyph": "ती",
+          "name": "tii"
+        },
+        {
+          "glyph": "ध",
+          "name": "dha",
+          "exampleWord": "धनुष"
+        },
+        {
+          "glyph": "भि",
+          "name": "bhi"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "कमल किस अक्षर से शुरू होता है?",
+          "options": [
+            "क",
+            "ख",
+            "ग",
+            "घ"
+          ],
+          "answer": "क"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "द वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "द",
+            "दा",
+            "दि",
+            "दी"
+          ],
+          "answer": "द"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l65",
+      "title": "समीक्षा 24",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ढृ",
+          "name": "Dhri"
+        },
+        {
+          "glyph": "बृ",
+          "name": "bri"
+        },
+        {
+          "glyph": "तौ",
+          "name": "tau"
+        },
+        {
+          "glyph": "ठे",
+          "name": "The"
+        },
+        {
+          "glyph": "दृ",
+          "name": "dri"
+        },
+        {
+          "glyph": "मो",
+          "name": "mo"
+        },
+        {
+          "glyph": "जु",
+          "name": "ju"
+        },
+        {
+          "glyph": "दू",
+          "name": "duu"
+        },
+        {
+          "glyph": "धा",
+          "name": "dhaa"
+        },
+        {
+          "glyph": "ति",
+          "name": "ti"
+        },
+        {
+          "glyph": "शि",
+          "name": "shi"
+        },
+        {
+          "glyph": "झा",
+          "name": "jhaa"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "च वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "च",
+            "चा",
+            "चि",
+            "ची"
+          ],
+          "answer": "च"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ख वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ख",
+            "खा",
+            "खि",
+            "खी"
+          ],
+          "answer": "ख"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l66",
+      "title": "समीक्षा 25",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "शु",
+          "name": "shu"
+        },
+        {
+          "glyph": "डि",
+          "name": "Di"
+        },
+        {
+          "glyph": "डे",
+          "name": "De"
+        },
+        {
+          "glyph": "पि",
+          "name": "pi"
+        },
+        {
+          "glyph": "णु",
+          "name": "Nu"
+        },
+        {
+          "glyph": "धु",
+          "name": "dhu"
+        },
+        {
+          "glyph": "डृ",
+          "name": "Dri"
+        },
+        {
+          "glyph": "सो",
+          "name": "so"
+        },
+        {
+          "glyph": "खो",
+          "name": "kho"
+        },
+        {
+          "glyph": "खौ",
+          "name": "khau"
+        },
+        {
+          "glyph": "णे",
+          "name": "Ne"
+        },
+        {
+          "glyph": "छै",
+          "name": "chhai"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "प वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "प",
+            "पा",
+            "पि",
+            "पी"
+          ],
+          "answer": "प"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "न वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "न",
+            "ना",
+            "नि",
+            "नी"
+          ],
+          "answer": "न"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l67",
+      "title": "समीक्षा 26",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "जो",
+          "name": "jo"
+        },
+        {
+          "glyph": "दु",
+          "name": "du"
+        },
+        {
+          "glyph": "ली",
+          "name": "lii"
+        },
+        {
+          "glyph": "ढै",
+          "name": "Dhai"
+        },
+        {
+          "glyph": "चि",
+          "name": "chi"
+        },
+        {
+          "glyph": "ट",
+          "name": "Ta"
+        },
+        {
+          "glyph": "फ",
+          "name": "pha",
+          "exampleWord": "फल"
+        },
+        {
+          "glyph": "गि",
+          "name": "gi"
+        },
+        {
+          "glyph": "बृ",
+          "name": "bri"
+        },
+        {
+          "glyph": "तै",
+          "name": "tai"
+        },
+        {
+          "glyph": "पी",
+          "name": "pii"
+        },
+        {
+          "glyph": "डै",
+          "name": "Dai"
+        },
+        {
+          "glyph": "शै",
+          "name": "shai"
+        },
+        {
+          "glyph": "ढ",
+          "name": "Dha",
+          "exampleWord": "ढोल"
+        },
+        {
+          "glyph": "औ",
+          "name": "au",
+          "exampleWord": "औरत"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ध वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ध",
+            "धा",
+            "धि",
+            "धी"
+          ],
+          "answer": "ध"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ह वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ह",
+            "हा",
+            "हि",
+            "ही"
+          ],
+          "answer": "ह"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l68",
+      "title": "समीक्षा 27",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "दौ",
+          "name": "dau"
+        },
+        {
+          "glyph": "दे",
+          "name": "de"
+        },
+        {
+          "glyph": "ते",
+          "name": "te"
+        },
+        {
+          "glyph": "झी",
+          "name": "jhii"
+        },
+        {
+          "glyph": "यै",
+          "name": "yai"
+        },
+        {
+          "glyph": "पै",
+          "name": "pai"
+        },
+        {
+          "glyph": "ङे",
+          "name": "nge"
+        },
+        {
+          "glyph": "भृ",
+          "name": "bhri"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "भ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "भ",
+            "भा",
+            "भि",
+            "भी"
+          ],
+          "answer": "भ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ध वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ध",
+            "धा",
+            "धि",
+            "धी"
+          ],
+          "answer": "ध"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l69",
+      "title": "समीक्षा 28",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "हू",
+          "name": "huu"
+        },
+        {
+          "glyph": "रै",
+          "name": "rai"
+        },
+        {
+          "glyph": "छो",
+          "name": "chho"
+        },
+        {
+          "glyph": "नि",
+          "name": "ni"
+        },
+        {
+          "glyph": "वा",
+          "name": "vaa"
+        },
+        {
+          "glyph": "छ",
+          "name": "chha",
+          "exampleWord": "छतरी"
+        },
+        {
+          "glyph": "झि",
+          "name": "jhi"
+        },
+        {
+          "glyph": "घी",
+          "name": "ghii"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ट वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ट",
+            "टा",
+            "टि",
+            "टी"
+          ],
+          "answer": "ट"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "फ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "फ",
+            "फा",
+            "फि",
+            "फी"
+          ],
+          "answer": "फ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "शेर किस अक्षर से शुरू होता है?",
+          "options": [
+            "श",
+            "ष",
+            "स",
+            "ह"
+          ],
+          "answer": "श"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l70",
+      "title": "समीक्षा 29",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ढि",
+          "name": "Dhi"
+        },
+        {
+          "glyph": "ञृ",
+          "name": "nyri"
+        },
+        {
+          "glyph": "मे",
+          "name": "me"
+        },
+        {
+          "glyph": "ङो",
+          "name": "ngo"
+        },
+        {
+          "glyph": "षौ",
+          "name": "Shau"
+        },
+        {
+          "glyph": "का",
+          "name": "kaa"
+        },
+        {
+          "glyph": "झु",
+          "name": "jhu"
+        },
+        {
+          "glyph": "धै",
+          "name": "dhai"
+        },
+        {
+          "glyph": "ङे",
+          "name": "nge"
+        },
+        {
+          "glyph": "री",
+          "name": "rii"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "श वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "श",
+            "शा",
+            "शि",
+            "शी"
+          ],
+          "answer": "श"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "र वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "र",
+            "रा",
+            "रि",
+            "री"
+          ],
+          "answer": "र"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ख वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ख",
+            "खा",
+            "खि",
+            "खी"
+          ],
+          "answer": "ख"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l71",
+      "title": "समीक्षा 30",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ढे",
+          "name": "Dhe"
+        },
+        {
+          "glyph": "टा",
+          "name": "Taa"
+        },
+        {
+          "glyph": "छो",
+          "name": "chho"
+        },
+        {
+          "glyph": "रो",
+          "name": "ro"
+        },
+        {
+          "glyph": "ज",
+          "name": "ja",
+          "exampleWord": "जग"
+        },
+        {
+          "glyph": "लृ",
+          "name": "lri"
+        },
+        {
+          "glyph": "भै",
+          "name": "bhai"
+        },
+        {
+          "glyph": "रु",
+          "name": "ru"
+        },
+        {
+          "glyph": "जृ",
+          "name": "jri"
+        },
+        {
+          "glyph": "झी",
+          "name": "jhii"
+        },
+        {
+          "glyph": "बृ",
+          "name": "bri"
+        },
+        {
+          "glyph": "शी",
+          "name": "shii"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ष वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ष",
+            "षा",
+            "षि",
+            "षी"
+          ],
+          "answer": "ष"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "भ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "भ",
+            "भा",
+            "भि",
+            "भी"
+          ],
+          "answer": "भ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l72",
+      "title": "समीक्षा 31",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "हि",
+          "name": "hi"
+        },
+        {
+          "glyph": "णा",
+          "name": "Naa"
+        },
+        {
+          "glyph": "अः",
+          "name": "ah",
+          "exampleWord": "प्रातः"
+        },
+        {
+          "glyph": "जे",
+          "name": "je"
+        },
+        {
+          "glyph": "थौ",
+          "name": "thau"
+        },
+        {
+          "glyph": "मु",
+          "name": "mu"
+        },
+        {
+          "glyph": "फा",
+          "name": "phaa"
+        },
+        {
+          "glyph": "भृ",
+          "name": "bhri"
+        },
+        {
+          "glyph": "ई",
+          "name": "ii",
+          "exampleWord": "ईख"
+        },
+        {
+          "glyph": "द",
+          "name": "da"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "घ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "घ",
+            "घा",
+            "घि",
+            "घी"
+          ],
+          "answer": "घ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "थ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "थ",
+            "था",
+            "थि",
+            "थी"
+          ],
+          "answer": "थ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ष वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ष",
+            "षा",
+            "षि",
+            "षी"
+          ],
+          "answer": "ष"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l73",
+      "title": "समीक्षा 32",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ञै",
+          "name": "nyai"
+        },
+        {
+          "glyph": "ढ",
+          "name": "Dha",
+          "exampleWord": "ढोल"
+        },
+        {
+          "glyph": "घ",
+          "name": "gha"
+        },
+        {
+          "glyph": "धु",
+          "name": "dhu"
+        },
+        {
+          "glyph": "कृ",
+          "name": "kri"
+        },
+        {
+          "glyph": "ट",
+          "name": "Ta",
+          "exampleWord": "टमाटर"
+        },
+        {
+          "glyph": "ध",
+          "name": "dha"
+        },
+        {
+          "glyph": "घृ",
+          "name": "ghri"
+        },
+        {
+          "glyph": "नू",
+          "name": "nuu"
+        },
+        {
+          "glyph": "गु",
+          "name": "gu"
+        },
+        {
+          "glyph": "च",
+          "name": "cha"
+        },
+        {
+          "glyph": "घू",
+          "name": "ghuu"
+        },
+        {
+          "glyph": "बो",
+          "name": "bo"
+        },
+        {
+          "glyph": "डि",
+          "name": "Di"
+        },
+        {
+          "glyph": "थै",
+          "name": "thai"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "यज्ञ किस अक्षर से शुरू होता है?",
+          "options": [
+            "य",
+            "र",
+            "ल",
+            "व"
+          ],
+          "answer": "य"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "द वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "द",
+            "दा",
+            "दि",
+            "दी"
+          ],
+          "answer": "द"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l74",
+      "title": "समीक्षा 33",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ङ",
+          "name": "nga",
+          "exampleWord": "वाङ्मय"
+        },
+        {
+          "glyph": "पौ",
+          "name": "pau"
+        },
+        {
+          "glyph": "अ",
+          "name": "a",
+          "exampleWord": "अनार"
+        },
+        {
+          "glyph": "झू",
+          "name": "jhuu"
+        },
+        {
+          "glyph": "घि",
+          "name": "ghi"
+        },
+        {
+          "glyph": "यौ",
+          "name": "yau"
+        },
+        {
+          "glyph": "छु",
+          "name": "chhu"
+        },
+        {
+          "glyph": "खि",
+          "name": "khi"
+        },
+        {
+          "glyph": "धै",
+          "name": "dhai"
+        },
+        {
+          "glyph": "ने",
+          "name": "ne"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "उल्लू किस अक्षर से शुरू होता है?",
+          "options": [
+            "ऊ",
+            "उ",
+            "आ",
+            "ई"
+          ],
+          "answer": "उ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "घ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "घ",
+            "घा",
+            "घि",
+            "घी"
+          ],
+          "answer": "घ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l75",
+      "title": "समीक्षा 34",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "भ",
+          "name": "bha",
+          "exampleWord": "भालू"
+        },
+        {
+          "glyph": "टै",
+          "name": "Tai"
+        },
+        {
+          "glyph": "क",
+          "name": "ka",
+          "exampleWord": "कमल"
+        },
+        {
+          "glyph": "ल",
+          "name": "la"
+        },
+        {
+          "glyph": "ज",
+          "name": "ja"
+        },
+        {
+          "glyph": "ञो",
+          "name": "nyo"
+        },
+        {
+          "glyph": "घो",
+          "name": "gho"
+        },
+        {
+          "glyph": "धृ",
+          "name": "dhri"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "श वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "श",
+            "शा",
+            "शि",
+            "शी"
+          ],
+          "answer": "श"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ण वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ण",
+            "णा",
+            "णि",
+            "णी"
+          ],
+          "answer": "ण"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l76",
+      "title": "समीक्षा 35",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "है",
+          "name": "hai"
+        },
+        {
+          "glyph": "ठ",
+          "name": "Tha",
+          "exampleWord": "ठग"
+        },
+        {
+          "glyph": "लै",
+          "name": "lai"
+        },
+        {
+          "glyph": "ङु",
+          "name": "ngu"
+        },
+        {
+          "glyph": "टु",
+          "name": "Tu"
+        },
+        {
+          "glyph": "णु",
+          "name": "Nu"
+        },
+        {
+          "glyph": "छा",
+          "name": "chhaa"
+        },
+        {
+          "glyph": "ञै",
+          "name": "nyai"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ज वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ज",
+            "जा",
+            "जि",
+            "जी"
+          ],
+          "answer": "ज"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "स वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "स",
+            "सा",
+            "सि",
+            "सी"
+          ],
+          "answer": "स"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l77",
+      "title": "समीक्षा 36",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ष",
+          "name": "Sha",
+          "exampleWord": "षट्कोण"
+        },
+        {
+          "glyph": "षा",
+          "name": "Shaa"
+        },
+        {
+          "glyph": "हि",
+          "name": "hi"
+        },
+        {
+          "glyph": "ल",
+          "name": "la"
+        },
+        {
+          "glyph": "सौ",
+          "name": "sau"
+        },
+        {
+          "glyph": "ह",
+          "name": "ha"
+        },
+        {
+          "glyph": "तू",
+          "name": "tuu"
+        },
+        {
+          "glyph": "श",
+          "name": "sha"
+        },
+        {
+          "glyph": "ढू",
+          "name": "Dhuu"
+        },
+        {
+          "glyph": "शी",
+          "name": "shii"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "झ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "झ",
+            "झा",
+            "झि",
+            "झी"
+          ],
+          "answer": "झ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "शेर किस अक्षर से शुरू होता है?",
+          "options": [
+            "श",
+            "ष",
+            "स",
+            "ह"
+          ],
+          "answer": "श"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l78",
+      "title": "समीक्षा 37",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "भै",
+          "name": "bhai"
+        },
+        {
+          "glyph": "हु",
+          "name": "hu"
+        },
+        {
+          "glyph": "थो",
+          "name": "tho"
+        },
+        {
+          "glyph": "षौ",
+          "name": "Shau"
+        },
+        {
+          "glyph": "वे",
+          "name": "ve"
+        },
+        {
+          "glyph": "क",
+          "name": "ka",
+          "exampleWord": "कमल"
+        },
+        {
+          "glyph": "भ",
+          "name": "bha"
+        },
+        {
+          "glyph": "स",
+          "name": "sa"
+        },
+        {
+          "glyph": "मू",
+          "name": "muu"
+        },
+        {
+          "glyph": "उ",
+          "name": "u",
+          "exampleWord": "उल्लू"
+        },
+        {
+          "glyph": "छी",
+          "name": "chhii"
+        },
+        {
+          "glyph": "यो",
+          "name": "yo"
+        },
+        {
+          "glyph": "जै",
+          "name": "jai"
+        },
+        {
+          "glyph": "धी",
+          "name": "dhii"
+        },
+        {
+          "glyph": "वृ",
+          "name": "vri"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "स वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "स",
+            "सा",
+            "सि",
+            "सी"
+          ],
+          "answer": "स"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "चमचा किस अक्षर से शुरू होता है?",
+          "options": [
+            "च",
+            "छ",
+            "ज",
+            "झ"
+          ],
+          "answer": "च"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "क वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "क",
+            "का",
+            "कि",
+            "की"
+          ],
+          "answer": "क"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l79",
+      "title": "समीक्षा 38",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "जे",
+          "name": "je"
+        },
+        {
+          "glyph": "थ",
+          "name": "tha",
+          "exampleWord": "थैला"
+        },
+        {
+          "glyph": "बो",
+          "name": "bo"
+        },
+        {
+          "glyph": "ङे",
+          "name": "nge"
+        },
+        {
+          "glyph": "षौ",
+          "name": "Shau"
+        },
+        {
+          "glyph": "फृ",
+          "name": "phri"
+        },
+        {
+          "glyph": "ती",
+          "name": "tii"
+        },
+        {
+          "glyph": "ञी",
+          "name": "nyii"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ड वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ड",
+            "डा",
+            "डि",
+            "डी"
+          ],
+          "answer": "ड"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ह वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ह",
+            "हा",
+            "हि",
+            "ही"
+          ],
+          "answer": "ह"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ठ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ठ",
+            "ठा",
+            "ठि",
+            "ठी"
+          ],
+          "answer": "ठ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l80",
+      "title": "समीक्षा 39",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "णे",
+          "name": "Ne"
+        },
+        {
+          "glyph": "त",
+          "name": "ta"
+        },
+        {
+          "glyph": "बै",
+          "name": "bai"
+        },
+        {
+          "glyph": "फ",
+          "name": "pha"
+        },
+        {
+          "glyph": "कौ",
+          "name": "kau"
+        },
+        {
+          "glyph": "ङो",
+          "name": "ngo"
+        },
+        {
+          "glyph": "हू",
+          "name": "huu"
+        },
+        {
+          "glyph": "उ",
+          "name": "u",
+          "exampleWord": "उल्लू"
+        },
+        {
+          "glyph": "थु",
+          "name": "thu"
+        },
+        {
+          "glyph": "शो",
+          "name": "sho"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ल वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ल",
+            "ला",
+            "लि",
+            "ली"
+          ],
+          "answer": "ल"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ग वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ग",
+            "गा",
+            "गि",
+            "गी"
+          ],
+          "answer": "ग"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ञ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ञ",
+            "ञा",
+            "ञि",
+            "ञी"
+          ],
+          "answer": "ञ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l81",
+      "title": "समीक्षा 40",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "क",
+          "name": "ka",
+          "exampleWord": "कमल"
+        },
+        {
+          "glyph": "तै",
+          "name": "tai"
+        },
+        {
+          "glyph": "लौ",
+          "name": "lau"
+        },
+        {
+          "glyph": "ठी",
+          "name": "Thii"
+        },
+        {
+          "glyph": "ढु",
+          "name": "Dhu"
+        },
+        {
+          "glyph": "तू",
+          "name": "tuu"
+        },
+        {
+          "glyph": "रो",
+          "name": "ro"
+        },
+        {
+          "glyph": "म",
+          "name": "ma"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "न वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "न",
+            "ना",
+            "नि",
+            "नी"
+          ],
+          "answer": "न"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "फ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "फ",
+            "फा",
+            "फि",
+            "फी"
+          ],
+          "answer": "फ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ड वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ड",
+            "डा",
+            "डि",
+            "डी"
+          ],
+          "answer": "ड"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l82",
+      "title": "समीक्षा 41",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "पे",
+          "name": "pe"
+        },
+        {
+          "glyph": "रि",
+          "name": "ri"
+        },
+        {
+          "glyph": "बी",
+          "name": "bii"
+        },
+        {
+          "glyph": "दि",
+          "name": "di"
+        },
+        {
+          "glyph": "ठ",
+          "name": "Tha",
+          "exampleWord": "ठग"
+        },
+        {
+          "glyph": "बु",
+          "name": "bu"
+        },
+        {
+          "glyph": "घी",
+          "name": "ghii"
+        },
+        {
+          "glyph": "छ",
+          "name": "chha"
+        },
+        {
+          "glyph": "तो",
+          "name": "to"
+        },
+        {
+          "glyph": "शी",
+          "name": "shii"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "म वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "म",
+            "मा",
+            "मि",
+            "मी"
+          ],
+          "answer": "म"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "थ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "थ",
+            "था",
+            "थि",
+            "थी"
+          ],
+          "answer": "थ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l83",
+      "title": "समीक्षा 42",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ञृ",
+          "name": "nyri"
+        },
+        {
+          "glyph": "र",
+          "name": "ra",
+          "exampleWord": "रथ"
+        },
+        {
+          "glyph": "षै",
+          "name": "Shai"
+        },
+        {
+          "glyph": "सू",
+          "name": "suu"
+        },
+        {
+          "glyph": "षा",
+          "name": "Shaa"
+        },
+        {
+          "glyph": "फृ",
+          "name": "phri"
+        },
+        {
+          "glyph": "फ",
+          "name": "pha",
+          "exampleWord": "फल"
+        },
+        {
+          "glyph": "भृ",
+          "name": "bhri"
+        },
+        {
+          "glyph": "चौ",
+          "name": "chau"
+        },
+        {
+          "glyph": "म",
+          "name": "ma"
+        },
+        {
+          "glyph": "घृ",
+          "name": "ghri"
+        },
+        {
+          "glyph": "छे",
+          "name": "chhe"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ठ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ठ",
+            "ठा",
+            "ठि",
+            "ठी"
+          ],
+          "answer": "ठ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ल वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ल",
+            "ला",
+            "लि",
+            "ली"
+          ],
+          "answer": "ल"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l84",
+      "title": "समीक्षा 43",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "छे",
+          "name": "chhe"
+        },
+        {
+          "glyph": "घि",
+          "name": "ghi"
+        },
+        {
+          "glyph": "ढौ",
+          "name": "Dhau"
+        },
+        {
+          "glyph": "जे",
+          "name": "je"
+        },
+        {
+          "glyph": "छै",
+          "name": "chhai"
+        },
+        {
+          "glyph": "ना",
+          "name": "naa"
+        },
+        {
+          "glyph": "णा",
+          "name": "Naa"
+        },
+        {
+          "glyph": "सै",
+          "name": "sai"
+        },
+        {
+          "glyph": "ज",
+          "name": "ja",
+          "exampleWord": "जग"
+        },
+        {
+          "glyph": "टै",
+          "name": "Tai"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "स वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "स",
+            "सा",
+            "सि",
+            "सी"
+          ],
+          "answer": "स"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "झ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "झ",
+            "झा",
+            "झि",
+            "झी"
+          ],
+          "answer": "झ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "अनार किस अक्षर से शुरू होता है?",
+          "options": [
+            "अ",
+            "आ",
+            "इ",
+            "उ"
+          ],
+          "answer": "अ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l85",
+      "title": "समीक्षा 44",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "जे",
+          "name": "je"
+        },
+        {
+          "glyph": "दौ",
+          "name": "dau"
+        },
+        {
+          "glyph": "ञौ",
+          "name": "nyau"
+        },
+        {
+          "glyph": "ढि",
+          "name": "Dhi"
+        },
+        {
+          "glyph": "हो",
+          "name": "ho"
+        },
+        {
+          "glyph": "ङे",
+          "name": "nge"
+        },
+        {
+          "glyph": "तृ",
+          "name": "tri"
+        },
+        {
+          "glyph": "र",
+          "name": "ra",
+          "exampleWord": "रथ"
+        },
+        {
+          "glyph": "दै",
+          "name": "dai"
+        },
+        {
+          "glyph": "त",
+          "name": "ta",
+          "exampleWord": "तरबूज़"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "छ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "छ",
+            "छा",
+            "छि",
+            "छी"
+          ],
+          "answer": "छ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "शेर किस अक्षर से शुरू होता है?",
+          "options": [
+            "श",
+            "ष",
+            "स",
+            "ह"
+          ],
+          "answer": "श"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "चमचा किस अक्षर से शुरू होता है?",
+          "options": [
+            "च",
+            "छ",
+            "ज",
+            "झ"
+          ],
+          "answer": "च"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l86",
+      "title": "समीक्षा 45",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "थौ",
+          "name": "thau"
+        },
+        {
+          "glyph": "ग",
+          "name": "ga"
+        },
+        {
+          "glyph": "घै",
+          "name": "ghai"
+        },
+        {
+          "glyph": "टे",
+          "name": "Te"
+        },
+        {
+          "glyph": "ड",
+          "name": "Da",
+          "exampleWord": "डमरू"
+        },
+        {
+          "glyph": "से",
+          "name": "se"
+        },
+        {
+          "glyph": "ञृ",
+          "name": "nyri"
+        },
+        {
+          "glyph": "ढृ",
+          "name": "Dhri"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "स वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "स",
+            "सा",
+            "सि",
+            "सी"
+          ],
+          "answer": "स"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "भ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "भ",
+            "भा",
+            "भि",
+            "भी"
+          ],
+          "answer": "भ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l87",
+      "title": "समीक्षा 46",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "रु",
+          "name": "ru"
+        },
+        {
+          "glyph": "ए",
+          "name": "e",
+          "exampleWord": "एक"
+        },
+        {
+          "glyph": "भू",
+          "name": "bhuu"
+        },
+        {
+          "glyph": "शे",
+          "name": "she"
+        },
+        {
+          "glyph": "वो",
+          "name": "vo"
+        },
+        {
+          "glyph": "फा",
+          "name": "phaa"
+        },
+        {
+          "glyph": "डो",
+          "name": "Do"
+        },
+        {
+          "glyph": "ग",
+          "name": "ga",
+          "exampleWord": "गमला"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "क वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "क",
+            "का",
+            "कि",
+            "की"
+          ],
+          "answer": "क"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "यज्ञ किस अक्षर से शुरू होता है?",
+          "options": [
+            "य",
+            "र",
+            "ल",
+            "व"
+          ],
+          "answer": "य"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "पतंग किस अक्षर से शुरू होता है?",
+          "options": [
+            "प",
+            "फ",
+            "ब",
+            "भ"
+          ],
+          "answer": "प"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l88",
+      "title": "समीक्षा 47",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "यौ",
+          "name": "yau"
+        },
+        {
+          "glyph": "बे",
+          "name": "be"
+        },
+        {
+          "glyph": "दृ",
+          "name": "dri"
+        },
+        {
+          "glyph": "यु",
+          "name": "yu"
+        },
+        {
+          "glyph": "चे",
+          "name": "che"
+        },
+        {
+          "glyph": "ञु",
+          "name": "nyu"
+        },
+        {
+          "glyph": "ग",
+          "name": "ga",
+          "exampleWord": "गमला"
+        },
+        {
+          "glyph": "टृ",
+          "name": "Tri"
+        },
+        {
+          "glyph": "वे",
+          "name": "ve"
+        },
+        {
+          "glyph": "श",
+          "name": "sha"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "कमल किस अक्षर से शुरू होता है?",
+          "options": [
+            "क",
+            "ख",
+            "ग",
+            "घ"
+          ],
+          "answer": "क"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "प वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "प",
+            "पा",
+            "पि",
+            "पी"
+          ],
+          "answer": "प"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l89",
+      "title": "समीक्षा 48",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "द",
+          "name": "da",
+          "exampleWord": "दीपक"
+        },
+        {
+          "glyph": "ठो",
+          "name": "Tho"
+        },
+        {
+          "glyph": "छे",
+          "name": "chhe"
+        },
+        {
+          "glyph": "णू",
+          "name": "Nuu"
+        },
+        {
+          "glyph": "बा",
+          "name": "baa"
+        },
+        {
+          "glyph": "लो",
+          "name": "lo"
+        },
+        {
+          "glyph": "खी",
+          "name": "khii"
+        },
+        {
+          "glyph": "मे",
+          "name": "me"
+        },
+        {
+          "glyph": "वी",
+          "name": "vii"
+        },
+        {
+          "glyph": "शी",
+          "name": "shii"
+        },
+        {
+          "glyph": "पृ",
+          "name": "pri"
+        },
+        {
+          "glyph": "बि",
+          "name": "bi"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ख वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ख",
+            "खा",
+            "खि",
+            "खी"
+          ],
+          "answer": "ख"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "फ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "फ",
+            "फा",
+            "फि",
+            "फी"
+          ],
+          "answer": "फ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l90",
+      "title": "समीक्षा 49",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "त",
+          "name": "ta",
+          "exampleWord": "तरबूज़"
+        },
+        {
+          "glyph": "टै",
+          "name": "Tai"
+        },
+        {
+          "glyph": "ञो",
+          "name": "nyo"
+        },
+        {
+          "glyph": "द",
+          "name": "da",
+          "exampleWord": "दीपक"
+        },
+        {
+          "glyph": "ञै",
+          "name": "nyai"
+        },
+        {
+          "glyph": "तो",
+          "name": "to"
+        },
+        {
+          "glyph": "षि",
+          "name": "Shi"
+        },
+        {
+          "glyph": "नृ",
+          "name": "nri"
+        },
+        {
+          "glyph": "भू",
+          "name": "bhuu"
+        },
+        {
+          "glyph": "खा",
+          "name": "khaa"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "चमचा किस अक्षर से शुरू होता है?",
+          "options": [
+            "च",
+            "छ",
+            "ज",
+            "झ"
+          ],
+          "answer": "च"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "थ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "थ",
+            "था",
+            "थि",
+            "थी"
+          ],
+          "answer": "थ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l91",
+      "title": "समीक्षा 50",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "छो",
+          "name": "chho"
+        },
+        {
+          "glyph": "भ",
+          "name": "bha"
+        },
+        {
+          "glyph": "थ",
+          "name": "tha",
+          "exampleWord": "थैला"
+        },
+        {
+          "glyph": "अः",
+          "name": "ah",
+          "exampleWord": "प्रातः"
+        },
+        {
+          "glyph": "तु",
+          "name": "tu"
+        },
+        {
+          "glyph": "ठा",
+          "name": "Thaa"
+        },
+        {
+          "glyph": "रु",
+          "name": "ru"
+        },
+        {
+          "glyph": "नै",
+          "name": "nai"
+        },
+        {
+          "glyph": "शो",
+          "name": "sho"
+        },
+        {
+          "glyph": "ढी",
+          "name": "Dhii"
+        },
+        {
+          "glyph": "वु",
+          "name": "vu"
+        },
+        {
+          "glyph": "घृ",
+          "name": "ghri"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "स वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "स",
+            "सा",
+            "सि",
+            "सी"
+          ],
+          "answer": "स"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "तरबूज़ किस अक्षर से शुरू होता है?",
+          "options": [
+            "त",
+            "थ",
+            "द",
+            "ध"
+          ],
+          "answer": "त"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l92",
+      "title": "समीक्षा 51",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ती",
+          "name": "tii"
+        },
+        {
+          "glyph": "टो",
+          "name": "To"
+        },
+        {
+          "glyph": "फी",
+          "name": "phii"
+        },
+        {
+          "glyph": "पे",
+          "name": "pe"
+        },
+        {
+          "glyph": "व",
+          "name": "va"
+        },
+        {
+          "glyph": "चो",
+          "name": "cho"
+        },
+        {
+          "glyph": "चि",
+          "name": "chi"
+        },
+        {
+          "glyph": "ऐ",
+          "name": "ai",
+          "exampleWord": "ऐनक"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "श वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "श",
+            "शा",
+            "शि",
+            "शी"
+          ],
+          "answer": "श"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ब वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ब",
+            "बा",
+            "बि",
+            "बी"
+          ],
+          "answer": "ब"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l93",
+      "title": "समीक्षा 52",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "लृ",
+          "name": "lri"
+        },
+        {
+          "glyph": "ल",
+          "name": "la"
+        },
+        {
+          "glyph": "घौ",
+          "name": "ghau"
+        },
+        {
+          "glyph": "ञे",
+          "name": "nye"
+        },
+        {
+          "glyph": "णो",
+          "name": "No"
+        },
+        {
+          "glyph": "झू",
+          "name": "jhuu"
+        },
+        {
+          "glyph": "टै",
+          "name": "Tai"
+        },
+        {
+          "glyph": "ढि",
+          "name": "Dhi"
+        },
+        {
+          "glyph": "षी",
+          "name": "Shii"
+        },
+        {
+          "glyph": "का",
+          "name": "kaa"
+        },
+        {
+          "glyph": "भृ",
+          "name": "bhri"
+        },
+        {
+          "glyph": "मु",
+          "name": "mu"
+        },
+        {
+          "glyph": "झै",
+          "name": "jhai"
+        },
+        {
+          "glyph": "सि",
+          "name": "si"
+        },
+        {
+          "glyph": "नो",
+          "name": "no"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "घ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "घ",
+            "घा",
+            "घि",
+            "घी"
+          ],
+          "answer": "घ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "यज्ञ किस अक्षर से शुरू होता है?",
+          "options": [
+            "य",
+            "र",
+            "ल",
+            "व"
+          ],
+          "answer": "य"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "फ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "फ",
+            "फा",
+            "फि",
+            "फी"
+          ],
+          "answer": "फ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l94",
+      "title": "समीक्षा 53",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "लु",
+          "name": "lu"
+        },
+        {
+          "glyph": "पा",
+          "name": "paa"
+        },
+        {
+          "glyph": "वु",
+          "name": "vu"
+        },
+        {
+          "glyph": "ङ",
+          "name": "nga"
+        },
+        {
+          "glyph": "ये",
+          "name": "ye"
+        },
+        {
+          "glyph": "डौ",
+          "name": "Dau"
+        },
+        {
+          "glyph": "त",
+          "name": "ta"
+        },
+        {
+          "glyph": "पु",
+          "name": "pu"
+        },
+        {
+          "glyph": "षु",
+          "name": "Shu"
+        },
+        {
+          "glyph": "ना",
+          "name": "naa"
+        },
+        {
+          "glyph": "घि",
+          "name": "ghi"
+        },
+        {
+          "glyph": "वो",
+          "name": "vo"
+        },
+        {
+          "glyph": "च",
+          "name": "cha"
+        },
+        {
+          "glyph": "लै",
+          "name": "lai"
+        },
+        {
+          "glyph": "यै",
+          "name": "yai"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "कमल किस अक्षर से शुरू होता है?",
+          "options": [
+            "क",
+            "ख",
+            "ग",
+            "घ"
+          ],
+          "answer": "क"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "शेर किस अक्षर से शुरू होता है?",
+          "options": [
+            "श",
+            "ष",
+            "स",
+            "ह"
+          ],
+          "answer": "श"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "उल्लू किस अक्षर से शुरू होता है?",
+          "options": [
+            "ऊ",
+            "उ",
+            "आ",
+            "ई"
+          ],
+          "answer": "उ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l95",
+      "title": "समीक्षा 54",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "थु",
+          "name": "thu"
+        },
+        {
+          "glyph": "भू",
+          "name": "bhuu"
+        },
+        {
+          "glyph": "पे",
+          "name": "pe"
+        },
+        {
+          "glyph": "षौ",
+          "name": "Shau"
+        },
+        {
+          "glyph": "टृ",
+          "name": "Tri"
+        },
+        {
+          "glyph": "डि",
+          "name": "Di"
+        },
+        {
+          "glyph": "शी",
+          "name": "shii"
+        },
+        {
+          "glyph": "नो",
+          "name": "no"
+        },
+        {
+          "glyph": "क",
+          "name": "ka"
+        },
+        {
+          "glyph": "णी",
+          "name": "Nii"
+        },
+        {
+          "glyph": "इ",
+          "name": "i",
+          "exampleWord": "इमली"
+        },
+        {
+          "glyph": "व",
+          "name": "va",
+          "exampleWord": "वन"
+        },
+        {
+          "glyph": "द",
+          "name": "da"
+        },
+        {
+          "glyph": "छु",
+          "name": "chhu"
+        },
+        {
+          "glyph": "ङी",
+          "name": "ngii"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "म वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "म",
+            "मा",
+            "मि",
+            "मी"
+          ],
+          "answer": "म"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ञ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ञ",
+            "ञा",
+            "ञि",
+            "ञी"
+          ],
+          "answer": "ञ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l96",
+      "title": "समीक्षा 55",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "वि",
+          "name": "vi"
+        },
+        {
+          "glyph": "कृ",
+          "name": "kri"
+        },
+        {
+          "glyph": "यौ",
+          "name": "yau"
+        },
+        {
+          "glyph": "व",
+          "name": "va",
+          "exampleWord": "वन"
+        },
+        {
+          "glyph": "टि",
+          "name": "Ti"
+        },
+        {
+          "glyph": "ठे",
+          "name": "The"
+        },
+        {
+          "glyph": "दि",
+          "name": "di"
+        },
+        {
+          "glyph": "ऋ",
+          "name": "ri",
+          "exampleWord": "ऋषि"
+        },
+        {
+          "glyph": "तै",
+          "name": "tai"
+        },
+        {
+          "glyph": "है",
+          "name": "hai"
+        },
+        {
+          "glyph": "झी",
+          "name": "jhii"
+        },
+        {
+          "glyph": "ढु",
+          "name": "Dhu"
+        },
+        {
+          "glyph": "टा",
+          "name": "Taa"
+        },
+        {
+          "glyph": "ञु",
+          "name": "nyu"
+        },
+        {
+          "glyph": "रै",
+          "name": "rai"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "श वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "श",
+            "शा",
+            "शि",
+            "शी"
+          ],
+          "answer": "श"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ब वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ब",
+            "बा",
+            "बि",
+            "बी"
+          ],
+          "answer": "ब"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l97",
+      "title": "समीक्षा 56",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "झे",
+          "name": "jhe"
+        },
+        {
+          "glyph": "टौ",
+          "name": "Tau"
+        },
+        {
+          "glyph": "टृ",
+          "name": "Tri"
+        },
+        {
+          "glyph": "के",
+          "name": "ke"
+        },
+        {
+          "glyph": "दि",
+          "name": "di"
+        },
+        {
+          "glyph": "ङे",
+          "name": "nge"
+        },
+        {
+          "glyph": "पु",
+          "name": "pu"
+        },
+        {
+          "glyph": "टे",
+          "name": "Te"
+        },
+        {
+          "glyph": "ठ",
+          "name": "Tha"
+        },
+        {
+          "glyph": "ए",
+          "name": "e",
+          "exampleWord": "एक"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "य वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "य",
+            "या",
+            "यि",
+            "यी"
+          ],
+          "answer": "य"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "चमचा किस अक्षर से शुरू होता है?",
+          "options": [
+            "च",
+            "छ",
+            "ज",
+            "झ"
+          ],
+          "answer": "च"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l98",
+      "title": "समीक्षा 57",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "त",
+          "name": "ta"
+        },
+        {
+          "glyph": "ले",
+          "name": "le"
+        },
+        {
+          "glyph": "ञू",
+          "name": "nyuu"
+        },
+        {
+          "glyph": "छृ",
+          "name": "chhri"
+        },
+        {
+          "glyph": "थ",
+          "name": "tha",
+          "exampleWord": "थैला"
+        },
+        {
+          "glyph": "वृ",
+          "name": "vri"
+        },
+        {
+          "glyph": "ञृ",
+          "name": "nyri"
+        },
+        {
+          "glyph": "थी",
+          "name": "thii"
+        },
+        {
+          "glyph": "धु",
+          "name": "dhu"
+        },
+        {
+          "glyph": "लो",
+          "name": "lo"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ज वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ज",
+            "जा",
+            "जि",
+            "जी"
+          ],
+          "answer": "ज"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "छ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "छ",
+            "छा",
+            "छि",
+            "छी"
+          ],
+          "answer": "छ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l99",
+      "title": "समीक्षा 58",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "टे",
+          "name": "Te"
+        },
+        {
+          "glyph": "ध",
+          "name": "dha",
+          "exampleWord": "धनुष"
+        },
+        {
+          "glyph": "यी",
+          "name": "yii"
+        },
+        {
+          "glyph": "के",
+          "name": "ke"
+        },
+        {
+          "glyph": "थृ",
+          "name": "thri"
+        },
+        {
+          "glyph": "टै",
+          "name": "Tai"
+        },
+        {
+          "glyph": "चे",
+          "name": "che"
+        },
+        {
+          "glyph": "डू",
+          "name": "Duu"
+        },
+        {
+          "glyph": "हु",
+          "name": "hu"
+        },
+        {
+          "glyph": "भै",
+          "name": "bhai"
+        },
+        {
+          "glyph": "छौ",
+          "name": "chhau"
+        },
+        {
+          "glyph": "धी",
+          "name": "dhii"
+        },
+        {
+          "glyph": "ढि",
+          "name": "Dhi"
+        },
+        {
+          "glyph": "भौ",
+          "name": "bhau"
+        },
+        {
+          "glyph": "धा",
+          "name": "dhaa"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "तरबूज़ किस अक्षर से शुरू होता है?",
+          "options": [
+            "त",
+            "थ",
+            "द",
+            "ध"
+          ],
+          "answer": "त"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "छ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "छ",
+            "छा",
+            "छि",
+            "छी"
+          ],
+          "answer": "छ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p1-l100",
+      "title": "समीक्षा 59",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ल",
+          "name": "la"
+        },
+        {
+          "glyph": "चि",
+          "name": "chi"
+        },
+        {
+          "glyph": "मु",
+          "name": "mu"
+        },
+        {
+          "glyph": "टे",
+          "name": "Te"
+        },
+        {
+          "glyph": "खू",
+          "name": "khuu"
+        },
+        {
+          "glyph": "ञो",
+          "name": "nyo"
+        },
+        {
+          "glyph": "छी",
+          "name": "chhii"
+        },
+        {
+          "glyph": "बो",
+          "name": "bo"
+        },
+        {
+          "glyph": "वू",
+          "name": "vuu"
+        },
+        {
+          "glyph": "ङो",
+          "name": "ngo"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "भ वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "भ",
+            "भा",
+            "भि",
+            "भी"
+          ],
+          "answer": "भ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ज वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "ज",
+            "जा",
+            "जि",
+            "जी"
+          ],
+          "answer": "ज"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "व वर्ण की पहली बारहखड़ी कौन सी है?",
+          "options": [
+            "व",
+            "वा",
+            "वि",
+            "वी"
+          ],
+          "answer": "व"
+        }
+      ]
     }
   ]
 }

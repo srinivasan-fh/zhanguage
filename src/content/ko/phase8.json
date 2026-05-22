@@ -1993,6 +1993,4910 @@
           "answer": "I am full"
         }
       ]
+    },
+    {
+      "id": "ko-p8-l41",
+      "title": "복습 1",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "실례합니다, 도와줄 수 있어요?",
+          "name": "help"
+        },
+        {
+          "glyph": "조금 슬퍼요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "어떻게 지내세요?",
+          "name": "question"
+        },
+        {
+          "glyph": "A: 안녕, 친구!",
+          "name": ""
+        },
+        {
+          "glyph": "조금 슬퍼요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "빵 좀 주실래요?",
+          "name": "request"
+        },
+        {
+          "glyph": "저는 사과를 좋아해요.",
+          "name": "like"
+        },
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        },
+        {
+          "glyph": "저는 잘 지내요.",
+          "name": "reply"
+        },
+        {
+          "glyph": "피곤해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "물 좀 주세요.",
+          "name": "request"
+        },
+        {
+          "glyph": "빵 좀 주실래요?",
+          "name": "request"
+        },
+        {
+          "glyph": "조금 슬퍼요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "빵 좀 주실래요?",
+          "name": "request"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"이름이 뭐예요?\" 답?",
+          "options": [
+            "저는 민지예요",
+            "잘 지내요",
+            "감사합니다",
+            "안녕"
+          ],
+          "answer": "저는 민지예요"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l42",
+      "title": "복습 2",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "다시 말씀해 주세요.",
+          "name": "repeat"
+        },
+        {
+          "glyph": "도움이 필요해요.",
+          "name": "need"
+        },
+        {
+          "glyph": "이제 일어나도 될까요?",
+          "name": "polite"
+        },
+        {
+          "glyph": "오늘 행복해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "물 좀 주세요.",
+          "name": "request"
+        },
+        {
+          "glyph": "길을 잃었어요.",
+          "name": "lost"
+        },
+        {
+          "glyph": "오늘 행복해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "실례합니다, 도와줄 수 있어요?",
+          "name": "help"
+        },
+        {
+          "glyph": "저는 민지예요.",
+          "name": "a"
+        },
+        {
+          "glyph": "너무 신나요!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "도움이 필요해요.",
+          "name": "need"
+        },
+        {
+          "glyph": "저는 잘 지내요.",
+          "name": "reply"
+        },
+        {
+          "glyph": "길을 잃었어요.",
+          "name": "lost"
+        },
+        {
+          "glyph": "저는 매운 것을 안 좋아해요.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "오늘 기쁜 사람?",
+          "options": [
+            "A",
+            "B",
+            "엄마",
+            "친구"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l43",
+      "title": "복습 3",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "저는 매운 것을 안 좋아해요.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "저는 사과를 좋아해요.",
+          "name": "like"
+        },
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        },
+        {
+          "glyph": "도움이 필요해요.",
+          "name": "need"
+        },
+        {
+          "glyph": "길을 잃었어요.",
+          "name": "lost"
+        },
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        },
+        {
+          "glyph": "이름이 뭐예요?",
+          "name": "q"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l44",
+      "title": "복습 4",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "이름이 뭐예요?",
+          "name": "q"
+        },
+        {
+          "glyph": "빵 좀 주실래요?",
+          "name": "request"
+        },
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        },
+        {
+          "glyph": "저는 민지예요.",
+          "name": "a"
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "어떻게 지내세요?",
+          "name": "question"
+        },
+        {
+          "glyph": "도움이 필요해요.",
+          "name": "need"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "A: 안녕, 친구!",
+          "name": ""
+        },
+        {
+          "glyph": "배불러요, 감사합니다.",
+          "name": "reply"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "조금 슬퍼요.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"이름이 뭐예요?\" 답?",
+          "options": [
+            "저는 민지예요",
+            "잘 지내요",
+            "감사합니다",
+            "안녕"
+          ],
+          "answer": "저는 민지예요"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l45",
+      "title": "복습 5",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "저는 사과를 좋아해요.",
+          "name": "like"
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "안녕하세요!",
+          "name": "hello"
+        },
+        {
+          "glyph": "저는 민지예요.",
+          "name": "a"
+        },
+        {
+          "glyph": "물 좀 주세요.",
+          "name": "request"
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"어떻게 지내세요?\" 답?",
+          "options": [
+            "저는 잘 지내요",
+            "안녕",
+            "감사합니다",
+            "잘 가요"
+          ],
+          "answer": "저는 잘 지내요"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l46",
+      "title": "복습 6",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "저는 매운 것을 안 좋아해요.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "좋은 아침이에요.",
+          "name": "morning"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "빵 좀 주실래요?",
+          "name": "request"
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "다시 말씀해 주세요.",
+          "name": "repeat"
+        },
+        {
+          "glyph": "B: 좋다!",
+          "name": ""
+        },
+        {
+          "glyph": "A: 안녕, 친구!",
+          "name": ""
+        },
+        {
+          "glyph": "저는 매운 것을 안 좋아해요.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "정말 감사합니다!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"이름이 뭐예요?\" 답?",
+          "options": [
+            "저는 민지예요",
+            "잘 지내요",
+            "감사합니다",
+            "안녕"
+          ],
+          "answer": "저는 민지예요"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배고파요\" 뜻?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l47",
+      "title": "복습 7",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "저는 잘 지내요.",
+          "name": "reply"
+        },
+        {
+          "glyph": "안녕하세요!",
+          "name": "hello"
+        },
+        {
+          "glyph": "B: 좋다!",
+          "name": ""
+        },
+        {
+          "glyph": "이제 일어나도 될까요?",
+          "name": "polite"
+        },
+        {
+          "glyph": "저는 사과를 좋아해요.",
+          "name": "like"
+        },
+        {
+          "glyph": "어디에 살아요?",
+          "name": "q"
+        },
+        {
+          "glyph": "피곤해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "어떻게 지내세요?",
+          "name": "question"
+        },
+        {
+          "glyph": "저는 민지예요.",
+          "name": "a"
+        },
+        {
+          "glyph": "저는 민지예요.",
+          "name": "a"
+        },
+        {
+          "glyph": "피곤해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "안녕하세요!",
+          "name": "hello"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "오늘 기쁜 사람?",
+          "options": [
+            "A",
+            "B",
+            "엄마",
+            "친구"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배불러요\" 뜻?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l48",
+      "title": "복습 8",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "이름이 뭐예요?",
+          "name": "q"
+        },
+        {
+          "glyph": "피곤해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "저는 민지예요.",
+          "name": "a"
+        },
+        {
+          "glyph": "안녕하세요!",
+          "name": "hello"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "너무 신나요!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "잘 모르겠어요.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "안녕하세요!",
+          "name": "hello"
+        },
+        {
+          "glyph": "저는 민지예요.",
+          "name": "a"
+        },
+        {
+          "glyph": "정말 감사합니다!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"이름이 뭐예요?\" 답?",
+          "options": [
+            "저는 민지예요",
+            "잘 지내요",
+            "감사합니다",
+            "안녕"
+          ],
+          "answer": "저는 민지예요"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l49",
+      "title": "복습 9",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "안녕히 가세요!",
+          "name": "bye"
+        },
+        {
+          "glyph": "물 좀 주세요.",
+          "name": "request"
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "이제 일어나도 될까요?",
+          "name": "polite"
+        },
+        {
+          "glyph": "저는 잘 지내요.",
+          "name": "reply"
+        },
+        {
+          "glyph": "물 좀 주세요.",
+          "name": "request"
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "B: 좋다!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"이름이 뭐예요?\" 답?",
+          "options": [
+            "저는 민지예요",
+            "잘 지내요",
+            "감사합니다",
+            "안녕"
+          ],
+          "answer": "저는 민지예요"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"어떻게 지내세요?\" 답?",
+          "options": [
+            "저는 잘 지내요",
+            "안녕",
+            "감사합니다",
+            "잘 가요"
+          ],
+          "answer": "저는 잘 지내요"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l50",
+      "title": "복습 10",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "어디에 살아요?",
+          "name": "q"
+        },
+        {
+          "glyph": "어디에 살아요?",
+          "name": "q"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "실례합니다, 도와줄 수 있어요?",
+          "name": "help"
+        },
+        {
+          "glyph": "실례합니다, 도와줄 수 있어요?",
+          "name": "help"
+        },
+        {
+          "glyph": "어디에 살아요?",
+          "name": "q"
+        },
+        {
+          "glyph": "피곤해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "저는 민지예요.",
+          "name": "a"
+        },
+        {
+          "glyph": "이름이 뭐예요?",
+          "name": "q"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배고파요\" 뜻?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"어떻게 지내세요?\" 답?",
+          "options": [
+            "저는 잘 지내요",
+            "안녕",
+            "감사합니다",
+            "잘 가요"
+          ],
+          "answer": "저는 잘 지내요"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l51",
+      "title": "복습 11",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "안녕하세요!",
+          "name": "hello"
+        },
+        {
+          "glyph": "어떻게 지내세요?",
+          "name": "question"
+        },
+        {
+          "glyph": "실례합니다, 도와줄 수 있어요?",
+          "name": "help"
+        },
+        {
+          "glyph": "어디에 살아요?",
+          "name": "q"
+        },
+        {
+          "glyph": "안녕하세요!",
+          "name": "hello"
+        },
+        {
+          "glyph": "오늘 행복해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "배고파요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "안녕하세요!",
+          "name": "hello"
+        },
+        {
+          "glyph": "이제 일어나도 될까요?",
+          "name": "polite"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"이름이 뭐예요?\" 답?",
+          "options": [
+            "저는 민지예요",
+            "잘 지내요",
+            "감사합니다",
+            "안녕"
+          ],
+          "answer": "저는 민지예요"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l52",
+      "title": "복습 12",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "잘 모르겠어요.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "이제 일어나도 될까요?",
+          "name": "polite"
+        },
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        },
+        {
+          "glyph": "조금 슬퍼요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: 좋다!",
+          "name": ""
+        },
+        {
+          "glyph": "안녕히 가세요!",
+          "name": "bye"
+        },
+        {
+          "glyph": "빵 좀 주실래요?",
+          "name": "request"
+        },
+        {
+          "glyph": "저는 매운 것을 안 좋아해요.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "배불러요, 감사합니다.",
+          "name": "reply"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"이름이 뭐예요?\" 답?",
+          "options": [
+            "저는 민지예요",
+            "잘 지내요",
+            "감사합니다",
+            "안녕"
+          ],
+          "answer": "저는 민지예요"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l53",
+      "title": "복습 13",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "저는 잘 지내요.",
+          "name": "reply"
+        },
+        {
+          "glyph": "물 좀 주세요.",
+          "name": "request"
+        },
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        },
+        {
+          "glyph": "어디에 살아요?",
+          "name": "q"
+        },
+        {
+          "glyph": "저는 매운 것을 안 좋아해요.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "도움이 필요해요.",
+          "name": "need"
+        },
+        {
+          "glyph": "배고파요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "저는 매운 것을 안 좋아해요.",
+          "name": "dislike"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배고파요\" 뜻?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l54",
+      "title": "복습 14",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "물 좀 주세요.",
+          "name": "request"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        },
+        {
+          "glyph": "오늘 행복해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "안녕하세요!",
+          "name": "hello"
+        },
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        },
+        {
+          "glyph": "배고파요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "배불러요, 감사합니다.",
+          "name": "reply"
+        },
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배불러요\" 뜻?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "오늘 기쁜 사람?",
+          "options": [
+            "A",
+            "B",
+            "엄마",
+            "친구"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l55",
+      "title": "복습 15",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "정말 감사합니다!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "조금 슬퍼요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "저는 민지예요.",
+          "name": "a"
+        },
+        {
+          "glyph": "저는 잘 지내요.",
+          "name": "reply"
+        },
+        {
+          "glyph": "안녕하세요!",
+          "name": "hello"
+        },
+        {
+          "glyph": "빵 좀 주실래요?",
+          "name": "request"
+        },
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배불러요\" 뜻?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"이름이 뭐예요?\" 답?",
+          "options": [
+            "저는 민지예요",
+            "잘 지내요",
+            "감사합니다",
+            "안녕"
+          ],
+          "answer": "저는 민지예요"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"이름이 뭐예요?\" 답?",
+          "options": [
+            "저는 민지예요",
+            "잘 지내요",
+            "감사합니다",
+            "안녕"
+          ],
+          "answer": "저는 민지예요"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l56",
+      "title": "복습 16",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        },
+        {
+          "glyph": "다시 말씀해 주세요.",
+          "name": "repeat"
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "조금 슬퍼요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "배불러요, 감사합니다.",
+          "name": "reply"
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "이름이 뭐예요?",
+          "name": "q"
+        },
+        {
+          "glyph": "실례합니다, 도와줄 수 있어요?",
+          "name": "help"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배고파요\" 뜻?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l57",
+      "title": "복습 17",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "피곤해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "저는 잘 지내요.",
+          "name": "reply"
+        },
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        },
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        },
+        {
+          "glyph": "저는 사과를 좋아해요.",
+          "name": "like"
+        },
+        {
+          "glyph": "좋은 아침이에요.",
+          "name": "morning"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "오늘 기쁜 사람?",
+          "options": [
+            "A",
+            "B",
+            "엄마",
+            "친구"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l58",
+      "title": "복습 18",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "실례합니다, 도와줄 수 있어요?",
+          "name": "help"
+        },
+        {
+          "glyph": "저는 민지예요.",
+          "name": "a"
+        },
+        {
+          "glyph": "어떻게 지내세요?",
+          "name": "question"
+        },
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        },
+        {
+          "glyph": "배고파요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "저는 민지예요.",
+          "name": "a"
+        },
+        {
+          "glyph": "잘 모르겠어요.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "배불러요, 감사합니다.",
+          "name": "reply"
+        },
+        {
+          "glyph": "정말 감사합니다!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "도움이 필요해요.",
+          "name": "need"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배불러요\" 뜻?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l59",
+      "title": "복습 19",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B: 좋다!",
+          "name": ""
+        },
+        {
+          "glyph": "어디에 살아요?",
+          "name": "q"
+        },
+        {
+          "glyph": "B: 좋다!",
+          "name": ""
+        },
+        {
+          "glyph": "피곤해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "어디에 살아요?",
+          "name": "q"
+        },
+        {
+          "glyph": "빵 좀 주실래요?",
+          "name": "request"
+        },
+        {
+          "glyph": "길을 잃었어요.",
+          "name": "lost"
+        },
+        {
+          "glyph": "배고파요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        },
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l60",
+      "title": "복습 20",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "실례합니다, 도와줄 수 있어요?",
+          "name": "help"
+        },
+        {
+          "glyph": "감사합니다.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "물 좀 주세요.",
+          "name": "request"
+        },
+        {
+          "glyph": "물 좀 주세요.",
+          "name": "request"
+        },
+        {
+          "glyph": "안녕하세요!",
+          "name": "hello"
+        },
+        {
+          "glyph": "A: 안녕, 친구!",
+          "name": ""
+        },
+        {
+          "glyph": "안녕하세요!",
+          "name": "hello"
+        },
+        {
+          "glyph": "B: 좋다!",
+          "name": ""
+        },
+        {
+          "glyph": "좋은 아침이에요.",
+          "name": "morning"
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배고파요\" 뜻?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l61",
+      "title": "복습 21",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        },
+        {
+          "glyph": "너무 신나요!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "빵 좀 주실래요?",
+          "name": "request"
+        },
+        {
+          "glyph": "잘 모르겠어요.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "피곤해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "이름이 뭐예요?",
+          "name": "q"
+        },
+        {
+          "glyph": "어디에 살아요?",
+          "name": "q"
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "저는 잘 지내요.",
+          "name": "reply"
+        },
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        },
+        {
+          "glyph": "배불러요, 감사합니다.",
+          "name": "reply"
+        },
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배고파요\" 뜻?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l62",
+      "title": "복습 22",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "배고파요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        },
+        {
+          "glyph": "빵 좀 주실래요?",
+          "name": "request"
+        },
+        {
+          "glyph": "오늘 행복해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "오늘 행복해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "조금 슬퍼요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        },
+        {
+          "glyph": "잘 모르겠어요.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        },
+        {
+          "glyph": "정말 감사합니다!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "안녕하세요!",
+          "name": "hello"
+        },
+        {
+          "glyph": "좋은 아침이에요.",
+          "name": "morning"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배고파요\" 뜻?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "오늘 기쁜 사람?",
+          "options": [
+            "A",
+            "B",
+            "엄마",
+            "친구"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l63",
+      "title": "복습 23",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "저는 매운 것을 안 좋아해요.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "다시 말씀해 주세요.",
+          "name": "repeat"
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "빵 좀 주실래요?",
+          "name": "request"
+        },
+        {
+          "glyph": "너무 신나요!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "빵 좀 주실래요?",
+          "name": "request"
+        },
+        {
+          "glyph": "이름이 뭐예요?",
+          "name": "q"
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "배고파요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "안녕히 가세요!",
+          "name": "bye"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"이름이 뭐예요?\" 답?",
+          "options": [
+            "저는 민지예요",
+            "잘 지내요",
+            "감사합니다",
+            "안녕"
+          ],
+          "answer": "저는 민지예요"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배고파요\" 뜻?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l64",
+      "title": "복습 24",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "이제 일어나도 될까요?",
+          "name": "polite"
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "감사합니다.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        },
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "배고파요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "피곤해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "빵 좀 주실래요?",
+          "name": "request"
+        },
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        },
+        {
+          "glyph": "A: 안녕, 친구!",
+          "name": ""
+        },
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        },
+        {
+          "glyph": "잘 모르겠어요.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "조금 슬퍼요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"이름이 뭐예요?\" 답?",
+          "options": [
+            "저는 민지예요",
+            "잘 지내요",
+            "감사합니다",
+            "안녕"
+          ],
+          "answer": "저는 민지예요"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"이름이 뭐예요?\" 답?",
+          "options": [
+            "저는 민지예요",
+            "잘 지내요",
+            "감사합니다",
+            "안녕"
+          ],
+          "answer": "저는 민지예요"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l65",
+      "title": "복습 25",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        },
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        },
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        },
+        {
+          "glyph": "조금 슬퍼요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "빵 좀 주실래요?",
+          "name": "request"
+        },
+        {
+          "glyph": "좋은 아침이에요.",
+          "name": "morning"
+        },
+        {
+          "glyph": "잘 모르겠어요.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "정말 감사합니다!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "피곤해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "어디에 살아요?",
+          "name": "q"
+        },
+        {
+          "glyph": "너무 신나요!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "잘 모르겠어요.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        },
+        {
+          "glyph": "길을 잃었어요.",
+          "name": "lost"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배불러요\" 뜻?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l66",
+      "title": "복습 26",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "저는 매운 것을 안 좋아해요.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "어떻게 지내세요?",
+          "name": "question"
+        },
+        {
+          "glyph": "이제 일어나도 될까요?",
+          "name": "polite"
+        },
+        {
+          "glyph": "오늘 행복해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "저는 잘 지내요.",
+          "name": "reply"
+        },
+        {
+          "glyph": "안녕하세요!",
+          "name": "hello"
+        },
+        {
+          "glyph": "A: 안녕, 친구!",
+          "name": ""
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "너무 신나요!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "이름이 뭐예요?",
+          "name": "q"
+        },
+        {
+          "glyph": "피곤해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "물 좀 주세요.",
+          "name": "request"
+        },
+        {
+          "glyph": "정말 감사합니다!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "도움이 필요해요.",
+          "name": "need"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"이름이 뭐예요?\" 답?",
+          "options": [
+            "저는 민지예요",
+            "잘 지내요",
+            "감사합니다",
+            "안녕"
+          ],
+          "answer": "저는 민지예요"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l67",
+      "title": "복습 27",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "빵 좀 주실래요?",
+          "name": "request"
+        },
+        {
+          "glyph": "이름이 뭐예요?",
+          "name": "q"
+        },
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        },
+        {
+          "glyph": "저는 잘 지내요.",
+          "name": "reply"
+        },
+        {
+          "glyph": "도움이 필요해요.",
+          "name": "need"
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "실례합니다, 도와줄 수 있어요?",
+          "name": "help"
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "이제 일어나도 될까요?",
+          "name": "polite"
+        },
+        {
+          "glyph": "배불러요, 감사합니다.",
+          "name": "reply"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배고파요\" 뜻?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "오늘 기쁜 사람?",
+          "options": [
+            "A",
+            "B",
+            "엄마",
+            "친구"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"이름이 뭐예요?\" 답?",
+          "options": [
+            "저는 민지예요",
+            "잘 지내요",
+            "감사합니다",
+            "안녕"
+          ],
+          "answer": "저는 민지예요"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l68",
+      "title": "복습 28",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "안녕하세요!",
+          "name": "hello"
+        },
+        {
+          "glyph": "B: 좋다!",
+          "name": ""
+        },
+        {
+          "glyph": "어떻게 지내세요?",
+          "name": "question"
+        },
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        },
+        {
+          "glyph": "B: 좋다!",
+          "name": ""
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "도움이 필요해요.",
+          "name": "need"
+        },
+        {
+          "glyph": "정말 감사합니다!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "저는 매운 것을 안 좋아해요.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "B: 좋다!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "오늘 기쁜 사람?",
+          "options": [
+            "A",
+            "B",
+            "엄마",
+            "친구"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"이름이 뭐예요?\" 답?",
+          "options": [
+            "저는 민지예요",
+            "잘 지내요",
+            "감사합니다",
+            "안녕"
+          ],
+          "answer": "저는 민지예요"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l69",
+      "title": "복습 29",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "어디에 살아요?",
+          "name": "q"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "빵 좀 주실래요?",
+          "name": "request"
+        },
+        {
+          "glyph": "B: 좋다!",
+          "name": ""
+        },
+        {
+          "glyph": "좋은 아침이에요.",
+          "name": "morning"
+        },
+        {
+          "glyph": "배고파요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "이름이 뭐예요?",
+          "name": "q"
+        },
+        {
+          "glyph": "배불러요, 감사합니다.",
+          "name": "reply"
+        },
+        {
+          "glyph": "길을 잃었어요.",
+          "name": "lost"
+        },
+        {
+          "glyph": "저는 사과를 좋아해요.",
+          "name": "like"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배불러요\" 뜻?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l70",
+      "title": "복습 30",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "이름이 뭐예요?",
+          "name": "q"
+        },
+        {
+          "glyph": "실례합니다, 도와줄 수 있어요?",
+          "name": "help"
+        },
+        {
+          "glyph": "어떻게 지내세요?",
+          "name": "question"
+        },
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        },
+        {
+          "glyph": "이제 일어나도 될까요?",
+          "name": "polite"
+        },
+        {
+          "glyph": "저는 민지예요.",
+          "name": "a"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        },
+        {
+          "glyph": "빵 좀 주실래요?",
+          "name": "request"
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "실례합니다, 도와줄 수 있어요?",
+          "name": "help"
+        },
+        {
+          "glyph": "이제 일어나도 될까요?",
+          "name": "polite"
+        },
+        {
+          "glyph": "저는 매운 것을 안 좋아해요.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "피곤해요.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배불러요\" 뜻?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"이름이 뭐예요?\" 답?",
+          "options": [
+            "저는 민지예요",
+            "잘 지내요",
+            "감사합니다",
+            "안녕"
+          ],
+          "answer": "저는 민지예요"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l71",
+      "title": "복습 31",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "안녕하세요!",
+          "name": "hello"
+        },
+        {
+          "glyph": "잘 모르겠어요.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "B: 좋다!",
+          "name": ""
+        },
+        {
+          "glyph": "오늘 행복해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "배고파요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "저는 잘 지내요.",
+          "name": "reply"
+        },
+        {
+          "glyph": "다시 말씀해 주세요.",
+          "name": "repeat"
+        },
+        {
+          "glyph": "실례합니다, 도와줄 수 있어요?",
+          "name": "help"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배고파요\" 뜻?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l72",
+      "title": "복습 32",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "빵 좀 주실래요?",
+          "name": "request"
+        },
+        {
+          "glyph": "물 좀 주세요.",
+          "name": "request"
+        },
+        {
+          "glyph": "저는 민지예요.",
+          "name": "a"
+        },
+        {
+          "glyph": "정말 감사합니다!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "안녕히 가세요!",
+          "name": "bye"
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "이제 일어나도 될까요?",
+          "name": "polite"
+        },
+        {
+          "glyph": "저는 잘 지내요.",
+          "name": "reply"
+        },
+        {
+          "glyph": "배고파요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "도움이 필요해요.",
+          "name": "need"
+        },
+        {
+          "glyph": "도움이 필요해요.",
+          "name": "need"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "오늘 기쁜 사람?",
+          "options": [
+            "A",
+            "B",
+            "엄마",
+            "친구"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"이름이 뭐예요?\" 답?",
+          "options": [
+            "저는 민지예요",
+            "잘 지내요",
+            "감사합니다",
+            "안녕"
+          ],
+          "answer": "저는 민지예요"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l73",
+      "title": "복습 33",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "오늘 행복해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        },
+        {
+          "glyph": "배불러요, 감사합니다.",
+          "name": "reply"
+        },
+        {
+          "glyph": "이름이 뭐예요?",
+          "name": "q"
+        },
+        {
+          "glyph": "배불러요, 감사합니다.",
+          "name": "reply"
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "물 좀 주세요.",
+          "name": "request"
+        },
+        {
+          "glyph": "저는 사과를 좋아해요.",
+          "name": "like"
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "A: 안녕, 친구!",
+          "name": ""
+        },
+        {
+          "glyph": "길을 잃었어요.",
+          "name": "lost"
+        },
+        {
+          "glyph": "조금 슬퍼요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "이름이 뭐예요?",
+          "name": "q"
+        },
+        {
+          "glyph": "A: 안녕, 친구!",
+          "name": ""
+        },
+        {
+          "glyph": "이름이 뭐예요?",
+          "name": "q"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "오늘 기쁜 사람?",
+          "options": [
+            "A",
+            "B",
+            "엄마",
+            "친구"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l74",
+      "title": "복습 34",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "안녕히 가세요!",
+          "name": "bye"
+        },
+        {
+          "glyph": "물 좀 주세요.",
+          "name": "request"
+        },
+        {
+          "glyph": "좋은 아침이에요.",
+          "name": "morning"
+        },
+        {
+          "glyph": "피곤해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        },
+        {
+          "glyph": "도움이 필요해요.",
+          "name": "need"
+        },
+        {
+          "glyph": "길을 잃었어요.",
+          "name": "lost"
+        },
+        {
+          "glyph": "이름이 뭐예요?",
+          "name": "q"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"어떻게 지내세요?\" 답?",
+          "options": [
+            "저는 잘 지내요",
+            "안녕",
+            "감사합니다",
+            "잘 가요"
+          ],
+          "answer": "저는 잘 지내요"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배고파요\" 뜻?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l75",
+      "title": "복습 35",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "빵 좀 주실래요?",
+          "name": "request"
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "어떻게 지내세요?",
+          "name": "question"
+        },
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        },
+        {
+          "glyph": "이제 일어나도 될까요?",
+          "name": "polite"
+        },
+        {
+          "glyph": "저는 민지예요.",
+          "name": "a"
+        },
+        {
+          "glyph": "실례합니다, 도와줄 수 있어요?",
+          "name": "help"
+        },
+        {
+          "glyph": "안녕하세요!",
+          "name": "hello"
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배고파요\" 뜻?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배불러요\" 뜻?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l76",
+      "title": "복습 36",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "어떻게 지내세요?",
+          "name": "question"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "피곤해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "이름이 뭐예요?",
+          "name": "q"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "너무 신나요!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "도움이 필요해요.",
+          "name": "need"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"이름이 뭐예요?\" 답?",
+          "options": [
+            "저는 민지예요",
+            "잘 지내요",
+            "감사합니다",
+            "안녕"
+          ],
+          "answer": "저는 민지예요"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l77",
+      "title": "복습 37",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "저는 민지예요.",
+          "name": "a"
+        },
+        {
+          "glyph": "이제 일어나도 될까요?",
+          "name": "polite"
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "좋은 아침이에요.",
+          "name": "morning"
+        },
+        {
+          "glyph": "도움이 필요해요.",
+          "name": "need"
+        },
+        {
+          "glyph": "안녕하세요!",
+          "name": "hello"
+        },
+        {
+          "glyph": "오늘 행복해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "어떻게 지내세요?",
+          "name": "question"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"이름이 뭐예요?\" 답?",
+          "options": [
+            "저는 민지예요",
+            "잘 지내요",
+            "감사합니다",
+            "안녕"
+          ],
+          "answer": "저는 민지예요"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l78",
+      "title": "복습 38",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "저는 사과를 좋아해요.",
+          "name": "like"
+        },
+        {
+          "glyph": "피곤해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "저는 사과를 좋아해요.",
+          "name": "like"
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "도움이 필요해요.",
+          "name": "need"
+        },
+        {
+          "glyph": "실례합니다, 도와줄 수 있어요?",
+          "name": "help"
+        },
+        {
+          "glyph": "이름이 뭐예요?",
+          "name": "q"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "도움이 필요해요.",
+          "name": "need"
+        },
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        },
+        {
+          "glyph": "빵 좀 주실래요?",
+          "name": "request"
+        },
+        {
+          "glyph": "배불러요, 감사합니다.",
+          "name": "reply"
+        },
+        {
+          "glyph": "실례합니다, 도와줄 수 있어요?",
+          "name": "help"
+        },
+        {
+          "glyph": "저는 잘 지내요.",
+          "name": "reply"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배불러요\" 뜻?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배불러요\" 뜻?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l79",
+      "title": "복습 39",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "정말 감사합니다!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "저는 민지예요.",
+          "name": "a"
+        },
+        {
+          "glyph": "저는 사과를 좋아해요.",
+          "name": "like"
+        },
+        {
+          "glyph": "저는 잘 지내요.",
+          "name": "reply"
+        },
+        {
+          "glyph": "피곤해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "어디에 살아요?",
+          "name": "q"
+        },
+        {
+          "glyph": "조금 슬퍼요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "오늘 행복해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "어떻게 지내세요?",
+          "name": "question"
+        },
+        {
+          "glyph": "도움이 필요해요.",
+          "name": "need"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"이름이 뭐예요?\" 답?",
+          "options": [
+            "저는 민지예요",
+            "잘 지내요",
+            "감사합니다",
+            "안녕"
+          ],
+          "answer": "저는 민지예요"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l80",
+      "title": "복습 40",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "저는 잘 지내요.",
+          "name": "reply"
+        },
+        {
+          "glyph": "저는 사과를 좋아해요.",
+          "name": "like"
+        },
+        {
+          "glyph": "안녕하세요!",
+          "name": "hello"
+        },
+        {
+          "glyph": "실례합니다, 도와줄 수 있어요?",
+          "name": "help"
+        },
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        },
+        {
+          "glyph": "이름이 뭐예요?",
+          "name": "q"
+        },
+        {
+          "glyph": "정말 감사합니다!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "안녕하세요!",
+          "name": "hello"
+        },
+        {
+          "glyph": "피곤해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: 좋다!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "오늘 기쁜 사람?",
+          "options": [
+            "A",
+            "B",
+            "엄마",
+            "친구"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배고파요\" 뜻?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l81",
+      "title": "복습 41",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "저는 민지예요.",
+          "name": "a"
+        },
+        {
+          "glyph": "B: 좋다!",
+          "name": ""
+        },
+        {
+          "glyph": "어떻게 지내세요?",
+          "name": "question"
+        },
+        {
+          "glyph": "A: 안녕, 친구!",
+          "name": ""
+        },
+        {
+          "glyph": "배불러요, 감사합니다.",
+          "name": "reply"
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "너무 신나요!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: 좋다!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배고파요\" 뜻?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"이름이 뭐예요?\" 답?",
+          "options": [
+            "저는 민지예요",
+            "잘 지내요",
+            "감사합니다",
+            "안녕"
+          ],
+          "answer": "저는 민지예요"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"어떻게 지내세요?\" 답?",
+          "options": [
+            "저는 잘 지내요",
+            "안녕",
+            "감사합니다",
+            "잘 가요"
+          ],
+          "answer": "저는 잘 지내요"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l82",
+      "title": "복습 42",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A: 안녕, 친구!",
+          "name": ""
+        },
+        {
+          "glyph": "좋은 아침이에요.",
+          "name": "morning"
+        },
+        {
+          "glyph": "저는 매운 것을 안 좋아해요.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "도움이 필요해요.",
+          "name": "need"
+        },
+        {
+          "glyph": "실례합니다, 도와줄 수 있어요?",
+          "name": "help"
+        },
+        {
+          "glyph": "B: 좋다!",
+          "name": ""
+        },
+        {
+          "glyph": "정말 감사합니다!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "정말 감사합니다!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "도움이 필요해요.",
+          "name": "need"
+        },
+        {
+          "glyph": "A: 안녕, 친구!",
+          "name": ""
+        },
+        {
+          "glyph": "저는 사과를 좋아해요.",
+          "name": "like"
+        },
+        {
+          "glyph": "오늘 행복해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "안녕히 가세요!",
+          "name": "bye"
+        },
+        {
+          "glyph": "A: 안녕, 친구!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"이름이 뭐예요?\" 답?",
+          "options": [
+            "저는 민지예요",
+            "잘 지내요",
+            "감사합니다",
+            "안녕"
+          ],
+          "answer": "저는 민지예요"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배고파요\" 뜻?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l83",
+      "title": "복습 43",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "피곤해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        },
+        {
+          "glyph": "다시 말씀해 주세요.",
+          "name": "repeat"
+        },
+        {
+          "glyph": "도움이 필요해요.",
+          "name": "need"
+        },
+        {
+          "glyph": "저는 잘 지내요.",
+          "name": "reply"
+        },
+        {
+          "glyph": "피곤해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "안녕하세요!",
+          "name": "hello"
+        },
+        {
+          "glyph": "이름이 뭐예요?",
+          "name": "q"
+        },
+        {
+          "glyph": "배고파요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "이름이 뭐예요?",
+          "name": "q"
+        },
+        {
+          "glyph": "너무 신나요!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "저는 민지예요.",
+          "name": "a"
+        },
+        {
+          "glyph": "어디에 살아요?",
+          "name": "q"
+        },
+        {
+          "glyph": "저는 잘 지내요.",
+          "name": "reply"
+        },
+        {
+          "glyph": "배고파요.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배불러요\" 뜻?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l84",
+      "title": "복습 44",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "빵 좀 주실래요?",
+          "name": "request"
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "빵 좀 주실래요?",
+          "name": "request"
+        },
+        {
+          "glyph": "오늘 행복해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "안녕하세요!",
+          "name": "hello"
+        },
+        {
+          "glyph": "저는 사과를 좋아해요.",
+          "name": "like"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "잘 모르겠어요.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "잘 모르겠어요.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "오늘 기쁜 사람?",
+          "options": [
+            "A",
+            "B",
+            "엄마",
+            "친구"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l85",
+      "title": "복습 45",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "어떻게 지내세요?",
+          "name": "question"
+        },
+        {
+          "glyph": "감사합니다.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "조금 슬퍼요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "저는 민지예요.",
+          "name": "a"
+        },
+        {
+          "glyph": "조금 슬퍼요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "빵 좀 주실래요?",
+          "name": "request"
+        },
+        {
+          "glyph": "정말 감사합니다!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "저는 잘 지내요.",
+          "name": "reply"
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "어떻게 지내세요?",
+          "name": "question"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l86",
+      "title": "복습 46",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "너무 신나요!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "너무 신나요!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "실례합니다, 도와줄 수 있어요?",
+          "name": "help"
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "피곤해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "저는 사과를 좋아해요.",
+          "name": "like"
+        },
+        {
+          "glyph": "도움이 필요해요.",
+          "name": "need"
+        },
+        {
+          "glyph": "잘 모르겠어요.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "피곤해요.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l87",
+      "title": "복습 47",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "어디에 살아요?",
+          "name": "q"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        },
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        },
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        },
+        {
+          "glyph": "조금 슬퍼요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "안녕히 가세요!",
+          "name": "bye"
+        },
+        {
+          "glyph": "저는 매운 것을 안 좋아해요.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "도움이 필요해요.",
+          "name": "need"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"이름이 뭐예요?\" 답?",
+          "options": [
+            "저는 민지예요",
+            "잘 지내요",
+            "감사합니다",
+            "안녕"
+          ],
+          "answer": "저는 민지예요"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"이름이 뭐예요?\" 답?",
+          "options": [
+            "저는 민지예요",
+            "잘 지내요",
+            "감사합니다",
+            "안녕"
+          ],
+          "answer": "저는 민지예요"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l88",
+      "title": "복습 48",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "저는 민지예요.",
+          "name": "a"
+        },
+        {
+          "glyph": "안녕히 가세요!",
+          "name": "bye"
+        },
+        {
+          "glyph": "잘 모르겠어요.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "피곤해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "조금 슬퍼요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "오늘 행복해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "물 좀 주세요.",
+          "name": "request"
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "도움이 필요해요.",
+          "name": "need"
+        },
+        {
+          "glyph": "도움이 필요해요.",
+          "name": "need"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배불러요\" 뜻?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l89",
+      "title": "복습 49",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "배고파요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        },
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "잘 모르겠어요.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "실례합니다, 도와줄 수 있어요?",
+          "name": "help"
+        },
+        {
+          "glyph": "배불러요, 감사합니다.",
+          "name": "reply"
+        },
+        {
+          "glyph": "오늘 행복해요.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배불러요\" 뜻?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l90",
+      "title": "복습 50",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        },
+        {
+          "glyph": "A: 안녕, 친구!",
+          "name": ""
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "물 좀 주세요.",
+          "name": "request"
+        },
+        {
+          "glyph": "배고파요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "실례합니다, 도와줄 수 있어요?",
+          "name": "help"
+        },
+        {
+          "glyph": "도움이 필요해요.",
+          "name": "need"
+        },
+        {
+          "glyph": "잘 모르겠어요.",
+          "name": "clarify"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배불러요\" 뜻?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l91",
+      "title": "복습 51",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "실례합니다, 도와줄 수 있어요?",
+          "name": "help"
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        },
+        {
+          "glyph": "빵 좀 주실래요?",
+          "name": "request"
+        },
+        {
+          "glyph": "A: 안녕, 친구!",
+          "name": ""
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "잘 모르겠어요.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "다시 말씀해 주세요.",
+          "name": "repeat"
+        },
+        {
+          "glyph": "배불러요, 감사합니다.",
+          "name": "reply"
+        },
+        {
+          "glyph": "빵 좀 주실래요?",
+          "name": "request"
+        },
+        {
+          "glyph": "어디에 살아요?",
+          "name": "q"
+        },
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        },
+        {
+          "glyph": "A: 안녕, 친구!",
+          "name": ""
+        },
+        {
+          "glyph": "이제 일어나도 될까요?",
+          "name": "polite"
+        },
+        {
+          "glyph": "안녕히 가세요!",
+          "name": "bye"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배고파요\" 뜻?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "오늘 기쁜 사람?",
+          "options": [
+            "A",
+            "B",
+            "엄마",
+            "친구"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l92",
+      "title": "복습 52",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "저는 매운 것을 안 좋아해요.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "B: 좋다!",
+          "name": ""
+        },
+        {
+          "glyph": "너무 신나요!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "배불러요, 감사합니다.",
+          "name": "reply"
+        },
+        {
+          "glyph": "오늘 행복해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "저는 잘 지내요.",
+          "name": "reply"
+        },
+        {
+          "glyph": "이제 일어나도 될까요?",
+          "name": "polite"
+        },
+        {
+          "glyph": "빵 좀 주실래요?",
+          "name": "request"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "어디에 살아요?",
+          "name": "q"
+        },
+        {
+          "glyph": "정말 감사합니다!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"이름이 뭐예요?\" 답?",
+          "options": [
+            "저는 민지예요",
+            "잘 지내요",
+            "감사합니다",
+            "안녕"
+          ],
+          "answer": "저는 민지예요"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l93",
+      "title": "복습 53",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "실례합니다, 도와줄 수 있어요?",
+          "name": "help"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "피곤해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: 좋다!",
+          "name": ""
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"어떻게 지내세요?\" 답?",
+          "options": [
+            "저는 잘 지내요",
+            "안녕",
+            "감사합니다",
+            "잘 가요"
+          ],
+          "answer": "저는 잘 지내요"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l94",
+      "title": "복습 54",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "저는 잘 지내요.",
+          "name": "reply"
+        },
+        {
+          "glyph": "이제 일어나도 될까요?",
+          "name": "polite"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "도움이 필요해요.",
+          "name": "need"
+        },
+        {
+          "glyph": "저는 민지예요.",
+          "name": "a"
+        },
+        {
+          "glyph": "B: 좋다!",
+          "name": ""
+        },
+        {
+          "glyph": "너무 신나요!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "오늘 기쁜 사람?",
+          "options": [
+            "A",
+            "B",
+            "엄마",
+            "친구"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배불러요\" 뜻?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l95",
+      "title": "복습 55",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A: 안녕, 친구!",
+          "name": ""
+        },
+        {
+          "glyph": "피곤해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "물 좀 주세요.",
+          "name": "request"
+        },
+        {
+          "glyph": "잘 모르겠어요.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "빵 좀 주실래요?",
+          "name": "request"
+        },
+        {
+          "glyph": "피곤해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "너무 신나요!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "정말 감사합니다!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "실례합니다, 도와줄 수 있어요?",
+          "name": "help"
+        },
+        {
+          "glyph": "오늘 행복해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배불러요\" 뜻?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l96",
+      "title": "복습 56",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        },
+        {
+          "glyph": "저는 사과를 좋아해요.",
+          "name": "like"
+        },
+        {
+          "glyph": "실례합니다, 도와줄 수 있어요?",
+          "name": "help"
+        },
+        {
+          "glyph": "물 좀 주세요.",
+          "name": "request"
+        },
+        {
+          "glyph": "피곤해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        },
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "물 좀 주세요.",
+          "name": "request"
+        },
+        {
+          "glyph": "어디에 살아요?",
+          "name": "q"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"이름이 뭐예요?\" 답?",
+          "options": [
+            "저는 민지예요",
+            "잘 지내요",
+            "감사합니다",
+            "안녕"
+          ],
+          "answer": "저는 민지예요"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l97",
+      "title": "복습 57",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "도움이 필요해요.",
+          "name": "need"
+        },
+        {
+          "glyph": "배고파요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "어디에 살아요?",
+          "name": "q"
+        },
+        {
+          "glyph": "이름이 뭐예요?",
+          "name": "q"
+        },
+        {
+          "glyph": "물 좀 주세요.",
+          "name": "request"
+        },
+        {
+          "glyph": "저는 잘 지내요.",
+          "name": "reply"
+        },
+        {
+          "glyph": "정말 감사합니다!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        },
+        {
+          "glyph": "정말 감사합니다!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "저는 사과를 좋아해요.",
+          "name": "like"
+        },
+        {
+          "glyph": "빵 좀 주실래요?",
+          "name": "request"
+        },
+        {
+          "glyph": "길을 잃었어요.",
+          "name": "lost"
+        },
+        {
+          "glyph": "안녕히 가세요!",
+          "name": "bye"
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"이름이 뭐예요?\" 답?",
+          "options": [
+            "저는 민지예요",
+            "잘 지내요",
+            "감사합니다",
+            "안녕"
+          ],
+          "answer": "저는 민지예요"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"이름이 뭐예요?\" 답?",
+          "options": [
+            "저는 민지예요",
+            "잘 지내요",
+            "감사합니다",
+            "안녕"
+          ],
+          "answer": "저는 민지예요"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l98",
+      "title": "복습 58",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "길을 잃었어요.",
+          "name": "lost"
+        },
+        {
+          "glyph": "좋은 아침이에요.",
+          "name": "morning"
+        },
+        {
+          "glyph": "길을 잃었어요.",
+          "name": "lost"
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "피곤해요.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "저는 매운 것을 안 좋아해요.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "저는 잘 지내요.",
+          "name": "reply"
+        },
+        {
+          "glyph": "정말 감사합니다!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "도움이 필요해요.",
+          "name": "need"
+        },
+        {
+          "glyph": "어디에 살아요?",
+          "name": "q"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l99",
+      "title": "복습 59",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "빵 좀 주실래요?",
+          "name": "request"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "B: 좋다!",
+          "name": ""
+        },
+        {
+          "glyph": "저는 잘 지내요.",
+          "name": "reply"
+        },
+        {
+          "glyph": "정말 맛있어요!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "B: 좋다!",
+          "name": ""
+        },
+        {
+          "glyph": "너무 신나요!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "피곤해요.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배불러요\" 뜻?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"배불러요\" 뜻?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l100",
+      "title": "복습 60",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "배불러요, 감사합니다.",
+          "name": "reply"
+        },
+        {
+          "glyph": "실례합니다, 도와줄 수 있어요?",
+          "name": "help"
+        },
+        {
+          "glyph": "어디에 살아요?",
+          "name": "q"
+        },
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        },
+        {
+          "glyph": "너무 신나요!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "잘 모르겠어요.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "A: 안녕, 친구!",
+          "name": ""
+        },
+        {
+          "glyph": "어디에 살아요?",
+          "name": "q"
+        },
+        {
+          "glyph": "빵 좀 주실래요?",
+          "name": "request"
+        },
+        {
+          "glyph": "조금 슬퍼요.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"잘 모르겠어요\" 뜻?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
     }
   ]
 }

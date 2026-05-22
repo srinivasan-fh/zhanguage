@@ -2473,6 +2473,5722 @@
           "answer": "わたし"
         }
       ]
+    },
+    {
+      "id": "ja-p2-l41",
+      "title": "ふくしゅう 1",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "あなた",
+          "name": "anata",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "つま",
+          "name": "tsuma",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "あなた",
+          "name": "anata",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "おっと",
+          "name": "otto",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "かのじょの",
+          "name": "kanojo no",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "あね",
+          "name": "ane",
+          "exampleWord": "elder sister (mine)"
+        },
+        {
+          "glyph": "おかあさん",
+          "name": "okaasan",
+          "exampleWord": "someone’s mother"
+        },
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "おねえさん",
+          "name": "oneesan",
+          "exampleWord": "elder sis (theirs)"
+        },
+        {
+          "glyph": "わたしたち",
+          "name": "watashitachi",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "おれ",
+          "name": "ore",
+          "exampleWord": "I (male, rough)"
+        },
+        {
+          "glyph": "わたしたち",
+          "name": "watashitachi",
+          "exampleWord": "we"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I (polite)'?",
+          "options": [
+            "わたし",
+            "ぼく",
+            "おれ",
+            "あなた"
+          ],
+          "answer": "わたし"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I (polite)'?",
+          "options": [
+            "わたし",
+            "ぼく",
+            "おれ",
+            "あなた"
+          ],
+          "answer": "わたし"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l42",
+      "title": "ふくしゅう 2",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "あね",
+          "name": "ane",
+          "exampleWord": "elder sister (mine)"
+        },
+        {
+          "glyph": "かのじょの",
+          "name": "kanojo no",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        },
+        {
+          "glyph": "わたしの",
+          "name": "watashi no",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        },
+        {
+          "glyph": "いもうと",
+          "name": "imouto",
+          "exampleWord": "younger sister"
+        },
+        {
+          "glyph": "おれ",
+          "name": "ore",
+          "exampleWord": "I (male, rough)"
+        },
+        {
+          "glyph": "わたし",
+          "name": "watashi",
+          "exampleWord": "I (polite)"
+        },
+        {
+          "glyph": "わたしたちの",
+          "name": "watashitachi no",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "あなた",
+          "name": "anata",
+          "exampleWord": "you"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my mother'?",
+          "options": [
+            "はは",
+            "ちち",
+            "あに",
+            "あね"
+          ],
+          "answer": "はは"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l43",
+      "title": "ふくしゅう 3",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "かのじょの",
+          "name": "kanojo no",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "わたしたち",
+          "name": "watashitachi",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "あに",
+          "name": "ani",
+          "exampleWord": "elder brother (mine)"
+        },
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "おっと",
+          "name": "otto",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "はは",
+          "name": "haha",
+          "exampleWord": "my mother"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l44",
+      "title": "ふくしゅう 4",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "かのじょ",
+          "name": "kanojo",
+          "exampleWord": "she"
+        },
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "ぼく",
+          "name": "boku",
+          "exampleWord": "I (male, casual)"
+        },
+        {
+          "glyph": "おねえさん",
+          "name": "oneesan",
+          "exampleWord": "elder sis (theirs)"
+        },
+        {
+          "glyph": "かれらの",
+          "name": "karera no",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "おじいさん",
+          "name": "ojiisan",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "かれの",
+          "name": "kare no",
+          "exampleWord": "his"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        },
+        {
+          "glyph": "いもうと",
+          "name": "imouto",
+          "exampleWord": "younger sister"
+        },
+        {
+          "glyph": "かれらの",
+          "name": "karera no",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "わたしの",
+          "name": "watashi no",
+          "exampleWord": "my"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l45",
+      "title": "ふくしゅう 5",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "いもうと",
+          "name": "imouto",
+          "exampleWord": "younger sister"
+        },
+        {
+          "glyph": "わたしたち",
+          "name": "watashitachi",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "かぞく",
+          "name": "kazoku",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "おねえさん",
+          "name": "oneesan",
+          "exampleWord": "elder sis (theirs)"
+        },
+        {
+          "glyph": "かれらの",
+          "name": "karera no",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "かのじょ",
+          "name": "kanojo",
+          "exampleWord": "she"
+        },
+        {
+          "glyph": "わたし",
+          "name": "watashi",
+          "exampleWord": "I (polite)"
+        },
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "むすめ",
+          "name": "musume",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "わたし",
+          "name": "watashi",
+          "exampleWord": "I (polite)"
+        },
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "わたし",
+          "name": "watashi",
+          "exampleWord": "I (polite)"
+        },
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "ぼく",
+          "name": "boku",
+          "exampleWord": "I (male, casual)"
+        },
+        {
+          "glyph": "おれ",
+          "name": "ore",
+          "exampleWord": "I (male, rough)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l46",
+      "title": "ふくしゅう 6",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "あに",
+          "name": "ani",
+          "exampleWord": "elder brother (mine)"
+        },
+        {
+          "glyph": "あなた",
+          "name": "anata",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        },
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "わたしの",
+          "name": "watashi no",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "つま",
+          "name": "tsuma",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "おかあさん",
+          "name": "okaasan",
+          "exampleWord": "someone’s mother"
+        },
+        {
+          "glyph": "おれ",
+          "name": "ore",
+          "exampleWord": "I (male, rough)"
+        },
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l47",
+      "title": "ふくしゅう 7",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "むすめ",
+          "name": "musume",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "きみ",
+          "name": "kimi",
+          "exampleWord": "you (familiar)"
+        },
+        {
+          "glyph": "かれらの",
+          "name": "karera no",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "おばあさん",
+          "name": "obaasan",
+          "exampleWord": "grandmother"
+        },
+        {
+          "glyph": "おとうさん",
+          "name": "otousan",
+          "exampleWord": "someone’s father"
+        },
+        {
+          "glyph": "きみ",
+          "name": "kimi",
+          "exampleWord": "you (familiar)"
+        },
+        {
+          "glyph": "むすこ",
+          "name": "musuko",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        },
+        {
+          "glyph": "あに",
+          "name": "ani",
+          "exampleWord": "elder brother (mine)"
+        },
+        {
+          "glyph": "おっと",
+          "name": "otto",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "おとうさん",
+          "name": "otousan",
+          "exampleWord": "someone’s father"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        },
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "おじいさん",
+          "name": "ojiisan",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my mother'?",
+          "options": [
+            "はは",
+            "ちち",
+            "あに",
+            "あね"
+          ],
+          "answer": "はは"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l48",
+      "title": "ふくしゅう 8",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "わたしの",
+          "name": "watashi no",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "あね",
+          "name": "ane",
+          "exampleWord": "elder sister (mine)"
+        },
+        {
+          "glyph": "ぼく",
+          "name": "boku",
+          "exampleWord": "I (male, casual)"
+        },
+        {
+          "glyph": "むすこ",
+          "name": "musuko",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        },
+        {
+          "glyph": "あに",
+          "name": "ani",
+          "exampleWord": "elder brother (mine)"
+        },
+        {
+          "glyph": "かれの",
+          "name": "kare no",
+          "exampleWord": "his"
+        },
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "あなた",
+          "name": "anata",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "おれ",
+          "name": "ore",
+          "exampleWord": "I (male, rough)"
+        },
+        {
+          "glyph": "きみ",
+          "name": "kimi",
+          "exampleWord": "you (familiar)"
+        },
+        {
+          "glyph": "おとうさん",
+          "name": "otousan",
+          "exampleWord": "someone’s father"
+        },
+        {
+          "glyph": "あに",
+          "name": "ani",
+          "exampleWord": "elder brother (mine)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I (polite)'?",
+          "options": [
+            "わたし",
+            "ぼく",
+            "おれ",
+            "あなた"
+          ],
+          "answer": "わたし"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l49",
+      "title": "ふくしゅう 9",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "あに",
+          "name": "ani",
+          "exampleWord": "elder brother (mine)"
+        },
+        {
+          "glyph": "あに",
+          "name": "ani",
+          "exampleWord": "elder brother (mine)"
+        },
+        {
+          "glyph": "かのじょの",
+          "name": "kanojo no",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "おばあさん",
+          "name": "obaasan",
+          "exampleWord": "grandmother"
+        },
+        {
+          "glyph": "わたしたちの",
+          "name": "watashitachi no",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "わたし",
+          "name": "watashi",
+          "exampleWord": "I (polite)"
+        },
+        {
+          "glyph": "あね",
+          "name": "ane",
+          "exampleWord": "elder sister (mine)"
+        },
+        {
+          "glyph": "おかあさん",
+          "name": "okaasan",
+          "exampleWord": "someone’s mother"
+        },
+        {
+          "glyph": "おねえさん",
+          "name": "oneesan",
+          "exampleWord": "elder sis (theirs)"
+        },
+        {
+          "glyph": "かれの",
+          "name": "kare no",
+          "exampleWord": "his"
+        },
+        {
+          "glyph": "つま",
+          "name": "tsuma",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "おとうと",
+          "name": "otouto",
+          "exampleWord": "younger brother"
+        },
+        {
+          "glyph": "はは",
+          "name": "haha",
+          "exampleWord": "my mother"
+        },
+        {
+          "glyph": "むすこ",
+          "name": "musuko",
+          "exampleWord": "son"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my mother'?",
+          "options": [
+            "はは",
+            "ちち",
+            "あに",
+            "あね"
+          ],
+          "answer": "はは"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l50",
+      "title": "ふくしゅう 10",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ぼく",
+          "name": "boku",
+          "exampleWord": "I (male, casual)"
+        },
+        {
+          "glyph": "ぼく",
+          "name": "boku",
+          "exampleWord": "I (male, casual)"
+        },
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "きみ",
+          "name": "kimi",
+          "exampleWord": "you (familiar)"
+        },
+        {
+          "glyph": "きみ",
+          "name": "kimi",
+          "exampleWord": "you (familiar)"
+        },
+        {
+          "glyph": "かぞく",
+          "name": "kazoku",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "かれの",
+          "name": "kare no",
+          "exampleWord": "his"
+        },
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        },
+        {
+          "glyph": "むすめ",
+          "name": "musume",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "おれ",
+          "name": "ore",
+          "exampleWord": "I (male, rough)"
+        },
+        {
+          "glyph": "おとうと",
+          "name": "otouto",
+          "exampleWord": "younger brother"
+        },
+        {
+          "glyph": "わたしの",
+          "name": "watashi no",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "おとうさん",
+          "name": "otousan",
+          "exampleWord": "someone’s father"
+        },
+        {
+          "glyph": "かのじょの",
+          "name": "kanojo no",
+          "exampleWord": "her"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I (polite)'?",
+          "options": [
+            "わたし",
+            "ぼく",
+            "おれ",
+            "あなた"
+          ],
+          "answer": "わたし"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l51",
+      "title": "ふくしゅう 11",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "わたし",
+          "name": "watashi",
+          "exampleWord": "I (polite)"
+        },
+        {
+          "glyph": "かのじょ",
+          "name": "kanojo",
+          "exampleWord": "she"
+        },
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "あね",
+          "name": "ane",
+          "exampleWord": "elder sister (mine)"
+        },
+        {
+          "glyph": "あなた",
+          "name": "anata",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "あね",
+          "name": "ane",
+          "exampleWord": "elder sister (mine)"
+        },
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "わたしたちの",
+          "name": "watashitachi no",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "わたしの",
+          "name": "watashi no",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "おじいさん",
+          "name": "ojiisan",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l52",
+      "title": "ふくしゅう 12",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "わたし",
+          "name": "watashi",
+          "exampleWord": "I (polite)"
+        },
+        {
+          "glyph": "あに",
+          "name": "ani",
+          "exampleWord": "elder brother (mine)"
+        },
+        {
+          "glyph": "はは",
+          "name": "haha",
+          "exampleWord": "my mother"
+        },
+        {
+          "glyph": "おじいさん",
+          "name": "ojiisan",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "おばあさん",
+          "name": "obaasan",
+          "exampleWord": "grandmother"
+        },
+        {
+          "glyph": "かれらの",
+          "name": "karera no",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "かれらの",
+          "name": "karera no",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "おかあさん",
+          "name": "okaasan",
+          "exampleWord": "someone’s mother"
+        },
+        {
+          "glyph": "おねえさん",
+          "name": "oneesan",
+          "exampleWord": "elder sis (theirs)"
+        },
+        {
+          "glyph": "かのじょの",
+          "name": "kanojo no",
+          "exampleWord": "her"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my mother'?",
+          "options": [
+            "はは",
+            "ちち",
+            "あに",
+            "あね"
+          ],
+          "answer": "はは"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my mother'?",
+          "options": [
+            "はは",
+            "ちち",
+            "あに",
+            "あね"
+          ],
+          "answer": "はは"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l53",
+      "title": "ふくしゅう 13",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "あね",
+          "name": "ane",
+          "exampleWord": "elder sister (mine)"
+        },
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        },
+        {
+          "glyph": "いもうと",
+          "name": "imouto",
+          "exampleWord": "younger sister"
+        },
+        {
+          "glyph": "おねえさん",
+          "name": "oneesan",
+          "exampleWord": "elder sis (theirs)"
+        },
+        {
+          "glyph": "はは",
+          "name": "haha",
+          "exampleWord": "my mother"
+        },
+        {
+          "glyph": "おじいさん",
+          "name": "ojiisan",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "わたしたち",
+          "name": "watashitachi",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I (polite)'?",
+          "options": [
+            "わたし",
+            "ぼく",
+            "おれ",
+            "あなた"
+          ],
+          "answer": "わたし"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I (polite)'?",
+          "options": [
+            "わたし",
+            "ぼく",
+            "おれ",
+            "あなた"
+          ],
+          "answer": "わたし"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l54",
+      "title": "ふくしゅう 14",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "おとうと",
+          "name": "otouto",
+          "exampleWord": "younger brother"
+        },
+        {
+          "glyph": "おっと",
+          "name": "otto",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        },
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        },
+        {
+          "glyph": "あなたの",
+          "name": "anata no",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "わたしたち",
+          "name": "watashitachi",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        },
+        {
+          "glyph": "おとうと",
+          "name": "otouto",
+          "exampleWord": "younger brother"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my mother'?",
+          "options": [
+            "はは",
+            "ちち",
+            "あに",
+            "あね"
+          ],
+          "answer": "はは"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l55",
+      "title": "ふくしゅう 15",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "つま",
+          "name": "tsuma",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "あね",
+          "name": "ane",
+          "exampleWord": "elder sister (mine)"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        },
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "あなた",
+          "name": "anata",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "かれらの",
+          "name": "karera no",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "わたしの",
+          "name": "watashi no",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "おかあさん",
+          "name": "okaasan",
+          "exampleWord": "someone’s mother"
+        },
+        {
+          "glyph": "わたしたちの",
+          "name": "watashitachi no",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l56",
+      "title": "ふくしゅう 16",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "あね",
+          "name": "ane",
+          "exampleWord": "elder sister (mine)"
+        },
+        {
+          "glyph": "かれらの",
+          "name": "karera no",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "むすこ",
+          "name": "musuko",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "わたしたちの",
+          "name": "watashitachi no",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "わたしの",
+          "name": "watashi no",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "わたしたち",
+          "name": "watashitachi",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "かのじょの",
+          "name": "kanojo no",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "あなたの",
+          "name": "anata no",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "むすめ",
+          "name": "musume",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "あね",
+          "name": "ane",
+          "exampleWord": "elder sister (mine)"
+        },
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        },
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "わたしの",
+          "name": "watashi no",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "おっと",
+          "name": "otto",
+          "exampleWord": "husband"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my mother'?",
+          "options": [
+            "はは",
+            "ちち",
+            "あに",
+            "あね"
+          ],
+          "answer": "はは"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l57",
+      "title": "ふくしゅう 17",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "かぞく",
+          "name": "kazoku",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        },
+        {
+          "glyph": "かれらの",
+          "name": "karera no",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "おとうさん",
+          "name": "otousan",
+          "exampleWord": "someone’s father"
+        },
+        {
+          "glyph": "かのじょ",
+          "name": "kanojo",
+          "exampleWord": "she"
+        },
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        },
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l58",
+      "title": "ふくしゅう 18",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        },
+        {
+          "glyph": "きみ",
+          "name": "kimi",
+          "exampleWord": "you (familiar)"
+        },
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "おばあさん",
+          "name": "obaasan",
+          "exampleWord": "grandmother"
+        },
+        {
+          "glyph": "はは",
+          "name": "haha",
+          "exampleWord": "my mother"
+        },
+        {
+          "glyph": "おじいさん",
+          "name": "ojiisan",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "おねえさん",
+          "name": "oneesan",
+          "exampleWord": "elder sis (theirs)"
+        },
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l59",
+      "title": "ふくしゅう 19",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "かのじょ",
+          "name": "kanojo",
+          "exampleWord": "she"
+        },
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "おとうさん",
+          "name": "otousan",
+          "exampleWord": "someone’s father"
+        },
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "おかあさん",
+          "name": "okaasan",
+          "exampleWord": "someone’s mother"
+        },
+        {
+          "glyph": "あに",
+          "name": "ani",
+          "exampleWord": "elder brother (mine)"
+        },
+        {
+          "glyph": "おとうと",
+          "name": "otouto",
+          "exampleWord": "younger brother"
+        },
+        {
+          "glyph": "むすめ",
+          "name": "musume",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "かぞく",
+          "name": "kazoku",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "おねえさん",
+          "name": "oneesan",
+          "exampleWord": "elder sis (theirs)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my mother'?",
+          "options": [
+            "はは",
+            "ちち",
+            "あに",
+            "あね"
+          ],
+          "answer": "はは"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my mother'?",
+          "options": [
+            "はは",
+            "ちち",
+            "あに",
+            "あね"
+          ],
+          "answer": "はは"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l60",
+      "title": "ふくしゅう 20",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "あに",
+          "name": "ani",
+          "exampleWord": "elder brother (mine)"
+        },
+        {
+          "glyph": "かれらの",
+          "name": "karera no",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "わたしたち",
+          "name": "watashitachi",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "あなたの",
+          "name": "anata no",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "むすめ",
+          "name": "musume",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "かのじょの",
+          "name": "kanojo no",
+          "exampleWord": "her"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my mother'?",
+          "options": [
+            "はは",
+            "ちち",
+            "あに",
+            "あね"
+          ],
+          "answer": "はは"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l61",
+      "title": "ふくしゅう 21",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "おとうと",
+          "name": "otouto",
+          "exampleWord": "younger brother"
+        },
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "あに",
+          "name": "ani",
+          "exampleWord": "elder brother (mine)"
+        },
+        {
+          "glyph": "おれ",
+          "name": "ore",
+          "exampleWord": "I (male, rough)"
+        },
+        {
+          "glyph": "かれの",
+          "name": "kare no",
+          "exampleWord": "his"
+        },
+        {
+          "glyph": "わたし",
+          "name": "watashi",
+          "exampleWord": "I (polite)"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        },
+        {
+          "glyph": "あなた",
+          "name": "anata",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "おとうと",
+          "name": "otouto",
+          "exampleWord": "younger brother"
+        },
+        {
+          "glyph": "かれらの",
+          "name": "karera no",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "かれの",
+          "name": "kare no",
+          "exampleWord": "his"
+        },
+        {
+          "glyph": "おとうさん",
+          "name": "otousan",
+          "exampleWord": "someone’s father"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I (polite)'?",
+          "options": [
+            "わたし",
+            "ぼく",
+            "おれ",
+            "あなた"
+          ],
+          "answer": "わたし"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l62",
+      "title": "ふくしゅう 22",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "わたしたちの",
+          "name": "watashitachi no",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        },
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "はは",
+          "name": "haha",
+          "exampleWord": "my mother"
+        },
+        {
+          "glyph": "あに",
+          "name": "ani",
+          "exampleWord": "elder brother (mine)"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        },
+        {
+          "glyph": "きみ",
+          "name": "kimi",
+          "exampleWord": "you (familiar)"
+        },
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "かのじょの",
+          "name": "kanojo no",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "むすめ",
+          "name": "musume",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "むすこ",
+          "name": "musuko",
+          "exampleWord": "son"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I (polite)'?",
+          "options": [
+            "わたし",
+            "ぼく",
+            "おれ",
+            "あなた"
+          ],
+          "answer": "わたし"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l63",
+      "title": "ふくしゅう 23",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "あなたの",
+          "name": "anata no",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "おとうさん",
+          "name": "otousan",
+          "exampleWord": "someone’s father"
+        },
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "おとうと",
+          "name": "otouto",
+          "exampleWord": "younger brother"
+        },
+        {
+          "glyph": "おとうさん",
+          "name": "otousan",
+          "exampleWord": "someone’s father"
+        },
+        {
+          "glyph": "おねえさん",
+          "name": "oneesan",
+          "exampleWord": "elder sis (theirs)"
+        },
+        {
+          "glyph": "あね",
+          "name": "ane",
+          "exampleWord": "elder sister (mine)"
+        },
+        {
+          "glyph": "おかあさん",
+          "name": "okaasan",
+          "exampleWord": "someone’s mother"
+        },
+        {
+          "glyph": "きみ",
+          "name": "kimi",
+          "exampleWord": "you (familiar)"
+        },
+        {
+          "glyph": "あに",
+          "name": "ani",
+          "exampleWord": "elder brother (mine)"
+        },
+        {
+          "glyph": "おばあさん",
+          "name": "obaasan",
+          "exampleWord": "grandmother"
+        },
+        {
+          "glyph": "むすこ",
+          "name": "musuko",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "おじいさん",
+          "name": "ojiisan",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "わたしたち",
+          "name": "watashitachi",
+          "exampleWord": "we"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l64",
+      "title": "ふくしゅう 24",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "つま",
+          "name": "tsuma",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "あね",
+          "name": "ane",
+          "exampleWord": "elder sister (mine)"
+        },
+        {
+          "glyph": "むすめ",
+          "name": "musume",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "あなたの",
+          "name": "anata no",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "わたしの",
+          "name": "watashi no",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "いもうと",
+          "name": "imouto",
+          "exampleWord": "younger sister"
+        },
+        {
+          "glyph": "わたし",
+          "name": "watashi",
+          "exampleWord": "I (polite)"
+        },
+        {
+          "glyph": "おれ",
+          "name": "ore",
+          "exampleWord": "I (male, rough)"
+        },
+        {
+          "glyph": "かれらの",
+          "name": "karera no",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "わたしたちの",
+          "name": "watashitachi no",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my mother'?",
+          "options": [
+            "はは",
+            "ちち",
+            "あに",
+            "あね"
+          ],
+          "answer": "はは"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l65",
+      "title": "ふくしゅう 25",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "かれの",
+          "name": "kare no",
+          "exampleWord": "his"
+        },
+        {
+          "glyph": "わたしたち",
+          "name": "watashitachi",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "いもうと",
+          "name": "imouto",
+          "exampleWord": "younger sister"
+        },
+        {
+          "glyph": "むすこ",
+          "name": "musuko",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "かれらの",
+          "name": "karera no",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "かれらの",
+          "name": "karera no",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "おとうさん",
+          "name": "otousan",
+          "exampleWord": "someone’s father"
+        },
+        {
+          "glyph": "おねえさん",
+          "name": "oneesan",
+          "exampleWord": "elder sis (theirs)"
+        },
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "はは",
+          "name": "haha",
+          "exampleWord": "my mother"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I (polite)'?",
+          "options": [
+            "わたし",
+            "ぼく",
+            "おれ",
+            "あなた"
+          ],
+          "answer": "わたし"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l66",
+      "title": "ふくしゅう 26",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "おれ",
+          "name": "ore",
+          "exampleWord": "I (male, rough)"
+        },
+        {
+          "glyph": "かぞく",
+          "name": "kazoku",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "かれらの",
+          "name": "karera no",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "おとうさん",
+          "name": "otousan",
+          "exampleWord": "someone’s father"
+        },
+        {
+          "glyph": "あなた",
+          "name": "anata",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        },
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "かのじょ",
+          "name": "kanojo",
+          "exampleWord": "she"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my mother'?",
+          "options": [
+            "はは",
+            "ちち",
+            "あに",
+            "あね"
+          ],
+          "answer": "はは"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l67",
+      "title": "ふくしゅう 27",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "かれらの",
+          "name": "karera no",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        },
+        {
+          "glyph": "おれ",
+          "name": "ore",
+          "exampleWord": "I (male, rough)"
+        },
+        {
+          "glyph": "あに",
+          "name": "ani",
+          "exampleWord": "elder brother (mine)"
+        },
+        {
+          "glyph": "つま",
+          "name": "tsuma",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "かれの",
+          "name": "kare no",
+          "exampleWord": "his"
+        },
+        {
+          "glyph": "あなたの",
+          "name": "anata no",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "はは",
+          "name": "haha",
+          "exampleWord": "my mother"
+        },
+        {
+          "glyph": "わたしの",
+          "name": "watashi no",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        },
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my mother'?",
+          "options": [
+            "はは",
+            "ちち",
+            "あに",
+            "あね"
+          ],
+          "answer": "はは"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l68",
+      "title": "ふくしゅう 28",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "おじいさん",
+          "name": "ojiisan",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "かぞく",
+          "name": "kazoku",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "ぼく",
+          "name": "boku",
+          "exampleWord": "I (male, casual)"
+        },
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        },
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "わたしたち",
+          "name": "watashitachi",
+          "exampleWord": "we"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my mother'?",
+          "options": [
+            "はは",
+            "ちち",
+            "あに",
+            "あね"
+          ],
+          "answer": "はは"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l69",
+      "title": "ふくしゅう 29",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        },
+        {
+          "glyph": "わたしたち",
+          "name": "watashitachi",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "おとうさん",
+          "name": "otousan",
+          "exampleWord": "someone’s father"
+        },
+        {
+          "glyph": "あに",
+          "name": "ani",
+          "exampleWord": "elder brother (mine)"
+        },
+        {
+          "glyph": "ぼく",
+          "name": "boku",
+          "exampleWord": "I (male, casual)"
+        },
+        {
+          "glyph": "おねえさん",
+          "name": "oneesan",
+          "exampleWord": "elder sis (theirs)"
+        },
+        {
+          "glyph": "かのじょの",
+          "name": "kanojo no",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "おかあさん",
+          "name": "okaasan",
+          "exampleWord": "someone’s mother"
+        },
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        },
+        {
+          "glyph": "わたしの",
+          "name": "watashi no",
+          "exampleWord": "my"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I (polite)'?",
+          "options": [
+            "わたし",
+            "ぼく",
+            "おれ",
+            "あなた"
+          ],
+          "answer": "わたし"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l70",
+      "title": "ふくしゅう 30",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "おとうと",
+          "name": "otouto",
+          "exampleWord": "younger brother"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        },
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "おれ",
+          "name": "ore",
+          "exampleWord": "I (male, rough)"
+        },
+        {
+          "glyph": "かれらの",
+          "name": "karera no",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        },
+        {
+          "glyph": "おとうと",
+          "name": "otouto",
+          "exampleWord": "younger brother"
+        },
+        {
+          "glyph": "おじいさん",
+          "name": "ojiisan",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "おばあさん",
+          "name": "obaasan",
+          "exampleWord": "grandmother"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I (polite)'?",
+          "options": [
+            "わたし",
+            "ぼく",
+            "おれ",
+            "あなた"
+          ],
+          "answer": "わたし"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l71",
+      "title": "ふくしゅう 31",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "わたしたち",
+          "name": "watashitachi",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "おねえさん",
+          "name": "oneesan",
+          "exampleWord": "elder sis (theirs)"
+        },
+        {
+          "glyph": "かれの",
+          "name": "kare no",
+          "exampleWord": "his"
+        },
+        {
+          "glyph": "あに",
+          "name": "ani",
+          "exampleWord": "elder brother (mine)"
+        },
+        {
+          "glyph": "おかあさん",
+          "name": "okaasan",
+          "exampleWord": "someone’s mother"
+        },
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        },
+        {
+          "glyph": "むすこ",
+          "name": "musuko",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "わたしたち",
+          "name": "watashitachi",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "むすめ",
+          "name": "musume",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "あに",
+          "name": "ani",
+          "exampleWord": "elder brother (mine)"
+        },
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "わたしの",
+          "name": "watashi no",
+          "exampleWord": "my"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I (polite)'?",
+          "options": [
+            "わたし",
+            "ぼく",
+            "おれ",
+            "あなた"
+          ],
+          "answer": "わたし"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l72",
+      "title": "ふくしゅう 32",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "つま",
+          "name": "tsuma",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "あなた",
+          "name": "anata",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "かぞく",
+          "name": "kazoku",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "おれ",
+          "name": "ore",
+          "exampleWord": "I (male, rough)"
+        },
+        {
+          "glyph": "おれ",
+          "name": "ore",
+          "exampleWord": "I (male, rough)"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        },
+        {
+          "glyph": "おとうと",
+          "name": "otouto",
+          "exampleWord": "younger brother"
+        },
+        {
+          "glyph": "むすめ",
+          "name": "musume",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "おかあさん",
+          "name": "okaasan",
+          "exampleWord": "someone’s mother"
+        },
+        {
+          "glyph": "おれ",
+          "name": "ore",
+          "exampleWord": "I (male, rough)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I (polite)'?",
+          "options": [
+            "わたし",
+            "ぼく",
+            "おれ",
+            "あなた"
+          ],
+          "answer": "わたし"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my mother'?",
+          "options": [
+            "はは",
+            "ちち",
+            "あに",
+            "あね"
+          ],
+          "answer": "はは"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l73",
+      "title": "ふくしゅう 33",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "かのじょの",
+          "name": "kanojo no",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        },
+        {
+          "glyph": "おばあさん",
+          "name": "obaasan",
+          "exampleWord": "grandmother"
+        },
+        {
+          "glyph": "おとうと",
+          "name": "otouto",
+          "exampleWord": "younger brother"
+        },
+        {
+          "glyph": "おかあさん",
+          "name": "okaasan",
+          "exampleWord": "someone’s mother"
+        },
+        {
+          "glyph": "むすめ",
+          "name": "musume",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "かのじょの",
+          "name": "kanojo no",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "わたしたちの",
+          "name": "watashitachi no",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "むすめ",
+          "name": "musume",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "おかあさん",
+          "name": "okaasan",
+          "exampleWord": "someone’s mother"
+        },
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l74",
+      "title": "ふくしゅう 34",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "おれ",
+          "name": "ore",
+          "exampleWord": "I (male, rough)"
+        },
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "かぞく",
+          "name": "kazoku",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "はは",
+          "name": "haha",
+          "exampleWord": "my mother"
+        },
+        {
+          "glyph": "かのじょ",
+          "name": "kanojo",
+          "exampleWord": "she"
+        },
+        {
+          "glyph": "おかあさん",
+          "name": "okaasan",
+          "exampleWord": "someone’s mother"
+        },
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my mother'?",
+          "options": [
+            "はは",
+            "ちち",
+            "あに",
+            "あね"
+          ],
+          "answer": "はは"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l75",
+      "title": "ふくしゅう 35",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "おれ",
+          "name": "ore",
+          "exampleWord": "I (male, rough)"
+        },
+        {
+          "glyph": "かれらの",
+          "name": "karera no",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        },
+        {
+          "glyph": "わたしたちの",
+          "name": "watashitachi no",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "おとうさん",
+          "name": "otousan",
+          "exampleWord": "someone’s father"
+        },
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "あに",
+          "name": "ani",
+          "exampleWord": "elder brother (mine)"
+        },
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        },
+        {
+          "glyph": "むすめ",
+          "name": "musume",
+          "exampleWord": "daughter"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l76",
+      "title": "ふくしゅう 36",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "おじいさん",
+          "name": "ojiisan",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "わたし",
+          "name": "watashi",
+          "exampleWord": "I (polite)"
+        },
+        {
+          "glyph": "かれらの",
+          "name": "karera no",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        },
+        {
+          "glyph": "かれの",
+          "name": "kare no",
+          "exampleWord": "his"
+        },
+        {
+          "glyph": "おばあさん",
+          "name": "obaasan",
+          "exampleWord": "grandmother"
+        },
+        {
+          "glyph": "わたしたちの",
+          "name": "watashitachi no",
+          "exampleWord": "our"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l77",
+      "title": "ふくしゅう 37",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "あね",
+          "name": "ane",
+          "exampleWord": "elder sister (mine)"
+        },
+        {
+          "glyph": "きみ",
+          "name": "kimi",
+          "exampleWord": "you (familiar)"
+        },
+        {
+          "glyph": "むすこ",
+          "name": "musuko",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "おばあさん",
+          "name": "obaasan",
+          "exampleWord": "grandmother"
+        },
+        {
+          "glyph": "あなた",
+          "name": "anata",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "かのじょ",
+          "name": "kanojo",
+          "exampleWord": "she"
+        },
+        {
+          "glyph": "かれらの",
+          "name": "karera no",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "かのじょの",
+          "name": "kanojo no",
+          "exampleWord": "her"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my mother'?",
+          "options": [
+            "はは",
+            "ちち",
+            "あに",
+            "あね"
+          ],
+          "answer": "はは"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l78",
+      "title": "ふくしゅう 38",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "おとうと",
+          "name": "otouto",
+          "exampleWord": "younger brother"
+        },
+        {
+          "glyph": "はは",
+          "name": "haha",
+          "exampleWord": "my mother"
+        },
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "おじいさん",
+          "name": "ojiisan",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "いもうと",
+          "name": "imouto",
+          "exampleWord": "younger sister"
+        },
+        {
+          "glyph": "かのじょの",
+          "name": "kanojo no",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "あなた",
+          "name": "anata",
+          "exampleWord": "you"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I (polite)'?",
+          "options": [
+            "わたし",
+            "ぼく",
+            "おれ",
+            "あなた"
+          ],
+          "answer": "わたし"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l79",
+      "title": "ふくしゅう 39",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "かぞく",
+          "name": "kazoku",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "かれらの",
+          "name": "karera no",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "いもうと",
+          "name": "imouto",
+          "exampleWord": "younger sister"
+        },
+        {
+          "glyph": "きみ",
+          "name": "kimi",
+          "exampleWord": "you (familiar)"
+        },
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "かのじょの",
+          "name": "kanojo no",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I (polite)'?",
+          "options": [
+            "わたし",
+            "ぼく",
+            "おれ",
+            "あなた"
+          ],
+          "answer": "わたし"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l80",
+      "title": "ふくしゅう 40",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "わたしたちの",
+          "name": "watashitachi no",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "あに",
+          "name": "ani",
+          "exampleWord": "elder brother (mine)"
+        },
+        {
+          "glyph": "むすめ",
+          "name": "musume",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "はは",
+          "name": "haha",
+          "exampleWord": "my mother"
+        },
+        {
+          "glyph": "おとうと",
+          "name": "otouto",
+          "exampleWord": "younger brother"
+        },
+        {
+          "glyph": "おじいさん",
+          "name": "ojiisan",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "おれ",
+          "name": "ore",
+          "exampleWord": "I (male, rough)"
+        },
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        },
+        {
+          "glyph": "あね",
+          "name": "ane",
+          "exampleWord": "elder sister (mine)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I (polite)'?",
+          "options": [
+            "わたし",
+            "ぼく",
+            "おれ",
+            "あなた"
+          ],
+          "answer": "わたし"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I (polite)'?",
+          "options": [
+            "わたし",
+            "ぼく",
+            "おれ",
+            "あなた"
+          ],
+          "answer": "わたし"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my mother'?",
+          "options": [
+            "はは",
+            "ちち",
+            "あに",
+            "あね"
+          ],
+          "answer": "はは"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l81",
+      "title": "ふくしゅう 41",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "あね",
+          "name": "ane",
+          "exampleWord": "elder sister (mine)"
+        },
+        {
+          "glyph": "むすめ",
+          "name": "musume",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        },
+        {
+          "glyph": "おじいさん",
+          "name": "ojiisan",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        },
+        {
+          "glyph": "おねえさん",
+          "name": "oneesan",
+          "exampleWord": "elder sis (theirs)"
+        },
+        {
+          "glyph": "あなた",
+          "name": "anata",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "おとうと",
+          "name": "otouto",
+          "exampleWord": "younger brother"
+        },
+        {
+          "glyph": "わたしたちの",
+          "name": "watashitachi no",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "はは",
+          "name": "haha",
+          "exampleWord": "my mother"
+        },
+        {
+          "glyph": "あなた",
+          "name": "anata",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "あなた",
+          "name": "anata",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "おじいさん",
+          "name": "ojiisan",
+          "exampleWord": "grandfather"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I (polite)'?",
+          "options": [
+            "わたし",
+            "ぼく",
+            "おれ",
+            "あなた"
+          ],
+          "answer": "わたし"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l82",
+      "title": "ふくしゅう 42",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "あなた",
+          "name": "anata",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "むすめ",
+          "name": "musume",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        },
+        {
+          "glyph": "あに",
+          "name": "ani",
+          "exampleWord": "elder brother (mine)"
+        },
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "おかあさん",
+          "name": "okaasan",
+          "exampleWord": "someone’s mother"
+        },
+        {
+          "glyph": "あに",
+          "name": "ani",
+          "exampleWord": "elder brother (mine)"
+        },
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l83",
+      "title": "ふくしゅう 43",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "つま",
+          "name": "tsuma",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "おとうと",
+          "name": "otouto",
+          "exampleWord": "younger brother"
+        },
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "わたしの",
+          "name": "watashi no",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "わたし",
+          "name": "watashi",
+          "exampleWord": "I (polite)"
+        },
+        {
+          "glyph": "かれらの",
+          "name": "karera no",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "つま",
+          "name": "tsuma",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "むすめ",
+          "name": "musume",
+          "exampleWord": "daughter"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I (polite)'?",
+          "options": [
+            "わたし",
+            "ぼく",
+            "おれ",
+            "あなた"
+          ],
+          "answer": "わたし"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l84",
+      "title": "ふくしゅう 44",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "むすめ",
+          "name": "musume",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "おねえさん",
+          "name": "oneesan",
+          "exampleWord": "elder sis (theirs)"
+        },
+        {
+          "glyph": "わたしの",
+          "name": "watashi no",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "あなたの",
+          "name": "anata no",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "おとうさん",
+          "name": "otousan",
+          "exampleWord": "someone’s father"
+        },
+        {
+          "glyph": "わたし",
+          "name": "watashi",
+          "exampleWord": "I (polite)"
+        },
+        {
+          "glyph": "おとうさん",
+          "name": "otousan",
+          "exampleWord": "someone’s father"
+        },
+        {
+          "glyph": "わたしの",
+          "name": "watashi no",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        },
+        {
+          "glyph": "おばあさん",
+          "name": "obaasan",
+          "exampleWord": "grandmother"
+        },
+        {
+          "glyph": "わたしたち",
+          "name": "watashitachi",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "わたしたちの",
+          "name": "watashitachi no",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "おっと",
+          "name": "otto",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "つま",
+          "name": "tsuma",
+          "exampleWord": "wife"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my mother'?",
+          "options": [
+            "はは",
+            "ちち",
+            "あに",
+            "あね"
+          ],
+          "answer": "はは"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I (polite)'?",
+          "options": [
+            "わたし",
+            "ぼく",
+            "おれ",
+            "あなた"
+          ],
+          "answer": "わたし"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l85",
+      "title": "ふくしゅう 45",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "つま",
+          "name": "tsuma",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "むすこ",
+          "name": "musuko",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "いもうと",
+          "name": "imouto",
+          "exampleWord": "younger sister"
+        },
+        {
+          "glyph": "わたしたち",
+          "name": "watashitachi",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "あに",
+          "name": "ani",
+          "exampleWord": "elder brother (mine)"
+        },
+        {
+          "glyph": "わたしの",
+          "name": "watashi no",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "あに",
+          "name": "ani",
+          "exampleWord": "elder brother (mine)"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        },
+        {
+          "glyph": "あなた",
+          "name": "anata",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "かれらの",
+          "name": "karera no",
+          "exampleWord": "their"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I (polite)'?",
+          "options": [
+            "わたし",
+            "ぼく",
+            "おれ",
+            "あなた"
+          ],
+          "answer": "わたし"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l86",
+      "title": "ふくしゅう 46",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "わたしたち",
+          "name": "watashitachi",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "ぼく",
+          "name": "boku",
+          "exampleWord": "I (male, casual)"
+        },
+        {
+          "glyph": "おねえさん",
+          "name": "oneesan",
+          "exampleWord": "elder sis (theirs)"
+        },
+        {
+          "glyph": "おとうさん",
+          "name": "otousan",
+          "exampleWord": "someone’s father"
+        },
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        },
+        {
+          "glyph": "わたしたち",
+          "name": "watashitachi",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "いもうと",
+          "name": "imouto",
+          "exampleWord": "younger sister"
+        },
+        {
+          "glyph": "あなたの",
+          "name": "anata no",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "あに",
+          "name": "ani",
+          "exampleWord": "elder brother (mine)"
+        },
+        {
+          "glyph": "かれらの",
+          "name": "karera no",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "わたしの",
+          "name": "watashi no",
+          "exampleWord": "my"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I (polite)'?",
+          "options": [
+            "わたし",
+            "ぼく",
+            "おれ",
+            "あなた"
+          ],
+          "answer": "わたし"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my mother'?",
+          "options": [
+            "はは",
+            "ちち",
+            "あに",
+            "あね"
+          ],
+          "answer": "はは"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I (polite)'?",
+          "options": [
+            "わたし",
+            "ぼく",
+            "おれ",
+            "あなた"
+          ],
+          "answer": "わたし"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l87",
+      "title": "ふくしゅう 47",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "おじいさん",
+          "name": "ojiisan",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "かれらの",
+          "name": "karera no",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        },
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "おれ",
+          "name": "ore",
+          "exampleWord": "I (male, rough)"
+        },
+        {
+          "glyph": "かぞく",
+          "name": "kazoku",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "わたしの",
+          "name": "watashi no",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "あなたの",
+          "name": "anata no",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "わたしの",
+          "name": "watashi no",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        },
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "かのじょの",
+          "name": "kanojo no",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I (polite)'?",
+          "options": [
+            "わたし",
+            "ぼく",
+            "おれ",
+            "あなた"
+          ],
+          "answer": "わたし"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l88",
+      "title": "ふくしゅう 48",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "かれらの",
+          "name": "karera no",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "はは",
+          "name": "haha",
+          "exampleWord": "my mother"
+        },
+        {
+          "glyph": "わたしの",
+          "name": "watashi no",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "おとうさん",
+          "name": "otousan",
+          "exampleWord": "someone’s father"
+        },
+        {
+          "glyph": "あに",
+          "name": "ani",
+          "exampleWord": "elder brother (mine)"
+        },
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        },
+        {
+          "glyph": "わたしたちの",
+          "name": "watashitachi no",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "あなた",
+          "name": "anata",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        },
+        {
+          "glyph": "わたしたち",
+          "name": "watashitachi",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        },
+        {
+          "glyph": "つま",
+          "name": "tsuma",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "おとうさん",
+          "name": "otousan",
+          "exampleWord": "someone’s father"
+        },
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I (polite)'?",
+          "options": [
+            "わたし",
+            "ぼく",
+            "おれ",
+            "あなた"
+          ],
+          "answer": "わたし"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l89",
+      "title": "ふくしゅう 49",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "きみ",
+          "name": "kimi",
+          "exampleWord": "you (familiar)"
+        },
+        {
+          "glyph": "あに",
+          "name": "ani",
+          "exampleWord": "elder brother (mine)"
+        },
+        {
+          "glyph": "おとうさん",
+          "name": "otousan",
+          "exampleWord": "someone’s father"
+        },
+        {
+          "glyph": "おじいさん",
+          "name": "ojiisan",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "おとうと",
+          "name": "otouto",
+          "exampleWord": "younger brother"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        },
+        {
+          "glyph": "おとうと",
+          "name": "otouto",
+          "exampleWord": "younger brother"
+        },
+        {
+          "glyph": "おかあさん",
+          "name": "okaasan",
+          "exampleWord": "someone’s mother"
+        },
+        {
+          "glyph": "わたし",
+          "name": "watashi",
+          "exampleWord": "I (polite)"
+        },
+        {
+          "glyph": "おばあさん",
+          "name": "obaasan",
+          "exampleWord": "grandmother"
+        },
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "あね",
+          "name": "ane",
+          "exampleWord": "elder sister (mine)"
+        },
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I (polite)'?",
+          "options": [
+            "わたし",
+            "ぼく",
+            "おれ",
+            "あなた"
+          ],
+          "answer": "わたし"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l90",
+      "title": "ふくしゅう 50",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "おばあさん",
+          "name": "obaasan",
+          "exampleWord": "grandmother"
+        },
+        {
+          "glyph": "つま",
+          "name": "tsuma",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "わたしの",
+          "name": "watashi no",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        },
+        {
+          "glyph": "かぞく",
+          "name": "kazoku",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "はは",
+          "name": "haha",
+          "exampleWord": "my mother"
+        },
+        {
+          "glyph": "おれ",
+          "name": "ore",
+          "exampleWord": "I (male, rough)"
+        },
+        {
+          "glyph": "おじいさん",
+          "name": "ojiisan",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "ぼく",
+          "name": "boku",
+          "exampleWord": "I (male, casual)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my mother'?",
+          "options": [
+            "はは",
+            "ちち",
+            "あに",
+            "あね"
+          ],
+          "answer": "はは"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l91",
+      "title": "ふくしゅう 51",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "きみ",
+          "name": "kimi",
+          "exampleWord": "you (familiar)"
+        },
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "わたしの",
+          "name": "watashi no",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "かれらの",
+          "name": "karera no",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "あに",
+          "name": "ani",
+          "exampleWord": "elder brother (mine)"
+        },
+        {
+          "glyph": "おじいさん",
+          "name": "ojiisan",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        },
+        {
+          "glyph": "わたしたち",
+          "name": "watashitachi",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "おれ",
+          "name": "ore",
+          "exampleWord": "I (male, rough)"
+        },
+        {
+          "glyph": "おじいさん",
+          "name": "ojiisan",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "おかあさん",
+          "name": "okaasan",
+          "exampleWord": "someone’s mother"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my mother'?",
+          "options": [
+            "はは",
+            "ちち",
+            "あに",
+            "あね"
+          ],
+          "answer": "はは"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my mother'?",
+          "options": [
+            "はは",
+            "ちち",
+            "あに",
+            "あね"
+          ],
+          "answer": "はは"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l92",
+      "title": "ふくしゅう 52",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "おとうさん",
+          "name": "otousan",
+          "exampleWord": "someone’s father"
+        },
+        {
+          "glyph": "はは",
+          "name": "haha",
+          "exampleWord": "my mother"
+        },
+        {
+          "glyph": "あなたの",
+          "name": "anata no",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "おかあさん",
+          "name": "okaasan",
+          "exampleWord": "someone’s mother"
+        },
+        {
+          "glyph": "つま",
+          "name": "tsuma",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "あね",
+          "name": "ane",
+          "exampleWord": "elder sister (mine)"
+        },
+        {
+          "glyph": "むすこ",
+          "name": "musuko",
+          "exampleWord": "son"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I (polite)'?",
+          "options": [
+            "わたし",
+            "ぼく",
+            "おれ",
+            "あなた"
+          ],
+          "answer": "わたし"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my mother'?",
+          "options": [
+            "はは",
+            "ちち",
+            "あに",
+            "あね"
+          ],
+          "answer": "はは"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l93",
+      "title": "ふくしゅう 53",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        },
+        {
+          "glyph": "かのじょ",
+          "name": "kanojo",
+          "exampleWord": "she"
+        },
+        {
+          "glyph": "わたしたち",
+          "name": "watashitachi",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "むすめ",
+          "name": "musume",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        },
+        {
+          "glyph": "おねえさん",
+          "name": "oneesan",
+          "exampleWord": "elder sis (theirs)"
+        },
+        {
+          "glyph": "おれ",
+          "name": "ore",
+          "exampleWord": "I (male, rough)"
+        },
+        {
+          "glyph": "おとうさん",
+          "name": "otousan",
+          "exampleWord": "someone’s father"
+        },
+        {
+          "glyph": "わたしたち",
+          "name": "watashitachi",
+          "exampleWord": "we"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l94",
+      "title": "ふくしゅう 54",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "わたし",
+          "name": "watashi",
+          "exampleWord": "I (polite)"
+        },
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        },
+        {
+          "glyph": "むすめ",
+          "name": "musume",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "おとうさん",
+          "name": "otousan",
+          "exampleWord": "someone’s father"
+        },
+        {
+          "glyph": "あなた",
+          "name": "anata",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "あね",
+          "name": "ane",
+          "exampleWord": "elder sister (mine)"
+        },
+        {
+          "glyph": "おねえさん",
+          "name": "oneesan",
+          "exampleWord": "elder sis (theirs)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my mother'?",
+          "options": [
+            "はは",
+            "ちち",
+            "あに",
+            "あね"
+          ],
+          "answer": "はは"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my mother'?",
+          "options": [
+            "はは",
+            "ちち",
+            "あに",
+            "あね"
+          ],
+          "answer": "はは"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I (polite)'?",
+          "options": [
+            "わたし",
+            "ぼく",
+            "おれ",
+            "あなた"
+          ],
+          "answer": "わたし"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l95",
+      "title": "ふくしゅう 55",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "いもうと",
+          "name": "imouto",
+          "exampleWord": "younger sister"
+        },
+        {
+          "glyph": "おれ",
+          "name": "ore",
+          "exampleWord": "I (male, rough)"
+        },
+        {
+          "glyph": "おとうと",
+          "name": "otouto",
+          "exampleWord": "younger brother"
+        },
+        {
+          "glyph": "おっと",
+          "name": "otto",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "おじいさん",
+          "name": "ojiisan",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "かれらの",
+          "name": "karera no",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "おかあさん",
+          "name": "okaasan",
+          "exampleWord": "someone’s mother"
+        },
+        {
+          "glyph": "わたしの",
+          "name": "watashi no",
+          "exampleWord": "my"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my mother'?",
+          "options": [
+            "はは",
+            "ちち",
+            "あに",
+            "あね"
+          ],
+          "answer": "はは"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l96",
+      "title": "ふくしゅう 56",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "あなた",
+          "name": "anata",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "むすこ",
+          "name": "musuko",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "おじいさん",
+          "name": "ojiisan",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "ぼく",
+          "name": "boku",
+          "exampleWord": "I (male, casual)"
+        },
+        {
+          "glyph": "かのじょ",
+          "name": "kanojo",
+          "exampleWord": "she"
+        },
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "かのじょの",
+          "name": "kanojo no",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "かぞく",
+          "name": "kazoku",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "おれ",
+          "name": "ore",
+          "exampleWord": "I (male, rough)"
+        },
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        },
+        {
+          "glyph": "きみ",
+          "name": "kimi",
+          "exampleWord": "you (familiar)"
+        },
+        {
+          "glyph": "おねえさん",
+          "name": "oneesan",
+          "exampleWord": "elder sis (theirs)"
+        },
+        {
+          "glyph": "あなた",
+          "name": "anata",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my mother'?",
+          "options": [
+            "はは",
+            "ちち",
+            "あに",
+            "あね"
+          ],
+          "answer": "はは"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l97",
+      "title": "ふくしゅう 57",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "おれ",
+          "name": "ore",
+          "exampleWord": "I (male, rough)"
+        },
+        {
+          "glyph": "おとうさん",
+          "name": "otousan",
+          "exampleWord": "someone’s father"
+        },
+        {
+          "glyph": "わたしたち",
+          "name": "watashitachi",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "おじいさん",
+          "name": "ojiisan",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "かれらの",
+          "name": "karera no",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "きみ",
+          "name": "kimi",
+          "exampleWord": "you (familiar)"
+        },
+        {
+          "glyph": "おとうと",
+          "name": "otouto",
+          "exampleWord": "younger brother"
+        },
+        {
+          "glyph": "あなた",
+          "name": "anata",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "おとうさん",
+          "name": "otousan",
+          "exampleWord": "someone’s father"
+        },
+        {
+          "glyph": "あなたの",
+          "name": "anata no",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "むすこ",
+          "name": "musuko",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "おばあさん",
+          "name": "obaasan",
+          "exampleWord": "grandmother"
+        },
+        {
+          "glyph": "おばさん",
+          "name": "obasan",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "あなた",
+          "name": "anata",
+          "exampleWord": "you"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'someone’s mother'?",
+          "options": [
+            "おかあさん",
+            "おとうさん",
+            "おにいさん",
+            "おねえさん"
+          ],
+          "answer": "おかあさん"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l98",
+      "title": "ふくしゅう 58",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        },
+        {
+          "glyph": "むすこ",
+          "name": "musuko",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "あなた",
+          "name": "anata",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        },
+        {
+          "glyph": "おとうと",
+          "name": "otouto",
+          "exampleWord": "younger brother"
+        },
+        {
+          "glyph": "おとうと",
+          "name": "otouto",
+          "exampleWord": "younger brother"
+        },
+        {
+          "glyph": "かぞく",
+          "name": "kazoku",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "いもうと",
+          "name": "imouto",
+          "exampleWord": "younger sister"
+        },
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "おとうと",
+          "name": "otouto",
+          "exampleWord": "younger brother"
+        },
+        {
+          "glyph": "あなた",
+          "name": "anata",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "おばあさん",
+          "name": "obaasan",
+          "exampleWord": "grandmother"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my mother'?",
+          "options": [
+            "はは",
+            "ちち",
+            "あに",
+            "あね"
+          ],
+          "answer": "はは"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I (polite)'?",
+          "options": [
+            "わたし",
+            "ぼく",
+            "おれ",
+            "あなた"
+          ],
+          "answer": "わたし"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l99",
+      "title": "ふくしゅう 59",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "あね",
+          "name": "ane",
+          "exampleWord": "elder sister (mine)"
+        },
+        {
+          "glyph": "おじさん",
+          "name": "ojisan",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "つま",
+          "name": "tsuma",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "あに",
+          "name": "ani",
+          "exampleWord": "elder brother (mine)"
+        },
+        {
+          "glyph": "かれら",
+          "name": "karera",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "おねえさん",
+          "name": "oneesan",
+          "exampleWord": "elder sis (theirs)"
+        },
+        {
+          "glyph": "おとうさん",
+          "name": "otousan",
+          "exampleWord": "someone’s father"
+        },
+        {
+          "glyph": "かれ",
+          "name": "kare",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "かのじょ",
+          "name": "kanojo",
+          "exampleWord": "she"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        }
+      ]
+    },
+    {
+      "id": "ja-p2-l100",
+      "title": "ふくしゅう 60",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "おにいさん",
+          "name": "oniisan",
+          "exampleWord": "elder bro (theirs)"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        },
+        {
+          "glyph": "あなたの",
+          "name": "anata no",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "かのじょの",
+          "name": "kanojo no",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "おっと",
+          "name": "otto",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "かのじょの",
+          "name": "kanojo no",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "ちち",
+          "name": "chichi",
+          "exampleWord": "my father"
+        },
+        {
+          "glyph": "おかあさん",
+          "name": "okaasan",
+          "exampleWord": "someone’s mother"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "わたしの",
+            "あなたの",
+            "かれの",
+            "かのじょの"
+          ],
+          "answer": "わたしの"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my mother'?",
+          "options": [
+            "はは",
+            "ちち",
+            "あに",
+            "あね"
+          ],
+          "answer": "はは"
+        }
+      ]
     }
   ]
 }

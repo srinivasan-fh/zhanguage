@@ -2269,6 +2269,5620 @@
           "answer": "a"
         }
       ]
+    },
+    {
+      "id": "de-p1-l41",
+      "title": "Wiederholung 1",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ä",
+          "name": "ae",
+          "exampleWord": "Äpfel"
+        },
+        {
+          "glyph": "h",
+          "name": "hah",
+          "exampleWord": "hund"
+        },
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Löwe"
+        },
+        {
+          "glyph": "d",
+          "name": "deh",
+          "exampleWord": "drache"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fisch"
+        },
+        {
+          "glyph": "a",
+          "name": "ah",
+          "exampleWord": "affe"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fisch"
+        },
+        {
+          "glyph": "a",
+          "name": "ah",
+          "exampleWord": "affe"
+        },
+        {
+          "glyph": "i",
+          "name": "ee",
+          "exampleWord": "igel"
+        },
+        {
+          "glyph": "V",
+          "name": "fau",
+          "exampleWord": "Vogel"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fisch"
+        },
+        {
+          "glyph": "ß",
+          "name": "ess",
+          "exampleWord": "Straße"
+        },
+        {
+          "glyph": "y",
+          "name": "üpsilon",
+          "exampleWord": "yoga"
+        },
+        {
+          "glyph": "G",
+          "name": "geh",
+          "exampleWord": "Gans"
+        },
+        {
+          "glyph": "w",
+          "name": "veh",
+          "exampleWord": "wolke"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'äpfel'?",
+          "options": [
+            "ä",
+            "ö",
+            "ü"
+          ],
+          "answer": "ä"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Hund'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Affe'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l42",
+      "title": "Wiederholung 2",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "q",
+          "name": "kuh",
+          "exampleWord": "quark"
+        },
+        {
+          "glyph": "Z",
+          "name": "tsett",
+          "exampleWord": "Zebra"
+        },
+        {
+          "glyph": "H",
+          "name": "hah",
+          "exampleWord": "Hund"
+        },
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xylophon"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Ofen"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Tisch"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fisch"
+        },
+        {
+          "glyph": "E",
+          "name": "eh",
+          "exampleWord": "Esel"
+        },
+        {
+          "glyph": "ö",
+          "name": "oe",
+          "exampleWord": "öl"
+        },
+        {
+          "glyph": "a",
+          "name": "ah",
+          "exampleWord": "affe"
+        },
+        {
+          "glyph": "S",
+          "name": "es",
+          "exampleWord": "Sonne"
+        },
+        {
+          "glyph": "w",
+          "name": "veh",
+          "exampleWord": "wolke"
+        },
+        {
+          "glyph": "v",
+          "name": "fau",
+          "exampleWord": "vogel"
+        },
+        {
+          "glyph": "w",
+          "name": "veh",
+          "exampleWord": "wolke"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ball"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'affe'?",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "answer": "a"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'hund'?",
+          "options": [
+            "h",
+            "i",
+            "j",
+            "k"
+          ],
+          "answer": "h"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Hund'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l43",
+      "title": "Wiederholung 3",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fisch"
+        },
+        {
+          "glyph": "ö",
+          "name": "oe",
+          "exampleWord": "öl"
+        },
+        {
+          "glyph": "E",
+          "name": "eh",
+          "exampleWord": "Esel"
+        },
+        {
+          "glyph": "f",
+          "name": "ef",
+          "exampleWord": "fisch"
+        },
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xylophon"
+        },
+        {
+          "glyph": "Q",
+          "name": "kuh",
+          "exampleWord": "Quark"
+        },
+        {
+          "glyph": "q",
+          "name": "kuh",
+          "exampleWord": "quark"
+        },
+        {
+          "glyph": "G",
+          "name": "geh",
+          "exampleWord": "Gans"
+        },
+        {
+          "glyph": "w",
+          "name": "veh",
+          "exampleWord": "wolke"
+        },
+        {
+          "glyph": "ö",
+          "name": "oe",
+          "exampleWord": "öl"
+        },
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xylophon"
+        },
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xylophon"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Äpfel'?",
+          "options": [
+            "Ä",
+            "Ö",
+            "Ü",
+            "ß"
+          ],
+          "answer": "Ä"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'uhr'?",
+          "options": [
+            "u",
+            "v",
+            "w",
+            "x"
+          ],
+          "answer": "u"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'uhr'?",
+          "options": [
+            "u",
+            "v",
+            "w",
+            "x"
+          ],
+          "answer": "u"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l44",
+      "title": "Wiederholung 4",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "V",
+          "name": "fau",
+          "exampleWord": "Vogel"
+        },
+        {
+          "glyph": "z",
+          "name": "tsett",
+          "exampleWord": "zebra"
+        },
+        {
+          "glyph": "d",
+          "name": "deh",
+          "exampleWord": "drache"
+        },
+        {
+          "glyph": "v",
+          "name": "fau",
+          "exampleWord": "vogel"
+        },
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Löwe"
+        },
+        {
+          "glyph": "ö",
+          "name": "oe",
+          "exampleWord": "öl"
+        },
+        {
+          "glyph": "o",
+          "name": "oh",
+          "exampleWord": "ofen"
+        },
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pferd"
+        },
+        {
+          "glyph": "Y",
+          "name": "üpsilon",
+          "exampleWord": "Yoga"
+        },
+        {
+          "glyph": "C",
+          "name": "tseh",
+          "exampleWord": "Clown"
+        },
+        {
+          "glyph": "t",
+          "name": "teh",
+          "exampleWord": "tisch"
+        },
+        {
+          "glyph": "n",
+          "name": "en",
+          "exampleWord": "nase"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Affe'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Affe'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l45",
+      "title": "Wiederholung 5",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "q",
+          "name": "kuh",
+          "exampleWord": "quark"
+        },
+        {
+          "glyph": "ö",
+          "name": "oe",
+          "exampleWord": "öl"
+        },
+        {
+          "glyph": "e",
+          "name": "eh",
+          "exampleWord": "esel"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Maus"
+        },
+        {
+          "glyph": "h",
+          "name": "hah",
+          "exampleWord": "hund"
+        },
+        {
+          "glyph": "Ö",
+          "name": "oe",
+          "exampleWord": "Öl"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ball"
+        },
+        {
+          "glyph": "ß",
+          "name": "ess",
+          "exampleWord": "Straße"
+        },
+        {
+          "glyph": "o",
+          "name": "oh",
+          "exampleWord": "ofen"
+        },
+        {
+          "glyph": "e",
+          "name": "eh",
+          "exampleWord": "esel"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'affe'?",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "answer": "a"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Ofen'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'äpfel'?",
+          "options": [
+            "ä",
+            "ö",
+            "ü"
+          ],
+          "answer": "ä"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l46",
+      "title": "Wiederholung 6",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Igel"
+        },
+        {
+          "glyph": "U",
+          "name": "oo",
+          "exampleWord": "Uhr"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Igel"
+        },
+        {
+          "glyph": "Q",
+          "name": "kuh",
+          "exampleWord": "Quark"
+        },
+        {
+          "glyph": "j",
+          "name": "yot",
+          "exampleWord": "jacke"
+        },
+        {
+          "glyph": "a",
+          "name": "ah",
+          "exampleWord": "affe"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Affe"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Katze"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Rose"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Affe"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'hund'?",
+          "options": [
+            "h",
+            "i",
+            "j",
+            "k"
+          ],
+          "answer": "h"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Äpfel'?",
+          "options": [
+            "Ä",
+            "Ö",
+            "Ü",
+            "ß"
+          ],
+          "answer": "Ä"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l47",
+      "title": "Wiederholung 7",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xylophon"
+        },
+        {
+          "glyph": "s",
+          "name": "es",
+          "exampleWord": "sonne"
+        },
+        {
+          "glyph": "a",
+          "name": "ah",
+          "exampleWord": "affe"
+        },
+        {
+          "glyph": "n",
+          "name": "en",
+          "exampleWord": "nase"
+        },
+        {
+          "glyph": "m",
+          "name": "em",
+          "exampleWord": "maus"
+        },
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Drache"
+        },
+        {
+          "glyph": "U",
+          "name": "oo",
+          "exampleWord": "Uhr"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Tisch"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Uhr'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'hund'?",
+          "options": [
+            "h",
+            "i",
+            "j",
+            "k"
+          ],
+          "answer": "h"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Äpfel'?",
+          "options": [
+            "Ä",
+            "Ö",
+            "Ü",
+            "ß"
+          ],
+          "answer": "Ä"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l48",
+      "title": "Wiederholung 8",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ball"
+        },
+        {
+          "glyph": "W",
+          "name": "veh",
+          "exampleWord": "Wolke"
+        },
+        {
+          "glyph": "j",
+          "name": "yot",
+          "exampleWord": "jacke"
+        },
+        {
+          "glyph": "f",
+          "name": "ef",
+          "exampleWord": "fisch"
+        },
+        {
+          "glyph": "Ö",
+          "name": "oe",
+          "exampleWord": "Öl"
+        },
+        {
+          "glyph": "c",
+          "name": "tseh",
+          "exampleWord": "clown"
+        },
+        {
+          "glyph": "ä",
+          "name": "ae",
+          "exampleWord": "äpfel"
+        },
+        {
+          "glyph": "y",
+          "name": "üpsilon",
+          "exampleWord": "yoga"
+        },
+        {
+          "glyph": "i",
+          "name": "ee",
+          "exampleWord": "igel"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Ofen"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'äpfel'?",
+          "options": [
+            "ä",
+            "ö",
+            "ü"
+          ],
+          "answer": "ä"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Uhr'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Ofen'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l49",
+      "title": "Wiederholung 9",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "f",
+          "name": "ef",
+          "exampleWord": "fisch"
+        },
+        {
+          "glyph": "g",
+          "name": "geh",
+          "exampleWord": "gans"
+        },
+        {
+          "glyph": "V",
+          "name": "fau",
+          "exampleWord": "Vogel"
+        },
+        {
+          "glyph": "h",
+          "name": "hah",
+          "exampleWord": "hund"
+        },
+        {
+          "glyph": "ö",
+          "name": "oe",
+          "exampleWord": "öl"
+        },
+        {
+          "glyph": "G",
+          "name": "geh",
+          "exampleWord": "Gans"
+        },
+        {
+          "glyph": "m",
+          "name": "em",
+          "exampleWord": "maus"
+        },
+        {
+          "glyph": "ß",
+          "name": "ess",
+          "exampleWord": "Straße"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Affe'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Hund'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l50",
+      "title": "Wiederholung 10",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Affe"
+        },
+        {
+          "glyph": "f",
+          "name": "ef",
+          "exampleWord": "fisch"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Igel"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Katze"
+        },
+        {
+          "glyph": "l",
+          "name": "el",
+          "exampleWord": "löwe"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Maus"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Tisch"
+        },
+        {
+          "glyph": "y",
+          "name": "üpsilon",
+          "exampleWord": "yoga"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Igel"
+        },
+        {
+          "glyph": "Ö",
+          "name": "oe",
+          "exampleWord": "Öl"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Hund'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Uhr'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Hund'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l51",
+      "title": "Wiederholung 11",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Ofen"
+        },
+        {
+          "glyph": "f",
+          "name": "ef",
+          "exampleWord": "fisch"
+        },
+        {
+          "glyph": "Ö",
+          "name": "oe",
+          "exampleWord": "Öl"
+        },
+        {
+          "glyph": "h",
+          "name": "hah",
+          "exampleWord": "hund"
+        },
+        {
+          "glyph": "ß",
+          "name": "ess",
+          "exampleWord": "Straße"
+        },
+        {
+          "glyph": "s",
+          "name": "es",
+          "exampleWord": "sonne"
+        },
+        {
+          "glyph": "m",
+          "name": "em",
+          "exampleWord": "maus"
+        },
+        {
+          "glyph": "e",
+          "name": "eh",
+          "exampleWord": "esel"
+        },
+        {
+          "glyph": "y",
+          "name": "üpsilon",
+          "exampleWord": "yoga"
+        },
+        {
+          "glyph": "b",
+          "name": "beh",
+          "exampleWord": "ball"
+        },
+        {
+          "glyph": "Y",
+          "name": "üpsilon",
+          "exampleWord": "Yoga"
+        },
+        {
+          "glyph": "ö",
+          "name": "oe",
+          "exampleWord": "öl"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Äpfel'?",
+          "options": [
+            "Ä",
+            "Ö",
+            "Ü",
+            "ß"
+          ],
+          "answer": "Ä"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'affe'?",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "answer": "a"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Hund'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l52",
+      "title": "Wiederholung 12",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "u",
+          "name": "oo",
+          "exampleWord": "uhr"
+        },
+        {
+          "glyph": "Y",
+          "name": "üpsilon",
+          "exampleWord": "Yoga"
+        },
+        {
+          "glyph": "ö",
+          "name": "oe",
+          "exampleWord": "öl"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Maus"
+        },
+        {
+          "glyph": "b",
+          "name": "beh",
+          "exampleWord": "ball"
+        },
+        {
+          "glyph": "d",
+          "name": "deh",
+          "exampleWord": "drache"
+        },
+        {
+          "glyph": "ß",
+          "name": "ess",
+          "exampleWord": "Straße"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fisch"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Katze"
+        },
+        {
+          "glyph": "U",
+          "name": "oo",
+          "exampleWord": "Uhr"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'ofen'?",
+          "options": [
+            "o",
+            "p",
+            "q",
+            "r"
+          ],
+          "answer": "o"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'hund'?",
+          "options": [
+            "h",
+            "i",
+            "j",
+            "k"
+          ],
+          "answer": "h"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'uhr'?",
+          "options": [
+            "u",
+            "v",
+            "w",
+            "x"
+          ],
+          "answer": "u"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l53",
+      "title": "Wiederholung 13",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Igel"
+        },
+        {
+          "glyph": "t",
+          "name": "teh",
+          "exampleWord": "tisch"
+        },
+        {
+          "glyph": "w",
+          "name": "veh",
+          "exampleWord": "wolke"
+        },
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xylophon"
+        },
+        {
+          "glyph": "J",
+          "name": "yot",
+          "exampleWord": "Jacke"
+        },
+        {
+          "glyph": "j",
+          "name": "yot",
+          "exampleWord": "jacke"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fisch"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fisch"
+        },
+        {
+          "glyph": "W",
+          "name": "veh",
+          "exampleWord": "Wolke"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Ofen"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'ofen'?",
+          "options": [
+            "o",
+            "p",
+            "q",
+            "r"
+          ],
+          "answer": "o"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Hund'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l54",
+      "title": "Wiederholung 14",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "G",
+          "name": "geh",
+          "exampleWord": "Gans"
+        },
+        {
+          "glyph": "v",
+          "name": "fau",
+          "exampleWord": "vogel"
+        },
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pferd"
+        },
+        {
+          "glyph": "Y",
+          "name": "üpsilon",
+          "exampleWord": "Yoga"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Tisch"
+        },
+        {
+          "glyph": "m",
+          "name": "em",
+          "exampleWord": "maus"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Maus"
+        },
+        {
+          "glyph": "e",
+          "name": "eh",
+          "exampleWord": "esel"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fisch"
+        },
+        {
+          "glyph": "G",
+          "name": "geh",
+          "exampleWord": "Gans"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Hund'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Uhr'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l55",
+      "title": "Wiederholung 15",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fisch"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Rose"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Maus"
+        },
+        {
+          "glyph": "v",
+          "name": "fau",
+          "exampleWord": "vogel"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Tisch"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Maus"
+        },
+        {
+          "glyph": "ß",
+          "name": "ess",
+          "exampleWord": "Straße"
+        },
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xylophon"
+        },
+        {
+          "glyph": "u",
+          "name": "oo",
+          "exampleWord": "uhr"
+        },
+        {
+          "glyph": "x",
+          "name": "iks",
+          "exampleWord": "xylophon"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Hund'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Uhr'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'hund'?",
+          "options": [
+            "h",
+            "i",
+            "j",
+            "k"
+          ],
+          "answer": "h"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l56",
+      "title": "Wiederholung 16",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "r",
+          "name": "er",
+          "exampleWord": "rose"
+        },
+        {
+          "glyph": "j",
+          "name": "yot",
+          "exampleWord": "jacke"
+        },
+        {
+          "glyph": "m",
+          "name": "em",
+          "exampleWord": "maus"
+        },
+        {
+          "glyph": "s",
+          "name": "es",
+          "exampleWord": "sonne"
+        },
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Löwe"
+        },
+        {
+          "glyph": "s",
+          "name": "es",
+          "exampleWord": "sonne"
+        },
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Nase"
+        },
+        {
+          "glyph": "g",
+          "name": "geh",
+          "exampleWord": "gans"
+        },
+        {
+          "glyph": "C",
+          "name": "tseh",
+          "exampleWord": "Clown"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ball"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Affe'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'äpfel'?",
+          "options": [
+            "ä",
+            "ö",
+            "ü"
+          ],
+          "answer": "ä"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l57",
+      "title": "Wiederholung 17",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ä",
+          "name": "ae",
+          "exampleWord": "äpfel"
+        },
+        {
+          "glyph": "v",
+          "name": "fau",
+          "exampleWord": "vogel"
+        },
+        {
+          "glyph": "r",
+          "name": "er",
+          "exampleWord": "rose"
+        },
+        {
+          "glyph": "q",
+          "name": "kuh",
+          "exampleWord": "quark"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Ofen"
+        },
+        {
+          "glyph": "ä",
+          "name": "ae",
+          "exampleWord": "äpfel"
+        },
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xylophon"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fisch"
+        },
+        {
+          "glyph": "Ö",
+          "name": "oe",
+          "exampleWord": "Öl"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ball"
+        },
+        {
+          "glyph": "J",
+          "name": "yot",
+          "exampleWord": "Jacke"
+        },
+        {
+          "glyph": "x",
+          "name": "iks",
+          "exampleWord": "xylophon"
+        },
+        {
+          "glyph": "Z",
+          "name": "tsett",
+          "exampleWord": "Zebra"
+        },
+        {
+          "glyph": "V",
+          "name": "fau",
+          "exampleWord": "Vogel"
+        },
+        {
+          "glyph": "Ä",
+          "name": "ae",
+          "exampleWord": "Äpfel"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'ofen'?",
+          "options": [
+            "o",
+            "p",
+            "q",
+            "r"
+          ],
+          "answer": "o"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'ofen'?",
+          "options": [
+            "o",
+            "p",
+            "q",
+            "r"
+          ],
+          "answer": "o"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l58",
+      "title": "Wiederholung 18",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "e",
+          "name": "eh",
+          "exampleWord": "esel"
+        },
+        {
+          "glyph": "e",
+          "name": "eh",
+          "exampleWord": "esel"
+        },
+        {
+          "glyph": "Z",
+          "name": "tsett",
+          "exampleWord": "Zebra"
+        },
+        {
+          "glyph": "Z",
+          "name": "tsett",
+          "exampleWord": "Zebra"
+        },
+        {
+          "glyph": "f",
+          "name": "ef",
+          "exampleWord": "fisch"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ball"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fisch"
+        },
+        {
+          "glyph": "q",
+          "name": "kuh",
+          "exampleWord": "quark"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'hund'?",
+          "options": [
+            "h",
+            "i",
+            "j",
+            "k"
+          ],
+          "answer": "h"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'äpfel'?",
+          "options": [
+            "ä",
+            "ö",
+            "ü"
+          ],
+          "answer": "ä"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l59",
+      "title": "Wiederholung 19",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "i",
+          "name": "ee",
+          "exampleWord": "igel"
+        },
+        {
+          "glyph": "a",
+          "name": "ah",
+          "exampleWord": "affe"
+        },
+        {
+          "glyph": "t",
+          "name": "teh",
+          "exampleWord": "tisch"
+        },
+        {
+          "glyph": "Z",
+          "name": "tsett",
+          "exampleWord": "Zebra"
+        },
+        {
+          "glyph": "h",
+          "name": "hah",
+          "exampleWord": "hund"
+        },
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Drache"
+        },
+        {
+          "glyph": "E",
+          "name": "eh",
+          "exampleWord": "Esel"
+        },
+        {
+          "glyph": "a",
+          "name": "ah",
+          "exampleWord": "affe"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'uhr'?",
+          "options": [
+            "u",
+            "v",
+            "w",
+            "x"
+          ],
+          "answer": "u"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Uhr'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l60",
+      "title": "Wiederholung 20",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "i",
+          "name": "ee",
+          "exampleWord": "igel"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Affe"
+        },
+        {
+          "glyph": "z",
+          "name": "tsett",
+          "exampleWord": "zebra"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fisch"
+        },
+        {
+          "glyph": "ö",
+          "name": "oe",
+          "exampleWord": "öl"
+        },
+        {
+          "glyph": "s",
+          "name": "es",
+          "exampleWord": "sonne"
+        },
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Nase"
+        },
+        {
+          "glyph": "s",
+          "name": "es",
+          "exampleWord": "sonne"
+        },
+        {
+          "glyph": "Ä",
+          "name": "ae",
+          "exampleWord": "Äpfel"
+        },
+        {
+          "glyph": "ä",
+          "name": "ae",
+          "exampleWord": "äpfel"
+        },
+        {
+          "glyph": "o",
+          "name": "oh",
+          "exampleWord": "ofen"
+        },
+        {
+          "glyph": "C",
+          "name": "tseh",
+          "exampleWord": "Clown"
+        },
+        {
+          "glyph": "y",
+          "name": "üpsilon",
+          "exampleWord": "yoga"
+        },
+        {
+          "glyph": "u",
+          "name": "oo",
+          "exampleWord": "uhr"
+        },
+        {
+          "glyph": "x",
+          "name": "iks",
+          "exampleWord": "xylophon"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Affe'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Äpfel'?",
+          "options": [
+            "Ä",
+            "Ö",
+            "Ü",
+            "ß"
+          ],
+          "answer": "Ä"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l61",
+      "title": "Wiederholung 21",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Drache"
+        },
+        {
+          "glyph": "f",
+          "name": "ef",
+          "exampleWord": "fisch"
+        },
+        {
+          "glyph": "ö",
+          "name": "oe",
+          "exampleWord": "öl"
+        },
+        {
+          "glyph": "b",
+          "name": "beh",
+          "exampleWord": "ball"
+        },
+        {
+          "glyph": "w",
+          "name": "veh",
+          "exampleWord": "wolke"
+        },
+        {
+          "glyph": "C",
+          "name": "tseh",
+          "exampleWord": "Clown"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Igel"
+        },
+        {
+          "glyph": "t",
+          "name": "teh",
+          "exampleWord": "tisch"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ball"
+        },
+        {
+          "glyph": "ö",
+          "name": "oe",
+          "exampleWord": "öl"
+        },
+        {
+          "glyph": "v",
+          "name": "fau",
+          "exampleWord": "vogel"
+        },
+        {
+          "glyph": "m",
+          "name": "em",
+          "exampleWord": "maus"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'hund'?",
+          "options": [
+            "h",
+            "i",
+            "j",
+            "k"
+          ],
+          "answer": "h"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'ofen'?",
+          "options": [
+            "o",
+            "p",
+            "q",
+            "r"
+          ],
+          "answer": "o"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l62",
+      "title": "Wiederholung 22",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "l",
+          "name": "el",
+          "exampleWord": "löwe"
+        },
+        {
+          "glyph": "t",
+          "name": "teh",
+          "exampleWord": "tisch"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ball"
+        },
+        {
+          "glyph": "e",
+          "name": "eh",
+          "exampleWord": "esel"
+        },
+        {
+          "glyph": "v",
+          "name": "fau",
+          "exampleWord": "vogel"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Maus"
+        },
+        {
+          "glyph": "v",
+          "name": "fau",
+          "exampleWord": "vogel"
+        },
+        {
+          "glyph": "E",
+          "name": "eh",
+          "exampleWord": "Esel"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fisch"
+        },
+        {
+          "glyph": "E",
+          "name": "eh",
+          "exampleWord": "Esel"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Uhr'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'hund'?",
+          "options": [
+            "h",
+            "i",
+            "j",
+            "k"
+          ],
+          "answer": "h"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'uhr'?",
+          "options": [
+            "u",
+            "v",
+            "w",
+            "x"
+          ],
+          "answer": "u"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l63",
+      "title": "Wiederholung 23",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "x",
+          "name": "iks",
+          "exampleWord": "xylophon"
+        },
+        {
+          "glyph": "ö",
+          "name": "oe",
+          "exampleWord": "öl"
+        },
+        {
+          "glyph": "m",
+          "name": "em",
+          "exampleWord": "maus"
+        },
+        {
+          "glyph": "ö",
+          "name": "oe",
+          "exampleWord": "öl"
+        },
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pferd"
+        },
+        {
+          "glyph": "V",
+          "name": "fau",
+          "exampleWord": "Vogel"
+        },
+        {
+          "glyph": "h",
+          "name": "hah",
+          "exampleWord": "hund"
+        },
+        {
+          "glyph": "Ö",
+          "name": "oe",
+          "exampleWord": "Öl"
+        },
+        {
+          "glyph": "ß",
+          "name": "ess",
+          "exampleWord": "Straße"
+        },
+        {
+          "glyph": "ä",
+          "name": "ae",
+          "exampleWord": "äpfel"
+        },
+        {
+          "glyph": "Y",
+          "name": "üpsilon",
+          "exampleWord": "Yoga"
+        },
+        {
+          "glyph": "a",
+          "name": "ah",
+          "exampleWord": "affe"
+        },
+        {
+          "glyph": "q",
+          "name": "kuh",
+          "exampleWord": "quark"
+        },
+        {
+          "glyph": "S",
+          "name": "es",
+          "exampleWord": "Sonne"
+        },
+        {
+          "glyph": "t",
+          "name": "teh",
+          "exampleWord": "tisch"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'uhr'?",
+          "options": [
+            "u",
+            "v",
+            "w",
+            "x"
+          ],
+          "answer": "u"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'hund'?",
+          "options": [
+            "h",
+            "i",
+            "j",
+            "k"
+          ],
+          "answer": "h"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Äpfel'?",
+          "options": [
+            "Ä",
+            "Ö",
+            "Ü",
+            "ß"
+          ],
+          "answer": "Ä"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l64",
+      "title": "Wiederholung 24",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ö",
+          "name": "oe",
+          "exampleWord": "Öl"
+        },
+        {
+          "glyph": "w",
+          "name": "veh",
+          "exampleWord": "wolke"
+        },
+        {
+          "glyph": "t",
+          "name": "teh",
+          "exampleWord": "tisch"
+        },
+        {
+          "glyph": "W",
+          "name": "veh",
+          "exampleWord": "Wolke"
+        },
+        {
+          "glyph": "t",
+          "name": "teh",
+          "exampleWord": "tisch"
+        },
+        {
+          "glyph": "S",
+          "name": "es",
+          "exampleWord": "Sonne"
+        },
+        {
+          "glyph": "k",
+          "name": "kah",
+          "exampleWord": "katze"
+        },
+        {
+          "glyph": "Y",
+          "name": "üpsilon",
+          "exampleWord": "Yoga"
+        },
+        {
+          "glyph": "h",
+          "name": "hah",
+          "exampleWord": "hund"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ball"
+        },
+        {
+          "glyph": "s",
+          "name": "es",
+          "exampleWord": "sonne"
+        },
+        {
+          "glyph": "w",
+          "name": "veh",
+          "exampleWord": "wolke"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'affe'?",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "answer": "a"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Affe'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Hund'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l65",
+      "title": "Wiederholung 25",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ball"
+        },
+        {
+          "glyph": "f",
+          "name": "ef",
+          "exampleWord": "fisch"
+        },
+        {
+          "glyph": "c",
+          "name": "tseh",
+          "exampleWord": "clown"
+        },
+        {
+          "glyph": "b",
+          "name": "beh",
+          "exampleWord": "ball"
+        },
+        {
+          "glyph": "t",
+          "name": "teh",
+          "exampleWord": "tisch"
+        },
+        {
+          "glyph": "Ö",
+          "name": "oe",
+          "exampleWord": "Öl"
+        },
+        {
+          "glyph": "g",
+          "name": "geh",
+          "exampleWord": "gans"
+        },
+        {
+          "glyph": "V",
+          "name": "fau",
+          "exampleWord": "Vogel"
+        },
+        {
+          "glyph": "W",
+          "name": "veh",
+          "exampleWord": "Wolke"
+        },
+        {
+          "glyph": "u",
+          "name": "oo",
+          "exampleWord": "uhr"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Äpfel'?",
+          "options": [
+            "Ä",
+            "Ö",
+            "Ü",
+            "ß"
+          ],
+          "answer": "Ä"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Äpfel'?",
+          "options": [
+            "Ä",
+            "Ö",
+            "Ü",
+            "ß"
+          ],
+          "answer": "Ä"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'hund'?",
+          "options": [
+            "h",
+            "i",
+            "j",
+            "k"
+          ],
+          "answer": "h"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l66",
+      "title": "Wiederholung 26",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "k",
+          "name": "kah",
+          "exampleWord": "katze"
+        },
+        {
+          "glyph": "ä",
+          "name": "ae",
+          "exampleWord": "äpfel"
+        },
+        {
+          "glyph": "t",
+          "name": "teh",
+          "exampleWord": "tisch"
+        },
+        {
+          "glyph": "i",
+          "name": "ee",
+          "exampleWord": "igel"
+        },
+        {
+          "glyph": "J",
+          "name": "yot",
+          "exampleWord": "Jacke"
+        },
+        {
+          "glyph": "h",
+          "name": "hah",
+          "exampleWord": "hund"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Tisch"
+        },
+        {
+          "glyph": "ß",
+          "name": "ess",
+          "exampleWord": "Straße"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Affe"
+        },
+        {
+          "glyph": "a",
+          "name": "ah",
+          "exampleWord": "affe"
+        },
+        {
+          "glyph": "V",
+          "name": "fau",
+          "exampleWord": "Vogel"
+        },
+        {
+          "glyph": "E",
+          "name": "eh",
+          "exampleWord": "Esel"
+        },
+        {
+          "glyph": "w",
+          "name": "veh",
+          "exampleWord": "wolke"
+        },
+        {
+          "glyph": "b",
+          "name": "beh",
+          "exampleWord": "ball"
+        },
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xylophon"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Hund'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Hund'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l67",
+      "title": "Wiederholung 27",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "m",
+          "name": "em",
+          "exampleWord": "maus"
+        },
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xylophon"
+        },
+        {
+          "glyph": "ä",
+          "name": "ae",
+          "exampleWord": "äpfel"
+        },
+        {
+          "glyph": "a",
+          "name": "ah",
+          "exampleWord": "affe"
+        },
+        {
+          "glyph": "a",
+          "name": "ah",
+          "exampleWord": "affe"
+        },
+        {
+          "glyph": "Q",
+          "name": "kuh",
+          "exampleWord": "Quark"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Tisch"
+        },
+        {
+          "glyph": "g",
+          "name": "geh",
+          "exampleWord": "gans"
+        },
+        {
+          "glyph": "Ü",
+          "name": "ue",
+          "exampleWord": "Übung"
+        },
+        {
+          "glyph": "f",
+          "name": "ef",
+          "exampleWord": "fisch"
+        },
+        {
+          "glyph": "y",
+          "name": "üpsilon",
+          "exampleWord": "yoga"
+        },
+        {
+          "glyph": "t",
+          "name": "teh",
+          "exampleWord": "tisch"
+        },
+        {
+          "glyph": "Ö",
+          "name": "oe",
+          "exampleWord": "Öl"
+        },
+        {
+          "glyph": "Ö",
+          "name": "oe",
+          "exampleWord": "Öl"
+        },
+        {
+          "glyph": "ä",
+          "name": "ae",
+          "exampleWord": "äpfel"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'hund'?",
+          "options": [
+            "h",
+            "i",
+            "j",
+            "k"
+          ],
+          "answer": "h"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'hund'?",
+          "options": [
+            "h",
+            "i",
+            "j",
+            "k"
+          ],
+          "answer": "h"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Affe'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l68",
+      "title": "Wiederholung 28",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "y",
+          "name": "üpsilon",
+          "exampleWord": "yoga"
+        },
+        {
+          "glyph": "Ö",
+          "name": "oe",
+          "exampleWord": "Öl"
+        },
+        {
+          "glyph": "ß",
+          "name": "ess",
+          "exampleWord": "Straße"
+        },
+        {
+          "glyph": "q",
+          "name": "kuh",
+          "exampleWord": "quark"
+        },
+        {
+          "glyph": "x",
+          "name": "iks",
+          "exampleWord": "xylophon"
+        },
+        {
+          "glyph": "x",
+          "name": "iks",
+          "exampleWord": "xylophon"
+        },
+        {
+          "glyph": "q",
+          "name": "kuh",
+          "exampleWord": "quark"
+        },
+        {
+          "glyph": "l",
+          "name": "el",
+          "exampleWord": "löwe"
+        },
+        {
+          "glyph": "t",
+          "name": "teh",
+          "exampleWord": "tisch"
+        },
+        {
+          "glyph": "z",
+          "name": "tsett",
+          "exampleWord": "zebra"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ball"
+        },
+        {
+          "glyph": "v",
+          "name": "fau",
+          "exampleWord": "vogel"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fisch"
+        },
+        {
+          "glyph": "w",
+          "name": "veh",
+          "exampleWord": "wolke"
+        },
+        {
+          "glyph": "j",
+          "name": "yot",
+          "exampleWord": "jacke"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'ofen'?",
+          "options": [
+            "o",
+            "p",
+            "q",
+            "r"
+          ],
+          "answer": "o"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Hund'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l69",
+      "title": "Wiederholung 29",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ß",
+          "name": "ess",
+          "exampleWord": "Straße"
+        },
+        {
+          "glyph": "d",
+          "name": "deh",
+          "exampleWord": "drache"
+        },
+        {
+          "glyph": "w",
+          "name": "veh",
+          "exampleWord": "wolke"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fisch"
+        },
+        {
+          "glyph": "ß",
+          "name": "ess",
+          "exampleWord": "Straße"
+        },
+        {
+          "glyph": "Ä",
+          "name": "ae",
+          "exampleWord": "Äpfel"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Ofen"
+        },
+        {
+          "glyph": "x",
+          "name": "iks",
+          "exampleWord": "xylophon"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'äpfel'?",
+          "options": [
+            "ä",
+            "ö",
+            "ü"
+          ],
+          "answer": "ä"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Uhr'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'affe'?",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "answer": "a"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l70",
+      "title": "Wiederholung 30",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "o",
+          "name": "oh",
+          "exampleWord": "ofen"
+        },
+        {
+          "glyph": "ß",
+          "name": "ess",
+          "exampleWord": "Straße"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Rose"
+        },
+        {
+          "glyph": "x",
+          "name": "iks",
+          "exampleWord": "xylophon"
+        },
+        {
+          "glyph": "H",
+          "name": "hah",
+          "exampleWord": "Hund"
+        },
+        {
+          "glyph": "e",
+          "name": "eh",
+          "exampleWord": "esel"
+        },
+        {
+          "glyph": "l",
+          "name": "el",
+          "exampleWord": "löwe"
+        },
+        {
+          "glyph": "j",
+          "name": "yot",
+          "exampleWord": "jacke"
+        },
+        {
+          "glyph": "Ö",
+          "name": "oe",
+          "exampleWord": "Öl"
+        },
+        {
+          "glyph": "s",
+          "name": "es",
+          "exampleWord": "sonne"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Ofen'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Hund'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'uhr'?",
+          "options": [
+            "u",
+            "v",
+            "w",
+            "x"
+          ],
+          "answer": "u"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l71",
+      "title": "Wiederholung 31",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "t",
+          "name": "teh",
+          "exampleWord": "tisch"
+        },
+        {
+          "glyph": "ß",
+          "name": "ess",
+          "exampleWord": "Straße"
+        },
+        {
+          "glyph": "f",
+          "name": "ef",
+          "exampleWord": "fisch"
+        },
+        {
+          "glyph": "Q",
+          "name": "kuh",
+          "exampleWord": "Quark"
+        },
+        {
+          "glyph": "y",
+          "name": "üpsilon",
+          "exampleWord": "yoga"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Maus"
+        },
+        {
+          "glyph": "Y",
+          "name": "üpsilon",
+          "exampleWord": "Yoga"
+        },
+        {
+          "glyph": "d",
+          "name": "deh",
+          "exampleWord": "drache"
+        },
+        {
+          "glyph": "U",
+          "name": "oo",
+          "exampleWord": "Uhr"
+        },
+        {
+          "glyph": "z",
+          "name": "tsett",
+          "exampleWord": "zebra"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Tisch"
+        },
+        {
+          "glyph": "G",
+          "name": "geh",
+          "exampleWord": "Gans"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Affe'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Ofen'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l72",
+      "title": "Wiederholung 32",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xylophon"
+        },
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xylophon"
+        },
+        {
+          "glyph": "Q",
+          "name": "kuh",
+          "exampleWord": "Quark"
+        },
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Drache"
+        },
+        {
+          "glyph": "S",
+          "name": "es",
+          "exampleWord": "Sonne"
+        },
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Nase"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Igel"
+        },
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xylophon"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Uhr'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'uhr'?",
+          "options": [
+            "u",
+            "v",
+            "w",
+            "x"
+          ],
+          "answer": "u"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Äpfel'?",
+          "options": [
+            "Ä",
+            "Ö",
+            "Ü",
+            "ß"
+          ],
+          "answer": "Ä"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l73",
+      "title": "Wiederholung 33",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "u",
+          "name": "oo",
+          "exampleWord": "uhr"
+        },
+        {
+          "glyph": "g",
+          "name": "geh",
+          "exampleWord": "gans"
+        },
+        {
+          "glyph": "ö",
+          "name": "oe",
+          "exampleWord": "öl"
+        },
+        {
+          "glyph": "p",
+          "name": "peh",
+          "exampleWord": "pferd"
+        },
+        {
+          "glyph": "Ö",
+          "name": "oe",
+          "exampleWord": "Öl"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fisch"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Katze"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Affe"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Rose"
+        },
+        {
+          "glyph": "k",
+          "name": "kah",
+          "exampleWord": "katze"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Äpfel'?",
+          "options": [
+            "Ä",
+            "Ö",
+            "Ü",
+            "ß"
+          ],
+          "answer": "Ä"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'hund'?",
+          "options": [
+            "h",
+            "i",
+            "j",
+            "k"
+          ],
+          "answer": "h"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'hund'?",
+          "options": [
+            "h",
+            "i",
+            "j",
+            "k"
+          ],
+          "answer": "h"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l74",
+      "title": "Wiederholung 34",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "r",
+          "name": "er",
+          "exampleWord": "rose"
+        },
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Drache"
+        },
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Nase"
+        },
+        {
+          "glyph": "k",
+          "name": "kah",
+          "exampleWord": "katze"
+        },
+        {
+          "glyph": "s",
+          "name": "es",
+          "exampleWord": "sonne"
+        },
+        {
+          "glyph": "e",
+          "name": "eh",
+          "exampleWord": "esel"
+        },
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xylophon"
+        },
+        {
+          "glyph": "g",
+          "name": "geh",
+          "exampleWord": "gans"
+        },
+        {
+          "glyph": "v",
+          "name": "fau",
+          "exampleWord": "vogel"
+        },
+        {
+          "glyph": "e",
+          "name": "eh",
+          "exampleWord": "esel"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'uhr'?",
+          "options": [
+            "u",
+            "v",
+            "w",
+            "x"
+          ],
+          "answer": "u"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Äpfel'?",
+          "options": [
+            "Ä",
+            "Ö",
+            "Ü",
+            "ß"
+          ],
+          "answer": "Ä"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'affe'?",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "answer": "a"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l75",
+      "title": "Wiederholung 35",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "x",
+          "name": "iks",
+          "exampleWord": "xylophon"
+        },
+        {
+          "glyph": "m",
+          "name": "em",
+          "exampleWord": "maus"
+        },
+        {
+          "glyph": "G",
+          "name": "geh",
+          "exampleWord": "Gans"
+        },
+        {
+          "glyph": "V",
+          "name": "fau",
+          "exampleWord": "Vogel"
+        },
+        {
+          "glyph": "Y",
+          "name": "üpsilon",
+          "exampleWord": "Yoga"
+        },
+        {
+          "glyph": "ö",
+          "name": "oe",
+          "exampleWord": "öl"
+        },
+        {
+          "glyph": "v",
+          "name": "fau",
+          "exampleWord": "vogel"
+        },
+        {
+          "glyph": "ß",
+          "name": "ess",
+          "exampleWord": "Straße"
+        },
+        {
+          "glyph": "ö",
+          "name": "oe",
+          "exampleWord": "öl"
+        },
+        {
+          "glyph": "t",
+          "name": "teh",
+          "exampleWord": "tisch"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'uhr'?",
+          "options": [
+            "u",
+            "v",
+            "w",
+            "x"
+          ],
+          "answer": "u"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Uhr'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'äpfel'?",
+          "options": [
+            "ä",
+            "ö",
+            "ü"
+          ],
+          "answer": "ä"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l76",
+      "title": "Wiederholung 36",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Z",
+          "name": "tsett",
+          "exampleWord": "Zebra"
+        },
+        {
+          "glyph": "s",
+          "name": "es",
+          "exampleWord": "sonne"
+        },
+        {
+          "glyph": "u",
+          "name": "oo",
+          "exampleWord": "uhr"
+        },
+        {
+          "glyph": "Z",
+          "name": "tsett",
+          "exampleWord": "Zebra"
+        },
+        {
+          "glyph": "G",
+          "name": "geh",
+          "exampleWord": "Gans"
+        },
+        {
+          "glyph": "x",
+          "name": "iks",
+          "exampleWord": "xylophon"
+        },
+        {
+          "glyph": "G",
+          "name": "geh",
+          "exampleWord": "Gans"
+        },
+        {
+          "glyph": "k",
+          "name": "kah",
+          "exampleWord": "katze"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'uhr'?",
+          "options": [
+            "u",
+            "v",
+            "w",
+            "x"
+          ],
+          "answer": "u"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'hund'?",
+          "options": [
+            "h",
+            "i",
+            "j",
+            "k"
+          ],
+          "answer": "h"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'äpfel'?",
+          "options": [
+            "ä",
+            "ö",
+            "ü"
+          ],
+          "answer": "ä"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l77",
+      "title": "Wiederholung 37",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Tisch"
+        },
+        {
+          "glyph": "j",
+          "name": "yot",
+          "exampleWord": "jacke"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fisch"
+        },
+        {
+          "glyph": "Ü",
+          "name": "ue",
+          "exampleWord": "Übung"
+        },
+        {
+          "glyph": "q",
+          "name": "kuh",
+          "exampleWord": "quark"
+        },
+        {
+          "glyph": "r",
+          "name": "er",
+          "exampleWord": "rose"
+        },
+        {
+          "glyph": "b",
+          "name": "beh",
+          "exampleWord": "ball"
+        },
+        {
+          "glyph": "f",
+          "name": "ef",
+          "exampleWord": "fisch"
+        },
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Nase"
+        },
+        {
+          "glyph": "e",
+          "name": "eh",
+          "exampleWord": "esel"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Affe'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'hund'?",
+          "options": [
+            "h",
+            "i",
+            "j",
+            "k"
+          ],
+          "answer": "h"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l78",
+      "title": "Wiederholung 38",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ö",
+          "name": "oe",
+          "exampleWord": "öl"
+        },
+        {
+          "glyph": "o",
+          "name": "oh",
+          "exampleWord": "ofen"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Affe"
+        },
+        {
+          "glyph": "r",
+          "name": "er",
+          "exampleWord": "rose"
+        },
+        {
+          "glyph": "e",
+          "name": "eh",
+          "exampleWord": "esel"
+        },
+        {
+          "glyph": "g",
+          "name": "geh",
+          "exampleWord": "gans"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fisch"
+        },
+        {
+          "glyph": "Ä",
+          "name": "ae",
+          "exampleWord": "Äpfel"
+        },
+        {
+          "glyph": "k",
+          "name": "kah",
+          "exampleWord": "katze"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Ofen"
+        },
+        {
+          "glyph": "U",
+          "name": "oo",
+          "exampleWord": "Uhr"
+        },
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Drache"
+        },
+        {
+          "glyph": "a",
+          "name": "ah",
+          "exampleWord": "affe"
+        },
+        {
+          "glyph": "t",
+          "name": "teh",
+          "exampleWord": "tisch"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Rose"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Uhr'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Affe'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l79",
+      "title": "Wiederholung 39",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ß",
+          "name": "ess",
+          "exampleWord": "Straße"
+        },
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Drache"
+        },
+        {
+          "glyph": "b",
+          "name": "beh",
+          "exampleWord": "ball"
+        },
+        {
+          "glyph": "v",
+          "name": "fau",
+          "exampleWord": "vogel"
+        },
+        {
+          "glyph": "Y",
+          "name": "üpsilon",
+          "exampleWord": "Yoga"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Affe"
+        },
+        {
+          "glyph": "ö",
+          "name": "oe",
+          "exampleWord": "öl"
+        },
+        {
+          "glyph": "t",
+          "name": "teh",
+          "exampleWord": "tisch"
+        },
+        {
+          "glyph": "v",
+          "name": "fau",
+          "exampleWord": "vogel"
+        },
+        {
+          "glyph": "W",
+          "name": "veh",
+          "exampleWord": "Wolke"
+        },
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Löwe"
+        },
+        {
+          "glyph": "q",
+          "name": "kuh",
+          "exampleWord": "quark"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Äpfel'?",
+          "options": [
+            "Ä",
+            "Ö",
+            "Ü",
+            "ß"
+          ],
+          "answer": "Ä"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Äpfel'?",
+          "options": [
+            "Ä",
+            "Ö",
+            "Ü",
+            "ß"
+          ],
+          "answer": "Ä"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Hund'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l80",
+      "title": "Wiederholung 40",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "k",
+          "name": "kah",
+          "exampleWord": "katze"
+        },
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Löwe"
+        },
+        {
+          "glyph": "j",
+          "name": "yot",
+          "exampleWord": "jacke"
+        },
+        {
+          "glyph": "b",
+          "name": "beh",
+          "exampleWord": "ball"
+        },
+        {
+          "glyph": "H",
+          "name": "hah",
+          "exampleWord": "Hund"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Rose"
+        },
+        {
+          "glyph": "ö",
+          "name": "oe",
+          "exampleWord": "öl"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fisch"
+        },
+        {
+          "glyph": "v",
+          "name": "fau",
+          "exampleWord": "vogel"
+        },
+        {
+          "glyph": "q",
+          "name": "kuh",
+          "exampleWord": "quark"
+        },
+        {
+          "glyph": "g",
+          "name": "geh",
+          "exampleWord": "gans"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fisch"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Uhr'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Hund'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Äpfel'?",
+          "options": [
+            "Ä",
+            "Ö",
+            "Ü",
+            "ß"
+          ],
+          "answer": "Ä"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l81",
+      "title": "Wiederholung 41",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Y",
+          "name": "üpsilon",
+          "exampleWord": "Yoga"
+        },
+        {
+          "glyph": "ö",
+          "name": "oe",
+          "exampleWord": "öl"
+        },
+        {
+          "glyph": "ö",
+          "name": "oe",
+          "exampleWord": "öl"
+        },
+        {
+          "glyph": "E",
+          "name": "eh",
+          "exampleWord": "Esel"
+        },
+        {
+          "glyph": "l",
+          "name": "el",
+          "exampleWord": "löwe"
+        },
+        {
+          "glyph": "d",
+          "name": "deh",
+          "exampleWord": "drache"
+        },
+        {
+          "glyph": "ö",
+          "name": "oe",
+          "exampleWord": "öl"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Maus"
+        },
+        {
+          "glyph": "b",
+          "name": "beh",
+          "exampleWord": "ball"
+        },
+        {
+          "glyph": "f",
+          "name": "ef",
+          "exampleWord": "fisch"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Uhr'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Äpfel'?",
+          "options": [
+            "Ä",
+            "Ö",
+            "Ü",
+            "ß"
+          ],
+          "answer": "Ä"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'hund'?",
+          "options": [
+            "h",
+            "i",
+            "j",
+            "k"
+          ],
+          "answer": "h"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l82",
+      "title": "Wiederholung 42",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "W",
+          "name": "veh",
+          "exampleWord": "Wolke"
+        },
+        {
+          "glyph": "S",
+          "name": "es",
+          "exampleWord": "Sonne"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Affe"
+        },
+        {
+          "glyph": "U",
+          "name": "oo",
+          "exampleWord": "Uhr"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fisch"
+        },
+        {
+          "glyph": "s",
+          "name": "es",
+          "exampleWord": "sonne"
+        },
+        {
+          "glyph": "i",
+          "name": "ee",
+          "exampleWord": "igel"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Tisch"
+        },
+        {
+          "glyph": "G",
+          "name": "geh",
+          "exampleWord": "Gans"
+        },
+        {
+          "glyph": "q",
+          "name": "kuh",
+          "exampleWord": "quark"
+        },
+        {
+          "glyph": "d",
+          "name": "deh",
+          "exampleWord": "drache"
+        },
+        {
+          "glyph": "t",
+          "name": "teh",
+          "exampleWord": "tisch"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'hund'?",
+          "options": [
+            "h",
+            "i",
+            "j",
+            "k"
+          ],
+          "answer": "h"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Uhr'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Affe'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l83",
+      "title": "Wiederholung 43",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Rose"
+        },
+        {
+          "glyph": "y",
+          "name": "üpsilon",
+          "exampleWord": "yoga"
+        },
+        {
+          "glyph": "v",
+          "name": "fau",
+          "exampleWord": "vogel"
+        },
+        {
+          "glyph": "ß",
+          "name": "ess",
+          "exampleWord": "Straße"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Tisch"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Affe"
+        },
+        {
+          "glyph": "Ü",
+          "name": "ue",
+          "exampleWord": "Übung"
+        },
+        {
+          "glyph": "Q",
+          "name": "kuh",
+          "exampleWord": "Quark"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Uhr'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'uhr'?",
+          "options": [
+            "u",
+            "v",
+            "w",
+            "x"
+          ],
+          "answer": "u"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Hund'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l84",
+      "title": "Wiederholung 44",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "C",
+          "name": "tseh",
+          "exampleWord": "Clown"
+        },
+        {
+          "glyph": "f",
+          "name": "ef",
+          "exampleWord": "fisch"
+        },
+        {
+          "glyph": "y",
+          "name": "üpsilon",
+          "exampleWord": "yoga"
+        },
+        {
+          "glyph": "ß",
+          "name": "ess",
+          "exampleWord": "Straße"
+        },
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pferd"
+        },
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pferd"
+        },
+        {
+          "glyph": "V",
+          "name": "fau",
+          "exampleWord": "Vogel"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ball"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Hund'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'uhr'?",
+          "options": [
+            "u",
+            "v",
+            "w",
+            "x"
+          ],
+          "answer": "u"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'affe'?",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "answer": "a"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l85",
+      "title": "Wiederholung 45",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "j",
+          "name": "yot",
+          "exampleWord": "jacke"
+        },
+        {
+          "glyph": "t",
+          "name": "teh",
+          "exampleWord": "tisch"
+        },
+        {
+          "glyph": "ß",
+          "name": "ess",
+          "exampleWord": "Straße"
+        },
+        {
+          "glyph": "g",
+          "name": "geh",
+          "exampleWord": "gans"
+        },
+        {
+          "glyph": "W",
+          "name": "veh",
+          "exampleWord": "Wolke"
+        },
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xylophon"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fisch"
+        },
+        {
+          "glyph": "i",
+          "name": "ee",
+          "exampleWord": "igel"
+        },
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Nase"
+        },
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xylophon"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Affe'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'uhr'?",
+          "options": [
+            "u",
+            "v",
+            "w",
+            "x"
+          ],
+          "answer": "u"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Ofen'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l86",
+      "title": "Wiederholung 46",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "E",
+          "name": "eh",
+          "exampleWord": "Esel"
+        },
+        {
+          "glyph": "s",
+          "name": "es",
+          "exampleWord": "sonne"
+        },
+        {
+          "glyph": "q",
+          "name": "kuh",
+          "exampleWord": "quark"
+        },
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Nase"
+        },
+        {
+          "glyph": "c",
+          "name": "tseh",
+          "exampleWord": "clown"
+        },
+        {
+          "glyph": "ß",
+          "name": "ess",
+          "exampleWord": "Straße"
+        },
+        {
+          "glyph": "v",
+          "name": "fau",
+          "exampleWord": "vogel"
+        },
+        {
+          "glyph": "G",
+          "name": "geh",
+          "exampleWord": "Gans"
+        },
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Drache"
+        },
+        {
+          "glyph": "e",
+          "name": "eh",
+          "exampleWord": "esel"
+        },
+        {
+          "glyph": "Z",
+          "name": "tsett",
+          "exampleWord": "Zebra"
+        },
+        {
+          "glyph": "Ü",
+          "name": "ue",
+          "exampleWord": "Übung"
+        },
+        {
+          "glyph": "a",
+          "name": "ah",
+          "exampleWord": "affe"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fisch"
+        },
+        {
+          "glyph": "b",
+          "name": "beh",
+          "exampleWord": "ball"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Affe'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Hund'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l87",
+      "title": "Wiederholung 47",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ö",
+          "name": "oe",
+          "exampleWord": "öl"
+        },
+        {
+          "glyph": "u",
+          "name": "oo",
+          "exampleWord": "uhr"
+        },
+        {
+          "glyph": "ß",
+          "name": "ess",
+          "exampleWord": "Straße"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Tisch"
+        },
+        {
+          "glyph": "u",
+          "name": "oo",
+          "exampleWord": "uhr"
+        },
+        {
+          "glyph": "w",
+          "name": "veh",
+          "exampleWord": "wolke"
+        },
+        {
+          "glyph": "j",
+          "name": "yot",
+          "exampleWord": "jacke"
+        },
+        {
+          "glyph": "x",
+          "name": "iks",
+          "exampleWord": "xylophon"
+        },
+        {
+          "glyph": "W",
+          "name": "veh",
+          "exampleWord": "Wolke"
+        },
+        {
+          "glyph": "z",
+          "name": "tsett",
+          "exampleWord": "zebra"
+        },
+        {
+          "glyph": "Ä",
+          "name": "ae",
+          "exampleWord": "Äpfel"
+        },
+        {
+          "glyph": "t",
+          "name": "teh",
+          "exampleWord": "tisch"
+        },
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Drache"
+        },
+        {
+          "glyph": "G",
+          "name": "geh",
+          "exampleWord": "Gans"
+        },
+        {
+          "glyph": "U",
+          "name": "oo",
+          "exampleWord": "Uhr"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Ofen'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Uhr'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l88",
+      "title": "Wiederholung 48",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "q",
+          "name": "kuh",
+          "exampleWord": "quark"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Maus"
+        },
+        {
+          "glyph": "J",
+          "name": "yot",
+          "exampleWord": "Jacke"
+        },
+        {
+          "glyph": "ö",
+          "name": "oe",
+          "exampleWord": "öl"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Rose"
+        },
+        {
+          "glyph": "Q",
+          "name": "kuh",
+          "exampleWord": "Quark"
+        },
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Nase"
+        },
+        {
+          "glyph": "v",
+          "name": "fau",
+          "exampleWord": "vogel"
+        },
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Drache"
+        },
+        {
+          "glyph": "y",
+          "name": "üpsilon",
+          "exampleWord": "yoga"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Affe'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Hund'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l89",
+      "title": "Wiederholung 49",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "c",
+          "name": "tseh",
+          "exampleWord": "clown"
+        },
+        {
+          "glyph": "Ö",
+          "name": "oe",
+          "exampleWord": "Öl"
+        },
+        {
+          "glyph": "G",
+          "name": "geh",
+          "exampleWord": "Gans"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Rose"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fisch"
+        },
+        {
+          "glyph": "q",
+          "name": "kuh",
+          "exampleWord": "quark"
+        },
+        {
+          "glyph": "s",
+          "name": "es",
+          "exampleWord": "sonne"
+        },
+        {
+          "glyph": "m",
+          "name": "em",
+          "exampleWord": "maus"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Affe'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Hund'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l90",
+      "title": "Wiederholung 50",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "h",
+          "name": "hah",
+          "exampleWord": "hund"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Igel"
+        },
+        {
+          "glyph": "t",
+          "name": "teh",
+          "exampleWord": "tisch"
+        },
+        {
+          "glyph": "j",
+          "name": "yot",
+          "exampleWord": "jacke"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Katze"
+        },
+        {
+          "glyph": "Q",
+          "name": "kuh",
+          "exampleWord": "Quark"
+        },
+        {
+          "glyph": "Ä",
+          "name": "ae",
+          "exampleWord": "Äpfel"
+        },
+        {
+          "glyph": "v",
+          "name": "fau",
+          "exampleWord": "vogel"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'äpfel'?",
+          "options": [
+            "ä",
+            "ö",
+            "ü"
+          ],
+          "answer": "ä"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Uhr'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l91",
+      "title": "Wiederholung 51",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Löwe"
+        },
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pferd"
+        },
+        {
+          "glyph": "h",
+          "name": "hah",
+          "exampleWord": "hund"
+        },
+        {
+          "glyph": "o",
+          "name": "oh",
+          "exampleWord": "ofen"
+        },
+        {
+          "glyph": "s",
+          "name": "es",
+          "exampleWord": "sonne"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Maus"
+        },
+        {
+          "glyph": "S",
+          "name": "es",
+          "exampleWord": "Sonne"
+        },
+        {
+          "glyph": "H",
+          "name": "hah",
+          "exampleWord": "Hund"
+        },
+        {
+          "glyph": "a",
+          "name": "ah",
+          "exampleWord": "affe"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ball"
+        },
+        {
+          "glyph": "J",
+          "name": "yot",
+          "exampleWord": "Jacke"
+        },
+        {
+          "glyph": "w",
+          "name": "veh",
+          "exampleWord": "wolke"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Tisch"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Maus"
+        },
+        {
+          "glyph": "l",
+          "name": "el",
+          "exampleWord": "löwe"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'uhr'?",
+          "options": [
+            "u",
+            "v",
+            "w",
+            "x"
+          ],
+          "answer": "u"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Affe'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l92",
+      "title": "Wiederholung 52",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ü",
+          "name": "ue",
+          "exampleWord": "übung"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Affe"
+        },
+        {
+          "glyph": "u",
+          "name": "oo",
+          "exampleWord": "uhr"
+        },
+        {
+          "glyph": "w",
+          "name": "veh",
+          "exampleWord": "wolke"
+        },
+        {
+          "glyph": "a",
+          "name": "ah",
+          "exampleWord": "affe"
+        },
+        {
+          "glyph": "n",
+          "name": "en",
+          "exampleWord": "nase"
+        },
+        {
+          "glyph": "V",
+          "name": "fau",
+          "exampleWord": "Vogel"
+        },
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xylophon"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Ofen"
+        },
+        {
+          "glyph": "q",
+          "name": "kuh",
+          "exampleWord": "quark"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fisch"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Rose"
+        },
+        {
+          "glyph": "s",
+          "name": "es",
+          "exampleWord": "sonne"
+        },
+        {
+          "glyph": "ö",
+          "name": "oe",
+          "exampleWord": "öl"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fisch"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Affe'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'affe'?",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "answer": "a"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Affe'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l93",
+      "title": "Wiederholung 53",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "V",
+          "name": "fau",
+          "exampleWord": "Vogel"
+        },
+        {
+          "glyph": "j",
+          "name": "yot",
+          "exampleWord": "jacke"
+        },
+        {
+          "glyph": "ö",
+          "name": "oe",
+          "exampleWord": "öl"
+        },
+        {
+          "glyph": "ß",
+          "name": "ess",
+          "exampleWord": "Straße"
+        },
+        {
+          "glyph": "Ö",
+          "name": "oe",
+          "exampleWord": "Öl"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fisch"
+        },
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Löwe"
+        },
+        {
+          "glyph": "b",
+          "name": "beh",
+          "exampleWord": "ball"
+        },
+        {
+          "glyph": "r",
+          "name": "er",
+          "exampleWord": "rose"
+        },
+        {
+          "glyph": "v",
+          "name": "fau",
+          "exampleWord": "vogel"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Uhr'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'ofen'?",
+          "options": [
+            "o",
+            "p",
+            "q",
+            "r"
+          ],
+          "answer": "o"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'affe'?",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "answer": "a"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l94",
+      "title": "Wiederholung 54",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "C",
+          "name": "tseh",
+          "exampleWord": "Clown"
+        },
+        {
+          "glyph": "e",
+          "name": "eh",
+          "exampleWord": "esel"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Tisch"
+        },
+        {
+          "glyph": "t",
+          "name": "teh",
+          "exampleWord": "tisch"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Affe"
+        },
+        {
+          "glyph": "x",
+          "name": "iks",
+          "exampleWord": "xylophon"
+        },
+        {
+          "glyph": "b",
+          "name": "beh",
+          "exampleWord": "ball"
+        },
+        {
+          "glyph": "l",
+          "name": "el",
+          "exampleWord": "löwe"
+        },
+        {
+          "glyph": "v",
+          "name": "fau",
+          "exampleWord": "vogel"
+        },
+        {
+          "glyph": "j",
+          "name": "yot",
+          "exampleWord": "jacke"
+        },
+        {
+          "glyph": "s",
+          "name": "es",
+          "exampleWord": "sonne"
+        },
+        {
+          "glyph": "u",
+          "name": "oo",
+          "exampleWord": "uhr"
+        },
+        {
+          "glyph": "g",
+          "name": "geh",
+          "exampleWord": "gans"
+        },
+        {
+          "glyph": "S",
+          "name": "es",
+          "exampleWord": "Sonne"
+        },
+        {
+          "glyph": "V",
+          "name": "fau",
+          "exampleWord": "Vogel"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'äpfel'?",
+          "options": [
+            "ä",
+            "ö",
+            "ü"
+          ],
+          "answer": "ä"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Ofen'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Äpfel'?",
+          "options": [
+            "Ä",
+            "Ö",
+            "Ü",
+            "ß"
+          ],
+          "answer": "Ä"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l95",
+      "title": "Wiederholung 55",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "j",
+          "name": "yot",
+          "exampleWord": "jacke"
+        },
+        {
+          "glyph": "e",
+          "name": "eh",
+          "exampleWord": "esel"
+        },
+        {
+          "glyph": "ß",
+          "name": "ess",
+          "exampleWord": "Straße"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Maus"
+        },
+        {
+          "glyph": "V",
+          "name": "fau",
+          "exampleWord": "Vogel"
+        },
+        {
+          "glyph": "l",
+          "name": "el",
+          "exampleWord": "löwe"
+        },
+        {
+          "glyph": "v",
+          "name": "fau",
+          "exampleWord": "vogel"
+        },
+        {
+          "glyph": "x",
+          "name": "iks",
+          "exampleWord": "xylophon"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'ofen'?",
+          "options": [
+            "o",
+            "p",
+            "q",
+            "r"
+          ],
+          "answer": "o"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'uhr'?",
+          "options": [
+            "u",
+            "v",
+            "w",
+            "x"
+          ],
+          "answer": "u"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'ofen'?",
+          "options": [
+            "o",
+            "p",
+            "q",
+            "r"
+          ],
+          "answer": "o"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l96",
+      "title": "Wiederholung 56",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fisch"
+        },
+        {
+          "glyph": "H",
+          "name": "hah",
+          "exampleWord": "Hund"
+        },
+        {
+          "glyph": "w",
+          "name": "veh",
+          "exampleWord": "wolke"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Maus"
+        },
+        {
+          "glyph": "w",
+          "name": "veh",
+          "exampleWord": "wolke"
+        },
+        {
+          "glyph": "Ö",
+          "name": "oe",
+          "exampleWord": "Öl"
+        },
+        {
+          "glyph": "E",
+          "name": "eh",
+          "exampleWord": "Esel"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Tisch"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Uhr'?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "answer": "U"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'hund'?",
+          "options": [
+            "h",
+            "i",
+            "j",
+            "k"
+          ],
+          "answer": "h"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'uhr'?",
+          "options": [
+            "u",
+            "v",
+            "w",
+            "x"
+          ],
+          "answer": "u"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l97",
+      "title": "Wiederholung 57",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "o",
+          "name": "oh",
+          "exampleWord": "ofen"
+        },
+        {
+          "glyph": "w",
+          "name": "veh",
+          "exampleWord": "wolke"
+        },
+        {
+          "glyph": "b",
+          "name": "beh",
+          "exampleWord": "ball"
+        },
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Nase"
+        },
+        {
+          "glyph": "ß",
+          "name": "ess",
+          "exampleWord": "Straße"
+        },
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pferd"
+        },
+        {
+          "glyph": "t",
+          "name": "teh",
+          "exampleWord": "tisch"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ball"
+        },
+        {
+          "glyph": "e",
+          "name": "eh",
+          "exampleWord": "esel"
+        },
+        {
+          "glyph": "j",
+          "name": "yot",
+          "exampleWord": "jacke"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'hund'?",
+          "options": [
+            "h",
+            "i",
+            "j",
+            "k"
+          ],
+          "answer": "h"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'äpfel'?",
+          "options": [
+            "ä",
+            "ö",
+            "ü"
+          ],
+          "answer": "ä"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l98",
+      "title": "Wiederholung 58",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "E",
+          "name": "eh",
+          "exampleWord": "Esel"
+        },
+        {
+          "glyph": "w",
+          "name": "veh",
+          "exampleWord": "wolke"
+        },
+        {
+          "glyph": "q",
+          "name": "kuh",
+          "exampleWord": "quark"
+        },
+        {
+          "glyph": "z",
+          "name": "tsett",
+          "exampleWord": "zebra"
+        },
+        {
+          "glyph": "V",
+          "name": "fau",
+          "exampleWord": "Vogel"
+        },
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xylophon"
+        },
+        {
+          "glyph": "i",
+          "name": "ee",
+          "exampleWord": "igel"
+        },
+        {
+          "glyph": "u",
+          "name": "oo",
+          "exampleWord": "uhr"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Igel"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Rose"
+        },
+        {
+          "glyph": "W",
+          "name": "veh",
+          "exampleWord": "Wolke"
+        },
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xylophon"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'affe'?",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "answer": "a"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Hund'?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": "H"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'hund'?",
+          "options": [
+            "h",
+            "i",
+            "j",
+            "k"
+          ],
+          "answer": "h"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l99",
+      "title": "Wiederholung 59",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "i",
+          "name": "ee",
+          "exampleWord": "igel"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Rose"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Ball"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fisch"
+        },
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xylophon"
+        },
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xylophon"
+        },
+        {
+          "glyph": "d",
+          "name": "deh",
+          "exampleWord": "drache"
+        },
+        {
+          "glyph": "v",
+          "name": "fau",
+          "exampleWord": "vogel"
+        },
+        {
+          "glyph": "ß",
+          "name": "ess",
+          "exampleWord": "Straße"
+        },
+        {
+          "glyph": "ä",
+          "name": "ae",
+          "exampleWord": "äpfel"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'ofen'?",
+          "options": [
+            "o",
+            "p",
+            "q",
+            "r"
+          ],
+          "answer": "o"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'uhr'?",
+          "options": [
+            "u",
+            "v",
+            "w",
+            "x"
+          ],
+          "answer": "u"
+        }
+      ]
+    },
+    {
+      "id": "de-p1-l100",
+      "title": "Wiederholung 60",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Nase"
+        },
+        {
+          "glyph": "w",
+          "name": "veh",
+          "exampleWord": "wolke"
+        },
+        {
+          "glyph": "C",
+          "name": "tseh",
+          "exampleWord": "Clown"
+        },
+        {
+          "glyph": "U",
+          "name": "oo",
+          "exampleWord": "Uhr"
+        },
+        {
+          "glyph": "d",
+          "name": "deh",
+          "exampleWord": "drache"
+        },
+        {
+          "glyph": "e",
+          "name": "eh",
+          "exampleWord": "esel"
+        },
+        {
+          "glyph": "Y",
+          "name": "üpsilon",
+          "exampleWord": "Yoga"
+        },
+        {
+          "glyph": "ß",
+          "name": "ess",
+          "exampleWord": "Straße"
+        },
+        {
+          "glyph": "f",
+          "name": "ef",
+          "exampleWord": "fisch"
+        },
+        {
+          "glyph": "u",
+          "name": "oo",
+          "exampleWord": "uhr"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'affe'?",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ],
+          "answer": "a"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welcher Buchstabe beginnt 'Äpfel'?",
+          "options": [
+            "Ä",
+            "Ö",
+            "Ü",
+            "ß"
+          ],
+          "answer": "Ä"
+        }
+      ]
     }
   ]
 }

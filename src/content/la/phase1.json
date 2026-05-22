@@ -201,6 +201,2430 @@
           "answer": "V"
         }
       ]
+    },
+    {
+      "id": "la-p1-l5",
+      "title": "Recapitulatio 1",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Lux"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Aqua"
+        },
+        {
+          "glyph": "Y",
+          "name": "ee Graeca",
+          "exampleWord": "Lyra"
+        },
+        {
+          "glyph": "V",
+          "name": "weh",
+          "exampleWord": "Veritas"
+        },
+        {
+          "glyph": "G",
+          "name": "geh",
+          "exampleWord": "Gloria"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Kalendae"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Bonum"
+        },
+        {
+          "glyph": "Z",
+          "name": "zeta",
+          "exampleWord": "Zona"
+        },
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Nox"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Mater"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'weh'?",
+          "options": [
+            "V",
+            "X",
+            "Y",
+            "Z"
+          ],
+          "answer": "V"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "la-p1-l6",
+      "title": "Recapitulatio 2",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Rex"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Opus"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Terra"
+        },
+        {
+          "glyph": "V",
+          "name": "weh",
+          "exampleWord": "Veritas"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Aqua"
+        },
+        {
+          "glyph": "Z",
+          "name": "zeta",
+          "exampleWord": "Zona"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fides"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Mater"
+        },
+        {
+          "glyph": "S",
+          "name": "es",
+          "exampleWord": "Sol"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Bonum"
+        },
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Lux"
+        },
+        {
+          "glyph": "Q",
+          "name": "koo",
+          "exampleWord": "Quaero"
+        },
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xenia"
+        },
+        {
+          "glyph": "Y",
+          "name": "ee Graeca",
+          "exampleWord": "Lyra"
+        },
+        {
+          "glyph": "H",
+          "name": "hah",
+          "exampleWord": "Homo"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'hah'?",
+          "options": [
+            "H",
+            "I",
+            "K",
+            "L"
+          ],
+          "answer": "H"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'weh'?",
+          "options": [
+            "V",
+            "X",
+            "Y",
+            "Z"
+          ],
+          "answer": "V"
+        }
+      ]
+    },
+    {
+      "id": "la-p1-l7",
+      "title": "Recapitulatio 3",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Bonum"
+        },
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Lux"
+        },
+        {
+          "glyph": "S",
+          "name": "es",
+          "exampleWord": "Sol"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Terra"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Rex"
+        },
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Nox"
+        },
+        {
+          "glyph": "V",
+          "name": "weh",
+          "exampleWord": "Veritas"
+        },
+        {
+          "glyph": "Z",
+          "name": "zeta",
+          "exampleWord": "Zona"
+        },
+        {
+          "glyph": "C",
+          "name": "keh",
+          "exampleWord": "Caelum"
+        },
+        {
+          "glyph": "G",
+          "name": "geh",
+          "exampleWord": "Gloria"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'hah'?",
+          "options": [
+            "H",
+            "I",
+            "K",
+            "L"
+          ],
+          "answer": "H"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "la-p1-l8",
+      "title": "Recapitulatio 4",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xenia"
+        },
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Deus"
+        },
+        {
+          "glyph": "E",
+          "name": "eh",
+          "exampleWord": "Ecce"
+        },
+        {
+          "glyph": "V",
+          "name": "weh",
+          "exampleWord": "Veritas"
+        },
+        {
+          "glyph": "C",
+          "name": "keh",
+          "exampleWord": "Caelum"
+        },
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Nox"
+        },
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pater"
+        },
+        {
+          "glyph": "S",
+          "name": "es",
+          "exampleWord": "Sol"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Bonum"
+        },
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Lux"
+        },
+        {
+          "glyph": "Q",
+          "name": "koo",
+          "exampleWord": "Quaero"
+        },
+        {
+          "glyph": "Y",
+          "name": "ee Graeca",
+          "exampleWord": "Lyra"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Kalendae"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Terra"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Rex"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'hah'?",
+          "options": [
+            "H",
+            "I",
+            "K",
+            "L"
+          ],
+          "answer": "H"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        }
+      ]
+    },
+    {
+      "id": "la-p1-l9",
+      "title": "Recapitulatio 5",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Z",
+          "name": "zeta",
+          "exampleWord": "Zona"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Bonum"
+        },
+        {
+          "glyph": "V",
+          "name": "weh",
+          "exampleWord": "Veritas"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Terra"
+        },
+        {
+          "glyph": "C",
+          "name": "keh",
+          "exampleWord": "Caelum"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Kalendae"
+        },
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Nox"
+        },
+        {
+          "glyph": "E",
+          "name": "eh",
+          "exampleWord": "Ecce"
+        },
+        {
+          "glyph": "G",
+          "name": "geh",
+          "exampleWord": "Gloria"
+        },
+        {
+          "glyph": "Q",
+          "name": "koo",
+          "exampleWord": "Quaero"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Mater"
+        },
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xenia"
+        },
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pater"
+        },
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Deus"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Aqua"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'hah'?",
+          "options": [
+            "H",
+            "I",
+            "K",
+            "L"
+          ],
+          "answer": "H"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        }
+      ]
+    },
+    {
+      "id": "la-p1-l10",
+      "title": "Recapitulatio 6",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Nox"
+        },
+        {
+          "glyph": "Y",
+          "name": "ee Graeca",
+          "exampleWord": "Lyra"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Aqua"
+        },
+        {
+          "glyph": "H",
+          "name": "hah",
+          "exampleWord": "Homo"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Ignis"
+        },
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pater"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Mater"
+        },
+        {
+          "glyph": "V",
+          "name": "weh",
+          "exampleWord": "Veritas"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'weh'?",
+          "options": [
+            "V",
+            "X",
+            "Y",
+            "Z"
+          ],
+          "answer": "V"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        }
+      ]
+    },
+    {
+      "id": "la-p1-l11",
+      "title": "Recapitulatio 7",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Bonum"
+        },
+        {
+          "glyph": "G",
+          "name": "geh",
+          "exampleWord": "Gloria"
+        },
+        {
+          "glyph": "Y",
+          "name": "ee Graeca",
+          "exampleWord": "Lyra"
+        },
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Lux"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Opus"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Ignis"
+        },
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Deus"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Aqua"
+        },
+        {
+          "glyph": "E",
+          "name": "eh",
+          "exampleWord": "Ecce"
+        },
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pater"
+        },
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xenia"
+        },
+        {
+          "glyph": "H",
+          "name": "hah",
+          "exampleWord": "Homo"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'hah'?",
+          "options": [
+            "H",
+            "I",
+            "K",
+            "L"
+          ],
+          "answer": "H"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        }
+      ]
+    },
+    {
+      "id": "la-p1-l12",
+      "title": "Recapitulatio 8",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Aqua"
+        },
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Lux"
+        },
+        {
+          "glyph": "V",
+          "name": "weh",
+          "exampleWord": "Veritas"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Ignis"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Bonum"
+        },
+        {
+          "glyph": "H",
+          "name": "hah",
+          "exampleWord": "Homo"
+        },
+        {
+          "glyph": "S",
+          "name": "es",
+          "exampleWord": "Sol"
+        },
+        {
+          "glyph": "G",
+          "name": "geh",
+          "exampleWord": "Gloria"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'hah'?",
+          "options": [
+            "H",
+            "I",
+            "K",
+            "L"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "la-p1-l13",
+      "title": "Recapitulatio 9",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "C",
+          "name": "keh",
+          "exampleWord": "Caelum"
+        },
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pater"
+        },
+        {
+          "glyph": "Y",
+          "name": "ee Graeca",
+          "exampleWord": "Lyra"
+        },
+        {
+          "glyph": "V",
+          "name": "weh",
+          "exampleWord": "Veritas"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Rex"
+        },
+        {
+          "glyph": "E",
+          "name": "eh",
+          "exampleWord": "Ecce"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Terra"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Bonum"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'weh'?",
+          "options": [
+            "V",
+            "X",
+            "Y",
+            "Z"
+          ],
+          "answer": "V"
+        }
+      ]
+    },
+    {
+      "id": "la-p1-l14",
+      "title": "Recapitulatio 10",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "E",
+          "name": "eh",
+          "exampleWord": "Ecce"
+        },
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pater"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fides"
+        },
+        {
+          "glyph": "G",
+          "name": "geh",
+          "exampleWord": "Gloria"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Rex"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Mater"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Aqua"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Terra"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Opus"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Kalendae"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Ignis"
+        },
+        {
+          "glyph": "V",
+          "name": "weh",
+          "exampleWord": "Veritas"
+        },
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Deus"
+        },
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Nox"
+        },
+        {
+          "glyph": "C",
+          "name": "keh",
+          "exampleWord": "Caelum"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        }
+      ]
+    },
+    {
+      "id": "la-p1-l15",
+      "title": "Recapitulatio 11",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Q",
+          "name": "koo",
+          "exampleWord": "Quaero"
+        },
+        {
+          "glyph": "C",
+          "name": "keh",
+          "exampleWord": "Caelum"
+        },
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xenia"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Terra"
+        },
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Nox"
+        },
+        {
+          "glyph": "H",
+          "name": "hah",
+          "exampleWord": "Homo"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Kalendae"
+        },
+        {
+          "glyph": "V",
+          "name": "weh",
+          "exampleWord": "Veritas"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Opus"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Rex"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'weh'?",
+          "options": [
+            "V",
+            "X",
+            "Y",
+            "Z"
+          ],
+          "answer": "V"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        }
+      ]
+    },
+    {
+      "id": "la-p1-l16",
+      "title": "Recapitulatio 12",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Ignis"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fides"
+        },
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Lux"
+        },
+        {
+          "glyph": "Y",
+          "name": "ee Graeca",
+          "exampleWord": "Lyra"
+        },
+        {
+          "glyph": "H",
+          "name": "hah",
+          "exampleWord": "Homo"
+        },
+        {
+          "glyph": "Q",
+          "name": "koo",
+          "exampleWord": "Quaero"
+        },
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pater"
+        },
+        {
+          "glyph": "C",
+          "name": "keh",
+          "exampleWord": "Caelum"
+        },
+        {
+          "glyph": "G",
+          "name": "geh",
+          "exampleWord": "Gloria"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Bonum"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'hah'?",
+          "options": [
+            "H",
+            "I",
+            "K",
+            "L"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "la-p1-l17",
+      "title": "Recapitulatio 13",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "V",
+          "name": "weh",
+          "exampleWord": "Veritas"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fides"
+        },
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Nox"
+        },
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xenia"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Aqua"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Ignis"
+        },
+        {
+          "glyph": "Y",
+          "name": "ee Graeca",
+          "exampleWord": "Lyra"
+        },
+        {
+          "glyph": "C",
+          "name": "keh",
+          "exampleWord": "Caelum"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'hah'?",
+          "options": [
+            "H",
+            "I",
+            "K",
+            "L"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "la-p1-l18",
+      "title": "Recapitulatio 14",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Lux"
+        },
+        {
+          "glyph": "Y",
+          "name": "ee Graeca",
+          "exampleWord": "Lyra"
+        },
+        {
+          "glyph": "Z",
+          "name": "zeta",
+          "exampleWord": "Zona"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Rex"
+        },
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Deus"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Opus"
+        },
+        {
+          "glyph": "G",
+          "name": "geh",
+          "exampleWord": "Gloria"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Ignis"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Bonum"
+        },
+        {
+          "glyph": "Q",
+          "name": "koo",
+          "exampleWord": "Quaero"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'weh'?",
+          "options": [
+            "V",
+            "X",
+            "Y",
+            "Z"
+          ],
+          "answer": "V"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'hah'?",
+          "options": [
+            "H",
+            "I",
+            "K",
+            "L"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "la-p1-l19",
+      "title": "Recapitulatio 15",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Deus"
+        },
+        {
+          "glyph": "G",
+          "name": "geh",
+          "exampleWord": "Gloria"
+        },
+        {
+          "glyph": "Q",
+          "name": "koo",
+          "exampleWord": "Quaero"
+        },
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pater"
+        },
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Nox"
+        },
+        {
+          "glyph": "E",
+          "name": "eh",
+          "exampleWord": "Ecce"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Ignis"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Bonum"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'hah'?",
+          "options": [
+            "H",
+            "I",
+            "K",
+            "L"
+          ],
+          "answer": "H"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'weh'?",
+          "options": [
+            "V",
+            "X",
+            "Y",
+            "Z"
+          ],
+          "answer": "V"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "la-p1-l20",
+      "title": "Recapitulatio 16",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Aqua"
+        },
+        {
+          "glyph": "Y",
+          "name": "ee Graeca",
+          "exampleWord": "Lyra"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Bonum"
+        },
+        {
+          "glyph": "Z",
+          "name": "zeta",
+          "exampleWord": "Zona"
+        },
+        {
+          "glyph": "H",
+          "name": "hah",
+          "exampleWord": "Homo"
+        },
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Lux"
+        },
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Nox"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Ignis"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Kalendae"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Rex"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fides"
+        },
+        {
+          "glyph": "Q",
+          "name": "koo",
+          "exampleWord": "Quaero"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Terra"
+        },
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pater"
+        },
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Deus"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'hah'?",
+          "options": [
+            "H",
+            "I",
+            "K",
+            "L"
+          ],
+          "answer": "H"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'weh'?",
+          "options": [
+            "V",
+            "X",
+            "Y",
+            "Z"
+          ],
+          "answer": "V"
+        }
+      ]
+    },
+    {
+      "id": "la-p1-l21",
+      "title": "Recapitulatio 17",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Aqua"
+        },
+        {
+          "glyph": "V",
+          "name": "weh",
+          "exampleWord": "Veritas"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Ignis"
+        },
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Nox"
+        },
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pater"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Terra"
+        },
+        {
+          "glyph": "G",
+          "name": "geh",
+          "exampleWord": "Gloria"
+        },
+        {
+          "glyph": "E",
+          "name": "eh",
+          "exampleWord": "Ecce"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Rex"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Opus"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Kalendae"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Bonum"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'hah'?",
+          "options": [
+            "H",
+            "I",
+            "K",
+            "L"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "la-p1-l22",
+      "title": "Recapitulatio 18",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Opus"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Rex"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Ignis"
+        },
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Deus"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Aqua"
+        },
+        {
+          "glyph": "C",
+          "name": "keh",
+          "exampleWord": "Caelum"
+        },
+        {
+          "glyph": "S",
+          "name": "es",
+          "exampleWord": "Sol"
+        },
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pater"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "la-p1-l23",
+      "title": "Recapitulatio 19",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Opus"
+        },
+        {
+          "glyph": "Y",
+          "name": "ee Graeca",
+          "exampleWord": "Lyra"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Rex"
+        },
+        {
+          "glyph": "Q",
+          "name": "koo",
+          "exampleWord": "Quaero"
+        },
+        {
+          "glyph": "E",
+          "name": "eh",
+          "exampleWord": "Ecce"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Kalendae"
+        },
+        {
+          "glyph": "Z",
+          "name": "zeta",
+          "exampleWord": "Zona"
+        },
+        {
+          "glyph": "G",
+          "name": "geh",
+          "exampleWord": "Gloria"
+        },
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Lux"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Terra"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Bonum"
+        },
+        {
+          "glyph": "C",
+          "name": "keh",
+          "exampleWord": "Caelum"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'hah'?",
+          "options": [
+            "H",
+            "I",
+            "K",
+            "L"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "la-p1-l24",
+      "title": "Recapitulatio 20",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Nox"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fides"
+        },
+        {
+          "glyph": "V",
+          "name": "weh",
+          "exampleWord": "Veritas"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Kalendae"
+        },
+        {
+          "glyph": "H",
+          "name": "hah",
+          "exampleWord": "Homo"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Bonum"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Opus"
+        },
+        {
+          "glyph": "G",
+          "name": "geh",
+          "exampleWord": "Gloria"
+        },
+        {
+          "glyph": "Y",
+          "name": "ee Graeca",
+          "exampleWord": "Lyra"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Ignis"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'weh'?",
+          "options": [
+            "V",
+            "X",
+            "Y",
+            "Z"
+          ],
+          "answer": "V"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        }
+      ]
+    },
+    {
+      "id": "la-p1-l25",
+      "title": "Recapitulatio 21",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xenia"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Bonum"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Terra"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Aqua"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Ignis"
+        },
+        {
+          "glyph": "Z",
+          "name": "zeta",
+          "exampleWord": "Zona"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Kalendae"
+        },
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Lux"
+        },
+        {
+          "glyph": "Q",
+          "name": "koo",
+          "exampleWord": "Quaero"
+        },
+        {
+          "glyph": "H",
+          "name": "hah",
+          "exampleWord": "Homo"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Mater"
+        },
+        {
+          "glyph": "Y",
+          "name": "ee Graeca",
+          "exampleWord": "Lyra"
+        },
+        {
+          "glyph": "S",
+          "name": "es",
+          "exampleWord": "Sol"
+        },
+        {
+          "glyph": "G",
+          "name": "geh",
+          "exampleWord": "Gloria"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Opus"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'hah'?",
+          "options": [
+            "H",
+            "I",
+            "K",
+            "L"
+          ],
+          "answer": "H"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        }
+      ]
+    },
+    {
+      "id": "la-p1-l26",
+      "title": "Recapitulatio 22",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Deus"
+        },
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xenia"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Mater"
+        },
+        {
+          "glyph": "C",
+          "name": "keh",
+          "exampleWord": "Caelum"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Ignis"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Opus"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Rex"
+        },
+        {
+          "glyph": "Y",
+          "name": "ee Graeca",
+          "exampleWord": "Lyra"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'hah'?",
+          "options": [
+            "H",
+            "I",
+            "K",
+            "L"
+          ],
+          "answer": "H"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "la-p1-l27",
+      "title": "Recapitulatio 23",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Rex"
+        },
+        {
+          "glyph": "V",
+          "name": "weh",
+          "exampleWord": "Veritas"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fides"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Bonum"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Opus"
+        },
+        {
+          "glyph": "C",
+          "name": "keh",
+          "exampleWord": "Caelum"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Aqua"
+        },
+        {
+          "glyph": "Z",
+          "name": "zeta",
+          "exampleWord": "Zona"
+        },
+        {
+          "glyph": "S",
+          "name": "es",
+          "exampleWord": "Sol"
+        },
+        {
+          "glyph": "E",
+          "name": "eh",
+          "exampleWord": "Ecce"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Kalendae"
+        },
+        {
+          "glyph": "G",
+          "name": "geh",
+          "exampleWord": "Gloria"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Terra"
+        },
+        {
+          "glyph": "H",
+          "name": "hah",
+          "exampleWord": "Homo"
+        },
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Nox"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'hah'?",
+          "options": [
+            "H",
+            "I",
+            "K",
+            "L"
+          ],
+          "answer": "H"
+        }
+      ]
+    },
+    {
+      "id": "la-p1-l28",
+      "title": "Recapitulatio 24",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "L",
+          "name": "el",
+          "exampleWord": "Lux"
+        },
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pater"
+        },
+        {
+          "glyph": "Y",
+          "name": "ee Graeca",
+          "exampleWord": "Lyra"
+        },
+        {
+          "glyph": "D",
+          "name": "deh",
+          "exampleWord": "Deus"
+        },
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xenia"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Terra"
+        },
+        {
+          "glyph": "K",
+          "name": "kah",
+          "exampleWord": "Kalendae"
+        },
+        {
+          "glyph": "C",
+          "name": "keh",
+          "exampleWord": "Caelum"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'oh'?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": "O"
+        }
+      ]
+    },
+    {
+      "id": "la-p1-l29",
+      "title": "Recapitulatio 25",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "H",
+          "name": "hah",
+          "exampleWord": "Homo"
+        },
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pater"
+        },
+        {
+          "glyph": "S",
+          "name": "es",
+          "exampleWord": "Sol"
+        },
+        {
+          "glyph": "E",
+          "name": "eh",
+          "exampleWord": "Ecce"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Bonum"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Aqua"
+        },
+        {
+          "glyph": "V",
+          "name": "weh",
+          "exampleWord": "Veritas"
+        },
+        {
+          "glyph": "Z",
+          "name": "zeta",
+          "exampleWord": "Zona"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Terra"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Opus"
+        },
+        {
+          "glyph": "M",
+          "name": "em",
+          "exampleWord": "Mater"
+        },
+        {
+          "glyph": "X",
+          "name": "iks",
+          "exampleWord": "Xenia"
+        },
+        {
+          "glyph": "C",
+          "name": "keh",
+          "exampleWord": "Caelum"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Rex"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Ignis"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'weh'?",
+          "options": [
+            "V",
+            "X",
+            "Y",
+            "Z"
+          ],
+          "answer": "V"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'hah'?",
+          "options": [
+            "H",
+            "I",
+            "K",
+            "L"
+          ],
+          "answer": "H"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'ah'?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "la-p1-l30",
+      "title": "Recapitulatio 26",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Q",
+          "name": "koo",
+          "exampleWord": "Quaero"
+        },
+        {
+          "glyph": "V",
+          "name": "weh",
+          "exampleWord": "Veritas"
+        },
+        {
+          "glyph": "T",
+          "name": "teh",
+          "exampleWord": "Terra"
+        },
+        {
+          "glyph": "N",
+          "name": "en",
+          "exampleWord": "Nox"
+        },
+        {
+          "glyph": "C",
+          "name": "keh",
+          "exampleWord": "Caelum"
+        },
+        {
+          "glyph": "P",
+          "name": "peh",
+          "exampleWord": "Pater"
+        },
+        {
+          "glyph": "F",
+          "name": "ef",
+          "exampleWord": "Fides"
+        },
+        {
+          "glyph": "B",
+          "name": "beh",
+          "exampleWord": "Bonum"
+        },
+        {
+          "glyph": "I",
+          "name": "ee",
+          "exampleWord": "Ignis"
+        },
+        {
+          "glyph": "R",
+          "name": "er",
+          "exampleWord": "Rex"
+        },
+        {
+          "glyph": "A",
+          "name": "ah",
+          "exampleWord": "Aqua"
+        },
+        {
+          "glyph": "O",
+          "name": "oh",
+          "exampleWord": "Opus"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'weh'?",
+          "options": [
+            "V",
+            "X",
+            "Y",
+            "Z"
+          ],
+          "answer": "V"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'hah'?",
+          "options": [
+            "H",
+            "I",
+            "K",
+            "L"
+          ],
+          "answer": "H"
+        }
+      ]
     }
   ]
 }

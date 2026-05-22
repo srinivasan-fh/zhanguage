@@ -206,6 +206,2434 @@
           "answer": "Τ"
         }
       ]
+    },
+    {
+      "id": "grc-p1-l5",
+      "title": "Ἐπανάληψις 1",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ε",
+          "name": "epsilon",
+          "exampleWord": "Ἔρως"
+        },
+        {
+          "glyph": "Μ",
+          "name": "mu",
+          "exampleWord": "Μήνη"
+        },
+        {
+          "glyph": "Φ",
+          "name": "phi",
+          "exampleWord": "Φιλία"
+        },
+        {
+          "glyph": "Ν",
+          "name": "nu",
+          "exampleWord": "Νύξ"
+        },
+        {
+          "glyph": "Κ",
+          "name": "kappa",
+          "exampleWord": "Κόσμος"
+        },
+        {
+          "glyph": "Ψ",
+          "name": "psi",
+          "exampleWord": "Ψυχή"
+        },
+        {
+          "glyph": "Ο",
+          "name": "omicron",
+          "exampleWord": "Ὀρθός"
+        },
+        {
+          "glyph": "Α",
+          "name": "alpha",
+          "exampleWord": "Ἀθήνη"
+        },
+        {
+          "glyph": "Θ",
+          "name": "theta",
+          "exampleWord": "Θεός"
+        },
+        {
+          "glyph": "Β",
+          "name": "beta",
+          "exampleWord": "Βίος"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'tau'?",
+          "options": [
+            "Τ",
+            "Υ",
+            "Φ",
+            "Χ"
+          ],
+          "answer": "Τ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'theta'?",
+          "options": [
+            "Θ",
+            "Ι",
+            "Κ",
+            "Λ"
+          ],
+          "answer": "Θ"
+        }
+      ]
+    },
+    {
+      "id": "grc-p1-l6",
+      "title": "Ἐπανάληψις 2",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Κ",
+          "name": "kappa",
+          "exampleWord": "Κόσμος"
+        },
+        {
+          "glyph": "Ρ",
+          "name": "rho",
+          "exampleWord": "Ῥήτωρ"
+        },
+        {
+          "glyph": "Ψ",
+          "name": "psi",
+          "exampleWord": "Ψυχή"
+        },
+        {
+          "glyph": "Ξ",
+          "name": "xi",
+          "exampleWord": "Ξένος"
+        },
+        {
+          "glyph": "Ι",
+          "name": "iota",
+          "exampleWord": "Ἰχθύς"
+        },
+        {
+          "glyph": "Φ",
+          "name": "phi",
+          "exampleWord": "Φιλία"
+        },
+        {
+          "glyph": "Ζ",
+          "name": "zeta",
+          "exampleWord": "Ζῷον"
+        },
+        {
+          "glyph": "Β",
+          "name": "beta",
+          "exampleWord": "Βίος"
+        },
+        {
+          "glyph": "Ω",
+          "name": "omega",
+          "exampleWord": "Ὠκεανός"
+        },
+        {
+          "glyph": "Θ",
+          "name": "theta",
+          "exampleWord": "Θεός"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'theta'?",
+          "options": [
+            "Θ",
+            "Ι",
+            "Κ",
+            "Λ"
+          ],
+          "answer": "Θ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'tau'?",
+          "options": [
+            "Τ",
+            "Υ",
+            "Φ",
+            "Χ"
+          ],
+          "answer": "Τ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'xi'?",
+          "options": [
+            "Ξ",
+            "Ο",
+            "Π",
+            "Ρ"
+          ],
+          "answer": "Ξ"
+        }
+      ]
+    },
+    {
+      "id": "grc-p1-l7",
+      "title": "Ἐπανάληψις 3",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Σ",
+          "name": "sigma",
+          "exampleWord": "Σοφία"
+        },
+        {
+          "glyph": "Ζ",
+          "name": "zeta",
+          "exampleWord": "Ζῷον"
+        },
+        {
+          "glyph": "Ο",
+          "name": "omicron",
+          "exampleWord": "Ὀρθός"
+        },
+        {
+          "glyph": "Φ",
+          "name": "phi",
+          "exampleWord": "Φιλία"
+        },
+        {
+          "glyph": "Β",
+          "name": "beta",
+          "exampleWord": "Βίος"
+        },
+        {
+          "glyph": "Λ",
+          "name": "lambda",
+          "exampleWord": "Λόγος"
+        },
+        {
+          "glyph": "Ε",
+          "name": "epsilon",
+          "exampleWord": "Ἔρως"
+        },
+        {
+          "glyph": "Ξ",
+          "name": "xi",
+          "exampleWord": "Ξένος"
+        },
+        {
+          "glyph": "Ψ",
+          "name": "psi",
+          "exampleWord": "Ψυχή"
+        },
+        {
+          "glyph": "Ω",
+          "name": "omega",
+          "exampleWord": "Ὠκεανός"
+        },
+        {
+          "glyph": "Χ",
+          "name": "chi",
+          "exampleWord": "Χρόνος"
+        },
+        {
+          "glyph": "Γ",
+          "name": "gamma",
+          "exampleWord": "Γῆ"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'xi'?",
+          "options": [
+            "Ξ",
+            "Ο",
+            "Π",
+            "Ρ"
+          ],
+          "answer": "Ξ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'theta'?",
+          "options": [
+            "Θ",
+            "Ι",
+            "Κ",
+            "Λ"
+          ],
+          "answer": "Θ"
+        }
+      ]
+    },
+    {
+      "id": "grc-p1-l8",
+      "title": "Ἐπανάληψις 4",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Μ",
+          "name": "mu",
+          "exampleWord": "Μήνη"
+        },
+        {
+          "glyph": "Θ",
+          "name": "theta",
+          "exampleWord": "Θεός"
+        },
+        {
+          "glyph": "Δ",
+          "name": "delta",
+          "exampleWord": "Δένδρον"
+        },
+        {
+          "glyph": "Ω",
+          "name": "omega",
+          "exampleWord": "Ὠκεανός"
+        },
+        {
+          "glyph": "Ι",
+          "name": "iota",
+          "exampleWord": "Ἰχθύς"
+        },
+        {
+          "glyph": "Ν",
+          "name": "nu",
+          "exampleWord": "Νύξ"
+        },
+        {
+          "glyph": "Α",
+          "name": "alpha",
+          "exampleWord": "Ἀθήνη"
+        },
+        {
+          "glyph": "Χ",
+          "name": "chi",
+          "exampleWord": "Χρόνος"
+        },
+        {
+          "glyph": "Γ",
+          "name": "gamma",
+          "exampleWord": "Γῆ"
+        },
+        {
+          "glyph": "Λ",
+          "name": "lambda",
+          "exampleWord": "Λόγος"
+        },
+        {
+          "glyph": "Β",
+          "name": "beta",
+          "exampleWord": "Βίος"
+        },
+        {
+          "glyph": "Ξ",
+          "name": "xi",
+          "exampleWord": "Ξένος"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'theta'?",
+          "options": [
+            "Θ",
+            "Ι",
+            "Κ",
+            "Λ"
+          ],
+          "answer": "Θ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alpha'?",
+          "options": [
+            "Α",
+            "Β",
+            "Γ",
+            "Δ"
+          ],
+          "answer": "Α"
+        }
+      ]
+    },
+    {
+      "id": "grc-p1-l9",
+      "title": "Ἐπανάληψις 5",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ψ",
+          "name": "psi",
+          "exampleWord": "Ψυχή"
+        },
+        {
+          "glyph": "Χ",
+          "name": "chi",
+          "exampleWord": "Χρόνος"
+        },
+        {
+          "glyph": "Λ",
+          "name": "lambda",
+          "exampleWord": "Λόγος"
+        },
+        {
+          "glyph": "Μ",
+          "name": "mu",
+          "exampleWord": "Μήνη"
+        },
+        {
+          "glyph": "Ι",
+          "name": "iota",
+          "exampleWord": "Ἰχθύς"
+        },
+        {
+          "glyph": "Ν",
+          "name": "nu",
+          "exampleWord": "Νύξ"
+        },
+        {
+          "glyph": "Ξ",
+          "name": "xi",
+          "exampleWord": "Ξένος"
+        },
+        {
+          "glyph": "Κ",
+          "name": "kappa",
+          "exampleWord": "Κόσμος"
+        },
+        {
+          "glyph": "Η",
+          "name": "eta",
+          "exampleWord": "Ἥρα"
+        },
+        {
+          "glyph": "Σ",
+          "name": "sigma",
+          "exampleWord": "Σοφία"
+        },
+        {
+          "glyph": "Ρ",
+          "name": "rho",
+          "exampleWord": "Ῥήτωρ"
+        },
+        {
+          "glyph": "Ω",
+          "name": "omega",
+          "exampleWord": "Ὠκεανός"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'theta'?",
+          "options": [
+            "Θ",
+            "Ι",
+            "Κ",
+            "Λ"
+          ],
+          "answer": "Θ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alpha'?",
+          "options": [
+            "Α",
+            "Β",
+            "Γ",
+            "Δ"
+          ],
+          "answer": "Α"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'xi'?",
+          "options": [
+            "Ξ",
+            "Ο",
+            "Π",
+            "Ρ"
+          ],
+          "answer": "Ξ"
+        }
+      ]
+    },
+    {
+      "id": "grc-p1-l10",
+      "title": "Ἐπανάληψις 6",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Β",
+          "name": "beta",
+          "exampleWord": "Βίος"
+        },
+        {
+          "glyph": "Ρ",
+          "name": "rho",
+          "exampleWord": "Ῥήτωρ"
+        },
+        {
+          "glyph": "Ξ",
+          "name": "xi",
+          "exampleWord": "Ξένος"
+        },
+        {
+          "glyph": "Ν",
+          "name": "nu",
+          "exampleWord": "Νύξ"
+        },
+        {
+          "glyph": "Σ",
+          "name": "sigma",
+          "exampleWord": "Σοφία"
+        },
+        {
+          "glyph": "Π",
+          "name": "pi",
+          "exampleWord": "Πάθος"
+        },
+        {
+          "glyph": "Δ",
+          "name": "delta",
+          "exampleWord": "Δένδρον"
+        },
+        {
+          "glyph": "Ο",
+          "name": "omicron",
+          "exampleWord": "Ὀρθός"
+        },
+        {
+          "glyph": "Τ",
+          "name": "tau",
+          "exampleWord": "Τέλος"
+        },
+        {
+          "glyph": "Λ",
+          "name": "lambda",
+          "exampleWord": "Λόγος"
+        },
+        {
+          "glyph": "Ω",
+          "name": "omega",
+          "exampleWord": "Ὠκεανός"
+        },
+        {
+          "glyph": "Ε",
+          "name": "epsilon",
+          "exampleWord": "Ἔρως"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alpha'?",
+          "options": [
+            "Α",
+            "Β",
+            "Γ",
+            "Δ"
+          ],
+          "answer": "Α"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'tau'?",
+          "options": [
+            "Τ",
+            "Υ",
+            "Φ",
+            "Χ"
+          ],
+          "answer": "Τ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'theta'?",
+          "options": [
+            "Θ",
+            "Ι",
+            "Κ",
+            "Λ"
+          ],
+          "answer": "Θ"
+        }
+      ]
+    },
+    {
+      "id": "grc-p1-l11",
+      "title": "Ἐπανάληψις 7",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Α",
+          "name": "alpha",
+          "exampleWord": "Ἀθήνη"
+        },
+        {
+          "glyph": "Μ",
+          "name": "mu",
+          "exampleWord": "Μήνη"
+        },
+        {
+          "glyph": "Ο",
+          "name": "omicron",
+          "exampleWord": "Ὀρθός"
+        },
+        {
+          "glyph": "Υ",
+          "name": "upsilon",
+          "exampleWord": "Ὕπνος"
+        },
+        {
+          "glyph": "Θ",
+          "name": "theta",
+          "exampleWord": "Θεός"
+        },
+        {
+          "glyph": "Ρ",
+          "name": "rho",
+          "exampleWord": "Ῥήτωρ"
+        },
+        {
+          "glyph": "Ι",
+          "name": "iota",
+          "exampleWord": "Ἰχθύς"
+        },
+        {
+          "glyph": "Σ",
+          "name": "sigma",
+          "exampleWord": "Σοφία"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'xi'?",
+          "options": [
+            "Ξ",
+            "Ο",
+            "Π",
+            "Ρ"
+          ],
+          "answer": "Ξ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alpha'?",
+          "options": [
+            "Α",
+            "Β",
+            "Γ",
+            "Δ"
+          ],
+          "answer": "Α"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'theta'?",
+          "options": [
+            "Θ",
+            "Ι",
+            "Κ",
+            "Λ"
+          ],
+          "answer": "Θ"
+        }
+      ]
+    },
+    {
+      "id": "grc-p1-l12",
+      "title": "Ἐπανάληψις 8",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Χ",
+          "name": "chi",
+          "exampleWord": "Χρόνος"
+        },
+        {
+          "glyph": "Θ",
+          "name": "theta",
+          "exampleWord": "Θεός"
+        },
+        {
+          "glyph": "Ζ",
+          "name": "zeta",
+          "exampleWord": "Ζῷον"
+        },
+        {
+          "glyph": "Λ",
+          "name": "lambda",
+          "exampleWord": "Λόγος"
+        },
+        {
+          "glyph": "Ν",
+          "name": "nu",
+          "exampleWord": "Νύξ"
+        },
+        {
+          "glyph": "Φ",
+          "name": "phi",
+          "exampleWord": "Φιλία"
+        },
+        {
+          "glyph": "Δ",
+          "name": "delta",
+          "exampleWord": "Δένδρον"
+        },
+        {
+          "glyph": "Υ",
+          "name": "upsilon",
+          "exampleWord": "Ὕπνος"
+        },
+        {
+          "glyph": "Ι",
+          "name": "iota",
+          "exampleWord": "Ἰχθύς"
+        },
+        {
+          "glyph": "Α",
+          "name": "alpha",
+          "exampleWord": "Ἀθήνη"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'tau'?",
+          "options": [
+            "Τ",
+            "Υ",
+            "Φ",
+            "Χ"
+          ],
+          "answer": "Τ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'theta'?",
+          "options": [
+            "Θ",
+            "Ι",
+            "Κ",
+            "Λ"
+          ],
+          "answer": "Θ"
+        }
+      ]
+    },
+    {
+      "id": "grc-p1-l13",
+      "title": "Ἐπανάληψις 9",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ω",
+          "name": "omega",
+          "exampleWord": "Ὠκεανός"
+        },
+        {
+          "glyph": "Ρ",
+          "name": "rho",
+          "exampleWord": "Ῥήτωρ"
+        },
+        {
+          "glyph": "Ι",
+          "name": "iota",
+          "exampleWord": "Ἰχθύς"
+        },
+        {
+          "glyph": "Ε",
+          "name": "epsilon",
+          "exampleWord": "Ἔρως"
+        },
+        {
+          "glyph": "Σ",
+          "name": "sigma",
+          "exampleWord": "Σοφία"
+        },
+        {
+          "glyph": "Δ",
+          "name": "delta",
+          "exampleWord": "Δένδρον"
+        },
+        {
+          "glyph": "Ν",
+          "name": "nu",
+          "exampleWord": "Νύξ"
+        },
+        {
+          "glyph": "Π",
+          "name": "pi",
+          "exampleWord": "Πάθος"
+        },
+        {
+          "glyph": "Χ",
+          "name": "chi",
+          "exampleWord": "Χρόνος"
+        },
+        {
+          "glyph": "Γ",
+          "name": "gamma",
+          "exampleWord": "Γῆ"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'xi'?",
+          "options": [
+            "Ξ",
+            "Ο",
+            "Π",
+            "Ρ"
+          ],
+          "answer": "Ξ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alpha'?",
+          "options": [
+            "Α",
+            "Β",
+            "Γ",
+            "Δ"
+          ],
+          "answer": "Α"
+        }
+      ]
+    },
+    {
+      "id": "grc-p1-l14",
+      "title": "Ἐπανάληψις 10",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ψ",
+          "name": "psi",
+          "exampleWord": "Ψυχή"
+        },
+        {
+          "glyph": "Α",
+          "name": "alpha",
+          "exampleWord": "Ἀθήνη"
+        },
+        {
+          "glyph": "Λ",
+          "name": "lambda",
+          "exampleWord": "Λόγος"
+        },
+        {
+          "glyph": "Φ",
+          "name": "phi",
+          "exampleWord": "Φιλία"
+        },
+        {
+          "glyph": "Ρ",
+          "name": "rho",
+          "exampleWord": "Ῥήτωρ"
+        },
+        {
+          "glyph": "Ω",
+          "name": "omega",
+          "exampleWord": "Ὠκεανός"
+        },
+        {
+          "glyph": "Θ",
+          "name": "theta",
+          "exampleWord": "Θεός"
+        },
+        {
+          "glyph": "Ο",
+          "name": "omicron",
+          "exampleWord": "Ὀρθός"
+        },
+        {
+          "glyph": "Ν",
+          "name": "nu",
+          "exampleWord": "Νύξ"
+        },
+        {
+          "glyph": "Δ",
+          "name": "delta",
+          "exampleWord": "Δένδρον"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'tau'?",
+          "options": [
+            "Τ",
+            "Υ",
+            "Φ",
+            "Χ"
+          ],
+          "answer": "Τ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'theta'?",
+          "options": [
+            "Θ",
+            "Ι",
+            "Κ",
+            "Λ"
+          ],
+          "answer": "Θ"
+        }
+      ]
+    },
+    {
+      "id": "grc-p1-l15",
+      "title": "Ἐπανάληψις 11",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ε",
+          "name": "epsilon",
+          "exampleWord": "Ἔρως"
+        },
+        {
+          "glyph": "Ξ",
+          "name": "xi",
+          "exampleWord": "Ξένος"
+        },
+        {
+          "glyph": "Χ",
+          "name": "chi",
+          "exampleWord": "Χρόνος"
+        },
+        {
+          "glyph": "Δ",
+          "name": "delta",
+          "exampleWord": "Δένδρον"
+        },
+        {
+          "glyph": "Ζ",
+          "name": "zeta",
+          "exampleWord": "Ζῷον"
+        },
+        {
+          "glyph": "Ν",
+          "name": "nu",
+          "exampleWord": "Νύξ"
+        },
+        {
+          "glyph": "Ρ",
+          "name": "rho",
+          "exampleWord": "Ῥήτωρ"
+        },
+        {
+          "glyph": "Σ",
+          "name": "sigma",
+          "exampleWord": "Σοφία"
+        },
+        {
+          "glyph": "Φ",
+          "name": "phi",
+          "exampleWord": "Φιλία"
+        },
+        {
+          "glyph": "Α",
+          "name": "alpha",
+          "exampleWord": "Ἀθήνη"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alpha'?",
+          "options": [
+            "Α",
+            "Β",
+            "Γ",
+            "Δ"
+          ],
+          "answer": "Α"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'xi'?",
+          "options": [
+            "Ξ",
+            "Ο",
+            "Π",
+            "Ρ"
+          ],
+          "answer": "Ξ"
+        }
+      ]
+    },
+    {
+      "id": "grc-p1-l16",
+      "title": "Ἐπανάληψις 12",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ζ",
+          "name": "zeta",
+          "exampleWord": "Ζῷον"
+        },
+        {
+          "glyph": "Π",
+          "name": "pi",
+          "exampleWord": "Πάθος"
+        },
+        {
+          "glyph": "Σ",
+          "name": "sigma",
+          "exampleWord": "Σοφία"
+        },
+        {
+          "glyph": "Ξ",
+          "name": "xi",
+          "exampleWord": "Ξένος"
+        },
+        {
+          "glyph": "Ψ",
+          "name": "psi",
+          "exampleWord": "Ψυχή"
+        },
+        {
+          "glyph": "Χ",
+          "name": "chi",
+          "exampleWord": "Χρόνος"
+        },
+        {
+          "glyph": "Ι",
+          "name": "iota",
+          "exampleWord": "Ἰχθύς"
+        },
+        {
+          "glyph": "Ν",
+          "name": "nu",
+          "exampleWord": "Νύξ"
+        },
+        {
+          "glyph": "Θ",
+          "name": "theta",
+          "exampleWord": "Θεός"
+        },
+        {
+          "glyph": "Ο",
+          "name": "omicron",
+          "exampleWord": "Ὀρθός"
+        },
+        {
+          "glyph": "Γ",
+          "name": "gamma",
+          "exampleWord": "Γῆ"
+        },
+        {
+          "glyph": "Α",
+          "name": "alpha",
+          "exampleWord": "Ἀθήνη"
+        },
+        {
+          "glyph": "Φ",
+          "name": "phi",
+          "exampleWord": "Φιλία"
+        },
+        {
+          "glyph": "Λ",
+          "name": "lambda",
+          "exampleWord": "Λόγος"
+        },
+        {
+          "glyph": "Τ",
+          "name": "tau",
+          "exampleWord": "Τέλος"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'theta'?",
+          "options": [
+            "Θ",
+            "Ι",
+            "Κ",
+            "Λ"
+          ],
+          "answer": "Θ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alpha'?",
+          "options": [
+            "Α",
+            "Β",
+            "Γ",
+            "Δ"
+          ],
+          "answer": "Α"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'xi'?",
+          "options": [
+            "Ξ",
+            "Ο",
+            "Π",
+            "Ρ"
+          ],
+          "answer": "Ξ"
+        }
+      ]
+    },
+    {
+      "id": "grc-p1-l17",
+      "title": "Ἐπανάληψις 13",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ε",
+          "name": "epsilon",
+          "exampleWord": "Ἔρως"
+        },
+        {
+          "glyph": "Υ",
+          "name": "upsilon",
+          "exampleWord": "Ὕπνος"
+        },
+        {
+          "glyph": "Χ",
+          "name": "chi",
+          "exampleWord": "Χρόνος"
+        },
+        {
+          "glyph": "Α",
+          "name": "alpha",
+          "exampleWord": "Ἀθήνη"
+        },
+        {
+          "glyph": "Η",
+          "name": "eta",
+          "exampleWord": "Ἥρα"
+        },
+        {
+          "glyph": "Β",
+          "name": "beta",
+          "exampleWord": "Βίος"
+        },
+        {
+          "glyph": "Κ",
+          "name": "kappa",
+          "exampleWord": "Κόσμος"
+        },
+        {
+          "glyph": "Δ",
+          "name": "delta",
+          "exampleWord": "Δένδρον"
+        },
+        {
+          "glyph": "Ξ",
+          "name": "xi",
+          "exampleWord": "Ξένος"
+        },
+        {
+          "glyph": "Μ",
+          "name": "mu",
+          "exampleWord": "Μήνη"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'xi'?",
+          "options": [
+            "Ξ",
+            "Ο",
+            "Π",
+            "Ρ"
+          ],
+          "answer": "Ξ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'tau'?",
+          "options": [
+            "Τ",
+            "Υ",
+            "Φ",
+            "Χ"
+          ],
+          "answer": "Τ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'theta'?",
+          "options": [
+            "Θ",
+            "Ι",
+            "Κ",
+            "Λ"
+          ],
+          "answer": "Θ"
+        }
+      ]
+    },
+    {
+      "id": "grc-p1-l18",
+      "title": "Ἐπανάληψις 14",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Δ",
+          "name": "delta",
+          "exampleWord": "Δένδρον"
+        },
+        {
+          "glyph": "Ρ",
+          "name": "rho",
+          "exampleWord": "Ῥήτωρ"
+        },
+        {
+          "glyph": "Ι",
+          "name": "iota",
+          "exampleWord": "Ἰχθύς"
+        },
+        {
+          "glyph": "Ν",
+          "name": "nu",
+          "exampleWord": "Νύξ"
+        },
+        {
+          "glyph": "Ω",
+          "name": "omega",
+          "exampleWord": "Ὠκεανός"
+        },
+        {
+          "glyph": "Π",
+          "name": "pi",
+          "exampleWord": "Πάθος"
+        },
+        {
+          "glyph": "Ξ",
+          "name": "xi",
+          "exampleWord": "Ξένος"
+        },
+        {
+          "glyph": "Ψ",
+          "name": "psi",
+          "exampleWord": "Ψυχή"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'theta'?",
+          "options": [
+            "Θ",
+            "Ι",
+            "Κ",
+            "Λ"
+          ],
+          "answer": "Θ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'tau'?",
+          "options": [
+            "Τ",
+            "Υ",
+            "Φ",
+            "Χ"
+          ],
+          "answer": "Τ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alpha'?",
+          "options": [
+            "Α",
+            "Β",
+            "Γ",
+            "Δ"
+          ],
+          "answer": "Α"
+        }
+      ]
+    },
+    {
+      "id": "grc-p1-l19",
+      "title": "Ἐπανάληψις 15",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Θ",
+          "name": "theta",
+          "exampleWord": "Θεός"
+        },
+        {
+          "glyph": "Ω",
+          "name": "omega",
+          "exampleWord": "Ὠκεανός"
+        },
+        {
+          "glyph": "Γ",
+          "name": "gamma",
+          "exampleWord": "Γῆ"
+        },
+        {
+          "glyph": "Ρ",
+          "name": "rho",
+          "exampleWord": "Ῥήτωρ"
+        },
+        {
+          "glyph": "Ε",
+          "name": "epsilon",
+          "exampleWord": "Ἔρως"
+        },
+        {
+          "glyph": "Ι",
+          "name": "iota",
+          "exampleWord": "Ἰχθύς"
+        },
+        {
+          "glyph": "Φ",
+          "name": "phi",
+          "exampleWord": "Φιλία"
+        },
+        {
+          "glyph": "Ν",
+          "name": "nu",
+          "exampleWord": "Νύξ"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alpha'?",
+          "options": [
+            "Α",
+            "Β",
+            "Γ",
+            "Δ"
+          ],
+          "answer": "Α"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'tau'?",
+          "options": [
+            "Τ",
+            "Υ",
+            "Φ",
+            "Χ"
+          ],
+          "answer": "Τ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'theta'?",
+          "options": [
+            "Θ",
+            "Ι",
+            "Κ",
+            "Λ"
+          ],
+          "answer": "Θ"
+        }
+      ]
+    },
+    {
+      "id": "grc-p1-l20",
+      "title": "Ἐπανάληψις 16",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ω",
+          "name": "omega",
+          "exampleWord": "Ὠκεανός"
+        },
+        {
+          "glyph": "Α",
+          "name": "alpha",
+          "exampleWord": "Ἀθήνη"
+        },
+        {
+          "glyph": "Χ",
+          "name": "chi",
+          "exampleWord": "Χρόνος"
+        },
+        {
+          "glyph": "Π",
+          "name": "pi",
+          "exampleWord": "Πάθος"
+        },
+        {
+          "glyph": "Ι",
+          "name": "iota",
+          "exampleWord": "Ἰχθύς"
+        },
+        {
+          "glyph": "Β",
+          "name": "beta",
+          "exampleWord": "Βίος"
+        },
+        {
+          "glyph": "Υ",
+          "name": "upsilon",
+          "exampleWord": "Ὕπνος"
+        },
+        {
+          "glyph": "Δ",
+          "name": "delta",
+          "exampleWord": "Δένδρον"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alpha'?",
+          "options": [
+            "Α",
+            "Β",
+            "Γ",
+            "Δ"
+          ],
+          "answer": "Α"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'theta'?",
+          "options": [
+            "Θ",
+            "Ι",
+            "Κ",
+            "Λ"
+          ],
+          "answer": "Θ"
+        }
+      ]
+    },
+    {
+      "id": "grc-p1-l21",
+      "title": "Ἐπανάληψις 17",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ι",
+          "name": "iota",
+          "exampleWord": "Ἰχθύς"
+        },
+        {
+          "glyph": "Κ",
+          "name": "kappa",
+          "exampleWord": "Κόσμος"
+        },
+        {
+          "glyph": "Υ",
+          "name": "upsilon",
+          "exampleWord": "Ὕπνος"
+        },
+        {
+          "glyph": "Μ",
+          "name": "mu",
+          "exampleWord": "Μήνη"
+        },
+        {
+          "glyph": "Τ",
+          "name": "tau",
+          "exampleWord": "Τέλος"
+        },
+        {
+          "glyph": "Ξ",
+          "name": "xi",
+          "exampleWord": "Ξένος"
+        },
+        {
+          "glyph": "Ν",
+          "name": "nu",
+          "exampleWord": "Νύξ"
+        },
+        {
+          "glyph": "Π",
+          "name": "pi",
+          "exampleWord": "Πάθος"
+        },
+        {
+          "glyph": "Ζ",
+          "name": "zeta",
+          "exampleWord": "Ζῷον"
+        },
+        {
+          "glyph": "Β",
+          "name": "beta",
+          "exampleWord": "Βίος"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'xi'?",
+          "options": [
+            "Ξ",
+            "Ο",
+            "Π",
+            "Ρ"
+          ],
+          "answer": "Ξ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'theta'?",
+          "options": [
+            "Θ",
+            "Ι",
+            "Κ",
+            "Λ"
+          ],
+          "answer": "Θ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'tau'?",
+          "options": [
+            "Τ",
+            "Υ",
+            "Φ",
+            "Χ"
+          ],
+          "answer": "Τ"
+        }
+      ]
+    },
+    {
+      "id": "grc-p1-l22",
+      "title": "Ἐπανάληψις 18",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Δ",
+          "name": "delta",
+          "exampleWord": "Δένδρον"
+        },
+        {
+          "glyph": "Π",
+          "name": "pi",
+          "exampleWord": "Πάθος"
+        },
+        {
+          "glyph": "Β",
+          "name": "beta",
+          "exampleWord": "Βίος"
+        },
+        {
+          "glyph": "Η",
+          "name": "eta",
+          "exampleWord": "Ἥρα"
+        },
+        {
+          "glyph": "Φ",
+          "name": "phi",
+          "exampleWord": "Φιλία"
+        },
+        {
+          "glyph": "Χ",
+          "name": "chi",
+          "exampleWord": "Χρόνος"
+        },
+        {
+          "glyph": "Υ",
+          "name": "upsilon",
+          "exampleWord": "Ὕπνος"
+        },
+        {
+          "glyph": "Γ",
+          "name": "gamma",
+          "exampleWord": "Γῆ"
+        },
+        {
+          "glyph": "Α",
+          "name": "alpha",
+          "exampleWord": "Ἀθήνη"
+        },
+        {
+          "glyph": "Τ",
+          "name": "tau",
+          "exampleWord": "Τέλος"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'theta'?",
+          "options": [
+            "Θ",
+            "Ι",
+            "Κ",
+            "Λ"
+          ],
+          "answer": "Θ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'tau'?",
+          "options": [
+            "Τ",
+            "Υ",
+            "Φ",
+            "Χ"
+          ],
+          "answer": "Τ"
+        }
+      ]
+    },
+    {
+      "id": "grc-p1-l23",
+      "title": "Ἐπανάληψις 19",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Λ",
+          "name": "lambda",
+          "exampleWord": "Λόγος"
+        },
+        {
+          "glyph": "Ε",
+          "name": "epsilon",
+          "exampleWord": "Ἔρως"
+        },
+        {
+          "glyph": "Β",
+          "name": "beta",
+          "exampleWord": "Βίος"
+        },
+        {
+          "glyph": "Γ",
+          "name": "gamma",
+          "exampleWord": "Γῆ"
+        },
+        {
+          "glyph": "Ω",
+          "name": "omega",
+          "exampleWord": "Ὠκεανός"
+        },
+        {
+          "glyph": "Ψ",
+          "name": "psi",
+          "exampleWord": "Ψυχή"
+        },
+        {
+          "glyph": "Φ",
+          "name": "phi",
+          "exampleWord": "Φιλία"
+        },
+        {
+          "glyph": "Ξ",
+          "name": "xi",
+          "exampleWord": "Ξένος"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'tau'?",
+          "options": [
+            "Τ",
+            "Υ",
+            "Φ",
+            "Χ"
+          ],
+          "answer": "Τ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'theta'?",
+          "options": [
+            "Θ",
+            "Ι",
+            "Κ",
+            "Λ"
+          ],
+          "answer": "Θ"
+        }
+      ]
+    },
+    {
+      "id": "grc-p1-l24",
+      "title": "Ἐπανάληψις 20",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Λ",
+          "name": "lambda",
+          "exampleWord": "Λόγος"
+        },
+        {
+          "glyph": "Ω",
+          "name": "omega",
+          "exampleWord": "Ὠκεανός"
+        },
+        {
+          "glyph": "Ζ",
+          "name": "zeta",
+          "exampleWord": "Ζῷον"
+        },
+        {
+          "glyph": "Η",
+          "name": "eta",
+          "exampleWord": "Ἥρα"
+        },
+        {
+          "glyph": "Γ",
+          "name": "gamma",
+          "exampleWord": "Γῆ"
+        },
+        {
+          "glyph": "Μ",
+          "name": "mu",
+          "exampleWord": "Μήνη"
+        },
+        {
+          "glyph": "Φ",
+          "name": "phi",
+          "exampleWord": "Φιλία"
+        },
+        {
+          "glyph": "Δ",
+          "name": "delta",
+          "exampleWord": "Δένδρον"
+        },
+        {
+          "glyph": "Χ",
+          "name": "chi",
+          "exampleWord": "Χρόνος"
+        },
+        {
+          "glyph": "Ρ",
+          "name": "rho",
+          "exampleWord": "Ῥήτωρ"
+        },
+        {
+          "glyph": "Ο",
+          "name": "omicron",
+          "exampleWord": "Ὀρθός"
+        },
+        {
+          "glyph": "Π",
+          "name": "pi",
+          "exampleWord": "Πάθος"
+        },
+        {
+          "glyph": "Ψ",
+          "name": "psi",
+          "exampleWord": "Ψυχή"
+        },
+        {
+          "glyph": "Υ",
+          "name": "upsilon",
+          "exampleWord": "Ὕπνος"
+        },
+        {
+          "glyph": "Β",
+          "name": "beta",
+          "exampleWord": "Βίος"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'theta'?",
+          "options": [
+            "Θ",
+            "Ι",
+            "Κ",
+            "Λ"
+          ],
+          "answer": "Θ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'tau'?",
+          "options": [
+            "Τ",
+            "Υ",
+            "Φ",
+            "Χ"
+          ],
+          "answer": "Τ"
+        }
+      ]
+    },
+    {
+      "id": "grc-p1-l25",
+      "title": "Ἐπανάληψις 21",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Γ",
+          "name": "gamma",
+          "exampleWord": "Γῆ"
+        },
+        {
+          "glyph": "Υ",
+          "name": "upsilon",
+          "exampleWord": "Ὕπνος"
+        },
+        {
+          "glyph": "Ρ",
+          "name": "rho",
+          "exampleWord": "Ῥήτωρ"
+        },
+        {
+          "glyph": "Μ",
+          "name": "mu",
+          "exampleWord": "Μήνη"
+        },
+        {
+          "glyph": "Ζ",
+          "name": "zeta",
+          "exampleWord": "Ζῷον"
+        },
+        {
+          "glyph": "Δ",
+          "name": "delta",
+          "exampleWord": "Δένδρον"
+        },
+        {
+          "glyph": "Π",
+          "name": "pi",
+          "exampleWord": "Πάθος"
+        },
+        {
+          "glyph": "Λ",
+          "name": "lambda",
+          "exampleWord": "Λόγος"
+        },
+        {
+          "glyph": "Σ",
+          "name": "sigma",
+          "exampleWord": "Σοφία"
+        },
+        {
+          "glyph": "Χ",
+          "name": "chi",
+          "exampleWord": "Χρόνος"
+        },
+        {
+          "glyph": "Η",
+          "name": "eta",
+          "exampleWord": "Ἥρα"
+        },
+        {
+          "glyph": "Τ",
+          "name": "tau",
+          "exampleWord": "Τέλος"
+        },
+        {
+          "glyph": "Β",
+          "name": "beta",
+          "exampleWord": "Βίος"
+        },
+        {
+          "glyph": "Ο",
+          "name": "omicron",
+          "exampleWord": "Ὀρθός"
+        },
+        {
+          "glyph": "Ω",
+          "name": "omega",
+          "exampleWord": "Ὠκεανός"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alpha'?",
+          "options": [
+            "Α",
+            "Β",
+            "Γ",
+            "Δ"
+          ],
+          "answer": "Α"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'tau'?",
+          "options": [
+            "Τ",
+            "Υ",
+            "Φ",
+            "Χ"
+          ],
+          "answer": "Τ"
+        }
+      ]
+    },
+    {
+      "id": "grc-p1-l26",
+      "title": "Ἐπανάληψις 22",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ζ",
+          "name": "zeta",
+          "exampleWord": "Ζῷον"
+        },
+        {
+          "glyph": "Χ",
+          "name": "chi",
+          "exampleWord": "Χρόνος"
+        },
+        {
+          "glyph": "Ψ",
+          "name": "psi",
+          "exampleWord": "Ψυχή"
+        },
+        {
+          "glyph": "Φ",
+          "name": "phi",
+          "exampleWord": "Φιλία"
+        },
+        {
+          "glyph": "Υ",
+          "name": "upsilon",
+          "exampleWord": "Ὕπνος"
+        },
+        {
+          "glyph": "Ι",
+          "name": "iota",
+          "exampleWord": "Ἰχθύς"
+        },
+        {
+          "glyph": "Γ",
+          "name": "gamma",
+          "exampleWord": "Γῆ"
+        },
+        {
+          "glyph": "Α",
+          "name": "alpha",
+          "exampleWord": "Ἀθήνη"
+        },
+        {
+          "glyph": "Η",
+          "name": "eta",
+          "exampleWord": "Ἥρα"
+        },
+        {
+          "glyph": "Β",
+          "name": "beta",
+          "exampleWord": "Βίος"
+        },
+        {
+          "glyph": "Τ",
+          "name": "tau",
+          "exampleWord": "Τέλος"
+        },
+        {
+          "glyph": "Μ",
+          "name": "mu",
+          "exampleWord": "Μήνη"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alpha'?",
+          "options": [
+            "Α",
+            "Β",
+            "Γ",
+            "Δ"
+          ],
+          "answer": "Α"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'theta'?",
+          "options": [
+            "Θ",
+            "Ι",
+            "Κ",
+            "Λ"
+          ],
+          "answer": "Θ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'xi'?",
+          "options": [
+            "Ξ",
+            "Ο",
+            "Π",
+            "Ρ"
+          ],
+          "answer": "Ξ"
+        }
+      ]
+    },
+    {
+      "id": "grc-p1-l27",
+      "title": "Ἐπανάληψις 23",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ο",
+          "name": "omicron",
+          "exampleWord": "Ὀρθός"
+        },
+        {
+          "glyph": "Β",
+          "name": "beta",
+          "exampleWord": "Βίος"
+        },
+        {
+          "glyph": "Μ",
+          "name": "mu",
+          "exampleWord": "Μήνη"
+        },
+        {
+          "glyph": "Τ",
+          "name": "tau",
+          "exampleWord": "Τέλος"
+        },
+        {
+          "glyph": "Ι",
+          "name": "iota",
+          "exampleWord": "Ἰχθύς"
+        },
+        {
+          "glyph": "Ν",
+          "name": "nu",
+          "exampleWord": "Νύξ"
+        },
+        {
+          "glyph": "Ω",
+          "name": "omega",
+          "exampleWord": "Ὠκεανός"
+        },
+        {
+          "glyph": "Η",
+          "name": "eta",
+          "exampleWord": "Ἥρα"
+        },
+        {
+          "glyph": "Σ",
+          "name": "sigma",
+          "exampleWord": "Σοφία"
+        },
+        {
+          "glyph": "Ρ",
+          "name": "rho",
+          "exampleWord": "Ῥήτωρ"
+        },
+        {
+          "glyph": "Υ",
+          "name": "upsilon",
+          "exampleWord": "Ὕπνος"
+        },
+        {
+          "glyph": "Ζ",
+          "name": "zeta",
+          "exampleWord": "Ζῷον"
+        },
+        {
+          "glyph": "Π",
+          "name": "pi",
+          "exampleWord": "Πάθος"
+        },
+        {
+          "glyph": "Φ",
+          "name": "phi",
+          "exampleWord": "Φιλία"
+        },
+        {
+          "glyph": "Λ",
+          "name": "lambda",
+          "exampleWord": "Λόγος"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alpha'?",
+          "options": [
+            "Α",
+            "Β",
+            "Γ",
+            "Δ"
+          ],
+          "answer": "Α"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'tau'?",
+          "options": [
+            "Τ",
+            "Υ",
+            "Φ",
+            "Χ"
+          ],
+          "answer": "Τ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'xi'?",
+          "options": [
+            "Ξ",
+            "Ο",
+            "Π",
+            "Ρ"
+          ],
+          "answer": "Ξ"
+        }
+      ]
+    },
+    {
+      "id": "grc-p1-l28",
+      "title": "Ἐπανάληψις 24",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Λ",
+          "name": "lambda",
+          "exampleWord": "Λόγος"
+        },
+        {
+          "glyph": "Η",
+          "name": "eta",
+          "exampleWord": "Ἥρα"
+        },
+        {
+          "glyph": "Β",
+          "name": "beta",
+          "exampleWord": "Βίος"
+        },
+        {
+          "glyph": "Χ",
+          "name": "chi",
+          "exampleWord": "Χρόνος"
+        },
+        {
+          "glyph": "Γ",
+          "name": "gamma",
+          "exampleWord": "Γῆ"
+        },
+        {
+          "glyph": "Ο",
+          "name": "omicron",
+          "exampleWord": "Ὀρθός"
+        },
+        {
+          "glyph": "Τ",
+          "name": "tau",
+          "exampleWord": "Τέλος"
+        },
+        {
+          "glyph": "Κ",
+          "name": "kappa",
+          "exampleWord": "Κόσμος"
+        },
+        {
+          "glyph": "Ζ",
+          "name": "zeta",
+          "exampleWord": "Ζῷον"
+        },
+        {
+          "glyph": "Ξ",
+          "name": "xi",
+          "exampleWord": "Ξένος"
+        },
+        {
+          "glyph": "Φ",
+          "name": "phi",
+          "exampleWord": "Φιλία"
+        },
+        {
+          "glyph": "Σ",
+          "name": "sigma",
+          "exampleWord": "Σοφία"
+        },
+        {
+          "glyph": "Α",
+          "name": "alpha",
+          "exampleWord": "Ἀθήνη"
+        },
+        {
+          "glyph": "Ν",
+          "name": "nu",
+          "exampleWord": "Νύξ"
+        },
+        {
+          "glyph": "Θ",
+          "name": "theta",
+          "exampleWord": "Θεός"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'xi'?",
+          "options": [
+            "Ξ",
+            "Ο",
+            "Π",
+            "Ρ"
+          ],
+          "answer": "Ξ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alpha'?",
+          "options": [
+            "Α",
+            "Β",
+            "Γ",
+            "Δ"
+          ],
+          "answer": "Α"
+        }
+      ]
+    },
+    {
+      "id": "grc-p1-l29",
+      "title": "Ἐπανάληψις 25",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Υ",
+          "name": "upsilon",
+          "exampleWord": "Ὕπνος"
+        },
+        {
+          "glyph": "Δ",
+          "name": "delta",
+          "exampleWord": "Δένδρον"
+        },
+        {
+          "glyph": "Ρ",
+          "name": "rho",
+          "exampleWord": "Ῥήτωρ"
+        },
+        {
+          "glyph": "Ι",
+          "name": "iota",
+          "exampleWord": "Ἰχθύς"
+        },
+        {
+          "glyph": "Ψ",
+          "name": "psi",
+          "exampleWord": "Ψυχή"
+        },
+        {
+          "glyph": "Ω",
+          "name": "omega",
+          "exampleWord": "Ὠκεανός"
+        },
+        {
+          "glyph": "Ξ",
+          "name": "xi",
+          "exampleWord": "Ξένος"
+        },
+        {
+          "glyph": "Π",
+          "name": "pi",
+          "exampleWord": "Πάθος"
+        },
+        {
+          "glyph": "Ε",
+          "name": "epsilon",
+          "exampleWord": "Ἔρως"
+        },
+        {
+          "glyph": "Θ",
+          "name": "theta",
+          "exampleWord": "Θεός"
+        },
+        {
+          "glyph": "Ζ",
+          "name": "zeta",
+          "exampleWord": "Ζῷον"
+        },
+        {
+          "glyph": "Α",
+          "name": "alpha",
+          "exampleWord": "Ἀθήνη"
+        },
+        {
+          "glyph": "Ν",
+          "name": "nu",
+          "exampleWord": "Νύξ"
+        },
+        {
+          "glyph": "Μ",
+          "name": "mu",
+          "exampleWord": "Μήνη"
+        },
+        {
+          "glyph": "Β",
+          "name": "beta",
+          "exampleWord": "Βίος"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'tau'?",
+          "options": [
+            "Τ",
+            "Υ",
+            "Φ",
+            "Χ"
+          ],
+          "answer": "Τ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'xi'?",
+          "options": [
+            "Ξ",
+            "Ο",
+            "Π",
+            "Ρ"
+          ],
+          "answer": "Ξ"
+        }
+      ]
+    },
+    {
+      "id": "grc-p1-l30",
+      "title": "Ἐπανάληψις 26",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Γ",
+          "name": "gamma",
+          "exampleWord": "Γῆ"
+        },
+        {
+          "glyph": "Υ",
+          "name": "upsilon",
+          "exampleWord": "Ὕπνος"
+        },
+        {
+          "glyph": "Χ",
+          "name": "chi",
+          "exampleWord": "Χρόνος"
+        },
+        {
+          "glyph": "Φ",
+          "name": "phi",
+          "exampleWord": "Φιλία"
+        },
+        {
+          "glyph": "Σ",
+          "name": "sigma",
+          "exampleWord": "Σοφία"
+        },
+        {
+          "glyph": "Ι",
+          "name": "iota",
+          "exampleWord": "Ἰχθύς"
+        },
+        {
+          "glyph": "Κ",
+          "name": "kappa",
+          "exampleWord": "Κόσμος"
+        },
+        {
+          "glyph": "Μ",
+          "name": "mu",
+          "exampleWord": "Μήνη"
+        },
+        {
+          "glyph": "Ψ",
+          "name": "psi",
+          "exampleWord": "Ψυχή"
+        },
+        {
+          "glyph": "Λ",
+          "name": "lambda",
+          "exampleWord": "Λόγος"
+        },
+        {
+          "glyph": "Ω",
+          "name": "omega",
+          "exampleWord": "Ὠκεανός"
+        },
+        {
+          "glyph": "Π",
+          "name": "pi",
+          "exampleWord": "Πάθος"
+        },
+        {
+          "glyph": "Ζ",
+          "name": "zeta",
+          "exampleWord": "Ζῷον"
+        },
+        {
+          "glyph": "Τ",
+          "name": "tau",
+          "exampleWord": "Τέλος"
+        },
+        {
+          "glyph": "Α",
+          "name": "alpha",
+          "exampleWord": "Ἀθήνη"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'theta'?",
+          "options": [
+            "Θ",
+            "Ι",
+            "Κ",
+            "Λ"
+          ],
+          "answer": "Θ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'tau'?",
+          "options": [
+            "Τ",
+            "Υ",
+            "Φ",
+            "Χ"
+          ],
+          "answer": "Τ"
+        }
+      ]
     }
   ]
 }

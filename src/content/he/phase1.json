@@ -196,6 +196,2453 @@
           "answer": "ש"
         }
       ]
+    },
+    {
+      "id": "he-p1-l5",
+      "title": "חזרה 1",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "מ",
+          "name": "mem",
+          "exampleWord": "מים"
+        },
+        {
+          "glyph": "כ",
+          "name": "kaf",
+          "exampleWord": "כתב"
+        },
+        {
+          "glyph": "ב",
+          "name": "bet",
+          "exampleWord": "בית"
+        },
+        {
+          "glyph": "ו",
+          "name": "vav",
+          "exampleWord": "ורד"
+        },
+        {
+          "glyph": "פ",
+          "name": "pe",
+          "exampleWord": "פנים"
+        },
+        {
+          "glyph": "ג",
+          "name": "gimel",
+          "exampleWord": "גמל"
+        },
+        {
+          "glyph": "ד",
+          "name": "dalet",
+          "exampleWord": "דלת"
+        },
+        {
+          "glyph": "ע",
+          "name": "ayin",
+          "exampleWord": "עין"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alef'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'samekh'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        }
+      ]
+    },
+    {
+      "id": "he-p1-l6",
+      "title": "חזרה 2",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "פ",
+          "name": "pe",
+          "exampleWord": "פנים"
+        },
+        {
+          "glyph": "ב",
+          "name": "bet",
+          "exampleWord": "בית"
+        },
+        {
+          "glyph": "נ",
+          "name": "nun",
+          "exampleWord": "נר"
+        },
+        {
+          "glyph": "צ",
+          "name": "tsadi",
+          "exampleWord": "צבע"
+        },
+        {
+          "glyph": "ל",
+          "name": "lamed",
+          "exampleWord": "לב"
+        },
+        {
+          "glyph": "ט",
+          "name": "tet",
+          "exampleWord": "טוב"
+        },
+        {
+          "glyph": "ה",
+          "name": "he",
+          "exampleWord": "הר"
+        },
+        {
+          "glyph": "ע",
+          "name": "ayin",
+          "exampleWord": "עין"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'shin'?",
+          "options": [
+            "ש",
+            "ת",
+            "ת",
+            "ת"
+          ],
+          "answer": "ש"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alef'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        }
+      ]
+    },
+    {
+      "id": "he-p1-l7",
+      "title": "חזרה 3",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "י",
+          "name": "yod",
+          "exampleWord": "יד"
+        },
+        {
+          "glyph": "ת",
+          "name": "tav",
+          "exampleWord": "תורה"
+        },
+        {
+          "glyph": "כ",
+          "name": "kaf",
+          "exampleWord": "כתב"
+        },
+        {
+          "glyph": "ק",
+          "name": "qof",
+          "exampleWord": "קיר"
+        },
+        {
+          "glyph": "א",
+          "name": "alef",
+          "exampleWord": "אב"
+        },
+        {
+          "glyph": "ר",
+          "name": "resh",
+          "exampleWord": "ראש"
+        },
+        {
+          "glyph": "ס",
+          "name": "samekh",
+          "exampleWord": "ספר"
+        },
+        {
+          "glyph": "ש",
+          "name": "shin",
+          "exampleWord": "שלום"
+        },
+        {
+          "glyph": "צ",
+          "name": "tsadi",
+          "exampleWord": "צבע"
+        },
+        {
+          "glyph": "ל",
+          "name": "lamed",
+          "exampleWord": "לב"
+        },
+        {
+          "glyph": "מ",
+          "name": "mem",
+          "exampleWord": "מים"
+        },
+        {
+          "glyph": "ז",
+          "name": "zayin",
+          "exampleWord": "זית"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alef'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'khet'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'shin'?",
+          "options": [
+            "ש",
+            "ת",
+            "ת",
+            "ת"
+          ],
+          "answer": "ש"
+        }
+      ]
+    },
+    {
+      "id": "he-p1-l8",
+      "title": "חזרה 4",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ע",
+          "name": "ayin",
+          "exampleWord": "עין"
+        },
+        {
+          "glyph": "ז",
+          "name": "zayin",
+          "exampleWord": "זית"
+        },
+        {
+          "glyph": "א",
+          "name": "alef",
+          "exampleWord": "אב"
+        },
+        {
+          "glyph": "מ",
+          "name": "mem",
+          "exampleWord": "מים"
+        },
+        {
+          "glyph": "ב",
+          "name": "bet",
+          "exampleWord": "בית"
+        },
+        {
+          "glyph": "ט",
+          "name": "tet",
+          "exampleWord": "טוב"
+        },
+        {
+          "glyph": "ר",
+          "name": "resh",
+          "exampleWord": "ראש"
+        },
+        {
+          "glyph": "ת",
+          "name": "tav",
+          "exampleWord": "תורה"
+        },
+        {
+          "glyph": "ג",
+          "name": "gimel",
+          "exampleWord": "גמל"
+        },
+        {
+          "glyph": "פ",
+          "name": "pe",
+          "exampleWord": "פנים"
+        },
+        {
+          "glyph": "ח",
+          "name": "khet",
+          "exampleWord": "חיה"
+        },
+        {
+          "glyph": "צ",
+          "name": "tsadi",
+          "exampleWord": "צבע"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'samekh'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'shin'?",
+          "options": [
+            "ש",
+            "ת",
+            "ת",
+            "ת"
+          ],
+          "answer": "ש"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alef'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        }
+      ]
+    },
+    {
+      "id": "he-p1-l9",
+      "title": "חזרה 5",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ס",
+          "name": "samekh",
+          "exampleWord": "ספר"
+        },
+        {
+          "glyph": "ת",
+          "name": "tav",
+          "exampleWord": "תורה"
+        },
+        {
+          "glyph": "ע",
+          "name": "ayin",
+          "exampleWord": "עין"
+        },
+        {
+          "glyph": "ו",
+          "name": "vav",
+          "exampleWord": "ורד"
+        },
+        {
+          "glyph": "פ",
+          "name": "pe",
+          "exampleWord": "פנים"
+        },
+        {
+          "glyph": "ה",
+          "name": "he",
+          "exampleWord": "הר"
+        },
+        {
+          "glyph": "ק",
+          "name": "qof",
+          "exampleWord": "קיר"
+        },
+        {
+          "glyph": "נ",
+          "name": "nun",
+          "exampleWord": "נר"
+        },
+        {
+          "glyph": "מ",
+          "name": "mem",
+          "exampleWord": "מים"
+        },
+        {
+          "glyph": "כ",
+          "name": "kaf",
+          "exampleWord": "כתב"
+        },
+        {
+          "glyph": "ט",
+          "name": "tet",
+          "exampleWord": "טוב"
+        },
+        {
+          "glyph": "א",
+          "name": "alef",
+          "exampleWord": "אב"
+        },
+        {
+          "glyph": "ח",
+          "name": "khet",
+          "exampleWord": "חיה"
+        },
+        {
+          "glyph": "ל",
+          "name": "lamed",
+          "exampleWord": "לב"
+        },
+        {
+          "glyph": "ד",
+          "name": "dalet",
+          "exampleWord": "דלת"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'samekh'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'shin'?",
+          "options": [
+            "ש",
+            "ת",
+            "ת",
+            "ת"
+          ],
+          "answer": "ש"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alef'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        }
+      ]
+    },
+    {
+      "id": "he-p1-l10",
+      "title": "חזרה 6",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "א",
+          "name": "alef",
+          "exampleWord": "אב"
+        },
+        {
+          "glyph": "כ",
+          "name": "kaf",
+          "exampleWord": "כתב"
+        },
+        {
+          "glyph": "ח",
+          "name": "khet",
+          "exampleWord": "חיה"
+        },
+        {
+          "glyph": "ק",
+          "name": "qof",
+          "exampleWord": "קיר"
+        },
+        {
+          "glyph": "ט",
+          "name": "tet",
+          "exampleWord": "טוב"
+        },
+        {
+          "glyph": "ש",
+          "name": "shin",
+          "exampleWord": "שלום"
+        },
+        {
+          "glyph": "ל",
+          "name": "lamed",
+          "exampleWord": "לב"
+        },
+        {
+          "glyph": "ז",
+          "name": "zayin",
+          "exampleWord": "זית"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'khet'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alef'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'shin'?",
+          "options": [
+            "ש",
+            "ת",
+            "ת",
+            "ת"
+          ],
+          "answer": "ש"
+        }
+      ]
+    },
+    {
+      "id": "he-p1-l11",
+      "title": "חזרה 7",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ר",
+          "name": "resh",
+          "exampleWord": "ראש"
+        },
+        {
+          "glyph": "כ",
+          "name": "kaf",
+          "exampleWord": "כתב"
+        },
+        {
+          "glyph": "ל",
+          "name": "lamed",
+          "exampleWord": "לב"
+        },
+        {
+          "glyph": "ע",
+          "name": "ayin",
+          "exampleWord": "עין"
+        },
+        {
+          "glyph": "פ",
+          "name": "pe",
+          "exampleWord": "פנים"
+        },
+        {
+          "glyph": "ג",
+          "name": "gimel",
+          "exampleWord": "גמל"
+        },
+        {
+          "glyph": "ד",
+          "name": "dalet",
+          "exampleWord": "דלת"
+        },
+        {
+          "glyph": "ט",
+          "name": "tet",
+          "exampleWord": "טוב"
+        },
+        {
+          "glyph": "א",
+          "name": "alef",
+          "exampleWord": "אב"
+        },
+        {
+          "glyph": "ב",
+          "name": "bet",
+          "exampleWord": "בית"
+        },
+        {
+          "glyph": "י",
+          "name": "yod",
+          "exampleWord": "יד"
+        },
+        {
+          "glyph": "ש",
+          "name": "shin",
+          "exampleWord": "שלום"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'samekh'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'khet'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        }
+      ]
+    },
+    {
+      "id": "he-p1-l12",
+      "title": "חזרה 8",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ר",
+          "name": "resh",
+          "exampleWord": "ראש"
+        },
+        {
+          "glyph": "ח",
+          "name": "khet",
+          "exampleWord": "חיה"
+        },
+        {
+          "glyph": "ע",
+          "name": "ayin",
+          "exampleWord": "עין"
+        },
+        {
+          "glyph": "י",
+          "name": "yod",
+          "exampleWord": "יד"
+        },
+        {
+          "glyph": "ו",
+          "name": "vav",
+          "exampleWord": "ורד"
+        },
+        {
+          "glyph": "ד",
+          "name": "dalet",
+          "exampleWord": "דלת"
+        },
+        {
+          "glyph": "ג",
+          "name": "gimel",
+          "exampleWord": "גמל"
+        },
+        {
+          "glyph": "ט",
+          "name": "tet",
+          "exampleWord": "טוב"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'khet'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alef'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        }
+      ]
+    },
+    {
+      "id": "he-p1-l13",
+      "title": "חזרה 9",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ר",
+          "name": "resh",
+          "exampleWord": "ראש"
+        },
+        {
+          "glyph": "ט",
+          "name": "tet",
+          "exampleWord": "טוב"
+        },
+        {
+          "glyph": "ת",
+          "name": "tav",
+          "exampleWord": "תורה"
+        },
+        {
+          "glyph": "ג",
+          "name": "gimel",
+          "exampleWord": "גמל"
+        },
+        {
+          "glyph": "ו",
+          "name": "vav",
+          "exampleWord": "ורד"
+        },
+        {
+          "glyph": "ש",
+          "name": "shin",
+          "exampleWord": "שלום"
+        },
+        {
+          "glyph": "נ",
+          "name": "nun",
+          "exampleWord": "נר"
+        },
+        {
+          "glyph": "י",
+          "name": "yod",
+          "exampleWord": "יד"
+        },
+        {
+          "glyph": "ק",
+          "name": "qof",
+          "exampleWord": "קיר"
+        },
+        {
+          "glyph": "צ",
+          "name": "tsadi",
+          "exampleWord": "צבע"
+        },
+        {
+          "glyph": "ח",
+          "name": "khet",
+          "exampleWord": "חיה"
+        },
+        {
+          "glyph": "א",
+          "name": "alef",
+          "exampleWord": "אב"
+        },
+        {
+          "glyph": "ב",
+          "name": "bet",
+          "exampleWord": "בית"
+        },
+        {
+          "glyph": "פ",
+          "name": "pe",
+          "exampleWord": "פנים"
+        },
+        {
+          "glyph": "ה",
+          "name": "he",
+          "exampleWord": "הר"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'samekh'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alef'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'shin'?",
+          "options": [
+            "ש",
+            "ת",
+            "ת",
+            "ת"
+          ],
+          "answer": "ש"
+        }
+      ]
+    },
+    {
+      "id": "he-p1-l14",
+      "title": "חזרה 10",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ג",
+          "name": "gimel",
+          "exampleWord": "גמל"
+        },
+        {
+          "glyph": "ד",
+          "name": "dalet",
+          "exampleWord": "דלת"
+        },
+        {
+          "glyph": "ו",
+          "name": "vav",
+          "exampleWord": "ורד"
+        },
+        {
+          "glyph": "ת",
+          "name": "tav",
+          "exampleWord": "תורה"
+        },
+        {
+          "glyph": "ב",
+          "name": "bet",
+          "exampleWord": "בית"
+        },
+        {
+          "glyph": "נ",
+          "name": "nun",
+          "exampleWord": "נר"
+        },
+        {
+          "glyph": "ר",
+          "name": "resh",
+          "exampleWord": "ראש"
+        },
+        {
+          "glyph": "ה",
+          "name": "he",
+          "exampleWord": "הר"
+        },
+        {
+          "glyph": "ח",
+          "name": "khet",
+          "exampleWord": "חיה"
+        },
+        {
+          "glyph": "ש",
+          "name": "shin",
+          "exampleWord": "שלום"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alef'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'shin'?",
+          "options": [
+            "ש",
+            "ת",
+            "ת",
+            "ת"
+          ],
+          "answer": "ש"
+        }
+      ]
+    },
+    {
+      "id": "he-p1-l15",
+      "title": "חזרה 11",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ק",
+          "name": "qof",
+          "exampleWord": "קיר"
+        },
+        {
+          "glyph": "מ",
+          "name": "mem",
+          "exampleWord": "מים"
+        },
+        {
+          "glyph": "ט",
+          "name": "tet",
+          "exampleWord": "טוב"
+        },
+        {
+          "glyph": "ד",
+          "name": "dalet",
+          "exampleWord": "דלת"
+        },
+        {
+          "glyph": "כ",
+          "name": "kaf",
+          "exampleWord": "כתב"
+        },
+        {
+          "glyph": "י",
+          "name": "yod",
+          "exampleWord": "יד"
+        },
+        {
+          "glyph": "ב",
+          "name": "bet",
+          "exampleWord": "בית"
+        },
+        {
+          "glyph": "ת",
+          "name": "tav",
+          "exampleWord": "תורה"
+        },
+        {
+          "glyph": "ל",
+          "name": "lamed",
+          "exampleWord": "לב"
+        },
+        {
+          "glyph": "ע",
+          "name": "ayin",
+          "exampleWord": "עין"
+        },
+        {
+          "glyph": "ז",
+          "name": "zayin",
+          "exampleWord": "זית"
+        },
+        {
+          "glyph": "נ",
+          "name": "nun",
+          "exampleWord": "נר"
+        },
+        {
+          "glyph": "ר",
+          "name": "resh",
+          "exampleWord": "ראש"
+        },
+        {
+          "glyph": "ו",
+          "name": "vav",
+          "exampleWord": "ורד"
+        },
+        {
+          "glyph": "ס",
+          "name": "samekh",
+          "exampleWord": "ספר"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'shin'?",
+          "options": [
+            "ש",
+            "ת",
+            "ת",
+            "ת"
+          ],
+          "answer": "ש"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alef'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'khet'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        }
+      ]
+    },
+    {
+      "id": "he-p1-l16",
+      "title": "חזרה 12",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ר",
+          "name": "resh",
+          "exampleWord": "ראש"
+        },
+        {
+          "glyph": "א",
+          "name": "alef",
+          "exampleWord": "אב"
+        },
+        {
+          "glyph": "מ",
+          "name": "mem",
+          "exampleWord": "מים"
+        },
+        {
+          "glyph": "ג",
+          "name": "gimel",
+          "exampleWord": "גמל"
+        },
+        {
+          "glyph": "ו",
+          "name": "vav",
+          "exampleWord": "ורד"
+        },
+        {
+          "glyph": "ה",
+          "name": "he",
+          "exampleWord": "הר"
+        },
+        {
+          "glyph": "ח",
+          "name": "khet",
+          "exampleWord": "חיה"
+        },
+        {
+          "glyph": "ב",
+          "name": "bet",
+          "exampleWord": "בית"
+        },
+        {
+          "glyph": "נ",
+          "name": "nun",
+          "exampleWord": "נר"
+        },
+        {
+          "glyph": "ס",
+          "name": "samekh",
+          "exampleWord": "ספר"
+        },
+        {
+          "glyph": "ל",
+          "name": "lamed",
+          "exampleWord": "לב"
+        },
+        {
+          "glyph": "ד",
+          "name": "dalet",
+          "exampleWord": "דלת"
+        },
+        {
+          "glyph": "ע",
+          "name": "ayin",
+          "exampleWord": "עין"
+        },
+        {
+          "glyph": "ק",
+          "name": "qof",
+          "exampleWord": "קיר"
+        },
+        {
+          "glyph": "י",
+          "name": "yod",
+          "exampleWord": "יד"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'samekh'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'shin'?",
+          "options": [
+            "ש",
+            "ת",
+            "ת",
+            "ת"
+          ],
+          "answer": "ש"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'khet'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        }
+      ]
+    },
+    {
+      "id": "he-p1-l17",
+      "title": "חזרה 13",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ר",
+          "name": "resh",
+          "exampleWord": "ראש"
+        },
+        {
+          "glyph": "ע",
+          "name": "ayin",
+          "exampleWord": "עין"
+        },
+        {
+          "glyph": "א",
+          "name": "alef",
+          "exampleWord": "אב"
+        },
+        {
+          "glyph": "כ",
+          "name": "kaf",
+          "exampleWord": "כתב"
+        },
+        {
+          "glyph": "ח",
+          "name": "khet",
+          "exampleWord": "חיה"
+        },
+        {
+          "glyph": "ה",
+          "name": "he",
+          "exampleWord": "הר"
+        },
+        {
+          "glyph": "צ",
+          "name": "tsadi",
+          "exampleWord": "צבע"
+        },
+        {
+          "glyph": "ת",
+          "name": "tav",
+          "exampleWord": "תורה"
+        },
+        {
+          "glyph": "ד",
+          "name": "dalet",
+          "exampleWord": "דלת"
+        },
+        {
+          "glyph": "י",
+          "name": "yod",
+          "exampleWord": "יד"
+        },
+        {
+          "glyph": "ל",
+          "name": "lamed",
+          "exampleWord": "לב"
+        },
+        {
+          "glyph": "ס",
+          "name": "samekh",
+          "exampleWord": "ספר"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alef'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'shin'?",
+          "options": [
+            "ש",
+            "ת",
+            "ת",
+            "ת"
+          ],
+          "answer": "ש"
+        }
+      ]
+    },
+    {
+      "id": "he-p1-l18",
+      "title": "חזרה 14",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ו",
+          "name": "vav",
+          "exampleWord": "ורד"
+        },
+        {
+          "glyph": "ח",
+          "name": "khet",
+          "exampleWord": "חיה"
+        },
+        {
+          "glyph": "ג",
+          "name": "gimel",
+          "exampleWord": "גמל"
+        },
+        {
+          "glyph": "ס",
+          "name": "samekh",
+          "exampleWord": "ספר"
+        },
+        {
+          "glyph": "נ",
+          "name": "nun",
+          "exampleWord": "נר"
+        },
+        {
+          "glyph": "א",
+          "name": "alef",
+          "exampleWord": "אב"
+        },
+        {
+          "glyph": "ש",
+          "name": "shin",
+          "exampleWord": "שלום"
+        },
+        {
+          "glyph": "ט",
+          "name": "tet",
+          "exampleWord": "טוב"
+        },
+        {
+          "glyph": "ב",
+          "name": "bet",
+          "exampleWord": "בית"
+        },
+        {
+          "glyph": "ק",
+          "name": "qof",
+          "exampleWord": "קיר"
+        },
+        {
+          "glyph": "ע",
+          "name": "ayin",
+          "exampleWord": "עין"
+        },
+        {
+          "glyph": "ר",
+          "name": "resh",
+          "exampleWord": "ראש"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alef'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'shin'?",
+          "options": [
+            "ש",
+            "ת",
+            "ת",
+            "ת"
+          ],
+          "answer": "ש"
+        }
+      ]
+    },
+    {
+      "id": "he-p1-l19",
+      "title": "חזרה 15",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "צ",
+          "name": "tsadi",
+          "exampleWord": "צבע"
+        },
+        {
+          "glyph": "נ",
+          "name": "nun",
+          "exampleWord": "נר"
+        },
+        {
+          "glyph": "י",
+          "name": "yod",
+          "exampleWord": "יד"
+        },
+        {
+          "glyph": "ת",
+          "name": "tav",
+          "exampleWord": "תורה"
+        },
+        {
+          "glyph": "ס",
+          "name": "samekh",
+          "exampleWord": "ספר"
+        },
+        {
+          "glyph": "ז",
+          "name": "zayin",
+          "exampleWord": "זית"
+        },
+        {
+          "glyph": "ל",
+          "name": "lamed",
+          "exampleWord": "לב"
+        },
+        {
+          "glyph": "ב",
+          "name": "bet",
+          "exampleWord": "בית"
+        },
+        {
+          "glyph": "ק",
+          "name": "qof",
+          "exampleWord": "קיר"
+        },
+        {
+          "glyph": "ה",
+          "name": "he",
+          "exampleWord": "הר"
+        },
+        {
+          "glyph": "ד",
+          "name": "dalet",
+          "exampleWord": "דלת"
+        },
+        {
+          "glyph": "ש",
+          "name": "shin",
+          "exampleWord": "שלום"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'shin'?",
+          "options": [
+            "ש",
+            "ת",
+            "ת",
+            "ת"
+          ],
+          "answer": "ש"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'samekh'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alef'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        }
+      ]
+    },
+    {
+      "id": "he-p1-l20",
+      "title": "חזרה 16",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ר",
+          "name": "resh",
+          "exampleWord": "ראש"
+        },
+        {
+          "glyph": "ח",
+          "name": "khet",
+          "exampleWord": "חיה"
+        },
+        {
+          "glyph": "ק",
+          "name": "qof",
+          "exampleWord": "קיר"
+        },
+        {
+          "glyph": "צ",
+          "name": "tsadi",
+          "exampleWord": "צבע"
+        },
+        {
+          "glyph": "נ",
+          "name": "nun",
+          "exampleWord": "נר"
+        },
+        {
+          "glyph": "ו",
+          "name": "vav",
+          "exampleWord": "ורד"
+        },
+        {
+          "glyph": "ע",
+          "name": "ayin",
+          "exampleWord": "עין"
+        },
+        {
+          "glyph": "א",
+          "name": "alef",
+          "exampleWord": "אב"
+        },
+        {
+          "glyph": "מ",
+          "name": "mem",
+          "exampleWord": "מים"
+        },
+        {
+          "glyph": "ה",
+          "name": "he",
+          "exampleWord": "הר"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'khet'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'shin'?",
+          "options": [
+            "ש",
+            "ת",
+            "ת",
+            "ת"
+          ],
+          "answer": "ש"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alef'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        }
+      ]
+    },
+    {
+      "id": "he-p1-l21",
+      "title": "חזרה 17",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "נ",
+          "name": "nun",
+          "exampleWord": "נר"
+        },
+        {
+          "glyph": "ע",
+          "name": "ayin",
+          "exampleWord": "עין"
+        },
+        {
+          "glyph": "ד",
+          "name": "dalet",
+          "exampleWord": "דלת"
+        },
+        {
+          "glyph": "פ",
+          "name": "pe",
+          "exampleWord": "פנים"
+        },
+        {
+          "glyph": "ס",
+          "name": "samekh",
+          "exampleWord": "ספר"
+        },
+        {
+          "glyph": "ת",
+          "name": "tav",
+          "exampleWord": "תורה"
+        },
+        {
+          "glyph": "י",
+          "name": "yod",
+          "exampleWord": "יד"
+        },
+        {
+          "glyph": "ז",
+          "name": "zayin",
+          "exampleWord": "זית"
+        },
+        {
+          "glyph": "ח",
+          "name": "khet",
+          "exampleWord": "חיה"
+        },
+        {
+          "glyph": "צ",
+          "name": "tsadi",
+          "exampleWord": "צבע"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'khet'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'shin'?",
+          "options": [
+            "ש",
+            "ת",
+            "ת",
+            "ת"
+          ],
+          "answer": "ש"
+        }
+      ]
+    },
+    {
+      "id": "he-p1-l22",
+      "title": "חזרה 18",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ד",
+          "name": "dalet",
+          "exampleWord": "דלת"
+        },
+        {
+          "glyph": "ו",
+          "name": "vav",
+          "exampleWord": "ורד"
+        },
+        {
+          "glyph": "ס",
+          "name": "samekh",
+          "exampleWord": "ספר"
+        },
+        {
+          "glyph": "ר",
+          "name": "resh",
+          "exampleWord": "ראש"
+        },
+        {
+          "glyph": "מ",
+          "name": "mem",
+          "exampleWord": "מים"
+        },
+        {
+          "glyph": "פ",
+          "name": "pe",
+          "exampleWord": "פנים"
+        },
+        {
+          "glyph": "ב",
+          "name": "bet",
+          "exampleWord": "בית"
+        },
+        {
+          "glyph": "ת",
+          "name": "tav",
+          "exampleWord": "תורה"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'shin'?",
+          "options": [
+            "ש",
+            "ת",
+            "ת",
+            "ת"
+          ],
+          "answer": "ש"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'khet'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alef'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        }
+      ]
+    },
+    {
+      "id": "he-p1-l23",
+      "title": "חזרה 19",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ע",
+          "name": "ayin",
+          "exampleWord": "עין"
+        },
+        {
+          "glyph": "י",
+          "name": "yod",
+          "exampleWord": "יד"
+        },
+        {
+          "glyph": "פ",
+          "name": "pe",
+          "exampleWord": "פנים"
+        },
+        {
+          "glyph": "ל",
+          "name": "lamed",
+          "exampleWord": "לב"
+        },
+        {
+          "glyph": "ר",
+          "name": "resh",
+          "exampleWord": "ראש"
+        },
+        {
+          "glyph": "מ",
+          "name": "mem",
+          "exampleWord": "מים"
+        },
+        {
+          "glyph": "ה",
+          "name": "he",
+          "exampleWord": "הר"
+        },
+        {
+          "glyph": "נ",
+          "name": "nun",
+          "exampleWord": "נר"
+        },
+        {
+          "glyph": "ס",
+          "name": "samekh",
+          "exampleWord": "ספר"
+        },
+        {
+          "glyph": "כ",
+          "name": "kaf",
+          "exampleWord": "כתב"
+        },
+        {
+          "glyph": "ק",
+          "name": "qof",
+          "exampleWord": "קיר"
+        },
+        {
+          "glyph": "ד",
+          "name": "dalet",
+          "exampleWord": "דלת"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alef'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'shin'?",
+          "options": [
+            "ש",
+            "ת",
+            "ת",
+            "ת"
+          ],
+          "answer": "ש"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'samekh'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        }
+      ]
+    },
+    {
+      "id": "he-p1-l24",
+      "title": "חזרה 20",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ד",
+          "name": "dalet",
+          "exampleWord": "דלת"
+        },
+        {
+          "glyph": "ת",
+          "name": "tav",
+          "exampleWord": "תורה"
+        },
+        {
+          "glyph": "ע",
+          "name": "ayin",
+          "exampleWord": "עין"
+        },
+        {
+          "glyph": "ז",
+          "name": "zayin",
+          "exampleWord": "זית"
+        },
+        {
+          "glyph": "מ",
+          "name": "mem",
+          "exampleWord": "מים"
+        },
+        {
+          "glyph": "ב",
+          "name": "bet",
+          "exampleWord": "בית"
+        },
+        {
+          "glyph": "ס",
+          "name": "samekh",
+          "exampleWord": "ספר"
+        },
+        {
+          "glyph": "ג",
+          "name": "gimel",
+          "exampleWord": "גמל"
+        },
+        {
+          "glyph": "ו",
+          "name": "vav",
+          "exampleWord": "ורד"
+        },
+        {
+          "glyph": "ח",
+          "name": "khet",
+          "exampleWord": "חיה"
+        },
+        {
+          "glyph": "ש",
+          "name": "shin",
+          "exampleWord": "שלום"
+        },
+        {
+          "glyph": "ק",
+          "name": "qof",
+          "exampleWord": "קיר"
+        },
+        {
+          "glyph": "ה",
+          "name": "he",
+          "exampleWord": "הר"
+        },
+        {
+          "glyph": "ר",
+          "name": "resh",
+          "exampleWord": "ראש"
+        },
+        {
+          "glyph": "א",
+          "name": "alef",
+          "exampleWord": "אב"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alef'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'khet'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        }
+      ]
+    },
+    {
+      "id": "he-p1-l25",
+      "title": "חזרה 21",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "מ",
+          "name": "mem",
+          "exampleWord": "מים"
+        },
+        {
+          "glyph": "ז",
+          "name": "zayin",
+          "exampleWord": "זית"
+        },
+        {
+          "glyph": "ח",
+          "name": "khet",
+          "exampleWord": "חיה"
+        },
+        {
+          "glyph": "ת",
+          "name": "tav",
+          "exampleWord": "תורה"
+        },
+        {
+          "glyph": "ש",
+          "name": "shin",
+          "exampleWord": "שלום"
+        },
+        {
+          "glyph": "צ",
+          "name": "tsadi",
+          "exampleWord": "צבע"
+        },
+        {
+          "glyph": "ד",
+          "name": "dalet",
+          "exampleWord": "דלת"
+        },
+        {
+          "glyph": "ס",
+          "name": "samekh",
+          "exampleWord": "ספר"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'samekh'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alef'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        }
+      ]
+    },
+    {
+      "id": "he-p1-l26",
+      "title": "חזרה 22",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "כ",
+          "name": "kaf",
+          "exampleWord": "כתב"
+        },
+        {
+          "glyph": "ו",
+          "name": "vav",
+          "exampleWord": "ורד"
+        },
+        {
+          "glyph": "נ",
+          "name": "nun",
+          "exampleWord": "נר"
+        },
+        {
+          "glyph": "ז",
+          "name": "zayin",
+          "exampleWord": "זית"
+        },
+        {
+          "glyph": "ע",
+          "name": "ayin",
+          "exampleWord": "עין"
+        },
+        {
+          "glyph": "פ",
+          "name": "pe",
+          "exampleWord": "פנים"
+        },
+        {
+          "glyph": "ל",
+          "name": "lamed",
+          "exampleWord": "לב"
+        },
+        {
+          "glyph": "א",
+          "name": "alef",
+          "exampleWord": "אב"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'khet'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'shin'?",
+          "options": [
+            "ש",
+            "ת",
+            "ת",
+            "ת"
+          ],
+          "answer": "ש"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'samekh'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        }
+      ]
+    },
+    {
+      "id": "he-p1-l27",
+      "title": "חזרה 23",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ק",
+          "name": "qof",
+          "exampleWord": "קיר"
+        },
+        {
+          "glyph": "א",
+          "name": "alef",
+          "exampleWord": "אב"
+        },
+        {
+          "glyph": "נ",
+          "name": "nun",
+          "exampleWord": "נר"
+        },
+        {
+          "glyph": "ט",
+          "name": "tet",
+          "exampleWord": "טוב"
+        },
+        {
+          "glyph": "ש",
+          "name": "shin",
+          "exampleWord": "שלום"
+        },
+        {
+          "glyph": "ת",
+          "name": "tav",
+          "exampleWord": "תורה"
+        },
+        {
+          "glyph": "ה",
+          "name": "he",
+          "exampleWord": "הר"
+        },
+        {
+          "glyph": "י",
+          "name": "yod",
+          "exampleWord": "יד"
+        },
+        {
+          "glyph": "ל",
+          "name": "lamed",
+          "exampleWord": "לב"
+        },
+        {
+          "glyph": "ס",
+          "name": "samekh",
+          "exampleWord": "ספר"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'khet'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alef'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        }
+      ]
+    },
+    {
+      "id": "he-p1-l28",
+      "title": "חזרה 24",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ז",
+          "name": "zayin",
+          "exampleWord": "זית"
+        },
+        {
+          "glyph": "נ",
+          "name": "nun",
+          "exampleWord": "נר"
+        },
+        {
+          "glyph": "ע",
+          "name": "ayin",
+          "exampleWord": "עין"
+        },
+        {
+          "glyph": "ח",
+          "name": "khet",
+          "exampleWord": "חיה"
+        },
+        {
+          "glyph": "ס",
+          "name": "samekh",
+          "exampleWord": "ספר"
+        },
+        {
+          "glyph": "מ",
+          "name": "mem",
+          "exampleWord": "מים"
+        },
+        {
+          "glyph": "ה",
+          "name": "he",
+          "exampleWord": "הר"
+        },
+        {
+          "glyph": "א",
+          "name": "alef",
+          "exampleWord": "אב"
+        },
+        {
+          "glyph": "ל",
+          "name": "lamed",
+          "exampleWord": "לב"
+        },
+        {
+          "glyph": "ק",
+          "name": "qof",
+          "exampleWord": "קיר"
+        },
+        {
+          "glyph": "ט",
+          "name": "tet",
+          "exampleWord": "טוב"
+        },
+        {
+          "glyph": "ר",
+          "name": "resh",
+          "exampleWord": "ראש"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alef'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'samekh'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'khet'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        }
+      ]
+    },
+    {
+      "id": "he-p1-l29",
+      "title": "חזרה 25",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ח",
+          "name": "khet",
+          "exampleWord": "חיה"
+        },
+        {
+          "glyph": "ו",
+          "name": "vav",
+          "exampleWord": "ורד"
+        },
+        {
+          "glyph": "ל",
+          "name": "lamed",
+          "exampleWord": "לב"
+        },
+        {
+          "glyph": "נ",
+          "name": "nun",
+          "exampleWord": "נר"
+        },
+        {
+          "glyph": "ת",
+          "name": "tav",
+          "exampleWord": "תורה"
+        },
+        {
+          "glyph": "מ",
+          "name": "mem",
+          "exampleWord": "מים"
+        },
+        {
+          "glyph": "ג",
+          "name": "gimel",
+          "exampleWord": "גמל"
+        },
+        {
+          "glyph": "י",
+          "name": "yod",
+          "exampleWord": "יד"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'khet'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'shin'?",
+          "options": [
+            "ש",
+            "ת",
+            "ת",
+            "ת"
+          ],
+          "answer": "ש"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'samekh'?",
+          "options": [
+            "ס",
+            "ע",
+            "פ",
+            "צ"
+          ],
+          "answer": "ס"
+        }
+      ]
+    },
+    {
+      "id": "he-p1-l30",
+      "title": "חזרה 26",
+      "type": "letters",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ת",
+          "name": "tav",
+          "exampleWord": "תורה"
+        },
+        {
+          "glyph": "נ",
+          "name": "nun",
+          "exampleWord": "נר"
+        },
+        {
+          "glyph": "ל",
+          "name": "lamed",
+          "exampleWord": "לב"
+        },
+        {
+          "glyph": "ו",
+          "name": "vav",
+          "exampleWord": "ורד"
+        },
+        {
+          "glyph": "ב",
+          "name": "bet",
+          "exampleWord": "בית"
+        },
+        {
+          "glyph": "ש",
+          "name": "shin",
+          "exampleWord": "שלום"
+        },
+        {
+          "glyph": "ק",
+          "name": "qof",
+          "exampleWord": "קיר"
+        },
+        {
+          "glyph": "י",
+          "name": "yod",
+          "exampleWord": "יד"
+        },
+        {
+          "glyph": "ע",
+          "name": "ayin",
+          "exampleWord": "עין"
+        },
+        {
+          "glyph": "ז",
+          "name": "zayin",
+          "exampleWord": "זית"
+        },
+        {
+          "glyph": "ח",
+          "name": "khet",
+          "exampleWord": "חיה"
+        },
+        {
+          "glyph": "ס",
+          "name": "samekh",
+          "exampleWord": "ספר"
+        },
+        {
+          "glyph": "ט",
+          "name": "tet",
+          "exampleWord": "טוב"
+        },
+        {
+          "glyph": "ד",
+          "name": "dalet",
+          "exampleWord": "דלת"
+        },
+        {
+          "glyph": "א",
+          "name": "alef",
+          "exampleWord": "אב"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'khet'?",
+          "options": [
+            "ח",
+            "ט",
+            "י",
+            "כ"
+          ],
+          "answer": "ח"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'shin'?",
+          "options": [
+            "ש",
+            "ת",
+            "ת",
+            "ת"
+          ],
+          "answer": "ש"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which letter is 'alef'?",
+          "options": [
+            "א",
+            "ב",
+            "ג",
+            "ד"
+          ],
+          "answer": "א"
+        }
+      ]
     }
   ]
 }

@@ -2327,6 +2327,5584 @@
           "answer": "मैं"
         }
       ]
+    },
+    {
+      "id": "hi-p2-l41",
+      "title": "समीक्षा 1",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "परिवार",
+          "name": "parivar",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "पति",
+          "name": "pati",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "चाची",
+          "name": "chachi",
+          "exampleWord": "father’s younger bro’s wife"
+        },
+        {
+          "glyph": "मौसी",
+          "name": "mausi",
+          "exampleWord": "maternal aunt"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "बेटी",
+          "name": "beti",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "वह",
+          "name": "vah",
+          "exampleWord": "he/she (distal)"
+        },
+        {
+          "glyph": "मैं",
+          "name": "main",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "भाई",
+          "name": "bhai",
+          "exampleWord": "brother"
+        },
+        {
+          "glyph": "माँ",
+          "name": "maa",
+          "exampleWord": "mother"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "मैं",
+            "तू",
+            "तुम",
+            "आप"
+          ],
+          "answer": "मैं"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "मैं",
+            "तू",
+            "तुम",
+            "आप"
+          ],
+          "answer": "मैं"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l42",
+      "title": "समीक्षा 2",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "उनका",
+          "name": "unka",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "नाना",
+          "name": "nana",
+          "exampleWord": "maternal grandfather"
+        },
+        {
+          "glyph": "मामा",
+          "name": "mama",
+          "exampleWord": "maternal uncle"
+        },
+        {
+          "glyph": "उनका",
+          "name": "unka",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "हमारा",
+          "name": "hamara",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "पत्नी",
+          "name": "patni",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "चाची",
+          "name": "chachi",
+          "exampleWord": "father’s younger bro’s wife"
+        },
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "मैं",
+            "तू",
+            "तुम",
+            "आप"
+          ],
+          "answer": "मैं"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l43",
+      "title": "समीक्षा 3",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "हम",
+          "name": "ham",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "बहन",
+          "name": "bahan",
+          "exampleWord": "sister"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "भाई",
+          "name": "bhai",
+          "exampleWord": "brother"
+        },
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "मौसी",
+          "name": "mausi",
+          "exampleWord": "maternal aunt"
+        },
+        {
+          "glyph": "मैं",
+          "name": "main",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "मौसी",
+          "name": "mausi",
+          "exampleWord": "maternal aunt"
+        },
+        {
+          "glyph": "पिता",
+          "name": "pita",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "बेटा",
+          "name": "beta",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "दादा",
+          "name": "dada",
+          "exampleWord": "paternal grandfather"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "मैं",
+            "तू",
+            "तुम",
+            "आप"
+          ],
+          "answer": "मैं"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l44",
+      "title": "समीक्षा 4",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "चाचा",
+          "name": "chacha",
+          "exampleWord": "father’s younger bro"
+        },
+        {
+          "glyph": "माँ",
+          "name": "maa",
+          "exampleWord": "mother"
+        },
+        {
+          "glyph": "बेटा",
+          "name": "beta",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "उनका",
+          "name": "unka",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "उनका",
+          "name": "unka",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "यह",
+          "name": "yah",
+          "exampleWord": "he/she (proximal)"
+        },
+        {
+          "glyph": "तुम्हारा",
+          "name": "tumhara",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "यह",
+          "name": "yah",
+          "exampleWord": "he/she (proximal)"
+        },
+        {
+          "glyph": "बेटी",
+          "name": "beti",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "चाचा",
+          "name": "chacha",
+          "exampleWord": "father’s younger bro"
+        },
+        {
+          "glyph": "तुम्हारा",
+          "name": "tumhara",
+          "exampleWord": "your"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "मैं",
+            "तू",
+            "तुम",
+            "आप"
+          ],
+          "answer": "मैं"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l45",
+      "title": "समीक्षा 5",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "परिवार",
+          "name": "parivar",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "तू",
+          "name": "tu",
+          "exampleWord": "you (informal)"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "वे",
+          "name": "ve",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "मामा",
+          "name": "mama",
+          "exampleWord": "maternal uncle"
+        },
+        {
+          "glyph": "दादा",
+          "name": "dada",
+          "exampleWord": "paternal grandfather"
+        },
+        {
+          "glyph": "बेटा",
+          "name": "beta",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "बेटी",
+          "name": "beti",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "भाई",
+          "name": "bhai",
+          "exampleWord": "brother"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "तुम्हारा",
+          "name": "tumhara",
+          "exampleWord": "your"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "मैं",
+            "तू",
+            "तुम",
+            "आप"
+          ],
+          "answer": "मैं"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l46",
+      "title": "समीक्षा 6",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "मौसी",
+          "name": "mausi",
+          "exampleWord": "maternal aunt"
+        },
+        {
+          "glyph": "तुम्हारा",
+          "name": "tumhara",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "वे",
+          "name": "ve",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "मैं",
+          "name": "main",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "पति",
+          "name": "pati",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "बेटा",
+          "name": "beta",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "आपका",
+          "name": "aapka",
+          "exampleWord": "your (formal)"
+        },
+        {
+          "glyph": "नाना",
+          "name": "nana",
+          "exampleWord": "maternal grandfather"
+        },
+        {
+          "glyph": "हम",
+          "name": "ham",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "मामा",
+          "name": "mama",
+          "exampleWord": "maternal uncle"
+        },
+        {
+          "glyph": "बेटी",
+          "name": "beti",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "हमारा",
+          "name": "hamara",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "मैं",
+            "तू",
+            "तुम",
+            "आप"
+          ],
+          "answer": "मैं"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "माँ",
+            "पिता",
+            "भाई",
+            "बहन"
+          ],
+          "answer": "माँ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l47",
+      "title": "समीक्षा 7",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "दादी",
+          "name": "dadi",
+          "exampleWord": "paternal grandmother"
+        },
+        {
+          "glyph": "बहन",
+          "name": "bahan",
+          "exampleWord": "sister"
+        },
+        {
+          "glyph": "पिता",
+          "name": "pita",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "यह",
+          "name": "yah",
+          "exampleWord": "he/she (proximal)"
+        },
+        {
+          "glyph": "भाई",
+          "name": "bhai",
+          "exampleWord": "brother"
+        },
+        {
+          "glyph": "नाना",
+          "name": "nana",
+          "exampleWord": "maternal grandfather"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "भाई",
+          "name": "bhai",
+          "exampleWord": "brother"
+        },
+        {
+          "glyph": "मामा",
+          "name": "mama",
+          "exampleWord": "maternal uncle"
+        },
+        {
+          "glyph": "वह",
+          "name": "vah",
+          "exampleWord": "he/she (distal)"
+        },
+        {
+          "glyph": "परिवार",
+          "name": "parivar",
+          "exampleWord": "family"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l48",
+      "title": "समीक्षा 8",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "तू",
+          "name": "tu",
+          "exampleWord": "you (informal)"
+        },
+        {
+          "glyph": "बहन",
+          "name": "bahan",
+          "exampleWord": "sister"
+        },
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "दादी",
+          "name": "dadi",
+          "exampleWord": "paternal grandmother"
+        },
+        {
+          "glyph": "हम",
+          "name": "ham",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "तू",
+          "name": "tu",
+          "exampleWord": "you (informal)"
+        },
+        {
+          "glyph": "मौसी",
+          "name": "mausi",
+          "exampleWord": "maternal aunt"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "माँ",
+            "पिता",
+            "भाई",
+            "बहन"
+          ],
+          "answer": "माँ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l49",
+      "title": "समीक्षा 9",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "बेटी",
+          "name": "beti",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "मौसी",
+          "name": "mausi",
+          "exampleWord": "maternal aunt"
+        },
+        {
+          "glyph": "उनका",
+          "name": "unka",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "दादी",
+          "name": "dadi",
+          "exampleWord": "paternal grandmother"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "यह",
+          "name": "yah",
+          "exampleWord": "he/she (proximal)"
+        },
+        {
+          "glyph": "वे",
+          "name": "ve",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "पत्नी",
+          "name": "patni",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l50",
+      "title": "समीक्षा 10",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "वह",
+          "name": "vah",
+          "exampleWord": "he/she (distal)"
+        },
+        {
+          "glyph": "मैं",
+          "name": "main",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "मौसी",
+          "name": "mausi",
+          "exampleWord": "maternal aunt"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "दादा",
+          "name": "dada",
+          "exampleWord": "paternal grandfather"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "माँ",
+            "पिता",
+            "भाई",
+            "बहन"
+          ],
+          "answer": "माँ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l51",
+      "title": "समीक्षा 11",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "मैं",
+          "name": "main",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "परिवार",
+          "name": "parivar",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "यह",
+          "name": "yah",
+          "exampleWord": "he/she (proximal)"
+        },
+        {
+          "glyph": "चाची",
+          "name": "chachi",
+          "exampleWord": "father’s younger bro’s wife"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "हमारा",
+          "name": "hamara",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "बेटी",
+          "name": "beti",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "पति",
+          "name": "pati",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "बेटी",
+          "name": "beti",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "चाची",
+          "name": "chachi",
+          "exampleWord": "father’s younger bro’s wife"
+        },
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "पत्नी",
+          "name": "patni",
+          "exampleWord": "wife"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l52",
+      "title": "समीक्षा 12",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "दादा",
+          "name": "dada",
+          "exampleWord": "paternal grandfather"
+        },
+        {
+          "glyph": "परिवार",
+          "name": "parivar",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "मौसी",
+          "name": "mausi",
+          "exampleWord": "maternal aunt"
+        },
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "मामा",
+          "name": "mama",
+          "exampleWord": "maternal uncle"
+        },
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "पति",
+          "name": "pati",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "उसका",
+          "name": "uska",
+          "exampleWord": "his/her"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "मामा",
+          "name": "mama",
+          "exampleWord": "maternal uncle"
+        },
+        {
+          "glyph": "बहन",
+          "name": "bahan",
+          "exampleWord": "sister"
+        },
+        {
+          "glyph": "दादी",
+          "name": "dadi",
+          "exampleWord": "paternal grandmother"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "माँ",
+            "पिता",
+            "भाई",
+            "बहन"
+          ],
+          "answer": "माँ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "माँ",
+            "पिता",
+            "भाई",
+            "बहन"
+          ],
+          "answer": "माँ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l53",
+      "title": "समीक्षा 13",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "तुम्हारा",
+          "name": "tumhara",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "तू",
+          "name": "tu",
+          "exampleWord": "you (informal)"
+        },
+        {
+          "glyph": "बेटा",
+          "name": "beta",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "भाई",
+          "name": "bhai",
+          "exampleWord": "brother"
+        },
+        {
+          "glyph": "उनका",
+          "name": "unka",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "दादी",
+          "name": "dadi",
+          "exampleWord": "paternal grandmother"
+        },
+        {
+          "glyph": "दादा",
+          "name": "dada",
+          "exampleWord": "paternal grandfather"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "मैं",
+            "तू",
+            "तुम",
+            "आप"
+          ],
+          "answer": "मैं"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "माँ",
+            "पिता",
+            "भाई",
+            "बहन"
+          ],
+          "answer": "माँ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l54",
+      "title": "समीक्षा 14",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "यह",
+          "name": "yah",
+          "exampleWord": "he/she (proximal)"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "बेटी",
+          "name": "beti",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "पिता",
+          "name": "pita",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "वह",
+          "name": "vah",
+          "exampleWord": "he/she (distal)"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "नाना",
+          "name": "nana",
+          "exampleWord": "maternal grandfather"
+        },
+        {
+          "glyph": "मैं",
+          "name": "main",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "मौसी",
+          "name": "mausi",
+          "exampleWord": "maternal aunt"
+        },
+        {
+          "glyph": "नाना",
+          "name": "nana",
+          "exampleWord": "maternal grandfather"
+        },
+        {
+          "glyph": "बहन",
+          "name": "bahan",
+          "exampleWord": "sister"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "माँ",
+            "पिता",
+            "भाई",
+            "बहन"
+          ],
+          "answer": "माँ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l55",
+      "title": "समीक्षा 15",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "दादा",
+          "name": "dada",
+          "exampleWord": "paternal grandfather"
+        },
+        {
+          "glyph": "पत्नी",
+          "name": "patni",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "बेटी",
+          "name": "beti",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "नाना",
+          "name": "nana",
+          "exampleWord": "maternal grandfather"
+        },
+        {
+          "glyph": "पति",
+          "name": "pati",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "वह",
+          "name": "vah",
+          "exampleWord": "he/she (distal)"
+        },
+        {
+          "glyph": "आपका",
+          "name": "aapka",
+          "exampleWord": "your (formal)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "मैं",
+            "तू",
+            "तुम",
+            "आप"
+          ],
+          "answer": "मैं"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l56",
+      "title": "समीक्षा 16",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "बेटा",
+          "name": "beta",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "हमारा",
+          "name": "hamara",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "उसका",
+          "name": "uska",
+          "exampleWord": "his/her"
+        },
+        {
+          "glyph": "मैं",
+          "name": "main",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "तुम्हारा",
+          "name": "tumhara",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "वे",
+          "name": "ve",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "मैं",
+            "तू",
+            "तुम",
+            "आप"
+          ],
+          "answer": "मैं"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "मैं",
+            "तू",
+            "तुम",
+            "आप"
+          ],
+          "answer": "मैं"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l57",
+      "title": "समीक्षा 17",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "हम",
+          "name": "ham",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "पत्नी",
+          "name": "patni",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "पति",
+          "name": "pati",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "उनका",
+          "name": "unka",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "मैं",
+          "name": "main",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "तुम्हारा",
+          "name": "tumhara",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "दादी",
+          "name": "dadi",
+          "exampleWord": "paternal grandmother"
+        },
+        {
+          "glyph": "तुम्हारा",
+          "name": "tumhara",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "बेटी",
+          "name": "beti",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "वह",
+          "name": "vah",
+          "exampleWord": "he/she (distal)"
+        },
+        {
+          "glyph": "बेटा",
+          "name": "beta",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "माँ",
+          "name": "maa",
+          "exampleWord": "mother"
+        },
+        {
+          "glyph": "दादा",
+          "name": "dada",
+          "exampleWord": "paternal grandfather"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l58",
+      "title": "समीक्षा 18",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "पत्नी",
+          "name": "patni",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "नाना",
+          "name": "nana",
+          "exampleWord": "maternal grandfather"
+        },
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "उनका",
+          "name": "unka",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "मामा",
+          "name": "mama",
+          "exampleWord": "maternal uncle"
+        },
+        {
+          "glyph": "भाई",
+          "name": "bhai",
+          "exampleWord": "brother"
+        },
+        {
+          "glyph": "हमारा",
+          "name": "hamara",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "माँ",
+          "name": "maa",
+          "exampleWord": "mother"
+        },
+        {
+          "glyph": "मामा",
+          "name": "mama",
+          "exampleWord": "maternal uncle"
+        },
+        {
+          "glyph": "पिता",
+          "name": "pita",
+          "exampleWord": "father"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "मैं",
+            "तू",
+            "तुम",
+            "आप"
+          ],
+          "answer": "मैं"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l59",
+      "title": "समीक्षा 19",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "तुम्हारा",
+          "name": "tumhara",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "बेटी",
+          "name": "beti",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "पत्नी",
+          "name": "patni",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "हमारा",
+          "name": "hamara",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "बेटा",
+          "name": "beta",
+          "exampleWord": "son"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "मैं",
+            "तू",
+            "तुम",
+            "आप"
+          ],
+          "answer": "मैं"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l60",
+      "title": "समीक्षा 20",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "हमारा",
+          "name": "hamara",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "दादा",
+          "name": "dada",
+          "exampleWord": "paternal grandfather"
+        },
+        {
+          "glyph": "पिता",
+          "name": "pita",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "पति",
+          "name": "pati",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "पति",
+          "name": "pati",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "पत्नी",
+          "name": "patni",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "आपका",
+          "name": "aapka",
+          "exampleWord": "your (formal)"
+        },
+        {
+          "glyph": "पिता",
+          "name": "pita",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "बेटा",
+          "name": "beta",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "दादा",
+          "name": "dada",
+          "exampleWord": "paternal grandfather"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "माँ",
+            "पिता",
+            "भाई",
+            "बहन"
+          ],
+          "answer": "माँ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "माँ",
+            "पिता",
+            "भाई",
+            "बहन"
+          ],
+          "answer": "माँ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l61",
+      "title": "समीक्षा 21",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "बहन",
+          "name": "bahan",
+          "exampleWord": "sister"
+        },
+        {
+          "glyph": "तू",
+          "name": "tu",
+          "exampleWord": "you (informal)"
+        },
+        {
+          "glyph": "चाची",
+          "name": "chachi",
+          "exampleWord": "father’s younger bro’s wife"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "मैं",
+          "name": "main",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "वे",
+          "name": "ve",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "चाचा",
+          "name": "chacha",
+          "exampleWord": "father’s younger bro"
+        },
+        {
+          "glyph": "मामा",
+          "name": "mama",
+          "exampleWord": "maternal uncle"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "माँ",
+            "पिता",
+            "भाई",
+            "बहन"
+          ],
+          "answer": "माँ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "माँ",
+            "पिता",
+            "भाई",
+            "बहन"
+          ],
+          "answer": "माँ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l62",
+      "title": "समीक्षा 22",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "हमारा",
+          "name": "hamara",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "आपका",
+          "name": "aapka",
+          "exampleWord": "your (formal)"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "पत्नी",
+          "name": "patni",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "वह",
+          "name": "vah",
+          "exampleWord": "he/she (distal)"
+        },
+        {
+          "glyph": "दादी",
+          "name": "dadi",
+          "exampleWord": "paternal grandmother"
+        },
+        {
+          "glyph": "आपका",
+          "name": "aapka",
+          "exampleWord": "your (formal)"
+        },
+        {
+          "glyph": "पत्नी",
+          "name": "patni",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "मामा",
+          "name": "mama",
+          "exampleWord": "maternal uncle"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "दादा",
+          "name": "dada",
+          "exampleWord": "paternal grandfather"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "माँ",
+            "पिता",
+            "भाई",
+            "बहन"
+          ],
+          "answer": "माँ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "मैं",
+            "तू",
+            "तुम",
+            "आप"
+          ],
+          "answer": "मैं"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l63",
+      "title": "समीक्षा 23",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "मेरा",
+          "name": "mera",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "नाना",
+          "name": "nana",
+          "exampleWord": "maternal grandfather"
+        },
+        {
+          "glyph": "पिता",
+          "name": "pita",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "पत्नी",
+          "name": "patni",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "यह",
+          "name": "yah",
+          "exampleWord": "he/she (proximal)"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "हमारा",
+          "name": "hamara",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "आपका",
+          "name": "aapka",
+          "exampleWord": "your (formal)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "माँ",
+            "पिता",
+            "भाई",
+            "बहन"
+          ],
+          "answer": "माँ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l64",
+      "title": "समीक्षा 24",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "हमारा",
+          "name": "hamara",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "बेटा",
+          "name": "beta",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "मैं",
+          "name": "main",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "बेटी",
+          "name": "beti",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "दादी",
+          "name": "dadi",
+          "exampleWord": "paternal grandmother"
+        },
+        {
+          "glyph": "चाचा",
+          "name": "chacha",
+          "exampleWord": "father’s younger bro"
+        },
+        {
+          "glyph": "हम",
+          "name": "ham",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "दादी",
+          "name": "dadi",
+          "exampleWord": "paternal grandmother"
+        },
+        {
+          "glyph": "तुम्हारा",
+          "name": "tumhara",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "मेरा",
+          "name": "mera",
+          "exampleWord": "my"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "माँ",
+            "पिता",
+            "भाई",
+            "बहन"
+          ],
+          "answer": "माँ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l65",
+      "title": "समीक्षा 25",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "तुम्हारा",
+          "name": "tumhara",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "वह",
+          "name": "vah",
+          "exampleWord": "he/she (distal)"
+        },
+        {
+          "glyph": "मौसी",
+          "name": "mausi",
+          "exampleWord": "maternal aunt"
+        },
+        {
+          "glyph": "उसका",
+          "name": "uska",
+          "exampleWord": "his/her"
+        },
+        {
+          "glyph": "वे",
+          "name": "ve",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "तुम्हारा",
+          "name": "tumhara",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "चाचा",
+          "name": "chacha",
+          "exampleWord": "father’s younger bro"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "पिता",
+          "name": "pita",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "चाचा",
+          "name": "chacha",
+          "exampleWord": "father’s younger bro"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "माँ",
+            "पिता",
+            "भाई",
+            "बहन"
+          ],
+          "answer": "माँ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l66",
+      "title": "समीक्षा 26",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "मौसी",
+          "name": "mausi",
+          "exampleWord": "maternal aunt"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "पिता",
+          "name": "pita",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "वह",
+          "name": "vah",
+          "exampleWord": "he/she (distal)"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "उसका",
+          "name": "uska",
+          "exampleWord": "his/her"
+        },
+        {
+          "glyph": "मैं",
+          "name": "main",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "पिता",
+          "name": "pita",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "उसका",
+          "name": "uska",
+          "exampleWord": "his/her"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "माँ",
+            "पिता",
+            "भाई",
+            "बहन"
+          ],
+          "answer": "माँ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "माँ",
+            "पिता",
+            "भाई",
+            "बहन"
+          ],
+          "answer": "माँ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l67",
+      "title": "समीक्षा 27",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "यह",
+          "name": "yah",
+          "exampleWord": "he/she (proximal)"
+        },
+        {
+          "glyph": "वह",
+          "name": "vah",
+          "exampleWord": "he/she (distal)"
+        },
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "नाना",
+          "name": "nana",
+          "exampleWord": "maternal grandfather"
+        },
+        {
+          "glyph": "आपका",
+          "name": "aapka",
+          "exampleWord": "your (formal)"
+        },
+        {
+          "glyph": "मौसी",
+          "name": "mausi",
+          "exampleWord": "maternal aunt"
+        },
+        {
+          "glyph": "वे",
+          "name": "ve",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "नाना",
+          "name": "nana",
+          "exampleWord": "maternal grandfather"
+        },
+        {
+          "glyph": "बहन",
+          "name": "bahan",
+          "exampleWord": "sister"
+        },
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "मैं",
+            "तू",
+            "तुम",
+            "आप"
+          ],
+          "answer": "मैं"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "माँ",
+            "पिता",
+            "भाई",
+            "बहन"
+          ],
+          "answer": "माँ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l68",
+      "title": "समीक्षा 28",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "वह",
+          "name": "vah",
+          "exampleWord": "he/she (distal)"
+        },
+        {
+          "glyph": "मैं",
+          "name": "main",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "बहन",
+          "name": "bahan",
+          "exampleWord": "sister"
+        },
+        {
+          "glyph": "चाची",
+          "name": "chachi",
+          "exampleWord": "father’s younger bro’s wife"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "नाना",
+          "name": "nana",
+          "exampleWord": "maternal grandfather"
+        },
+        {
+          "glyph": "बेटा",
+          "name": "beta",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "तू",
+          "name": "tu",
+          "exampleWord": "you (informal)"
+        },
+        {
+          "glyph": "मैं",
+          "name": "main",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l69",
+      "title": "समीक्षा 29",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "तू",
+          "name": "tu",
+          "exampleWord": "you (informal)"
+        },
+        {
+          "glyph": "यह",
+          "name": "yah",
+          "exampleWord": "he/she (proximal)"
+        },
+        {
+          "glyph": "हमारा",
+          "name": "hamara",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "मेरा",
+          "name": "mera",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "भाई",
+          "name": "bhai",
+          "exampleWord": "brother"
+        },
+        {
+          "glyph": "दादी",
+          "name": "dadi",
+          "exampleWord": "paternal grandmother"
+        },
+        {
+          "glyph": "दादी",
+          "name": "dadi",
+          "exampleWord": "paternal grandmother"
+        },
+        {
+          "glyph": "बेटा",
+          "name": "beta",
+          "exampleWord": "son"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "मैं",
+            "तू",
+            "तुम",
+            "आप"
+          ],
+          "answer": "मैं"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l70",
+      "title": "समीक्षा 30",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "वह",
+          "name": "vah",
+          "exampleWord": "he/she (distal)"
+        },
+        {
+          "glyph": "हमारा",
+          "name": "hamara",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "पिता",
+          "name": "pita",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "मौसी",
+          "name": "mausi",
+          "exampleWord": "maternal aunt"
+        },
+        {
+          "glyph": "वे",
+          "name": "ve",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "परिवार",
+          "name": "parivar",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "उनका",
+          "name": "unka",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l71",
+      "title": "समीक्षा 31",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "मैं",
+          "name": "main",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "बेटी",
+          "name": "beti",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "दादी",
+          "name": "dadi",
+          "exampleWord": "paternal grandmother"
+        },
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "यह",
+          "name": "yah",
+          "exampleWord": "he/she (proximal)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l72",
+      "title": "समीक्षा 32",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "दादा",
+          "name": "dada",
+          "exampleWord": "paternal grandfather"
+        },
+        {
+          "glyph": "पत्नी",
+          "name": "patni",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "बेटा",
+          "name": "beta",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "दादा",
+          "name": "dada",
+          "exampleWord": "paternal grandfather"
+        },
+        {
+          "glyph": "मैं",
+          "name": "main",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "मौसी",
+          "name": "mausi",
+          "exampleWord": "maternal aunt"
+        },
+        {
+          "glyph": "मेरा",
+          "name": "mera",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "बेटी",
+          "name": "beti",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "मामा",
+          "name": "mama",
+          "exampleWord": "maternal uncle"
+        },
+        {
+          "glyph": "दादी",
+          "name": "dadi",
+          "exampleWord": "paternal grandmother"
+        },
+        {
+          "glyph": "बेटी",
+          "name": "beti",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "मैं",
+            "तू",
+            "तुम",
+            "आप"
+          ],
+          "answer": "मैं"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l73",
+      "title": "समीक्षा 33",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "तू",
+          "name": "tu",
+          "exampleWord": "you (informal)"
+        },
+        {
+          "glyph": "पति",
+          "name": "pati",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "परिवार",
+          "name": "parivar",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "मामा",
+          "name": "mama",
+          "exampleWord": "maternal uncle"
+        },
+        {
+          "glyph": "पिता",
+          "name": "pita",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "हम",
+          "name": "ham",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "बेटा",
+          "name": "beta",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "माँ",
+            "पिता",
+            "भाई",
+            "बहन"
+          ],
+          "answer": "माँ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l74",
+      "title": "समीक्षा 34",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "तुम्हारा",
+          "name": "tumhara",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "मैं",
+          "name": "main",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "मौसी",
+          "name": "mausi",
+          "exampleWord": "maternal aunt"
+        },
+        {
+          "glyph": "उनका",
+          "name": "unka",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "मामा",
+          "name": "mama",
+          "exampleWord": "maternal uncle"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "मामा",
+          "name": "mama",
+          "exampleWord": "maternal uncle"
+        },
+        {
+          "glyph": "पिता",
+          "name": "pita",
+          "exampleWord": "father"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "मैं",
+            "तू",
+            "तुम",
+            "आप"
+          ],
+          "answer": "मैं"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l75",
+      "title": "समीक्षा 35",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "तुम्हारा",
+          "name": "tumhara",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "दादी",
+          "name": "dadi",
+          "exampleWord": "paternal grandmother"
+        },
+        {
+          "glyph": "मामा",
+          "name": "mama",
+          "exampleWord": "maternal uncle"
+        },
+        {
+          "glyph": "भाई",
+          "name": "bhai",
+          "exampleWord": "brother"
+        },
+        {
+          "glyph": "तू",
+          "name": "tu",
+          "exampleWord": "you (informal)"
+        },
+        {
+          "glyph": "हमारा",
+          "name": "hamara",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "मामा",
+          "name": "mama",
+          "exampleWord": "maternal uncle"
+        },
+        {
+          "glyph": "मेरा",
+          "name": "mera",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "दादी",
+          "name": "dadi",
+          "exampleWord": "paternal grandmother"
+        },
+        {
+          "glyph": "पिता",
+          "name": "pita",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "बहन",
+          "name": "bahan",
+          "exampleWord": "sister"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "माँ",
+            "पिता",
+            "भाई",
+            "बहन"
+          ],
+          "answer": "माँ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l76",
+      "title": "समीक्षा 36",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "माँ",
+          "name": "maa",
+          "exampleWord": "mother"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "उसका",
+          "name": "uska",
+          "exampleWord": "his/her"
+        },
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "पति",
+          "name": "pati",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "नाना",
+          "name": "nana",
+          "exampleWord": "maternal grandfather"
+        },
+        {
+          "glyph": "तुम्हारा",
+          "name": "tumhara",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "उसका",
+          "name": "uska",
+          "exampleWord": "his/her"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l77",
+      "title": "समीक्षा 37",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "हम",
+          "name": "ham",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "तुम्हारा",
+          "name": "tumhara",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "उसका",
+          "name": "uska",
+          "exampleWord": "his/her"
+        },
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "तू",
+          "name": "tu",
+          "exampleWord": "you (informal)"
+        },
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "मैं",
+          "name": "main",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "मौसी",
+          "name": "mausi",
+          "exampleWord": "maternal aunt"
+        },
+        {
+          "glyph": "दादी",
+          "name": "dadi",
+          "exampleWord": "paternal grandmother"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "पत्नी",
+          "name": "patni",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "पिता",
+          "name": "pita",
+          "exampleWord": "father"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "माँ",
+            "पिता",
+            "भाई",
+            "बहन"
+          ],
+          "answer": "माँ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "मैं",
+            "तू",
+            "तुम",
+            "आप"
+          ],
+          "answer": "मैं"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l78",
+      "title": "समीक्षा 38",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "वह",
+          "name": "vah",
+          "exampleWord": "he/she (distal)"
+        },
+        {
+          "glyph": "हम",
+          "name": "ham",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "चाचा",
+          "name": "chacha",
+          "exampleWord": "father’s younger bro"
+        },
+        {
+          "glyph": "वह",
+          "name": "vah",
+          "exampleWord": "he/she (distal)"
+        },
+        {
+          "glyph": "परिवार",
+          "name": "parivar",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "पत्नी",
+          "name": "patni",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "चाचा",
+          "name": "chacha",
+          "exampleWord": "father’s younger bro"
+        },
+        {
+          "glyph": "पति",
+          "name": "pati",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "पति",
+          "name": "pati",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "हमारा",
+          "name": "hamara",
+          "exampleWord": "our"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "माँ",
+            "पिता",
+            "भाई",
+            "बहन"
+          ],
+          "answer": "माँ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "मैं",
+            "तू",
+            "तुम",
+            "आप"
+          ],
+          "answer": "मैं"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l79",
+      "title": "समीक्षा 39",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "बेटी",
+          "name": "beti",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "उसका",
+          "name": "uska",
+          "exampleWord": "his/her"
+        },
+        {
+          "glyph": "वह",
+          "name": "vah",
+          "exampleWord": "he/she (distal)"
+        },
+        {
+          "glyph": "नाना",
+          "name": "nana",
+          "exampleWord": "maternal grandfather"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "उसका",
+          "name": "uska",
+          "exampleWord": "his/her"
+        },
+        {
+          "glyph": "उनका",
+          "name": "unka",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "मैं",
+            "तू",
+            "तुम",
+            "आप"
+          ],
+          "answer": "मैं"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "माँ",
+            "पिता",
+            "भाई",
+            "बहन"
+          ],
+          "answer": "माँ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l80",
+      "title": "समीक्षा 40",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "मेरा",
+          "name": "mera",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "मैं",
+          "name": "main",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "भाई",
+          "name": "bhai",
+          "exampleWord": "brother"
+        },
+        {
+          "glyph": "बेटा",
+          "name": "beta",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "माँ",
+          "name": "maa",
+          "exampleWord": "mother"
+        },
+        {
+          "glyph": "मामा",
+          "name": "mama",
+          "exampleWord": "maternal uncle"
+        },
+        {
+          "glyph": "पत्नी",
+          "name": "patni",
+          "exampleWord": "wife"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l81",
+      "title": "समीक्षा 41",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "वे",
+          "name": "ve",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "मैं",
+          "name": "main",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "परिवार",
+          "name": "parivar",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "पत्नी",
+          "name": "patni",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "चाचा",
+          "name": "chacha",
+          "exampleWord": "father’s younger bro"
+        },
+        {
+          "glyph": "मैं",
+          "name": "main",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "मामा",
+          "name": "mama",
+          "exampleWord": "maternal uncle"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "माँ",
+            "पिता",
+            "भाई",
+            "बहन"
+          ],
+          "answer": "माँ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l82",
+      "title": "समीक्षा 42",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "भाई",
+          "name": "bhai",
+          "exampleWord": "brother"
+        },
+        {
+          "glyph": "उनका",
+          "name": "unka",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "पत्नी",
+          "name": "patni",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "बेटा",
+          "name": "beta",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "वह",
+          "name": "vah",
+          "exampleWord": "he/she (distal)"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "मौसी",
+          "name": "mausi",
+          "exampleWord": "maternal aunt"
+        },
+        {
+          "glyph": "मेरा",
+          "name": "mera",
+          "exampleWord": "my"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "मैं",
+            "तू",
+            "तुम",
+            "आप"
+          ],
+          "answer": "मैं"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l83",
+      "title": "समीक्षा 43",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "मैं",
+          "name": "main",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "दादा",
+          "name": "dada",
+          "exampleWord": "paternal grandfather"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "पति",
+          "name": "pati",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "मौसी",
+          "name": "mausi",
+          "exampleWord": "maternal aunt"
+        },
+        {
+          "glyph": "हम",
+          "name": "ham",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "भाई",
+          "name": "bhai",
+          "exampleWord": "brother"
+        },
+        {
+          "glyph": "मौसी",
+          "name": "mausi",
+          "exampleWord": "maternal aunt"
+        },
+        {
+          "glyph": "यह",
+          "name": "yah",
+          "exampleWord": "he/she (proximal)"
+        },
+        {
+          "glyph": "बेटा",
+          "name": "beta",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "माँ",
+            "पिता",
+            "भाई",
+            "बहन"
+          ],
+          "answer": "माँ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l84",
+      "title": "समीक्षा 44",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "उनका",
+          "name": "unka",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "दादी",
+          "name": "dadi",
+          "exampleWord": "paternal grandmother"
+        },
+        {
+          "glyph": "तू",
+          "name": "tu",
+          "exampleWord": "you (informal)"
+        },
+        {
+          "glyph": "मैं",
+          "name": "main",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "चाचा",
+          "name": "chacha",
+          "exampleWord": "father’s younger bro"
+        },
+        {
+          "glyph": "मामा",
+          "name": "mama",
+          "exampleWord": "maternal uncle"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "बेटी",
+          "name": "beti",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "आपका",
+          "name": "aapka",
+          "exampleWord": "your (formal)"
+        },
+        {
+          "glyph": "परिवार",
+          "name": "parivar",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "बेटी",
+          "name": "beti",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "मैं",
+            "तू",
+            "तुम",
+            "आप"
+          ],
+          "answer": "मैं"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l85",
+      "title": "समीक्षा 45",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "तू",
+          "name": "tu",
+          "exampleWord": "you (informal)"
+        },
+        {
+          "glyph": "नाना",
+          "name": "nana",
+          "exampleWord": "maternal grandfather"
+        },
+        {
+          "glyph": "यह",
+          "name": "yah",
+          "exampleWord": "he/she (proximal)"
+        },
+        {
+          "glyph": "वे",
+          "name": "ve",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "तुम्हारा",
+          "name": "tumhara",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "मौसी",
+          "name": "mausi",
+          "exampleWord": "maternal aunt"
+        },
+        {
+          "glyph": "मौसी",
+          "name": "mausi",
+          "exampleWord": "maternal aunt"
+        },
+        {
+          "glyph": "दादी",
+          "name": "dadi",
+          "exampleWord": "paternal grandmother"
+        },
+        {
+          "glyph": "बहन",
+          "name": "bahan",
+          "exampleWord": "sister"
+        },
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l86",
+      "title": "समीक्षा 46",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "मामा",
+          "name": "mama",
+          "exampleWord": "maternal uncle"
+        },
+        {
+          "glyph": "तू",
+          "name": "tu",
+          "exampleWord": "you (informal)"
+        },
+        {
+          "glyph": "यह",
+          "name": "yah",
+          "exampleWord": "he/she (proximal)"
+        },
+        {
+          "glyph": "वह",
+          "name": "vah",
+          "exampleWord": "he/she (distal)"
+        },
+        {
+          "glyph": "मामा",
+          "name": "mama",
+          "exampleWord": "maternal uncle"
+        },
+        {
+          "glyph": "चाचा",
+          "name": "chacha",
+          "exampleWord": "father’s younger bro"
+        },
+        {
+          "glyph": "पत्नी",
+          "name": "patni",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "वे",
+          "name": "ve",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "पति",
+          "name": "pati",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "तू",
+          "name": "tu",
+          "exampleWord": "you (informal)"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "मैं",
+            "तू",
+            "तुम",
+            "आप"
+          ],
+          "answer": "मैं"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l87",
+      "title": "समीक्षा 47",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "यह",
+          "name": "yah",
+          "exampleWord": "he/she (proximal)"
+        },
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "बेटी",
+          "name": "beti",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "पत्नी",
+          "name": "patni",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "यह",
+          "name": "yah",
+          "exampleWord": "he/she (proximal)"
+        },
+        {
+          "glyph": "मामा",
+          "name": "mama",
+          "exampleWord": "maternal uncle"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "माँ",
+            "पिता",
+            "भाई",
+            "बहन"
+          ],
+          "answer": "माँ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "माँ",
+            "पिता",
+            "भाई",
+            "बहन"
+          ],
+          "answer": "माँ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l88",
+      "title": "समीक्षा 48",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "हमारा",
+          "name": "hamara",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "यह",
+          "name": "yah",
+          "exampleWord": "he/she (proximal)"
+        },
+        {
+          "glyph": "चाचा",
+          "name": "chacha",
+          "exampleWord": "father’s younger bro"
+        },
+        {
+          "glyph": "हम",
+          "name": "ham",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "हमारा",
+          "name": "hamara",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "मामा",
+          "name": "mama",
+          "exampleWord": "maternal uncle"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "बेटी",
+          "name": "beti",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "मैं",
+          "name": "main",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "हमारा",
+          "name": "hamara",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "यह",
+          "name": "yah",
+          "exampleWord": "he/she (proximal)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "मैं",
+            "तू",
+            "तुम",
+            "आप"
+          ],
+          "answer": "मैं"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l89",
+      "title": "समीक्षा 49",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "वे",
+          "name": "ve",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "तू",
+          "name": "tu",
+          "exampleWord": "you (informal)"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "तू",
+          "name": "tu",
+          "exampleWord": "you (informal)"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "हमारा",
+          "name": "hamara",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "दादी",
+          "name": "dadi",
+          "exampleWord": "paternal grandmother"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "दादा",
+          "name": "dada",
+          "exampleWord": "paternal grandfather"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l90",
+      "title": "समीक्षा 50",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "चाचा",
+          "name": "chacha",
+          "exampleWord": "father’s younger bro"
+        },
+        {
+          "glyph": "पत्नी",
+          "name": "patni",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "मेरा",
+          "name": "mera",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "तू",
+          "name": "tu",
+          "exampleWord": "you (informal)"
+        },
+        {
+          "glyph": "बेटी",
+          "name": "beti",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "मामा",
+          "name": "mama",
+          "exampleWord": "maternal uncle"
+        },
+        {
+          "glyph": "परिवार",
+          "name": "parivar",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "वे",
+          "name": "ve",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "हम",
+          "name": "ham",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "बेटी",
+          "name": "beti",
+          "exampleWord": "daughter"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l91",
+      "title": "समीक्षा 51",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "तुम्हारा",
+          "name": "tumhara",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "पत्नी",
+          "name": "patni",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "हम",
+          "name": "ham",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "दादा",
+          "name": "dada",
+          "exampleWord": "paternal grandfather"
+        },
+        {
+          "glyph": "परिवार",
+          "name": "parivar",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "मेरा",
+          "name": "mera",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "नाना",
+          "name": "nana",
+          "exampleWord": "maternal grandfather"
+        },
+        {
+          "glyph": "हम",
+          "name": "ham",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "मामा",
+          "name": "mama",
+          "exampleWord": "maternal uncle"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "माँ",
+            "पिता",
+            "भाई",
+            "बहन"
+          ],
+          "answer": "माँ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l92",
+      "title": "समीक्षा 52",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "बहन",
+          "name": "bahan",
+          "exampleWord": "sister"
+        },
+        {
+          "glyph": "मौसी",
+          "name": "mausi",
+          "exampleWord": "maternal aunt"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "हम",
+          "name": "ham",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "आपका",
+          "name": "aapka",
+          "exampleWord": "your (formal)"
+        },
+        {
+          "glyph": "पिता",
+          "name": "pita",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "माँ",
+          "name": "maa",
+          "exampleWord": "mother"
+        },
+        {
+          "glyph": "पत्नी",
+          "name": "patni",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "यह",
+          "name": "yah",
+          "exampleWord": "he/she (proximal)"
+        },
+        {
+          "glyph": "उनका",
+          "name": "unka",
+          "exampleWord": "their"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "मैं",
+            "तू",
+            "तुम",
+            "आप"
+          ],
+          "answer": "मैं"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l93",
+      "title": "समीक्षा 53",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "मेरा",
+          "name": "mera",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "बेटी",
+          "name": "beti",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "उनका",
+          "name": "unka",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "हम",
+          "name": "ham",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "उनका",
+          "name": "unka",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "परिवार",
+          "name": "parivar",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "तुम्हारा",
+          "name": "tumhara",
+          "exampleWord": "your"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "मैं",
+            "तू",
+            "तुम",
+            "आप"
+          ],
+          "answer": "मैं"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l94",
+      "title": "समीक्षा 54",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "मौसी",
+          "name": "mausi",
+          "exampleWord": "maternal aunt"
+        },
+        {
+          "glyph": "यह",
+          "name": "yah",
+          "exampleWord": "he/she (proximal)"
+        },
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "परिवार",
+          "name": "parivar",
+          "exampleWord": "family"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "पत्नी",
+          "name": "patni",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "मेरा",
+          "name": "mera",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "मैं",
+          "name": "main",
+          "exampleWord": "I"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l95",
+      "title": "समीक्षा 55",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "नाना",
+          "name": "nana",
+          "exampleWord": "maternal grandfather"
+        },
+        {
+          "glyph": "दादी",
+          "name": "dadi",
+          "exampleWord": "paternal grandmother"
+        },
+        {
+          "glyph": "बेटी",
+          "name": "beti",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "उसका",
+          "name": "uska",
+          "exampleWord": "his/her"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "उनका",
+          "name": "unka",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "तुम्हारा",
+          "name": "tumhara",
+          "exampleWord": "your"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "मैं",
+            "तू",
+            "तुम",
+            "आप"
+          ],
+          "answer": "मैं"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "माँ",
+            "पिता",
+            "भाई",
+            "बहन"
+          ],
+          "answer": "माँ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l96",
+      "title": "समीक्षा 56",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "बेटी",
+          "name": "beti",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "मौसी",
+          "name": "mausi",
+          "exampleWord": "maternal aunt"
+        },
+        {
+          "glyph": "बेटा",
+          "name": "beta",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "पिता",
+          "name": "pita",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "हमारा",
+          "name": "hamara",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "तुम्हारा",
+          "name": "tumhara",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "चाचा",
+          "name": "chacha",
+          "exampleWord": "father’s younger bro"
+        },
+        {
+          "glyph": "पत्नी",
+          "name": "patni",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "हम",
+          "name": "ham",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "हम",
+          "name": "ham",
+          "exampleWord": "we"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "मैं",
+            "तू",
+            "तुम",
+            "आप"
+          ],
+          "answer": "मैं"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l97",
+      "title": "समीक्षा 57",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "पत्नी",
+          "name": "patni",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "हम",
+          "name": "ham",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "चाचा",
+          "name": "chacha",
+          "exampleWord": "father’s younger bro"
+        },
+        {
+          "glyph": "यह",
+          "name": "yah",
+          "exampleWord": "he/she (proximal)"
+        },
+        {
+          "glyph": "भाई",
+          "name": "bhai",
+          "exampleWord": "brother"
+        },
+        {
+          "glyph": "चाची",
+          "name": "chachi",
+          "exampleWord": "father’s younger bro’s wife"
+        },
+        {
+          "glyph": "बेटी",
+          "name": "beti",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "भाई",
+          "name": "bhai",
+          "exampleWord": "brother"
+        },
+        {
+          "glyph": "चाचा",
+          "name": "chacha",
+          "exampleWord": "father’s younger bro"
+        },
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "माँ",
+            "पिता",
+            "भाई",
+            "बहन"
+          ],
+          "answer": "माँ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l98",
+      "title": "समीक्षा 58",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "हमारा",
+          "name": "hamara",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "तू",
+          "name": "tu",
+          "exampleWord": "you (informal)"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "मेरा",
+          "name": "mera",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "दादा",
+          "name": "dada",
+          "exampleWord": "paternal grandfather"
+        },
+        {
+          "glyph": "बेटा",
+          "name": "beta",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "मौसी",
+          "name": "mausi",
+          "exampleWord": "maternal aunt"
+        },
+        {
+          "glyph": "भाई",
+          "name": "bhai",
+          "exampleWord": "brother"
+        },
+        {
+          "glyph": "चाची",
+          "name": "chachi",
+          "exampleWord": "father’s younger bro’s wife"
+        },
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l99",
+      "title": "समीक्षा 59",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "माँ",
+          "name": "maa",
+          "exampleWord": "mother"
+        },
+        {
+          "glyph": "बेटा",
+          "name": "beta",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "तुम्हारा",
+          "name": "tumhara",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "उनका",
+          "name": "unka",
+          "exampleWord": "their"
+        },
+        {
+          "glyph": "तू",
+          "name": "tu",
+          "exampleWord": "you (informal)"
+        },
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "बेटा",
+          "name": "beta",
+          "exampleWord": "son"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l100",
+      "title": "समीक्षा 60",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "पिता",
+          "name": "pita",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "बेटी",
+          "name": "beti",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "पत्नी",
+          "name": "patni",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "बेटा",
+          "name": "beta",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "हमारा",
+          "name": "hamara",
+          "exampleWord": "our"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        }
+      ]
     }
   ]
 }

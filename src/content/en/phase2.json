@@ -2446,6 +2446,5465 @@
           "answer": "me"
         }
       ]
+    },
+    {
+      "id": "en-p2-l41",
+      "title": "Review 1",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "parent",
+          "name": "parent",
+          "exampleWord": "mother or father"
+        },
+        {
+          "glyph": "baby",
+          "name": "baby",
+          "exampleWord": "infant child"
+        },
+        {
+          "glyph": "their",
+          "name": "their",
+          "exampleWord": "their book"
+        },
+        {
+          "glyph": "family",
+          "name": "family",
+          "exampleWord": "all of us"
+        },
+        {
+          "glyph": "sister",
+          "name": "sister",
+          "exampleWord": "female sibling"
+        },
+        {
+          "glyph": "mother",
+          "name": "mother",
+          "exampleWord": "mother / mama"
+        },
+        {
+          "glyph": "son",
+          "name": "son",
+          "exampleWord": "male child"
+        },
+        {
+          "glyph": "husband",
+          "name": "husband",
+          "exampleWord": "wife’s spouse"
+        },
+        {
+          "glyph": "parent",
+          "name": "parent",
+          "exampleWord": "mother or father"
+        },
+        {
+          "glyph": "baby",
+          "name": "baby",
+          "exampleWord": "infant child"
+        },
+        {
+          "glyph": "grandfather",
+          "name": "grandfather",
+          "exampleWord": "parent of parent (m)"
+        },
+        {
+          "glyph": "grandmother",
+          "name": "grandmother",
+          "exampleWord": "parent of parent (f)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l42",
+      "title": "Review 2",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "our",
+          "name": "our",
+          "exampleWord": "our book"
+        },
+        {
+          "glyph": "wife",
+          "name": "wife",
+          "exampleWord": "husband’s spouse"
+        },
+        {
+          "glyph": "in-law",
+          "name": "in-law",
+          "exampleWord": "family by marriage"
+        },
+        {
+          "glyph": "child",
+          "name": "child",
+          "exampleWord": "son or daughter"
+        },
+        {
+          "glyph": "your",
+          "name": "your",
+          "exampleWord": "your book"
+        },
+        {
+          "glyph": "you",
+          "name": "you",
+          "exampleWord": "you are kind"
+        },
+        {
+          "glyph": "I",
+          "name": "I",
+          "exampleWord": "I am happy"
+        },
+        {
+          "glyph": "sister",
+          "name": "sister",
+          "exampleWord": "female sibling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l43",
+      "title": "Review 3",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "him",
+          "name": "him",
+          "exampleWord": "see him"
+        },
+        {
+          "glyph": "parent",
+          "name": "parent",
+          "exampleWord": "mother or father"
+        },
+        {
+          "glyph": "husband",
+          "name": "husband",
+          "exampleWord": "wife’s spouse"
+        },
+        {
+          "glyph": "uncle",
+          "name": "uncle",
+          "exampleWord": "parent’s brother"
+        },
+        {
+          "glyph": "brother",
+          "name": "brother",
+          "exampleWord": "male sibling"
+        },
+        {
+          "glyph": "family",
+          "name": "family",
+          "exampleWord": "all of us"
+        },
+        {
+          "glyph": "grandfather",
+          "name": "grandfather",
+          "exampleWord": "parent of parent (m)"
+        },
+        {
+          "glyph": "grandmother",
+          "name": "grandmother",
+          "exampleWord": "parent of parent (f)"
+        },
+        {
+          "glyph": "her",
+          "name": "her",
+          "exampleWord": "see her"
+        },
+        {
+          "glyph": "son",
+          "name": "son",
+          "exampleWord": "male child"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l44",
+      "title": "Review 4",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "your",
+          "name": "your",
+          "exampleWord": "your book"
+        },
+        {
+          "glyph": "grandmother",
+          "name": "grandmother",
+          "exampleWord": "parent of parent (f)"
+        },
+        {
+          "glyph": "their",
+          "name": "their",
+          "exampleWord": "their book"
+        },
+        {
+          "glyph": "niece",
+          "name": "niece",
+          "exampleWord": "sibling’s daughter"
+        },
+        {
+          "glyph": "them",
+          "name": "them",
+          "exampleWord": "see them"
+        },
+        {
+          "glyph": "her",
+          "name": "her",
+          "exampleWord": "see her"
+        },
+        {
+          "glyph": "our",
+          "name": "our",
+          "exampleWord": "our book"
+        },
+        {
+          "glyph": "it",
+          "name": "it",
+          "exampleWord": "it is small"
+        },
+        {
+          "glyph": "parent",
+          "name": "parent",
+          "exampleWord": "mother or father"
+        },
+        {
+          "glyph": "you",
+          "name": "you",
+          "exampleWord": "you are kind"
+        },
+        {
+          "glyph": "you",
+          "name": "you",
+          "exampleWord": "you are kind"
+        },
+        {
+          "glyph": "cousin",
+          "name": "cousin",
+          "exampleWord": "uncle/aunt’s child"
+        },
+        {
+          "glyph": "niece",
+          "name": "niece",
+          "exampleWord": "sibling’s daughter"
+        },
+        {
+          "glyph": "him",
+          "name": "him",
+          "exampleWord": "see him"
+        },
+        {
+          "glyph": "nephew",
+          "name": "nephew",
+          "exampleWord": "sibling’s son"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l45",
+      "title": "Review 5",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "son",
+          "name": "son",
+          "exampleWord": "male child"
+        },
+        {
+          "glyph": "son",
+          "name": "son",
+          "exampleWord": "male child"
+        },
+        {
+          "glyph": "uncle",
+          "name": "uncle",
+          "exampleWord": "parent’s brother"
+        },
+        {
+          "glyph": "it",
+          "name": "it",
+          "exampleWord": "it is small"
+        },
+        {
+          "glyph": "it",
+          "name": "it",
+          "exampleWord": "it is small"
+        },
+        {
+          "glyph": "us",
+          "name": "us",
+          "exampleWord": "tell us"
+        },
+        {
+          "glyph": "son",
+          "name": "son",
+          "exampleWord": "male child"
+        },
+        {
+          "glyph": "in-law",
+          "name": "in-law",
+          "exampleWord": "family by marriage"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l46",
+      "title": "Review 6",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "their",
+          "name": "their",
+          "exampleWord": "their book"
+        },
+        {
+          "glyph": "aunt",
+          "name": "aunt",
+          "exampleWord": "parent’s sister"
+        },
+        {
+          "glyph": "cousin",
+          "name": "cousin",
+          "exampleWord": "uncle/aunt’s child"
+        },
+        {
+          "glyph": "my",
+          "name": "my",
+          "exampleWord": "my book"
+        },
+        {
+          "glyph": "my",
+          "name": "my",
+          "exampleWord": "my book"
+        },
+        {
+          "glyph": "she",
+          "name": "she",
+          "exampleWord": "she is smart"
+        },
+        {
+          "glyph": "husband",
+          "name": "husband",
+          "exampleWord": "wife’s spouse"
+        },
+        {
+          "glyph": "me",
+          "name": "me",
+          "exampleWord": "help me"
+        },
+        {
+          "glyph": "my",
+          "name": "my",
+          "exampleWord": "my book"
+        },
+        {
+          "glyph": "son",
+          "name": "son",
+          "exampleWord": "male child"
+        },
+        {
+          "glyph": "our",
+          "name": "our",
+          "exampleWord": "our book"
+        },
+        {
+          "glyph": "son",
+          "name": "son",
+          "exampleWord": "male child"
+        },
+        {
+          "glyph": "in-law",
+          "name": "in-law",
+          "exampleWord": "family by marriage"
+        },
+        {
+          "glyph": "our",
+          "name": "our",
+          "exampleWord": "our book"
+        },
+        {
+          "glyph": "grandmother",
+          "name": "grandmother",
+          "exampleWord": "parent of parent (f)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l47",
+      "title": "Review 7",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "uncle",
+          "name": "uncle",
+          "exampleWord": "parent’s brother"
+        },
+        {
+          "glyph": "their",
+          "name": "their",
+          "exampleWord": "their book"
+        },
+        {
+          "glyph": "niece",
+          "name": "niece",
+          "exampleWord": "sibling’s daughter"
+        },
+        {
+          "glyph": "brother",
+          "name": "brother",
+          "exampleWord": "male sibling"
+        },
+        {
+          "glyph": "she",
+          "name": "she",
+          "exampleWord": "she is smart"
+        },
+        {
+          "glyph": "I",
+          "name": "I",
+          "exampleWord": "I am happy"
+        },
+        {
+          "glyph": "nephew",
+          "name": "nephew",
+          "exampleWord": "sibling’s son"
+        },
+        {
+          "glyph": "mother",
+          "name": "mother",
+          "exampleWord": "mother / mama"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l48",
+      "title": "Review 8",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "he",
+          "name": "he",
+          "exampleWord": "he is tall"
+        },
+        {
+          "glyph": "daughter",
+          "name": "daughter",
+          "exampleWord": "female child"
+        },
+        {
+          "glyph": "father",
+          "name": "father",
+          "exampleWord": "father / papa"
+        },
+        {
+          "glyph": "sister",
+          "name": "sister",
+          "exampleWord": "female sibling"
+        },
+        {
+          "glyph": "sister",
+          "name": "sister",
+          "exampleWord": "female sibling"
+        },
+        {
+          "glyph": "you",
+          "name": "you",
+          "exampleWord": "you are kind"
+        },
+        {
+          "glyph": "grandmother",
+          "name": "grandmother",
+          "exampleWord": "parent of parent (f)"
+        },
+        {
+          "glyph": "brother",
+          "name": "brother",
+          "exampleWord": "male sibling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l49",
+      "title": "Review 9",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "sister",
+          "name": "sister",
+          "exampleWord": "female sibling"
+        },
+        {
+          "glyph": "sister",
+          "name": "sister",
+          "exampleWord": "female sibling"
+        },
+        {
+          "glyph": "uncle",
+          "name": "uncle",
+          "exampleWord": "parent’s brother"
+        },
+        {
+          "glyph": "you",
+          "name": "you",
+          "exampleWord": "you are kind"
+        },
+        {
+          "glyph": "my",
+          "name": "my",
+          "exampleWord": "my book"
+        },
+        {
+          "glyph": "parent",
+          "name": "parent",
+          "exampleWord": "mother or father"
+        },
+        {
+          "glyph": "us",
+          "name": "us",
+          "exampleWord": "tell us"
+        },
+        {
+          "glyph": "family",
+          "name": "family",
+          "exampleWord": "all of us"
+        },
+        {
+          "glyph": "in-law",
+          "name": "in-law",
+          "exampleWord": "family by marriage"
+        },
+        {
+          "glyph": "parent",
+          "name": "parent",
+          "exampleWord": "mother or father"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l50",
+      "title": "Review 10",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I",
+          "name": "I",
+          "exampleWord": "I am happy"
+        },
+        {
+          "glyph": "they",
+          "name": "they",
+          "exampleWord": "they are here"
+        },
+        {
+          "glyph": "grandmother",
+          "name": "grandmother",
+          "exampleWord": "parent of parent (f)"
+        },
+        {
+          "glyph": "them",
+          "name": "them",
+          "exampleWord": "see them"
+        },
+        {
+          "glyph": "child",
+          "name": "child",
+          "exampleWord": "son or daughter"
+        },
+        {
+          "glyph": "my",
+          "name": "my",
+          "exampleWord": "my book"
+        },
+        {
+          "glyph": "grandfather",
+          "name": "grandfather",
+          "exampleWord": "parent of parent (m)"
+        },
+        {
+          "glyph": "nephew",
+          "name": "nephew",
+          "exampleWord": "sibling’s son"
+        },
+        {
+          "glyph": "your",
+          "name": "your",
+          "exampleWord": "your book"
+        },
+        {
+          "glyph": "child",
+          "name": "child",
+          "exampleWord": "son or daughter"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l51",
+      "title": "Review 11",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "your",
+          "name": "your",
+          "exampleWord": "your book"
+        },
+        {
+          "glyph": "your",
+          "name": "your",
+          "exampleWord": "your book"
+        },
+        {
+          "glyph": "grandfather",
+          "name": "grandfather",
+          "exampleWord": "parent of parent (m)"
+        },
+        {
+          "glyph": "them",
+          "name": "them",
+          "exampleWord": "see them"
+        },
+        {
+          "glyph": "he",
+          "name": "he",
+          "exampleWord": "he is tall"
+        },
+        {
+          "glyph": "my",
+          "name": "my",
+          "exampleWord": "my book"
+        },
+        {
+          "glyph": "she",
+          "name": "she",
+          "exampleWord": "she is smart"
+        },
+        {
+          "glyph": "in-law",
+          "name": "in-law",
+          "exampleWord": "family by marriage"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l52",
+      "title": "Review 12",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "his",
+          "name": "his",
+          "exampleWord": "his book"
+        },
+        {
+          "glyph": "he",
+          "name": "he",
+          "exampleWord": "he is tall"
+        },
+        {
+          "glyph": "mother",
+          "name": "mother",
+          "exampleWord": "mother / mama"
+        },
+        {
+          "glyph": "aunt",
+          "name": "aunt",
+          "exampleWord": "parent’s sister"
+        },
+        {
+          "glyph": "she",
+          "name": "she",
+          "exampleWord": "she is smart"
+        },
+        {
+          "glyph": "wife",
+          "name": "wife",
+          "exampleWord": "husband’s spouse"
+        },
+        {
+          "glyph": "we",
+          "name": "we",
+          "exampleWord": "we are friends"
+        },
+        {
+          "glyph": "your",
+          "name": "your",
+          "exampleWord": "your book"
+        },
+        {
+          "glyph": "she",
+          "name": "she",
+          "exampleWord": "she is smart"
+        },
+        {
+          "glyph": "family",
+          "name": "family",
+          "exampleWord": "all of us"
+        },
+        {
+          "glyph": "your",
+          "name": "your",
+          "exampleWord": "your book"
+        },
+        {
+          "glyph": "husband",
+          "name": "husband",
+          "exampleWord": "wife’s spouse"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l53",
+      "title": "Review 13",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "he",
+          "name": "he",
+          "exampleWord": "he is tall"
+        },
+        {
+          "glyph": "his",
+          "name": "his",
+          "exampleWord": "his book"
+        },
+        {
+          "glyph": "grandmother",
+          "name": "grandmother",
+          "exampleWord": "parent of parent (f)"
+        },
+        {
+          "glyph": "parent",
+          "name": "parent",
+          "exampleWord": "mother or father"
+        },
+        {
+          "glyph": "brother",
+          "name": "brother",
+          "exampleWord": "male sibling"
+        },
+        {
+          "glyph": "my",
+          "name": "my",
+          "exampleWord": "my book"
+        },
+        {
+          "glyph": "sister",
+          "name": "sister",
+          "exampleWord": "female sibling"
+        },
+        {
+          "glyph": "you",
+          "name": "you",
+          "exampleWord": "you are kind"
+        },
+        {
+          "glyph": "wife",
+          "name": "wife",
+          "exampleWord": "husband’s spouse"
+        },
+        {
+          "glyph": "he",
+          "name": "he",
+          "exampleWord": "he is tall"
+        },
+        {
+          "glyph": "aunt",
+          "name": "aunt",
+          "exampleWord": "parent’s sister"
+        },
+        {
+          "glyph": "uncle",
+          "name": "uncle",
+          "exampleWord": "parent’s brother"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l54",
+      "title": "Review 14",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "grandmother",
+          "name": "grandmother",
+          "exampleWord": "parent of parent (f)"
+        },
+        {
+          "glyph": "in-law",
+          "name": "in-law",
+          "exampleWord": "family by marriage"
+        },
+        {
+          "glyph": "my",
+          "name": "my",
+          "exampleWord": "my book"
+        },
+        {
+          "glyph": "uncle",
+          "name": "uncle",
+          "exampleWord": "parent’s brother"
+        },
+        {
+          "glyph": "husband",
+          "name": "husband",
+          "exampleWord": "wife’s spouse"
+        },
+        {
+          "glyph": "family",
+          "name": "family",
+          "exampleWord": "all of us"
+        },
+        {
+          "glyph": "aunt",
+          "name": "aunt",
+          "exampleWord": "parent’s sister"
+        },
+        {
+          "glyph": "baby",
+          "name": "baby",
+          "exampleWord": "infant child"
+        },
+        {
+          "glyph": "grandfather",
+          "name": "grandfather",
+          "exampleWord": "parent of parent (m)"
+        },
+        {
+          "glyph": "you",
+          "name": "you",
+          "exampleWord": "you are kind"
+        },
+        {
+          "glyph": "uncle",
+          "name": "uncle",
+          "exampleWord": "parent’s brother"
+        },
+        {
+          "glyph": "us",
+          "name": "us",
+          "exampleWord": "tell us"
+        },
+        {
+          "glyph": "she",
+          "name": "she",
+          "exampleWord": "she is smart"
+        },
+        {
+          "glyph": "they",
+          "name": "they",
+          "exampleWord": "they are here"
+        },
+        {
+          "glyph": "in-law",
+          "name": "in-law",
+          "exampleWord": "family by marriage"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l55",
+      "title": "Review 15",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "their",
+          "name": "their",
+          "exampleWord": "their book"
+        },
+        {
+          "glyph": "brother",
+          "name": "brother",
+          "exampleWord": "male sibling"
+        },
+        {
+          "glyph": "grandfather",
+          "name": "grandfather",
+          "exampleWord": "parent of parent (m)"
+        },
+        {
+          "glyph": "his",
+          "name": "his",
+          "exampleWord": "his book"
+        },
+        {
+          "glyph": "our",
+          "name": "our",
+          "exampleWord": "our book"
+        },
+        {
+          "glyph": "baby",
+          "name": "baby",
+          "exampleWord": "infant child"
+        },
+        {
+          "glyph": "family",
+          "name": "family",
+          "exampleWord": "all of us"
+        },
+        {
+          "glyph": "sister",
+          "name": "sister",
+          "exampleWord": "female sibling"
+        },
+        {
+          "glyph": "you",
+          "name": "you",
+          "exampleWord": "you are kind"
+        },
+        {
+          "glyph": "she",
+          "name": "she",
+          "exampleWord": "she is smart"
+        },
+        {
+          "glyph": "baby",
+          "name": "baby",
+          "exampleWord": "infant child"
+        },
+        {
+          "glyph": "in-law",
+          "name": "in-law",
+          "exampleWord": "family by marriage"
+        },
+        {
+          "glyph": "her",
+          "name": "her",
+          "exampleWord": "see her"
+        },
+        {
+          "glyph": "she",
+          "name": "she",
+          "exampleWord": "she is smart"
+        },
+        {
+          "glyph": "their",
+          "name": "their",
+          "exampleWord": "their book"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l56",
+      "title": "Review 16",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "daughter",
+          "name": "daughter",
+          "exampleWord": "female child"
+        },
+        {
+          "glyph": "cousin",
+          "name": "cousin",
+          "exampleWord": "uncle/aunt’s child"
+        },
+        {
+          "glyph": "child",
+          "name": "child",
+          "exampleWord": "son or daughter"
+        },
+        {
+          "glyph": "brother",
+          "name": "brother",
+          "exampleWord": "male sibling"
+        },
+        {
+          "glyph": "daughter",
+          "name": "daughter",
+          "exampleWord": "female child"
+        },
+        {
+          "glyph": "child",
+          "name": "child",
+          "exampleWord": "son or daughter"
+        },
+        {
+          "glyph": "we",
+          "name": "we",
+          "exampleWord": "we are friends"
+        },
+        {
+          "glyph": "grandmother",
+          "name": "grandmother",
+          "exampleWord": "parent of parent (f)"
+        },
+        {
+          "glyph": "him",
+          "name": "him",
+          "exampleWord": "see him"
+        },
+        {
+          "glyph": "father",
+          "name": "father",
+          "exampleWord": "father / papa"
+        },
+        {
+          "glyph": "our",
+          "name": "our",
+          "exampleWord": "our book"
+        },
+        {
+          "glyph": "our",
+          "name": "our",
+          "exampleWord": "our book"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l57",
+      "title": "Review 17",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "brother",
+          "name": "brother",
+          "exampleWord": "male sibling"
+        },
+        {
+          "glyph": "wife",
+          "name": "wife",
+          "exampleWord": "husband’s spouse"
+        },
+        {
+          "glyph": "mother",
+          "name": "mother",
+          "exampleWord": "mother / mama"
+        },
+        {
+          "glyph": "they",
+          "name": "they",
+          "exampleWord": "they are here"
+        },
+        {
+          "glyph": "nephew",
+          "name": "nephew",
+          "exampleWord": "sibling’s son"
+        },
+        {
+          "glyph": "cousin",
+          "name": "cousin",
+          "exampleWord": "uncle/aunt’s child"
+        },
+        {
+          "glyph": "he",
+          "name": "he",
+          "exampleWord": "he is tall"
+        },
+        {
+          "glyph": "he",
+          "name": "he",
+          "exampleWord": "he is tall"
+        },
+        {
+          "glyph": "aunt",
+          "name": "aunt",
+          "exampleWord": "parent’s sister"
+        },
+        {
+          "glyph": "wife",
+          "name": "wife",
+          "exampleWord": "husband’s spouse"
+        },
+        {
+          "glyph": "he",
+          "name": "he",
+          "exampleWord": "he is tall"
+        },
+        {
+          "glyph": "he",
+          "name": "he",
+          "exampleWord": "he is tall"
+        },
+        {
+          "glyph": "daughter",
+          "name": "daughter",
+          "exampleWord": "female child"
+        },
+        {
+          "glyph": "daughter",
+          "name": "daughter",
+          "exampleWord": "female child"
+        },
+        {
+          "glyph": "nephew",
+          "name": "nephew",
+          "exampleWord": "sibling’s son"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l58",
+      "title": "Review 18",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "my",
+          "name": "my",
+          "exampleWord": "my book"
+        },
+        {
+          "glyph": "you",
+          "name": "you",
+          "exampleWord": "you are kind"
+        },
+        {
+          "glyph": "him",
+          "name": "him",
+          "exampleWord": "see him"
+        },
+        {
+          "glyph": "your",
+          "name": "your",
+          "exampleWord": "your book"
+        },
+        {
+          "glyph": "grandmother",
+          "name": "grandmother",
+          "exampleWord": "parent of parent (f)"
+        },
+        {
+          "glyph": "their",
+          "name": "their",
+          "exampleWord": "their book"
+        },
+        {
+          "glyph": "you",
+          "name": "you",
+          "exampleWord": "you are kind"
+        },
+        {
+          "glyph": "I",
+          "name": "I",
+          "exampleWord": "I am happy"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l59",
+      "title": "Review 19",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "sister",
+          "name": "sister",
+          "exampleWord": "female sibling"
+        },
+        {
+          "glyph": "father",
+          "name": "father",
+          "exampleWord": "father / papa"
+        },
+        {
+          "glyph": "my",
+          "name": "my",
+          "exampleWord": "my book"
+        },
+        {
+          "glyph": "son",
+          "name": "son",
+          "exampleWord": "male child"
+        },
+        {
+          "glyph": "son",
+          "name": "son",
+          "exampleWord": "male child"
+        },
+        {
+          "glyph": "child",
+          "name": "child",
+          "exampleWord": "son or daughter"
+        },
+        {
+          "glyph": "wife",
+          "name": "wife",
+          "exampleWord": "husband’s spouse"
+        },
+        {
+          "glyph": "she",
+          "name": "she",
+          "exampleWord": "she is smart"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l60",
+      "title": "Review 20",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "husband",
+          "name": "husband",
+          "exampleWord": "wife’s spouse"
+        },
+        {
+          "glyph": "his",
+          "name": "his",
+          "exampleWord": "his book"
+        },
+        {
+          "glyph": "niece",
+          "name": "niece",
+          "exampleWord": "sibling’s daughter"
+        },
+        {
+          "glyph": "mother",
+          "name": "mother",
+          "exampleWord": "mother / mama"
+        },
+        {
+          "glyph": "their",
+          "name": "their",
+          "exampleWord": "their book"
+        },
+        {
+          "glyph": "their",
+          "name": "their",
+          "exampleWord": "their book"
+        },
+        {
+          "glyph": "nephew",
+          "name": "nephew",
+          "exampleWord": "sibling’s son"
+        },
+        {
+          "glyph": "their",
+          "name": "their",
+          "exampleWord": "their book"
+        },
+        {
+          "glyph": "cousin",
+          "name": "cousin",
+          "exampleWord": "uncle/aunt’s child"
+        },
+        {
+          "glyph": "child",
+          "name": "child",
+          "exampleWord": "son or daughter"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l61",
+      "title": "Review 21",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "them",
+          "name": "them",
+          "exampleWord": "see them"
+        },
+        {
+          "glyph": "they",
+          "name": "they",
+          "exampleWord": "they are here"
+        },
+        {
+          "glyph": "she",
+          "name": "she",
+          "exampleWord": "she is smart"
+        },
+        {
+          "glyph": "my",
+          "name": "my",
+          "exampleWord": "my book"
+        },
+        {
+          "glyph": "grandmother",
+          "name": "grandmother",
+          "exampleWord": "parent of parent (f)"
+        },
+        {
+          "glyph": "their",
+          "name": "their",
+          "exampleWord": "their book"
+        },
+        {
+          "glyph": "you",
+          "name": "you",
+          "exampleWord": "you are kind"
+        },
+        {
+          "glyph": "grandfather",
+          "name": "grandfather",
+          "exampleWord": "parent of parent (m)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l62",
+      "title": "Review 22",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "grandmother",
+          "name": "grandmother",
+          "exampleWord": "parent of parent (f)"
+        },
+        {
+          "glyph": "nephew",
+          "name": "nephew",
+          "exampleWord": "sibling’s son"
+        },
+        {
+          "glyph": "us",
+          "name": "us",
+          "exampleWord": "tell us"
+        },
+        {
+          "glyph": "baby",
+          "name": "baby",
+          "exampleWord": "infant child"
+        },
+        {
+          "glyph": "sister",
+          "name": "sister",
+          "exampleWord": "female sibling"
+        },
+        {
+          "glyph": "child",
+          "name": "child",
+          "exampleWord": "son or daughter"
+        },
+        {
+          "glyph": "grandfather",
+          "name": "grandfather",
+          "exampleWord": "parent of parent (m)"
+        },
+        {
+          "glyph": "grandmother",
+          "name": "grandmother",
+          "exampleWord": "parent of parent (f)"
+        },
+        {
+          "glyph": "your",
+          "name": "your",
+          "exampleWord": "your book"
+        },
+        {
+          "glyph": "family",
+          "name": "family",
+          "exampleWord": "all of us"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l63",
+      "title": "Review 23",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "your",
+          "name": "your",
+          "exampleWord": "your book"
+        },
+        {
+          "glyph": "brother",
+          "name": "brother",
+          "exampleWord": "male sibling"
+        },
+        {
+          "glyph": "her",
+          "name": "her",
+          "exampleWord": "see her"
+        },
+        {
+          "glyph": "son",
+          "name": "son",
+          "exampleWord": "male child"
+        },
+        {
+          "glyph": "niece",
+          "name": "niece",
+          "exampleWord": "sibling’s daughter"
+        },
+        {
+          "glyph": "we",
+          "name": "we",
+          "exampleWord": "we are friends"
+        },
+        {
+          "glyph": "you",
+          "name": "you",
+          "exampleWord": "you are kind"
+        },
+        {
+          "glyph": "child",
+          "name": "child",
+          "exampleWord": "son or daughter"
+        },
+        {
+          "glyph": "uncle",
+          "name": "uncle",
+          "exampleWord": "parent’s brother"
+        },
+        {
+          "glyph": "child",
+          "name": "child",
+          "exampleWord": "son or daughter"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l64",
+      "title": "Review 24",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "they",
+          "name": "they",
+          "exampleWord": "they are here"
+        },
+        {
+          "glyph": "father",
+          "name": "father",
+          "exampleWord": "father / papa"
+        },
+        {
+          "glyph": "their",
+          "name": "their",
+          "exampleWord": "their book"
+        },
+        {
+          "glyph": "he",
+          "name": "he",
+          "exampleWord": "he is tall"
+        },
+        {
+          "glyph": "your",
+          "name": "your",
+          "exampleWord": "your book"
+        },
+        {
+          "glyph": "his",
+          "name": "his",
+          "exampleWord": "his book"
+        },
+        {
+          "glyph": "cousin",
+          "name": "cousin",
+          "exampleWord": "uncle/aunt’s child"
+        },
+        {
+          "glyph": "his",
+          "name": "his",
+          "exampleWord": "his book"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l65",
+      "title": "Review 25",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "your",
+          "name": "your",
+          "exampleWord": "your book"
+        },
+        {
+          "glyph": "child",
+          "name": "child",
+          "exampleWord": "son or daughter"
+        },
+        {
+          "glyph": "grandmother",
+          "name": "grandmother",
+          "exampleWord": "parent of parent (f)"
+        },
+        {
+          "glyph": "he",
+          "name": "he",
+          "exampleWord": "he is tall"
+        },
+        {
+          "glyph": "niece",
+          "name": "niece",
+          "exampleWord": "sibling’s daughter"
+        },
+        {
+          "glyph": "child",
+          "name": "child",
+          "exampleWord": "son or daughter"
+        },
+        {
+          "glyph": "us",
+          "name": "us",
+          "exampleWord": "tell us"
+        },
+        {
+          "glyph": "grandmother",
+          "name": "grandmother",
+          "exampleWord": "parent of parent (f)"
+        },
+        {
+          "glyph": "cousin",
+          "name": "cousin",
+          "exampleWord": "uncle/aunt’s child"
+        },
+        {
+          "glyph": "grandmother",
+          "name": "grandmother",
+          "exampleWord": "parent of parent (f)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l66",
+      "title": "Review 26",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "wife",
+          "name": "wife",
+          "exampleWord": "husband’s spouse"
+        },
+        {
+          "glyph": "sister",
+          "name": "sister",
+          "exampleWord": "female sibling"
+        },
+        {
+          "glyph": "uncle",
+          "name": "uncle",
+          "exampleWord": "parent’s brother"
+        },
+        {
+          "glyph": "we",
+          "name": "we",
+          "exampleWord": "we are friends"
+        },
+        {
+          "glyph": "uncle",
+          "name": "uncle",
+          "exampleWord": "parent’s brother"
+        },
+        {
+          "glyph": "daughter",
+          "name": "daughter",
+          "exampleWord": "female child"
+        },
+        {
+          "glyph": "wife",
+          "name": "wife",
+          "exampleWord": "husband’s spouse"
+        },
+        {
+          "glyph": "grandfather",
+          "name": "grandfather",
+          "exampleWord": "parent of parent (m)"
+        },
+        {
+          "glyph": "they",
+          "name": "they",
+          "exampleWord": "they are here"
+        },
+        {
+          "glyph": "son",
+          "name": "son",
+          "exampleWord": "male child"
+        },
+        {
+          "glyph": "parent",
+          "name": "parent",
+          "exampleWord": "mother or father"
+        },
+        {
+          "glyph": "child",
+          "name": "child",
+          "exampleWord": "son or daughter"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l67",
+      "title": "Review 27",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "wife",
+          "name": "wife",
+          "exampleWord": "husband’s spouse"
+        },
+        {
+          "glyph": "their",
+          "name": "their",
+          "exampleWord": "their book"
+        },
+        {
+          "glyph": "you",
+          "name": "you",
+          "exampleWord": "you are kind"
+        },
+        {
+          "glyph": "they",
+          "name": "they",
+          "exampleWord": "they are here"
+        },
+        {
+          "glyph": "nephew",
+          "name": "nephew",
+          "exampleWord": "sibling’s son"
+        },
+        {
+          "glyph": "his",
+          "name": "his",
+          "exampleWord": "his book"
+        },
+        {
+          "glyph": "our",
+          "name": "our",
+          "exampleWord": "our book"
+        },
+        {
+          "glyph": "we",
+          "name": "we",
+          "exampleWord": "we are friends"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l68",
+      "title": "Review 28",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "she",
+          "name": "she",
+          "exampleWord": "she is smart"
+        },
+        {
+          "glyph": "father",
+          "name": "father",
+          "exampleWord": "father / papa"
+        },
+        {
+          "glyph": "their",
+          "name": "their",
+          "exampleWord": "their book"
+        },
+        {
+          "glyph": "parent",
+          "name": "parent",
+          "exampleWord": "mother or father"
+        },
+        {
+          "glyph": "me",
+          "name": "me",
+          "exampleWord": "help me"
+        },
+        {
+          "glyph": "your",
+          "name": "your",
+          "exampleWord": "your book"
+        },
+        {
+          "glyph": "uncle",
+          "name": "uncle",
+          "exampleWord": "parent’s brother"
+        },
+        {
+          "glyph": "family",
+          "name": "family",
+          "exampleWord": "all of us"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l69",
+      "title": "Review 29",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "husband",
+          "name": "husband",
+          "exampleWord": "wife’s spouse"
+        },
+        {
+          "glyph": "uncle",
+          "name": "uncle",
+          "exampleWord": "parent’s brother"
+        },
+        {
+          "glyph": "her",
+          "name": "her",
+          "exampleWord": "see her"
+        },
+        {
+          "glyph": "our",
+          "name": "our",
+          "exampleWord": "our book"
+        },
+        {
+          "glyph": "daughter",
+          "name": "daughter",
+          "exampleWord": "female child"
+        },
+        {
+          "glyph": "mother",
+          "name": "mother",
+          "exampleWord": "mother / mama"
+        },
+        {
+          "glyph": "her",
+          "name": "her",
+          "exampleWord": "see her"
+        },
+        {
+          "glyph": "wife",
+          "name": "wife",
+          "exampleWord": "husband’s spouse"
+        },
+        {
+          "glyph": "she",
+          "name": "she",
+          "exampleWord": "she is smart"
+        },
+        {
+          "glyph": "sister",
+          "name": "sister",
+          "exampleWord": "female sibling"
+        },
+        {
+          "glyph": "nephew",
+          "name": "nephew",
+          "exampleWord": "sibling’s son"
+        },
+        {
+          "glyph": "your",
+          "name": "your",
+          "exampleWord": "your book"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l70",
+      "title": "Review 30",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "our",
+          "name": "our",
+          "exampleWord": "our book"
+        },
+        {
+          "glyph": "child",
+          "name": "child",
+          "exampleWord": "son or daughter"
+        },
+        {
+          "glyph": "she",
+          "name": "she",
+          "exampleWord": "she is smart"
+        },
+        {
+          "glyph": "father",
+          "name": "father",
+          "exampleWord": "father / papa"
+        },
+        {
+          "glyph": "me",
+          "name": "me",
+          "exampleWord": "help me"
+        },
+        {
+          "glyph": "family",
+          "name": "family",
+          "exampleWord": "all of us"
+        },
+        {
+          "glyph": "uncle",
+          "name": "uncle",
+          "exampleWord": "parent’s brother"
+        },
+        {
+          "glyph": "father",
+          "name": "father",
+          "exampleWord": "father / papa"
+        },
+        {
+          "glyph": "child",
+          "name": "child",
+          "exampleWord": "son or daughter"
+        },
+        {
+          "glyph": "him",
+          "name": "him",
+          "exampleWord": "see him"
+        },
+        {
+          "glyph": "your",
+          "name": "your",
+          "exampleWord": "your book"
+        },
+        {
+          "glyph": "him",
+          "name": "him",
+          "exampleWord": "see him"
+        },
+        {
+          "glyph": "it",
+          "name": "it",
+          "exampleWord": "it is small"
+        },
+        {
+          "glyph": "our",
+          "name": "our",
+          "exampleWord": "our book"
+        },
+        {
+          "glyph": "me",
+          "name": "me",
+          "exampleWord": "help me"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l71",
+      "title": "Review 31",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "sister",
+          "name": "sister",
+          "exampleWord": "female sibling"
+        },
+        {
+          "glyph": "in-law",
+          "name": "in-law",
+          "exampleWord": "family by marriage"
+        },
+        {
+          "glyph": "niece",
+          "name": "niece",
+          "exampleWord": "sibling’s daughter"
+        },
+        {
+          "glyph": "your",
+          "name": "your",
+          "exampleWord": "your book"
+        },
+        {
+          "glyph": "them",
+          "name": "them",
+          "exampleWord": "see them"
+        },
+        {
+          "glyph": "husband",
+          "name": "husband",
+          "exampleWord": "wife’s spouse"
+        },
+        {
+          "glyph": "daughter",
+          "name": "daughter",
+          "exampleWord": "female child"
+        },
+        {
+          "glyph": "they",
+          "name": "they",
+          "exampleWord": "they are here"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l72",
+      "title": "Review 32",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "cousin",
+          "name": "cousin",
+          "exampleWord": "uncle/aunt’s child"
+        },
+        {
+          "glyph": "their",
+          "name": "their",
+          "exampleWord": "their book"
+        },
+        {
+          "glyph": "parent",
+          "name": "parent",
+          "exampleWord": "mother or father"
+        },
+        {
+          "glyph": "her",
+          "name": "her",
+          "exampleWord": "see her"
+        },
+        {
+          "glyph": "daughter",
+          "name": "daughter",
+          "exampleWord": "female child"
+        },
+        {
+          "glyph": "brother",
+          "name": "brother",
+          "exampleWord": "male sibling"
+        },
+        {
+          "glyph": "she",
+          "name": "she",
+          "exampleWord": "she is smart"
+        },
+        {
+          "glyph": "wife",
+          "name": "wife",
+          "exampleWord": "husband’s spouse"
+        },
+        {
+          "glyph": "son",
+          "name": "son",
+          "exampleWord": "male child"
+        },
+        {
+          "glyph": "our",
+          "name": "our",
+          "exampleWord": "our book"
+        },
+        {
+          "glyph": "it",
+          "name": "it",
+          "exampleWord": "it is small"
+        },
+        {
+          "glyph": "nephew",
+          "name": "nephew",
+          "exampleWord": "sibling’s son"
+        },
+        {
+          "glyph": "in-law",
+          "name": "in-law",
+          "exampleWord": "family by marriage"
+        },
+        {
+          "glyph": "your",
+          "name": "your",
+          "exampleWord": "your book"
+        },
+        {
+          "glyph": "their",
+          "name": "their",
+          "exampleWord": "their book"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l73",
+      "title": "Review 33",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "son",
+          "name": "son",
+          "exampleWord": "male child"
+        },
+        {
+          "glyph": "sister",
+          "name": "sister",
+          "exampleWord": "female sibling"
+        },
+        {
+          "glyph": "father",
+          "name": "father",
+          "exampleWord": "father / papa"
+        },
+        {
+          "glyph": "we",
+          "name": "we",
+          "exampleWord": "we are friends"
+        },
+        {
+          "glyph": "me",
+          "name": "me",
+          "exampleWord": "help me"
+        },
+        {
+          "glyph": "husband",
+          "name": "husband",
+          "exampleWord": "wife’s spouse"
+        },
+        {
+          "glyph": "child",
+          "name": "child",
+          "exampleWord": "son or daughter"
+        },
+        {
+          "glyph": "she",
+          "name": "she",
+          "exampleWord": "she is smart"
+        },
+        {
+          "glyph": "your",
+          "name": "your",
+          "exampleWord": "your book"
+        },
+        {
+          "glyph": "son",
+          "name": "son",
+          "exampleWord": "male child"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l74",
+      "title": "Review 34",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "me",
+          "name": "me",
+          "exampleWord": "help me"
+        },
+        {
+          "glyph": "family",
+          "name": "family",
+          "exampleWord": "all of us"
+        },
+        {
+          "glyph": "grandmother",
+          "name": "grandmother",
+          "exampleWord": "parent of parent (f)"
+        },
+        {
+          "glyph": "them",
+          "name": "them",
+          "exampleWord": "see them"
+        },
+        {
+          "glyph": "you",
+          "name": "you",
+          "exampleWord": "you are kind"
+        },
+        {
+          "glyph": "she",
+          "name": "she",
+          "exampleWord": "she is smart"
+        },
+        {
+          "glyph": "grandmother",
+          "name": "grandmother",
+          "exampleWord": "parent of parent (f)"
+        },
+        {
+          "glyph": "my",
+          "name": "my",
+          "exampleWord": "my book"
+        },
+        {
+          "glyph": "grandmother",
+          "name": "grandmother",
+          "exampleWord": "parent of parent (f)"
+        },
+        {
+          "glyph": "you",
+          "name": "you",
+          "exampleWord": "you are kind"
+        },
+        {
+          "glyph": "brother",
+          "name": "brother",
+          "exampleWord": "male sibling"
+        },
+        {
+          "glyph": "our",
+          "name": "our",
+          "exampleWord": "our book"
+        },
+        {
+          "glyph": "him",
+          "name": "him",
+          "exampleWord": "see him"
+        },
+        {
+          "glyph": "husband",
+          "name": "husband",
+          "exampleWord": "wife’s spouse"
+        },
+        {
+          "glyph": "uncle",
+          "name": "uncle",
+          "exampleWord": "parent’s brother"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l75",
+      "title": "Review 35",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "your",
+          "name": "your",
+          "exampleWord": "your book"
+        },
+        {
+          "glyph": "baby",
+          "name": "baby",
+          "exampleWord": "infant child"
+        },
+        {
+          "glyph": "brother",
+          "name": "brother",
+          "exampleWord": "male sibling"
+        },
+        {
+          "glyph": "father",
+          "name": "father",
+          "exampleWord": "father / papa"
+        },
+        {
+          "glyph": "they",
+          "name": "they",
+          "exampleWord": "they are here"
+        },
+        {
+          "glyph": "uncle",
+          "name": "uncle",
+          "exampleWord": "parent’s brother"
+        },
+        {
+          "glyph": "she",
+          "name": "she",
+          "exampleWord": "she is smart"
+        },
+        {
+          "glyph": "grandmother",
+          "name": "grandmother",
+          "exampleWord": "parent of parent (f)"
+        },
+        {
+          "glyph": "grandfather",
+          "name": "grandfather",
+          "exampleWord": "parent of parent (m)"
+        },
+        {
+          "glyph": "sister",
+          "name": "sister",
+          "exampleWord": "female sibling"
+        },
+        {
+          "glyph": "your",
+          "name": "your",
+          "exampleWord": "your book"
+        },
+        {
+          "glyph": "niece",
+          "name": "niece",
+          "exampleWord": "sibling’s daughter"
+        },
+        {
+          "glyph": "uncle",
+          "name": "uncle",
+          "exampleWord": "parent’s brother"
+        },
+        {
+          "glyph": "he",
+          "name": "he",
+          "exampleWord": "he is tall"
+        },
+        {
+          "glyph": "us",
+          "name": "us",
+          "exampleWord": "tell us"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l76",
+      "title": "Review 36",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "parent",
+          "name": "parent",
+          "exampleWord": "mother or father"
+        },
+        {
+          "glyph": "niece",
+          "name": "niece",
+          "exampleWord": "sibling’s daughter"
+        },
+        {
+          "glyph": "her",
+          "name": "her",
+          "exampleWord": "see her"
+        },
+        {
+          "glyph": "me",
+          "name": "me",
+          "exampleWord": "help me"
+        },
+        {
+          "glyph": "cousin",
+          "name": "cousin",
+          "exampleWord": "uncle/aunt’s child"
+        },
+        {
+          "glyph": "father",
+          "name": "father",
+          "exampleWord": "father / papa"
+        },
+        {
+          "glyph": "grandmother",
+          "name": "grandmother",
+          "exampleWord": "parent of parent (f)"
+        },
+        {
+          "glyph": "husband",
+          "name": "husband",
+          "exampleWord": "wife’s spouse"
+        },
+        {
+          "glyph": "me",
+          "name": "me",
+          "exampleWord": "help me"
+        },
+        {
+          "glyph": "grandfather",
+          "name": "grandfather",
+          "exampleWord": "parent of parent (m)"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l77",
+      "title": "Review 37",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "son",
+          "name": "son",
+          "exampleWord": "male child"
+        },
+        {
+          "glyph": "child",
+          "name": "child",
+          "exampleWord": "son or daughter"
+        },
+        {
+          "glyph": "father",
+          "name": "father",
+          "exampleWord": "father / papa"
+        },
+        {
+          "glyph": "your",
+          "name": "your",
+          "exampleWord": "your book"
+        },
+        {
+          "glyph": "she",
+          "name": "she",
+          "exampleWord": "she is smart"
+        },
+        {
+          "glyph": "him",
+          "name": "him",
+          "exampleWord": "see him"
+        },
+        {
+          "glyph": "their",
+          "name": "their",
+          "exampleWord": "their book"
+        },
+        {
+          "glyph": "my",
+          "name": "my",
+          "exampleWord": "my book"
+        },
+        {
+          "glyph": "son",
+          "name": "son",
+          "exampleWord": "male child"
+        },
+        {
+          "glyph": "wife",
+          "name": "wife",
+          "exampleWord": "husband’s spouse"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l78",
+      "title": "Review 38",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "he",
+          "name": "he",
+          "exampleWord": "he is tall"
+        },
+        {
+          "glyph": "parent",
+          "name": "parent",
+          "exampleWord": "mother or father"
+        },
+        {
+          "glyph": "she",
+          "name": "she",
+          "exampleWord": "she is smart"
+        },
+        {
+          "glyph": "parent",
+          "name": "parent",
+          "exampleWord": "mother or father"
+        },
+        {
+          "glyph": "you",
+          "name": "you",
+          "exampleWord": "you are kind"
+        },
+        {
+          "glyph": "child",
+          "name": "child",
+          "exampleWord": "son or daughter"
+        },
+        {
+          "glyph": "me",
+          "name": "me",
+          "exampleWord": "help me"
+        },
+        {
+          "glyph": "daughter",
+          "name": "daughter",
+          "exampleWord": "female child"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l79",
+      "title": "Review 39",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "wife",
+          "name": "wife",
+          "exampleWord": "husband’s spouse"
+        },
+        {
+          "glyph": "uncle",
+          "name": "uncle",
+          "exampleWord": "parent’s brother"
+        },
+        {
+          "glyph": "it",
+          "name": "it",
+          "exampleWord": "it is small"
+        },
+        {
+          "glyph": "she",
+          "name": "she",
+          "exampleWord": "she is smart"
+        },
+        {
+          "glyph": "our",
+          "name": "our",
+          "exampleWord": "our book"
+        },
+        {
+          "glyph": "in-law",
+          "name": "in-law",
+          "exampleWord": "family by marriage"
+        },
+        {
+          "glyph": "baby",
+          "name": "baby",
+          "exampleWord": "infant child"
+        },
+        {
+          "glyph": "my",
+          "name": "my",
+          "exampleWord": "my book"
+        },
+        {
+          "glyph": "grandfather",
+          "name": "grandfather",
+          "exampleWord": "parent of parent (m)"
+        },
+        {
+          "glyph": "parent",
+          "name": "parent",
+          "exampleWord": "mother or father"
+        },
+        {
+          "glyph": "my",
+          "name": "my",
+          "exampleWord": "my book"
+        },
+        {
+          "glyph": "aunt",
+          "name": "aunt",
+          "exampleWord": "parent’s sister"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l80",
+      "title": "Review 40",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I",
+          "name": "I",
+          "exampleWord": "I am happy"
+        },
+        {
+          "glyph": "mother",
+          "name": "mother",
+          "exampleWord": "mother / mama"
+        },
+        {
+          "glyph": "parent",
+          "name": "parent",
+          "exampleWord": "mother or father"
+        },
+        {
+          "glyph": "mother",
+          "name": "mother",
+          "exampleWord": "mother / mama"
+        },
+        {
+          "glyph": "husband",
+          "name": "husband",
+          "exampleWord": "wife’s spouse"
+        },
+        {
+          "glyph": "daughter",
+          "name": "daughter",
+          "exampleWord": "female child"
+        },
+        {
+          "glyph": "uncle",
+          "name": "uncle",
+          "exampleWord": "parent’s brother"
+        },
+        {
+          "glyph": "us",
+          "name": "us",
+          "exampleWord": "tell us"
+        },
+        {
+          "glyph": "our",
+          "name": "our",
+          "exampleWord": "our book"
+        },
+        {
+          "glyph": "parent",
+          "name": "parent",
+          "exampleWord": "mother or father"
+        },
+        {
+          "glyph": "us",
+          "name": "us",
+          "exampleWord": "tell us"
+        },
+        {
+          "glyph": "she",
+          "name": "she",
+          "exampleWord": "she is smart"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l81",
+      "title": "Review 41",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "them",
+          "name": "them",
+          "exampleWord": "see them"
+        },
+        {
+          "glyph": "grandmother",
+          "name": "grandmother",
+          "exampleWord": "parent of parent (f)"
+        },
+        {
+          "glyph": "you",
+          "name": "you",
+          "exampleWord": "you are kind"
+        },
+        {
+          "glyph": "it",
+          "name": "it",
+          "exampleWord": "it is small"
+        },
+        {
+          "glyph": "sister",
+          "name": "sister",
+          "exampleWord": "female sibling"
+        },
+        {
+          "glyph": "him",
+          "name": "him",
+          "exampleWord": "see him"
+        },
+        {
+          "glyph": "sister",
+          "name": "sister",
+          "exampleWord": "female sibling"
+        },
+        {
+          "glyph": "parent",
+          "name": "parent",
+          "exampleWord": "mother or father"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l82",
+      "title": "Review 42",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "grandfather",
+          "name": "grandfather",
+          "exampleWord": "parent of parent (m)"
+        },
+        {
+          "glyph": "wife",
+          "name": "wife",
+          "exampleWord": "husband’s spouse"
+        },
+        {
+          "glyph": "me",
+          "name": "me",
+          "exampleWord": "help me"
+        },
+        {
+          "glyph": "your",
+          "name": "your",
+          "exampleWord": "your book"
+        },
+        {
+          "glyph": "cousin",
+          "name": "cousin",
+          "exampleWord": "uncle/aunt’s child"
+        },
+        {
+          "glyph": "me",
+          "name": "me",
+          "exampleWord": "help me"
+        },
+        {
+          "glyph": "nephew",
+          "name": "nephew",
+          "exampleWord": "sibling’s son"
+        },
+        {
+          "glyph": "mother",
+          "name": "mother",
+          "exampleWord": "mother / mama"
+        },
+        {
+          "glyph": "you",
+          "name": "you",
+          "exampleWord": "you are kind"
+        },
+        {
+          "glyph": "they",
+          "name": "they",
+          "exampleWord": "they are here"
+        },
+        {
+          "glyph": "nephew",
+          "name": "nephew",
+          "exampleWord": "sibling’s son"
+        },
+        {
+          "glyph": "it",
+          "name": "it",
+          "exampleWord": "it is small"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l83",
+      "title": "Review 43",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "grandfather",
+          "name": "grandfather",
+          "exampleWord": "parent of parent (m)"
+        },
+        {
+          "glyph": "her",
+          "name": "her",
+          "exampleWord": "see her"
+        },
+        {
+          "glyph": "mother",
+          "name": "mother",
+          "exampleWord": "mother / mama"
+        },
+        {
+          "glyph": "it",
+          "name": "it",
+          "exampleWord": "it is small"
+        },
+        {
+          "glyph": "he",
+          "name": "he",
+          "exampleWord": "he is tall"
+        },
+        {
+          "glyph": "son",
+          "name": "son",
+          "exampleWord": "male child"
+        },
+        {
+          "glyph": "they",
+          "name": "they",
+          "exampleWord": "they are here"
+        },
+        {
+          "glyph": "I",
+          "name": "I",
+          "exampleWord": "I am happy"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l84",
+      "title": "Review 44",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "her",
+          "name": "her",
+          "exampleWord": "see her"
+        },
+        {
+          "glyph": "wife",
+          "name": "wife",
+          "exampleWord": "husband’s spouse"
+        },
+        {
+          "glyph": "child",
+          "name": "child",
+          "exampleWord": "son or daughter"
+        },
+        {
+          "glyph": "cousin",
+          "name": "cousin",
+          "exampleWord": "uncle/aunt’s child"
+        },
+        {
+          "glyph": "uncle",
+          "name": "uncle",
+          "exampleWord": "parent’s brother"
+        },
+        {
+          "glyph": "child",
+          "name": "child",
+          "exampleWord": "son or daughter"
+        },
+        {
+          "glyph": "it",
+          "name": "it",
+          "exampleWord": "it is small"
+        },
+        {
+          "glyph": "daughter",
+          "name": "daughter",
+          "exampleWord": "female child"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l85",
+      "title": "Review 45",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "us",
+          "name": "us",
+          "exampleWord": "tell us"
+        },
+        {
+          "glyph": "their",
+          "name": "their",
+          "exampleWord": "their book"
+        },
+        {
+          "glyph": "grandmother",
+          "name": "grandmother",
+          "exampleWord": "parent of parent (f)"
+        },
+        {
+          "glyph": "nephew",
+          "name": "nephew",
+          "exampleWord": "sibling’s son"
+        },
+        {
+          "glyph": "parent",
+          "name": "parent",
+          "exampleWord": "mother or father"
+        },
+        {
+          "glyph": "parent",
+          "name": "parent",
+          "exampleWord": "mother or father"
+        },
+        {
+          "glyph": "uncle",
+          "name": "uncle",
+          "exampleWord": "parent’s brother"
+        },
+        {
+          "glyph": "grandmother",
+          "name": "grandmother",
+          "exampleWord": "parent of parent (f)"
+        },
+        {
+          "glyph": "she",
+          "name": "she",
+          "exampleWord": "she is smart"
+        },
+        {
+          "glyph": "wife",
+          "name": "wife",
+          "exampleWord": "husband’s spouse"
+        },
+        {
+          "glyph": "parent",
+          "name": "parent",
+          "exampleWord": "mother or father"
+        },
+        {
+          "glyph": "grandmother",
+          "name": "grandmother",
+          "exampleWord": "parent of parent (f)"
+        },
+        {
+          "glyph": "in-law",
+          "name": "in-law",
+          "exampleWord": "family by marriage"
+        },
+        {
+          "glyph": "parent",
+          "name": "parent",
+          "exampleWord": "mother or father"
+        },
+        {
+          "glyph": "aunt",
+          "name": "aunt",
+          "exampleWord": "parent’s sister"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l86",
+      "title": "Review 46",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "their",
+          "name": "their",
+          "exampleWord": "their book"
+        },
+        {
+          "glyph": "he",
+          "name": "he",
+          "exampleWord": "he is tall"
+        },
+        {
+          "glyph": "daughter",
+          "name": "daughter",
+          "exampleWord": "female child"
+        },
+        {
+          "glyph": "family",
+          "name": "family",
+          "exampleWord": "all of us"
+        },
+        {
+          "glyph": "husband",
+          "name": "husband",
+          "exampleWord": "wife’s spouse"
+        },
+        {
+          "glyph": "parent",
+          "name": "parent",
+          "exampleWord": "mother or father"
+        },
+        {
+          "glyph": "sister",
+          "name": "sister",
+          "exampleWord": "female sibling"
+        },
+        {
+          "glyph": "brother",
+          "name": "brother",
+          "exampleWord": "male sibling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l87",
+      "title": "Review 47",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "uncle",
+          "name": "uncle",
+          "exampleWord": "parent’s brother"
+        },
+        {
+          "glyph": "me",
+          "name": "me",
+          "exampleWord": "help me"
+        },
+        {
+          "glyph": "family",
+          "name": "family",
+          "exampleWord": "all of us"
+        },
+        {
+          "glyph": "grandmother",
+          "name": "grandmother",
+          "exampleWord": "parent of parent (f)"
+        },
+        {
+          "glyph": "my",
+          "name": "my",
+          "exampleWord": "my book"
+        },
+        {
+          "glyph": "it",
+          "name": "it",
+          "exampleWord": "it is small"
+        },
+        {
+          "glyph": "cousin",
+          "name": "cousin",
+          "exampleWord": "uncle/aunt’s child"
+        },
+        {
+          "glyph": "son",
+          "name": "son",
+          "exampleWord": "male child"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l88",
+      "title": "Review 48",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "son",
+          "name": "son",
+          "exampleWord": "male child"
+        },
+        {
+          "glyph": "us",
+          "name": "us",
+          "exampleWord": "tell us"
+        },
+        {
+          "glyph": "daughter",
+          "name": "daughter",
+          "exampleWord": "female child"
+        },
+        {
+          "glyph": "their",
+          "name": "their",
+          "exampleWord": "their book"
+        },
+        {
+          "glyph": "parent",
+          "name": "parent",
+          "exampleWord": "mother or father"
+        },
+        {
+          "glyph": "he",
+          "name": "he",
+          "exampleWord": "he is tall"
+        },
+        {
+          "glyph": "she",
+          "name": "she",
+          "exampleWord": "she is smart"
+        },
+        {
+          "glyph": "your",
+          "name": "your",
+          "exampleWord": "your book"
+        },
+        {
+          "glyph": "parent",
+          "name": "parent",
+          "exampleWord": "mother or father"
+        },
+        {
+          "glyph": "you",
+          "name": "you",
+          "exampleWord": "you are kind"
+        },
+        {
+          "glyph": "your",
+          "name": "your",
+          "exampleWord": "your book"
+        },
+        {
+          "glyph": "you",
+          "name": "you",
+          "exampleWord": "you are kind"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l89",
+      "title": "Review 49",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "it",
+          "name": "it",
+          "exampleWord": "it is small"
+        },
+        {
+          "glyph": "their",
+          "name": "their",
+          "exampleWord": "their book"
+        },
+        {
+          "glyph": "your",
+          "name": "your",
+          "exampleWord": "your book"
+        },
+        {
+          "glyph": "us",
+          "name": "us",
+          "exampleWord": "tell us"
+        },
+        {
+          "glyph": "him",
+          "name": "him",
+          "exampleWord": "see him"
+        },
+        {
+          "glyph": "their",
+          "name": "their",
+          "exampleWord": "their book"
+        },
+        {
+          "glyph": "cousin",
+          "name": "cousin",
+          "exampleWord": "uncle/aunt’s child"
+        },
+        {
+          "glyph": "uncle",
+          "name": "uncle",
+          "exampleWord": "parent’s brother"
+        },
+        {
+          "glyph": "his",
+          "name": "his",
+          "exampleWord": "his book"
+        },
+        {
+          "glyph": "our",
+          "name": "our",
+          "exampleWord": "our book"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l90",
+      "title": "Review 50",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "husband",
+          "name": "husband",
+          "exampleWord": "wife’s spouse"
+        },
+        {
+          "glyph": "baby",
+          "name": "baby",
+          "exampleWord": "infant child"
+        },
+        {
+          "glyph": "niece",
+          "name": "niece",
+          "exampleWord": "sibling’s daughter"
+        },
+        {
+          "glyph": "our",
+          "name": "our",
+          "exampleWord": "our book"
+        },
+        {
+          "glyph": "our",
+          "name": "our",
+          "exampleWord": "our book"
+        },
+        {
+          "glyph": "he",
+          "name": "he",
+          "exampleWord": "he is tall"
+        },
+        {
+          "glyph": "in-law",
+          "name": "in-law",
+          "exampleWord": "family by marriage"
+        },
+        {
+          "glyph": "him",
+          "name": "him",
+          "exampleWord": "see him"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l91",
+      "title": "Review 51",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "mother",
+          "name": "mother",
+          "exampleWord": "mother / mama"
+        },
+        {
+          "glyph": "cousin",
+          "name": "cousin",
+          "exampleWord": "uncle/aunt’s child"
+        },
+        {
+          "glyph": "nephew",
+          "name": "nephew",
+          "exampleWord": "sibling’s son"
+        },
+        {
+          "glyph": "uncle",
+          "name": "uncle",
+          "exampleWord": "parent’s brother"
+        },
+        {
+          "glyph": "our",
+          "name": "our",
+          "exampleWord": "our book"
+        },
+        {
+          "glyph": "us",
+          "name": "us",
+          "exampleWord": "tell us"
+        },
+        {
+          "glyph": "family",
+          "name": "family",
+          "exampleWord": "all of us"
+        },
+        {
+          "glyph": "wife",
+          "name": "wife",
+          "exampleWord": "husband’s spouse"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l92",
+      "title": "Review 52",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "us",
+          "name": "us",
+          "exampleWord": "tell us"
+        },
+        {
+          "glyph": "her",
+          "name": "her",
+          "exampleWord": "see her"
+        },
+        {
+          "glyph": "he",
+          "name": "he",
+          "exampleWord": "he is tall"
+        },
+        {
+          "glyph": "brother",
+          "name": "brother",
+          "exampleWord": "male sibling"
+        },
+        {
+          "glyph": "parent",
+          "name": "parent",
+          "exampleWord": "mother or father"
+        },
+        {
+          "glyph": "uncle",
+          "name": "uncle",
+          "exampleWord": "parent’s brother"
+        },
+        {
+          "glyph": "they",
+          "name": "they",
+          "exampleWord": "they are here"
+        },
+        {
+          "glyph": "me",
+          "name": "me",
+          "exampleWord": "help me"
+        },
+        {
+          "glyph": "your",
+          "name": "your",
+          "exampleWord": "your book"
+        },
+        {
+          "glyph": "nephew",
+          "name": "nephew",
+          "exampleWord": "sibling’s son"
+        },
+        {
+          "glyph": "our",
+          "name": "our",
+          "exampleWord": "our book"
+        },
+        {
+          "glyph": "son",
+          "name": "son",
+          "exampleWord": "male child"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l93",
+      "title": "Review 53",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "child",
+          "name": "child",
+          "exampleWord": "son or daughter"
+        },
+        {
+          "glyph": "their",
+          "name": "their",
+          "exampleWord": "their book"
+        },
+        {
+          "glyph": "parent",
+          "name": "parent",
+          "exampleWord": "mother or father"
+        },
+        {
+          "glyph": "grandmother",
+          "name": "grandmother",
+          "exampleWord": "parent of parent (f)"
+        },
+        {
+          "glyph": "son",
+          "name": "son",
+          "exampleWord": "male child"
+        },
+        {
+          "glyph": "me",
+          "name": "me",
+          "exampleWord": "help me"
+        },
+        {
+          "glyph": "nephew",
+          "name": "nephew",
+          "exampleWord": "sibling’s son"
+        },
+        {
+          "glyph": "him",
+          "name": "him",
+          "exampleWord": "see him"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l94",
+      "title": "Review 54",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "grandmother",
+          "name": "grandmother",
+          "exampleWord": "parent of parent (f)"
+        },
+        {
+          "glyph": "he",
+          "name": "he",
+          "exampleWord": "he is tall"
+        },
+        {
+          "glyph": "our",
+          "name": "our",
+          "exampleWord": "our book"
+        },
+        {
+          "glyph": "niece",
+          "name": "niece",
+          "exampleWord": "sibling’s daughter"
+        },
+        {
+          "glyph": "he",
+          "name": "he",
+          "exampleWord": "he is tall"
+        },
+        {
+          "glyph": "baby",
+          "name": "baby",
+          "exampleWord": "infant child"
+        },
+        {
+          "glyph": "you",
+          "name": "you",
+          "exampleWord": "you are kind"
+        },
+        {
+          "glyph": "child",
+          "name": "child",
+          "exampleWord": "son or daughter"
+        },
+        {
+          "glyph": "sister",
+          "name": "sister",
+          "exampleWord": "female sibling"
+        },
+        {
+          "glyph": "grandmother",
+          "name": "grandmother",
+          "exampleWord": "parent of parent (f)"
+        },
+        {
+          "glyph": "cousin",
+          "name": "cousin",
+          "exampleWord": "uncle/aunt’s child"
+        },
+        {
+          "glyph": "me",
+          "name": "me",
+          "exampleWord": "help me"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l95",
+      "title": "Review 55",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "they",
+          "name": "they",
+          "exampleWord": "they are here"
+        },
+        {
+          "glyph": "uncle",
+          "name": "uncle",
+          "exampleWord": "parent’s brother"
+        },
+        {
+          "glyph": "in-law",
+          "name": "in-law",
+          "exampleWord": "family by marriage"
+        },
+        {
+          "glyph": "niece",
+          "name": "niece",
+          "exampleWord": "sibling’s daughter"
+        },
+        {
+          "glyph": "child",
+          "name": "child",
+          "exampleWord": "son or daughter"
+        },
+        {
+          "glyph": "son",
+          "name": "son",
+          "exampleWord": "male child"
+        },
+        {
+          "glyph": "parent",
+          "name": "parent",
+          "exampleWord": "mother or father"
+        },
+        {
+          "glyph": "he",
+          "name": "he",
+          "exampleWord": "he is tall"
+        },
+        {
+          "glyph": "in-law",
+          "name": "in-law",
+          "exampleWord": "family by marriage"
+        },
+        {
+          "glyph": "we",
+          "name": "we",
+          "exampleWord": "we are friends"
+        },
+        {
+          "glyph": "cousin",
+          "name": "cousin",
+          "exampleWord": "uncle/aunt’s child"
+        },
+        {
+          "glyph": "your",
+          "name": "your",
+          "exampleWord": "your book"
+        },
+        {
+          "glyph": "my",
+          "name": "my",
+          "exampleWord": "my book"
+        },
+        {
+          "glyph": "child",
+          "name": "child",
+          "exampleWord": "son or daughter"
+        },
+        {
+          "glyph": "parent",
+          "name": "parent",
+          "exampleWord": "mother or father"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l96",
+      "title": "Review 56",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "us",
+          "name": "us",
+          "exampleWord": "tell us"
+        },
+        {
+          "glyph": "you",
+          "name": "you",
+          "exampleWord": "you are kind"
+        },
+        {
+          "glyph": "child",
+          "name": "child",
+          "exampleWord": "son or daughter"
+        },
+        {
+          "glyph": "husband",
+          "name": "husband",
+          "exampleWord": "wife’s spouse"
+        },
+        {
+          "glyph": "me",
+          "name": "me",
+          "exampleWord": "help me"
+        },
+        {
+          "glyph": "mother",
+          "name": "mother",
+          "exampleWord": "mother / mama"
+        },
+        {
+          "glyph": "our",
+          "name": "our",
+          "exampleWord": "our book"
+        },
+        {
+          "glyph": "son",
+          "name": "son",
+          "exampleWord": "male child"
+        },
+        {
+          "glyph": "sister",
+          "name": "sister",
+          "exampleWord": "female sibling"
+        },
+        {
+          "glyph": "daughter",
+          "name": "daughter",
+          "exampleWord": "female child"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l97",
+      "title": "Review 57",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "family",
+          "name": "family",
+          "exampleWord": "all of us"
+        },
+        {
+          "glyph": "they",
+          "name": "they",
+          "exampleWord": "they are here"
+        },
+        {
+          "glyph": "family",
+          "name": "family",
+          "exampleWord": "all of us"
+        },
+        {
+          "glyph": "he",
+          "name": "he",
+          "exampleWord": "he is tall"
+        },
+        {
+          "glyph": "his",
+          "name": "his",
+          "exampleWord": "his book"
+        },
+        {
+          "glyph": "husband",
+          "name": "husband",
+          "exampleWord": "wife’s spouse"
+        },
+        {
+          "glyph": "he",
+          "name": "he",
+          "exampleWord": "he is tall"
+        },
+        {
+          "glyph": "wife",
+          "name": "wife",
+          "exampleWord": "husband’s spouse"
+        },
+        {
+          "glyph": "child",
+          "name": "child",
+          "exampleWord": "son or daughter"
+        },
+        {
+          "glyph": "uncle",
+          "name": "uncle",
+          "exampleWord": "parent’s brother"
+        },
+        {
+          "glyph": "him",
+          "name": "him",
+          "exampleWord": "see him"
+        },
+        {
+          "glyph": "husband",
+          "name": "husband",
+          "exampleWord": "wife’s spouse"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l98",
+      "title": "Review 58",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "daughter",
+          "name": "daughter",
+          "exampleWord": "female child"
+        },
+        {
+          "glyph": "husband",
+          "name": "husband",
+          "exampleWord": "wife’s spouse"
+        },
+        {
+          "glyph": "son",
+          "name": "son",
+          "exampleWord": "male child"
+        },
+        {
+          "glyph": "sister",
+          "name": "sister",
+          "exampleWord": "female sibling"
+        },
+        {
+          "glyph": "our",
+          "name": "our",
+          "exampleWord": "our book"
+        },
+        {
+          "glyph": "their",
+          "name": "their",
+          "exampleWord": "their book"
+        },
+        {
+          "glyph": "my",
+          "name": "my",
+          "exampleWord": "my book"
+        },
+        {
+          "glyph": "her",
+          "name": "her",
+          "exampleWord": "see her"
+        },
+        {
+          "glyph": "it",
+          "name": "it",
+          "exampleWord": "it is small"
+        },
+        {
+          "glyph": "their",
+          "name": "their",
+          "exampleWord": "their book"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l99",
+      "title": "Review 59",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "in-law",
+          "name": "in-law",
+          "exampleWord": "family by marriage"
+        },
+        {
+          "glyph": "father",
+          "name": "father",
+          "exampleWord": "father / papa"
+        },
+        {
+          "glyph": "her",
+          "name": "her",
+          "exampleWord": "see her"
+        },
+        {
+          "glyph": "them",
+          "name": "them",
+          "exampleWord": "see them"
+        },
+        {
+          "glyph": "family",
+          "name": "family",
+          "exampleWord": "all of us"
+        },
+        {
+          "glyph": "sister",
+          "name": "sister",
+          "exampleWord": "female sibling"
+        },
+        {
+          "glyph": "grandmother",
+          "name": "grandmother",
+          "exampleWord": "parent of parent (f)"
+        },
+        {
+          "glyph": "daughter",
+          "name": "daughter",
+          "exampleWord": "female child"
+        },
+        {
+          "glyph": "sister",
+          "name": "sister",
+          "exampleWord": "female sibling"
+        },
+        {
+          "glyph": "him",
+          "name": "him",
+          "exampleWord": "see him"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l100",
+      "title": "Review 60",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "mother",
+          "name": "mother",
+          "exampleWord": "mother / mama"
+        },
+        {
+          "glyph": "it",
+          "name": "it",
+          "exampleWord": "it is small"
+        },
+        {
+          "glyph": "our",
+          "name": "our",
+          "exampleWord": "our book"
+        },
+        {
+          "glyph": "parent",
+          "name": "parent",
+          "exampleWord": "mother or father"
+        },
+        {
+          "glyph": "parent",
+          "name": "parent",
+          "exampleWord": "mother or father"
+        },
+        {
+          "glyph": "her",
+          "name": "her",
+          "exampleWord": "see her"
+        },
+        {
+          "glyph": "my",
+          "name": "my",
+          "exampleWord": "my book"
+        },
+        {
+          "glyph": "they",
+          "name": "they",
+          "exampleWord": "they are here"
+        },
+        {
+          "glyph": "them",
+          "name": "them",
+          "exampleWord": "see them"
+        },
+        {
+          "glyph": "uncle",
+          "name": "uncle",
+          "exampleWord": "parent’s brother"
+        },
+        {
+          "glyph": "he",
+          "name": "he",
+          "exampleWord": "he is tall"
+        },
+        {
+          "glyph": "her",
+          "name": "her",
+          "exampleWord": "see her"
+        },
+        {
+          "glyph": "he",
+          "name": "he",
+          "exampleWord": "he is tall"
+        },
+        {
+          "glyph": "nephew",
+          "name": "nephew",
+          "exampleWord": "sibling’s son"
+        },
+        {
+          "glyph": "I",
+          "name": "I",
+          "exampleWord": "I am happy"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        }
+      ]
     }
   ]
 }

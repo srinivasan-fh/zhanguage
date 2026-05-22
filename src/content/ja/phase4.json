@@ -2364,6 +2364,5521 @@
           "answer": "にじ"
         }
       ]
+    },
+    {
+      "id": "ja-p4-l41",
+      "title": "ふくしゅう 1",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ほん",
+          "name": "hon",
+          "exampleWord": "book"
+        },
+        {
+          "glyph": "すいか",
+          "name": "suika",
+          "exampleWord": "watermelon"
+        },
+        {
+          "glyph": "きりん",
+          "name": "kirin",
+          "exampleWord": "giraffe"
+        },
+        {
+          "glyph": "ぺんぎん",
+          "name": "pengin",
+          "exampleWord": "penguin"
+        },
+        {
+          "glyph": "みかん",
+          "name": "mikan",
+          "exampleWord": "mandarin"
+        },
+        {
+          "glyph": "かたつむり",
+          "name": "katatsumuri",
+          "exampleWord": "snail"
+        },
+        {
+          "glyph": "いちご",
+          "name": "ichigo",
+          "exampleWord": "strawberry"
+        },
+        {
+          "glyph": "すし",
+          "name": "sushi",
+          "exampleWord": "sushi"
+        },
+        {
+          "glyph": "にじ",
+          "name": "niji",
+          "exampleWord": "rainbow"
+        },
+        {
+          "glyph": "ドア",
+          "name": "doa",
+          "exampleWord": "door"
+        },
+        {
+          "glyph": "でんわ",
+          "name": "denwa",
+          "exampleWord": "phone"
+        },
+        {
+          "glyph": "かざん",
+          "name": "kazan",
+          "exampleWord": "volcano"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l42",
+      "title": "ふくしゅう 2",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "らーめん",
+          "name": "rāmen",
+          "exampleWord": "ramen"
+        },
+        {
+          "glyph": "ゆきだるま",
+          "name": "yukidaruma",
+          "exampleWord": "snowman"
+        },
+        {
+          "glyph": "まど",
+          "name": "mado",
+          "exampleWord": "window"
+        },
+        {
+          "glyph": "くじら",
+          "name": "kujira",
+          "exampleWord": "whale"
+        },
+        {
+          "glyph": "にわとり",
+          "name": "niwatori",
+          "exampleWord": "chicken"
+        },
+        {
+          "glyph": "ぱん",
+          "name": "pan",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "ぺんぎん",
+          "name": "pengin",
+          "exampleWord": "penguin"
+        },
+        {
+          "glyph": "もり",
+          "name": "mori",
+          "exampleWord": "forest"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l43",
+      "title": "ふくしゅう 3",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "けーき",
+          "name": "kēki",
+          "exampleWord": "cake"
+        },
+        {
+          "glyph": "すいか",
+          "name": "suika",
+          "exampleWord": "watermelon"
+        },
+        {
+          "glyph": "もり",
+          "name": "mori",
+          "exampleWord": "forest"
+        },
+        {
+          "glyph": "ぴざ",
+          "name": "piza",
+          "exampleWord": "pizza"
+        },
+        {
+          "glyph": "ゆきだるま",
+          "name": "yukidaruma",
+          "exampleWord": "snowman"
+        },
+        {
+          "glyph": "らーめん",
+          "name": "rāmen",
+          "exampleWord": "ramen"
+        },
+        {
+          "glyph": "たいよう",
+          "name": "taiyō",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "りんご",
+          "name": "ringo",
+          "exampleWord": "apple"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l44",
+      "title": "ふくしゅう 4",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "たいよう",
+          "name": "taiyō",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "ほん",
+          "name": "hon",
+          "exampleWord": "book"
+        },
+        {
+          "glyph": "りんご",
+          "name": "ringo",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "ちょうちょう",
+          "name": "chōchō",
+          "exampleWord": "butterfly"
+        },
+        {
+          "glyph": "ゆきだるま",
+          "name": "yukidaruma",
+          "exampleWord": "snowman"
+        },
+        {
+          "glyph": "にわとり",
+          "name": "niwatori",
+          "exampleWord": "chicken"
+        },
+        {
+          "glyph": "ドア",
+          "name": "doa",
+          "exampleWord": "door"
+        },
+        {
+          "glyph": "ドア",
+          "name": "doa",
+          "exampleWord": "door"
+        },
+        {
+          "glyph": "ぞう",
+          "name": "zō",
+          "exampleWord": "elephant"
+        },
+        {
+          "glyph": "らーめん",
+          "name": "rāmen",
+          "exampleWord": "ramen"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l45",
+      "title": "ふくしゅう 5",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "かざん",
+          "name": "kazan",
+          "exampleWord": "volcano"
+        },
+        {
+          "glyph": "まど",
+          "name": "mado",
+          "exampleWord": "window"
+        },
+        {
+          "glyph": "えんぴつ",
+          "name": "enpitsu",
+          "exampleWord": "pencil"
+        },
+        {
+          "glyph": "りんご",
+          "name": "ringo",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "まど",
+          "name": "mado",
+          "exampleWord": "window"
+        },
+        {
+          "glyph": "でんわ",
+          "name": "denwa",
+          "exampleWord": "phone"
+        },
+        {
+          "glyph": "えんぴつ",
+          "name": "enpitsu",
+          "exampleWord": "pencil"
+        },
+        {
+          "glyph": "ちょうちょう",
+          "name": "chōchō",
+          "exampleWord": "butterfly"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l46",
+      "title": "ふくしゅう 6",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ばなな",
+          "name": "banana",
+          "exampleWord": "banana"
+        },
+        {
+          "glyph": "くるま",
+          "name": "kuruma",
+          "exampleWord": "car"
+        },
+        {
+          "glyph": "もり",
+          "name": "mori",
+          "exampleWord": "forest"
+        },
+        {
+          "glyph": "ドア",
+          "name": "doa",
+          "exampleWord": "door"
+        },
+        {
+          "glyph": "りんご",
+          "name": "ringo",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "かたつむり",
+          "name": "katatsumuri",
+          "exampleWord": "snail"
+        },
+        {
+          "glyph": "ばなな",
+          "name": "banana",
+          "exampleWord": "banana"
+        },
+        {
+          "glyph": "まど",
+          "name": "mado",
+          "exampleWord": "window"
+        },
+        {
+          "glyph": "すいか",
+          "name": "suika",
+          "exampleWord": "watermelon"
+        },
+        {
+          "glyph": "かたつむり",
+          "name": "katatsumuri",
+          "exampleWord": "snail"
+        },
+        {
+          "glyph": "しまうま",
+          "name": "shimauma",
+          "exampleWord": "zebra"
+        },
+        {
+          "glyph": "ゆきだるま",
+          "name": "yukidaruma",
+          "exampleWord": "snowman"
+        },
+        {
+          "glyph": "けーき",
+          "name": "kēki",
+          "exampleWord": "cake"
+        },
+        {
+          "glyph": "くじら",
+          "name": "kujira",
+          "exampleWord": "whale"
+        },
+        {
+          "glyph": "ゆきだるま",
+          "name": "yukidaruma",
+          "exampleWord": "snowman"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l47",
+      "title": "ふくしゅう 7",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ぴざ",
+          "name": "piza",
+          "exampleWord": "pizza"
+        },
+        {
+          "glyph": "ちょうちょう",
+          "name": "chōchō",
+          "exampleWord": "butterfly"
+        },
+        {
+          "glyph": "みずうみ",
+          "name": "mizuumi",
+          "exampleWord": "lake"
+        },
+        {
+          "glyph": "らーめん",
+          "name": "rāmen",
+          "exampleWord": "ramen"
+        },
+        {
+          "glyph": "しまうま",
+          "name": "shimauma",
+          "exampleWord": "zebra"
+        },
+        {
+          "glyph": "ばなな",
+          "name": "banana",
+          "exampleWord": "banana"
+        },
+        {
+          "glyph": "ぺんぎん",
+          "name": "pengin",
+          "exampleWord": "penguin"
+        },
+        {
+          "glyph": "りんご",
+          "name": "ringo",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "ばなな",
+          "name": "banana",
+          "exampleWord": "banana"
+        },
+        {
+          "glyph": "ばなな",
+          "name": "banana",
+          "exampleWord": "banana"
+        },
+        {
+          "glyph": "せかい",
+          "name": "sekai",
+          "exampleWord": "world"
+        },
+        {
+          "glyph": "うちゅう",
+          "name": "uchū",
+          "exampleWord": "space"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l48",
+      "title": "ふくしゅう 8",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "すし",
+          "name": "sushi",
+          "exampleWord": "sushi"
+        },
+        {
+          "glyph": "くるま",
+          "name": "kuruma",
+          "exampleWord": "car"
+        },
+        {
+          "glyph": "りんご",
+          "name": "ringo",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "ほん",
+          "name": "hon",
+          "exampleWord": "book"
+        },
+        {
+          "glyph": "えんぴつ",
+          "name": "enpitsu",
+          "exampleWord": "pencil"
+        },
+        {
+          "glyph": "いす",
+          "name": "isu",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "ちょうちょう",
+          "name": "chōchō",
+          "exampleWord": "butterfly"
+        },
+        {
+          "glyph": "しまうま",
+          "name": "shimauma",
+          "exampleWord": "zebra"
+        },
+        {
+          "glyph": "ぴざ",
+          "name": "piza",
+          "exampleWord": "pizza"
+        },
+        {
+          "glyph": "らーめん",
+          "name": "rāmen",
+          "exampleWord": "ramen"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l49",
+      "title": "ふくしゅう 9",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "すし",
+          "name": "sushi",
+          "exampleWord": "sushi"
+        },
+        {
+          "glyph": "いす",
+          "name": "isu",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "いるか",
+          "name": "iruka",
+          "exampleWord": "dolphin"
+        },
+        {
+          "glyph": "つくえ",
+          "name": "tsukue",
+          "exampleWord": "desk"
+        },
+        {
+          "glyph": "らくだ",
+          "name": "rakuda",
+          "exampleWord": "camel"
+        },
+        {
+          "glyph": "くるま",
+          "name": "kuruma",
+          "exampleWord": "car"
+        },
+        {
+          "glyph": "さばく",
+          "name": "sabaku",
+          "exampleWord": "desert"
+        },
+        {
+          "glyph": "かばん",
+          "name": "kaban",
+          "exampleWord": "bag"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l50",
+      "title": "ふくしゅう 10",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "らくだ",
+          "name": "rakuda",
+          "exampleWord": "camel"
+        },
+        {
+          "glyph": "さばく",
+          "name": "sabaku",
+          "exampleWord": "desert"
+        },
+        {
+          "glyph": "すし",
+          "name": "sushi",
+          "exampleWord": "sushi"
+        },
+        {
+          "glyph": "ぞう",
+          "name": "zō",
+          "exampleWord": "elephant"
+        },
+        {
+          "glyph": "でんわ",
+          "name": "denwa",
+          "exampleWord": "phone"
+        },
+        {
+          "glyph": "せかい",
+          "name": "sekai",
+          "exampleWord": "world"
+        },
+        {
+          "glyph": "じてんしゃ",
+          "name": "jitensha",
+          "exampleWord": "bicycle"
+        },
+        {
+          "glyph": "くるま",
+          "name": "kuruma",
+          "exampleWord": "car"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l51",
+      "title": "ふくしゅう 11",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "しまうま",
+          "name": "shimauma",
+          "exampleWord": "zebra"
+        },
+        {
+          "glyph": "ぱん",
+          "name": "pan",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "じてんしゃ",
+          "name": "jitensha",
+          "exampleWord": "bicycle"
+        },
+        {
+          "glyph": "もり",
+          "name": "mori",
+          "exampleWord": "forest"
+        },
+        {
+          "glyph": "くるま",
+          "name": "kuruma",
+          "exampleWord": "car"
+        },
+        {
+          "glyph": "すし",
+          "name": "sushi",
+          "exampleWord": "sushi"
+        },
+        {
+          "glyph": "ほん",
+          "name": "hon",
+          "exampleWord": "book"
+        },
+        {
+          "glyph": "ぴざ",
+          "name": "piza",
+          "exampleWord": "pizza"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l52",
+      "title": "ふくしゅう 12",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "みずうみ",
+          "name": "mizuumi",
+          "exampleWord": "lake"
+        },
+        {
+          "glyph": "くるま",
+          "name": "kuruma",
+          "exampleWord": "car"
+        },
+        {
+          "glyph": "にわとり",
+          "name": "niwatori",
+          "exampleWord": "chicken"
+        },
+        {
+          "glyph": "ちょうちょう",
+          "name": "chōchō",
+          "exampleWord": "butterfly"
+        },
+        {
+          "glyph": "ぱん",
+          "name": "pan",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "せかい",
+          "name": "sekai",
+          "exampleWord": "world"
+        },
+        {
+          "glyph": "すいか",
+          "name": "suika",
+          "exampleWord": "watermelon"
+        },
+        {
+          "glyph": "きりん",
+          "name": "kirin",
+          "exampleWord": "giraffe"
+        },
+        {
+          "glyph": "ゆきだるま",
+          "name": "yukidaruma",
+          "exampleWord": "snowman"
+        },
+        {
+          "glyph": "ドア",
+          "name": "doa",
+          "exampleWord": "door"
+        },
+        {
+          "glyph": "みかん",
+          "name": "mikan",
+          "exampleWord": "mandarin"
+        },
+        {
+          "glyph": "かばん",
+          "name": "kaban",
+          "exampleWord": "bag"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l53",
+      "title": "ふくしゅう 13",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "すし",
+          "name": "sushi",
+          "exampleWord": "sushi"
+        },
+        {
+          "glyph": "くるま",
+          "name": "kuruma",
+          "exampleWord": "car"
+        },
+        {
+          "glyph": "らーめん",
+          "name": "rāmen",
+          "exampleWord": "ramen"
+        },
+        {
+          "glyph": "みかん",
+          "name": "mikan",
+          "exampleWord": "mandarin"
+        },
+        {
+          "glyph": "らくだ",
+          "name": "rakuda",
+          "exampleWord": "camel"
+        },
+        {
+          "glyph": "せかい",
+          "name": "sekai",
+          "exampleWord": "world"
+        },
+        {
+          "glyph": "いるか",
+          "name": "iruka",
+          "exampleWord": "dolphin"
+        },
+        {
+          "glyph": "りんご",
+          "name": "ringo",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "ばなな",
+          "name": "banana",
+          "exampleWord": "banana"
+        },
+        {
+          "glyph": "ゆきだるま",
+          "name": "yukidaruma",
+          "exampleWord": "snowman"
+        },
+        {
+          "glyph": "ゆきだるま",
+          "name": "yukidaruma",
+          "exampleWord": "snowman"
+        },
+        {
+          "glyph": "きりん",
+          "name": "kirin",
+          "exampleWord": "giraffe"
+        },
+        {
+          "glyph": "せかい",
+          "name": "sekai",
+          "exampleWord": "world"
+        },
+        {
+          "glyph": "つくえ",
+          "name": "tsukue",
+          "exampleWord": "desk"
+        },
+        {
+          "glyph": "でんわ",
+          "name": "denwa",
+          "exampleWord": "phone"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l54",
+      "title": "ふくしゅう 14",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "くるま",
+          "name": "kuruma",
+          "exampleWord": "car"
+        },
+        {
+          "glyph": "すし",
+          "name": "sushi",
+          "exampleWord": "sushi"
+        },
+        {
+          "glyph": "たき",
+          "name": "taki",
+          "exampleWord": "waterfall"
+        },
+        {
+          "glyph": "かばん",
+          "name": "kaban",
+          "exampleWord": "bag"
+        },
+        {
+          "glyph": "くじら",
+          "name": "kujira",
+          "exampleWord": "whale"
+        },
+        {
+          "glyph": "うちゅう",
+          "name": "uchū",
+          "exampleWord": "space"
+        },
+        {
+          "glyph": "えんぴつ",
+          "name": "enpitsu",
+          "exampleWord": "pencil"
+        },
+        {
+          "glyph": "かたつむり",
+          "name": "katatsumuri",
+          "exampleWord": "snail"
+        },
+        {
+          "glyph": "みかん",
+          "name": "mikan",
+          "exampleWord": "mandarin"
+        },
+        {
+          "glyph": "にじ",
+          "name": "niji",
+          "exampleWord": "rainbow"
+        },
+        {
+          "glyph": "ぱん",
+          "name": "pan",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "たいよう",
+          "name": "taiyō",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "ゆきだるま",
+          "name": "yukidaruma",
+          "exampleWord": "snowman"
+        },
+        {
+          "glyph": "みずうみ",
+          "name": "mizuumi",
+          "exampleWord": "lake"
+        },
+        {
+          "glyph": "すいか",
+          "name": "suika",
+          "exampleWord": "watermelon"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l55",
+      "title": "ふくしゅう 15",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ほん",
+          "name": "hon",
+          "exampleWord": "book"
+        },
+        {
+          "glyph": "しまうま",
+          "name": "shimauma",
+          "exampleWord": "zebra"
+        },
+        {
+          "glyph": "ぱん",
+          "name": "pan",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "ドア",
+          "name": "doa",
+          "exampleWord": "door"
+        },
+        {
+          "glyph": "きりん",
+          "name": "kirin",
+          "exampleWord": "giraffe"
+        },
+        {
+          "glyph": "いす",
+          "name": "isu",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "ばなな",
+          "name": "banana",
+          "exampleWord": "banana"
+        },
+        {
+          "glyph": "みかん",
+          "name": "mikan",
+          "exampleWord": "mandarin"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l56",
+      "title": "ふくしゅう 16",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ばなな",
+          "name": "banana",
+          "exampleWord": "banana"
+        },
+        {
+          "glyph": "さばく",
+          "name": "sabaku",
+          "exampleWord": "desert"
+        },
+        {
+          "glyph": "さばく",
+          "name": "sabaku",
+          "exampleWord": "desert"
+        },
+        {
+          "glyph": "すいか",
+          "name": "suika",
+          "exampleWord": "watermelon"
+        },
+        {
+          "glyph": "かばん",
+          "name": "kaban",
+          "exampleWord": "bag"
+        },
+        {
+          "glyph": "ほん",
+          "name": "hon",
+          "exampleWord": "book"
+        },
+        {
+          "glyph": "らくだ",
+          "name": "rakuda",
+          "exampleWord": "camel"
+        },
+        {
+          "glyph": "みずうみ",
+          "name": "mizuumi",
+          "exampleWord": "lake"
+        },
+        {
+          "glyph": "まど",
+          "name": "mado",
+          "exampleWord": "window"
+        },
+        {
+          "glyph": "ゆきだるま",
+          "name": "yukidaruma",
+          "exampleWord": "snowman"
+        },
+        {
+          "glyph": "でんわ",
+          "name": "denwa",
+          "exampleWord": "phone"
+        },
+        {
+          "glyph": "かざん",
+          "name": "kazan",
+          "exampleWord": "volcano"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l57",
+      "title": "ふくしゅう 17",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "きりん",
+          "name": "kirin",
+          "exampleWord": "giraffe"
+        },
+        {
+          "glyph": "たき",
+          "name": "taki",
+          "exampleWord": "waterfall"
+        },
+        {
+          "glyph": "くるま",
+          "name": "kuruma",
+          "exampleWord": "car"
+        },
+        {
+          "glyph": "くるま",
+          "name": "kuruma",
+          "exampleWord": "car"
+        },
+        {
+          "glyph": "しまうま",
+          "name": "shimauma",
+          "exampleWord": "zebra"
+        },
+        {
+          "glyph": "うちゅう",
+          "name": "uchū",
+          "exampleWord": "space"
+        },
+        {
+          "glyph": "ほん",
+          "name": "hon",
+          "exampleWord": "book"
+        },
+        {
+          "glyph": "りんご",
+          "name": "ringo",
+          "exampleWord": "apple"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l58",
+      "title": "ふくしゅう 18",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ぴざ",
+          "name": "piza",
+          "exampleWord": "pizza"
+        },
+        {
+          "glyph": "すいか",
+          "name": "suika",
+          "exampleWord": "watermelon"
+        },
+        {
+          "glyph": "みずうみ",
+          "name": "mizuumi",
+          "exampleWord": "lake"
+        },
+        {
+          "glyph": "くるま",
+          "name": "kuruma",
+          "exampleWord": "car"
+        },
+        {
+          "glyph": "かばん",
+          "name": "kaban",
+          "exampleWord": "bag"
+        },
+        {
+          "glyph": "いす",
+          "name": "isu",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "かざん",
+          "name": "kazan",
+          "exampleWord": "volcano"
+        },
+        {
+          "glyph": "つくえ",
+          "name": "tsukue",
+          "exampleWord": "desk"
+        },
+        {
+          "glyph": "じてんしゃ",
+          "name": "jitensha",
+          "exampleWord": "bicycle"
+        },
+        {
+          "glyph": "みずうみ",
+          "name": "mizuumi",
+          "exampleWord": "lake"
+        },
+        {
+          "glyph": "ちょうちょう",
+          "name": "chōchō",
+          "exampleWord": "butterfly"
+        },
+        {
+          "glyph": "にわとり",
+          "name": "niwatori",
+          "exampleWord": "chicken"
+        },
+        {
+          "glyph": "ドア",
+          "name": "doa",
+          "exampleWord": "door"
+        },
+        {
+          "glyph": "せかい",
+          "name": "sekai",
+          "exampleWord": "world"
+        },
+        {
+          "glyph": "ぞう",
+          "name": "zō",
+          "exampleWord": "elephant"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l59",
+      "title": "ふくしゅう 19",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "みかん",
+          "name": "mikan",
+          "exampleWord": "mandarin"
+        },
+        {
+          "glyph": "ぴざ",
+          "name": "piza",
+          "exampleWord": "pizza"
+        },
+        {
+          "glyph": "にじ",
+          "name": "niji",
+          "exampleWord": "rainbow"
+        },
+        {
+          "glyph": "にわとり",
+          "name": "niwatori",
+          "exampleWord": "chicken"
+        },
+        {
+          "glyph": "かたつむり",
+          "name": "katatsumuri",
+          "exampleWord": "snail"
+        },
+        {
+          "glyph": "すいか",
+          "name": "suika",
+          "exampleWord": "watermelon"
+        },
+        {
+          "glyph": "さばく",
+          "name": "sabaku",
+          "exampleWord": "desert"
+        },
+        {
+          "glyph": "みかん",
+          "name": "mikan",
+          "exampleWord": "mandarin"
+        },
+        {
+          "glyph": "もり",
+          "name": "mori",
+          "exampleWord": "forest"
+        },
+        {
+          "glyph": "らーめん",
+          "name": "rāmen",
+          "exampleWord": "ramen"
+        },
+        {
+          "glyph": "ぺんぎん",
+          "name": "pengin",
+          "exampleWord": "penguin"
+        },
+        {
+          "glyph": "かたつむり",
+          "name": "katatsumuri",
+          "exampleWord": "snail"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l60",
+      "title": "ふくしゅう 20",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "くじら",
+          "name": "kujira",
+          "exampleWord": "whale"
+        },
+        {
+          "glyph": "ぞう",
+          "name": "zō",
+          "exampleWord": "elephant"
+        },
+        {
+          "glyph": "じてんしゃ",
+          "name": "jitensha",
+          "exampleWord": "bicycle"
+        },
+        {
+          "glyph": "にわとり",
+          "name": "niwatori",
+          "exampleWord": "chicken"
+        },
+        {
+          "glyph": "うちゅう",
+          "name": "uchū",
+          "exampleWord": "space"
+        },
+        {
+          "glyph": "さばく",
+          "name": "sabaku",
+          "exampleWord": "desert"
+        },
+        {
+          "glyph": "にわとり",
+          "name": "niwatori",
+          "exampleWord": "chicken"
+        },
+        {
+          "glyph": "ばなな",
+          "name": "banana",
+          "exampleWord": "banana"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l61",
+      "title": "ふくしゅう 21",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "すいか",
+          "name": "suika",
+          "exampleWord": "watermelon"
+        },
+        {
+          "glyph": "きりん",
+          "name": "kirin",
+          "exampleWord": "giraffe"
+        },
+        {
+          "glyph": "みかん",
+          "name": "mikan",
+          "exampleWord": "mandarin"
+        },
+        {
+          "glyph": "まど",
+          "name": "mado",
+          "exampleWord": "window"
+        },
+        {
+          "glyph": "ぞう",
+          "name": "zō",
+          "exampleWord": "elephant"
+        },
+        {
+          "glyph": "きりん",
+          "name": "kirin",
+          "exampleWord": "giraffe"
+        },
+        {
+          "glyph": "でんわ",
+          "name": "denwa",
+          "exampleWord": "phone"
+        },
+        {
+          "glyph": "かたつむり",
+          "name": "katatsumuri",
+          "exampleWord": "snail"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l62",
+      "title": "ふくしゅう 22",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "じてんしゃ",
+          "name": "jitensha",
+          "exampleWord": "bicycle"
+        },
+        {
+          "glyph": "いちご",
+          "name": "ichigo",
+          "exampleWord": "strawberry"
+        },
+        {
+          "glyph": "きりん",
+          "name": "kirin",
+          "exampleWord": "giraffe"
+        },
+        {
+          "glyph": "えんぴつ",
+          "name": "enpitsu",
+          "exampleWord": "pencil"
+        },
+        {
+          "glyph": "ゆきだるま",
+          "name": "yukidaruma",
+          "exampleWord": "snowman"
+        },
+        {
+          "glyph": "ドア",
+          "name": "doa",
+          "exampleWord": "door"
+        },
+        {
+          "glyph": "ぞう",
+          "name": "zō",
+          "exampleWord": "elephant"
+        },
+        {
+          "glyph": "えんぴつ",
+          "name": "enpitsu",
+          "exampleWord": "pencil"
+        },
+        {
+          "glyph": "ぴざ",
+          "name": "piza",
+          "exampleWord": "pizza"
+        },
+        {
+          "glyph": "せかい",
+          "name": "sekai",
+          "exampleWord": "world"
+        },
+        {
+          "glyph": "かばん",
+          "name": "kaban",
+          "exampleWord": "bag"
+        },
+        {
+          "glyph": "にわとり",
+          "name": "niwatori",
+          "exampleWord": "chicken"
+        },
+        {
+          "glyph": "まど",
+          "name": "mado",
+          "exampleWord": "window"
+        },
+        {
+          "glyph": "ゆきだるま",
+          "name": "yukidaruma",
+          "exampleWord": "snowman"
+        },
+        {
+          "glyph": "ばなな",
+          "name": "banana",
+          "exampleWord": "banana"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l63",
+      "title": "ふくしゅう 23",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ぺんぎん",
+          "name": "pengin",
+          "exampleWord": "penguin"
+        },
+        {
+          "glyph": "ゆきだるま",
+          "name": "yukidaruma",
+          "exampleWord": "snowman"
+        },
+        {
+          "glyph": "かたつむり",
+          "name": "katatsumuri",
+          "exampleWord": "snail"
+        },
+        {
+          "glyph": "りんご",
+          "name": "ringo",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "たいよう",
+          "name": "taiyō",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "くるま",
+          "name": "kuruma",
+          "exampleWord": "car"
+        },
+        {
+          "glyph": "ぱん",
+          "name": "pan",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "もり",
+          "name": "mori",
+          "exampleWord": "forest"
+        },
+        {
+          "glyph": "いす",
+          "name": "isu",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "えんぴつ",
+          "name": "enpitsu",
+          "exampleWord": "pencil"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l64",
+      "title": "ふくしゅう 24",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "えんぴつ",
+          "name": "enpitsu",
+          "exampleWord": "pencil"
+        },
+        {
+          "glyph": "つくえ",
+          "name": "tsukue",
+          "exampleWord": "desk"
+        },
+        {
+          "glyph": "りんご",
+          "name": "ringo",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "さばく",
+          "name": "sabaku",
+          "exampleWord": "desert"
+        },
+        {
+          "glyph": "かばん",
+          "name": "kaban",
+          "exampleWord": "bag"
+        },
+        {
+          "glyph": "きりん",
+          "name": "kirin",
+          "exampleWord": "giraffe"
+        },
+        {
+          "glyph": "ほん",
+          "name": "hon",
+          "exampleWord": "book"
+        },
+        {
+          "glyph": "いるか",
+          "name": "iruka",
+          "exampleWord": "dolphin"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l65",
+      "title": "ふくしゅう 25",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "みかん",
+          "name": "mikan",
+          "exampleWord": "mandarin"
+        },
+        {
+          "glyph": "ほん",
+          "name": "hon",
+          "exampleWord": "book"
+        },
+        {
+          "glyph": "さばく",
+          "name": "sabaku",
+          "exampleWord": "desert"
+        },
+        {
+          "glyph": "ぞう",
+          "name": "zō",
+          "exampleWord": "elephant"
+        },
+        {
+          "glyph": "くるま",
+          "name": "kuruma",
+          "exampleWord": "car"
+        },
+        {
+          "glyph": "いす",
+          "name": "isu",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "すいか",
+          "name": "suika",
+          "exampleWord": "watermelon"
+        },
+        {
+          "glyph": "みずうみ",
+          "name": "mizuumi",
+          "exampleWord": "lake"
+        },
+        {
+          "glyph": "しまうま",
+          "name": "shimauma",
+          "exampleWord": "zebra"
+        },
+        {
+          "glyph": "にわとり",
+          "name": "niwatori",
+          "exampleWord": "chicken"
+        },
+        {
+          "glyph": "けーき",
+          "name": "kēki",
+          "exampleWord": "cake"
+        },
+        {
+          "glyph": "みずうみ",
+          "name": "mizuumi",
+          "exampleWord": "lake"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l66",
+      "title": "ふくしゅう 26",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "かばん",
+          "name": "kaban",
+          "exampleWord": "bag"
+        },
+        {
+          "glyph": "いす",
+          "name": "isu",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "にわとり",
+          "name": "niwatori",
+          "exampleWord": "chicken"
+        },
+        {
+          "glyph": "ドア",
+          "name": "doa",
+          "exampleWord": "door"
+        },
+        {
+          "glyph": "たき",
+          "name": "taki",
+          "exampleWord": "waterfall"
+        },
+        {
+          "glyph": "えんぴつ",
+          "name": "enpitsu",
+          "exampleWord": "pencil"
+        },
+        {
+          "glyph": "みずうみ",
+          "name": "mizuumi",
+          "exampleWord": "lake"
+        },
+        {
+          "glyph": "ぴざ",
+          "name": "piza",
+          "exampleWord": "pizza"
+        },
+        {
+          "glyph": "ばなな",
+          "name": "banana",
+          "exampleWord": "banana"
+        },
+        {
+          "glyph": "ぴざ",
+          "name": "piza",
+          "exampleWord": "pizza"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l67",
+      "title": "ふくしゅう 27",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "いるか",
+          "name": "iruka",
+          "exampleWord": "dolphin"
+        },
+        {
+          "glyph": "せかい",
+          "name": "sekai",
+          "exampleWord": "world"
+        },
+        {
+          "glyph": "くるま",
+          "name": "kuruma",
+          "exampleWord": "car"
+        },
+        {
+          "glyph": "せかい",
+          "name": "sekai",
+          "exampleWord": "world"
+        },
+        {
+          "glyph": "くるま",
+          "name": "kuruma",
+          "exampleWord": "car"
+        },
+        {
+          "glyph": "かばん",
+          "name": "kaban",
+          "exampleWord": "bag"
+        },
+        {
+          "glyph": "せかい",
+          "name": "sekai",
+          "exampleWord": "world"
+        },
+        {
+          "glyph": "らくだ",
+          "name": "rakuda",
+          "exampleWord": "camel"
+        },
+        {
+          "glyph": "ほん",
+          "name": "hon",
+          "exampleWord": "book"
+        },
+        {
+          "glyph": "ゆきだるま",
+          "name": "yukidaruma",
+          "exampleWord": "snowman"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l68",
+      "title": "ふくしゅう 28",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "みかん",
+          "name": "mikan",
+          "exampleWord": "mandarin"
+        },
+        {
+          "glyph": "ほん",
+          "name": "hon",
+          "exampleWord": "book"
+        },
+        {
+          "glyph": "もり",
+          "name": "mori",
+          "exampleWord": "forest"
+        },
+        {
+          "glyph": "らーめん",
+          "name": "rāmen",
+          "exampleWord": "ramen"
+        },
+        {
+          "glyph": "ぺんぎん",
+          "name": "pengin",
+          "exampleWord": "penguin"
+        },
+        {
+          "glyph": "たいよう",
+          "name": "taiyō",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "きりん",
+          "name": "kirin",
+          "exampleWord": "giraffe"
+        },
+        {
+          "glyph": "かばん",
+          "name": "kaban",
+          "exampleWord": "bag"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l69",
+      "title": "ふくしゅう 29",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "しまうま",
+          "name": "shimauma",
+          "exampleWord": "zebra"
+        },
+        {
+          "glyph": "ぞう",
+          "name": "zō",
+          "exampleWord": "elephant"
+        },
+        {
+          "glyph": "まど",
+          "name": "mado",
+          "exampleWord": "window"
+        },
+        {
+          "glyph": "くじら",
+          "name": "kujira",
+          "exampleWord": "whale"
+        },
+        {
+          "glyph": "つくえ",
+          "name": "tsukue",
+          "exampleWord": "desk"
+        },
+        {
+          "glyph": "いす",
+          "name": "isu",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "ぞう",
+          "name": "zō",
+          "exampleWord": "elephant"
+        },
+        {
+          "glyph": "さばく",
+          "name": "sabaku",
+          "exampleWord": "desert"
+        },
+        {
+          "glyph": "いるか",
+          "name": "iruka",
+          "exampleWord": "dolphin"
+        },
+        {
+          "glyph": "らーめん",
+          "name": "rāmen",
+          "exampleWord": "ramen"
+        },
+        {
+          "glyph": "みずうみ",
+          "name": "mizuumi",
+          "exampleWord": "lake"
+        },
+        {
+          "glyph": "かばん",
+          "name": "kaban",
+          "exampleWord": "bag"
+        },
+        {
+          "glyph": "せかい",
+          "name": "sekai",
+          "exampleWord": "world"
+        },
+        {
+          "glyph": "みかん",
+          "name": "mikan",
+          "exampleWord": "mandarin"
+        },
+        {
+          "glyph": "うちゅう",
+          "name": "uchū",
+          "exampleWord": "space"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l70",
+      "title": "ふくしゅう 30",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "すし",
+          "name": "sushi",
+          "exampleWord": "sushi"
+        },
+        {
+          "glyph": "らーめん",
+          "name": "rāmen",
+          "exampleWord": "ramen"
+        },
+        {
+          "glyph": "にわとり",
+          "name": "niwatori",
+          "exampleWord": "chicken"
+        },
+        {
+          "glyph": "けーき",
+          "name": "kēki",
+          "exampleWord": "cake"
+        },
+        {
+          "glyph": "にわとり",
+          "name": "niwatori",
+          "exampleWord": "chicken"
+        },
+        {
+          "glyph": "いす",
+          "name": "isu",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "すいか",
+          "name": "suika",
+          "exampleWord": "watermelon"
+        },
+        {
+          "glyph": "にじ",
+          "name": "niji",
+          "exampleWord": "rainbow"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l71",
+      "title": "ふくしゅう 31",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "さばく",
+          "name": "sabaku",
+          "exampleWord": "desert"
+        },
+        {
+          "glyph": "いす",
+          "name": "isu",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "まど",
+          "name": "mado",
+          "exampleWord": "window"
+        },
+        {
+          "glyph": "ばなな",
+          "name": "banana",
+          "exampleWord": "banana"
+        },
+        {
+          "glyph": "らくだ",
+          "name": "rakuda",
+          "exampleWord": "camel"
+        },
+        {
+          "glyph": "ぺんぎん",
+          "name": "pengin",
+          "exampleWord": "penguin"
+        },
+        {
+          "glyph": "せかい",
+          "name": "sekai",
+          "exampleWord": "world"
+        },
+        {
+          "glyph": "たき",
+          "name": "taki",
+          "exampleWord": "waterfall"
+        },
+        {
+          "glyph": "ぱん",
+          "name": "pan",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "まど",
+          "name": "mado",
+          "exampleWord": "window"
+        },
+        {
+          "glyph": "ぞう",
+          "name": "zō",
+          "exampleWord": "elephant"
+        },
+        {
+          "glyph": "くるま",
+          "name": "kuruma",
+          "exampleWord": "car"
+        },
+        {
+          "glyph": "いちご",
+          "name": "ichigo",
+          "exampleWord": "strawberry"
+        },
+        {
+          "glyph": "いるか",
+          "name": "iruka",
+          "exampleWord": "dolphin"
+        },
+        {
+          "glyph": "りんご",
+          "name": "ringo",
+          "exampleWord": "apple"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l72",
+      "title": "ふくしゅう 32",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "いるか",
+          "name": "iruka",
+          "exampleWord": "dolphin"
+        },
+        {
+          "glyph": "らくだ",
+          "name": "rakuda",
+          "exampleWord": "camel"
+        },
+        {
+          "glyph": "にじ",
+          "name": "niji",
+          "exampleWord": "rainbow"
+        },
+        {
+          "glyph": "ぴざ",
+          "name": "piza",
+          "exampleWord": "pizza"
+        },
+        {
+          "glyph": "でんわ",
+          "name": "denwa",
+          "exampleWord": "phone"
+        },
+        {
+          "glyph": "ちょうちょう",
+          "name": "chōchō",
+          "exampleWord": "butterfly"
+        },
+        {
+          "glyph": "かたつむり",
+          "name": "katatsumuri",
+          "exampleWord": "snail"
+        },
+        {
+          "glyph": "いちご",
+          "name": "ichigo",
+          "exampleWord": "strawberry"
+        },
+        {
+          "glyph": "うちゅう",
+          "name": "uchū",
+          "exampleWord": "space"
+        },
+        {
+          "glyph": "たき",
+          "name": "taki",
+          "exampleWord": "waterfall"
+        },
+        {
+          "glyph": "さばく",
+          "name": "sabaku",
+          "exampleWord": "desert"
+        },
+        {
+          "glyph": "りんご",
+          "name": "ringo",
+          "exampleWord": "apple"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l73",
+      "title": "ふくしゅう 33",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "にわとり",
+          "name": "niwatori",
+          "exampleWord": "chicken"
+        },
+        {
+          "glyph": "もり",
+          "name": "mori",
+          "exampleWord": "forest"
+        },
+        {
+          "glyph": "しまうま",
+          "name": "shimauma",
+          "exampleWord": "zebra"
+        },
+        {
+          "glyph": "もり",
+          "name": "mori",
+          "exampleWord": "forest"
+        },
+        {
+          "glyph": "ドア",
+          "name": "doa",
+          "exampleWord": "door"
+        },
+        {
+          "glyph": "ほん",
+          "name": "hon",
+          "exampleWord": "book"
+        },
+        {
+          "glyph": "ぞう",
+          "name": "zō",
+          "exampleWord": "elephant"
+        },
+        {
+          "glyph": "ちょうちょう",
+          "name": "chōchō",
+          "exampleWord": "butterfly"
+        },
+        {
+          "glyph": "りんご",
+          "name": "ringo",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "らくだ",
+          "name": "rakuda",
+          "exampleWord": "camel"
+        },
+        {
+          "glyph": "にわとり",
+          "name": "niwatori",
+          "exampleWord": "chicken"
+        },
+        {
+          "glyph": "ドア",
+          "name": "doa",
+          "exampleWord": "door"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l74",
+      "title": "ふくしゅう 34",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "もり",
+          "name": "mori",
+          "exampleWord": "forest"
+        },
+        {
+          "glyph": "ぺんぎん",
+          "name": "pengin",
+          "exampleWord": "penguin"
+        },
+        {
+          "glyph": "せかい",
+          "name": "sekai",
+          "exampleWord": "world"
+        },
+        {
+          "glyph": "じてんしゃ",
+          "name": "jitensha",
+          "exampleWord": "bicycle"
+        },
+        {
+          "glyph": "さばく",
+          "name": "sabaku",
+          "exampleWord": "desert"
+        },
+        {
+          "glyph": "にわとり",
+          "name": "niwatori",
+          "exampleWord": "chicken"
+        },
+        {
+          "glyph": "たいよう",
+          "name": "taiyō",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "ばなな",
+          "name": "banana",
+          "exampleWord": "banana"
+        },
+        {
+          "glyph": "いす",
+          "name": "isu",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "かたつむり",
+          "name": "katatsumuri",
+          "exampleWord": "snail"
+        },
+        {
+          "glyph": "ゆきだるま",
+          "name": "yukidaruma",
+          "exampleWord": "snowman"
+        },
+        {
+          "glyph": "ぺんぎん",
+          "name": "pengin",
+          "exampleWord": "penguin"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l75",
+      "title": "ふくしゅう 35",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "らーめん",
+          "name": "rāmen",
+          "exampleWord": "ramen"
+        },
+        {
+          "glyph": "くるま",
+          "name": "kuruma",
+          "exampleWord": "car"
+        },
+        {
+          "glyph": "くるま",
+          "name": "kuruma",
+          "exampleWord": "car"
+        },
+        {
+          "glyph": "すいか",
+          "name": "suika",
+          "exampleWord": "watermelon"
+        },
+        {
+          "glyph": "らーめん",
+          "name": "rāmen",
+          "exampleWord": "ramen"
+        },
+        {
+          "glyph": "まど",
+          "name": "mado",
+          "exampleWord": "window"
+        },
+        {
+          "glyph": "いるか",
+          "name": "iruka",
+          "exampleWord": "dolphin"
+        },
+        {
+          "glyph": "らーめん",
+          "name": "rāmen",
+          "exampleWord": "ramen"
+        },
+        {
+          "glyph": "みかん",
+          "name": "mikan",
+          "exampleWord": "mandarin"
+        },
+        {
+          "glyph": "かばん",
+          "name": "kaban",
+          "exampleWord": "bag"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l76",
+      "title": "ふくしゅう 36",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "みずうみ",
+          "name": "mizuumi",
+          "exampleWord": "lake"
+        },
+        {
+          "glyph": "すし",
+          "name": "sushi",
+          "exampleWord": "sushi"
+        },
+        {
+          "glyph": "えんぴつ",
+          "name": "enpitsu",
+          "exampleWord": "pencil"
+        },
+        {
+          "glyph": "ぺんぎん",
+          "name": "pengin",
+          "exampleWord": "penguin"
+        },
+        {
+          "glyph": "ぺんぎん",
+          "name": "pengin",
+          "exampleWord": "penguin"
+        },
+        {
+          "glyph": "りんご",
+          "name": "ringo",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "かざん",
+          "name": "kazan",
+          "exampleWord": "volcano"
+        },
+        {
+          "glyph": "くるま",
+          "name": "kuruma",
+          "exampleWord": "car"
+        },
+        {
+          "glyph": "でんわ",
+          "name": "denwa",
+          "exampleWord": "phone"
+        },
+        {
+          "glyph": "いす",
+          "name": "isu",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "すし",
+          "name": "sushi",
+          "exampleWord": "sushi"
+        },
+        {
+          "glyph": "ゆきだるま",
+          "name": "yukidaruma",
+          "exampleWord": "snowman"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l77",
+      "title": "ふくしゅう 37",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "かばん",
+          "name": "kaban",
+          "exampleWord": "bag"
+        },
+        {
+          "glyph": "くじら",
+          "name": "kujira",
+          "exampleWord": "whale"
+        },
+        {
+          "glyph": "さばく",
+          "name": "sabaku",
+          "exampleWord": "desert"
+        },
+        {
+          "glyph": "くじら",
+          "name": "kujira",
+          "exampleWord": "whale"
+        },
+        {
+          "glyph": "くるま",
+          "name": "kuruma",
+          "exampleWord": "car"
+        },
+        {
+          "glyph": "たいよう",
+          "name": "taiyō",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "ぺんぎん",
+          "name": "pengin",
+          "exampleWord": "penguin"
+        },
+        {
+          "glyph": "えんぴつ",
+          "name": "enpitsu",
+          "exampleWord": "pencil"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l78",
+      "title": "ふくしゅう 38",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "みずうみ",
+          "name": "mizuumi",
+          "exampleWord": "lake"
+        },
+        {
+          "glyph": "でんわ",
+          "name": "denwa",
+          "exampleWord": "phone"
+        },
+        {
+          "glyph": "もり",
+          "name": "mori",
+          "exampleWord": "forest"
+        },
+        {
+          "glyph": "えんぴつ",
+          "name": "enpitsu",
+          "exampleWord": "pencil"
+        },
+        {
+          "glyph": "らーめん",
+          "name": "rāmen",
+          "exampleWord": "ramen"
+        },
+        {
+          "glyph": "えんぴつ",
+          "name": "enpitsu",
+          "exampleWord": "pencil"
+        },
+        {
+          "glyph": "きりん",
+          "name": "kirin",
+          "exampleWord": "giraffe"
+        },
+        {
+          "glyph": "くじら",
+          "name": "kujira",
+          "exampleWord": "whale"
+        },
+        {
+          "glyph": "いるか",
+          "name": "iruka",
+          "exampleWord": "dolphin"
+        },
+        {
+          "glyph": "ちょうちょう",
+          "name": "chōchō",
+          "exampleWord": "butterfly"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l79",
+      "title": "ふくしゅう 39",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "みかん",
+          "name": "mikan",
+          "exampleWord": "mandarin"
+        },
+        {
+          "glyph": "ぴざ",
+          "name": "piza",
+          "exampleWord": "pizza"
+        },
+        {
+          "glyph": "きりん",
+          "name": "kirin",
+          "exampleWord": "giraffe"
+        },
+        {
+          "glyph": "きりん",
+          "name": "kirin",
+          "exampleWord": "giraffe"
+        },
+        {
+          "glyph": "みずうみ",
+          "name": "mizuumi",
+          "exampleWord": "lake"
+        },
+        {
+          "glyph": "でんわ",
+          "name": "denwa",
+          "exampleWord": "phone"
+        },
+        {
+          "glyph": "ばなな",
+          "name": "banana",
+          "exampleWord": "banana"
+        },
+        {
+          "glyph": "ぞう",
+          "name": "zō",
+          "exampleWord": "elephant"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l80",
+      "title": "ふくしゅう 40",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "いるか",
+          "name": "iruka",
+          "exampleWord": "dolphin"
+        },
+        {
+          "glyph": "ぞう",
+          "name": "zō",
+          "exampleWord": "elephant"
+        },
+        {
+          "glyph": "さばく",
+          "name": "sabaku",
+          "exampleWord": "desert"
+        },
+        {
+          "glyph": "でんわ",
+          "name": "denwa",
+          "exampleWord": "phone"
+        },
+        {
+          "glyph": "いるか",
+          "name": "iruka",
+          "exampleWord": "dolphin"
+        },
+        {
+          "glyph": "ばなな",
+          "name": "banana",
+          "exampleWord": "banana"
+        },
+        {
+          "glyph": "にわとり",
+          "name": "niwatori",
+          "exampleWord": "chicken"
+        },
+        {
+          "glyph": "じてんしゃ",
+          "name": "jitensha",
+          "exampleWord": "bicycle"
+        },
+        {
+          "glyph": "ドア",
+          "name": "doa",
+          "exampleWord": "door"
+        },
+        {
+          "glyph": "ばなな",
+          "name": "banana",
+          "exampleWord": "banana"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l81",
+      "title": "ふくしゅう 41",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "らーめん",
+          "name": "rāmen",
+          "exampleWord": "ramen"
+        },
+        {
+          "glyph": "さばく",
+          "name": "sabaku",
+          "exampleWord": "desert"
+        },
+        {
+          "glyph": "ゆきだるま",
+          "name": "yukidaruma",
+          "exampleWord": "snowman"
+        },
+        {
+          "glyph": "まど",
+          "name": "mado",
+          "exampleWord": "window"
+        },
+        {
+          "glyph": "かばん",
+          "name": "kaban",
+          "exampleWord": "bag"
+        },
+        {
+          "glyph": "いす",
+          "name": "isu",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "にわとり",
+          "name": "niwatori",
+          "exampleWord": "chicken"
+        },
+        {
+          "glyph": "かばん",
+          "name": "kaban",
+          "exampleWord": "bag"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l82",
+      "title": "ふくしゅう 42",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ぺんぎん",
+          "name": "pengin",
+          "exampleWord": "penguin"
+        },
+        {
+          "glyph": "うちゅう",
+          "name": "uchū",
+          "exampleWord": "space"
+        },
+        {
+          "glyph": "ぺんぎん",
+          "name": "pengin",
+          "exampleWord": "penguin"
+        },
+        {
+          "glyph": "けーき",
+          "name": "kēki",
+          "exampleWord": "cake"
+        },
+        {
+          "glyph": "けーき",
+          "name": "kēki",
+          "exampleWord": "cake"
+        },
+        {
+          "glyph": "いるか",
+          "name": "iruka",
+          "exampleWord": "dolphin"
+        },
+        {
+          "glyph": "くじら",
+          "name": "kujira",
+          "exampleWord": "whale"
+        },
+        {
+          "glyph": "ぞう",
+          "name": "zō",
+          "exampleWord": "elephant"
+        },
+        {
+          "glyph": "ちょうちょう",
+          "name": "chōchō",
+          "exampleWord": "butterfly"
+        },
+        {
+          "glyph": "しまうま",
+          "name": "shimauma",
+          "exampleWord": "zebra"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l83",
+      "title": "ふくしゅう 43",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "えんぴつ",
+          "name": "enpitsu",
+          "exampleWord": "pencil"
+        },
+        {
+          "glyph": "うちゅう",
+          "name": "uchū",
+          "exampleWord": "space"
+        },
+        {
+          "glyph": "いす",
+          "name": "isu",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "かざん",
+          "name": "kazan",
+          "exampleWord": "volcano"
+        },
+        {
+          "glyph": "ゆきだるま",
+          "name": "yukidaruma",
+          "exampleWord": "snowman"
+        },
+        {
+          "glyph": "もり",
+          "name": "mori",
+          "exampleWord": "forest"
+        },
+        {
+          "glyph": "いるか",
+          "name": "iruka",
+          "exampleWord": "dolphin"
+        },
+        {
+          "glyph": "ほん",
+          "name": "hon",
+          "exampleWord": "book"
+        },
+        {
+          "glyph": "すし",
+          "name": "sushi",
+          "exampleWord": "sushi"
+        },
+        {
+          "glyph": "さばく",
+          "name": "sabaku",
+          "exampleWord": "desert"
+        },
+        {
+          "glyph": "かばん",
+          "name": "kaban",
+          "exampleWord": "bag"
+        },
+        {
+          "glyph": "でんわ",
+          "name": "denwa",
+          "exampleWord": "phone"
+        },
+        {
+          "glyph": "ドア",
+          "name": "doa",
+          "exampleWord": "door"
+        },
+        {
+          "glyph": "みずうみ",
+          "name": "mizuumi",
+          "exampleWord": "lake"
+        },
+        {
+          "glyph": "みかん",
+          "name": "mikan",
+          "exampleWord": "mandarin"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l84",
+      "title": "ふくしゅう 44",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "せかい",
+          "name": "sekai",
+          "exampleWord": "world"
+        },
+        {
+          "glyph": "ぱん",
+          "name": "pan",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "いるか",
+          "name": "iruka",
+          "exampleWord": "dolphin"
+        },
+        {
+          "glyph": "ゆきだるま",
+          "name": "yukidaruma",
+          "exampleWord": "snowman"
+        },
+        {
+          "glyph": "さばく",
+          "name": "sabaku",
+          "exampleWord": "desert"
+        },
+        {
+          "glyph": "ばなな",
+          "name": "banana",
+          "exampleWord": "banana"
+        },
+        {
+          "glyph": "ぺんぎん",
+          "name": "pengin",
+          "exampleWord": "penguin"
+        },
+        {
+          "glyph": "さばく",
+          "name": "sabaku",
+          "exampleWord": "desert"
+        },
+        {
+          "glyph": "ばなな",
+          "name": "banana",
+          "exampleWord": "banana"
+        },
+        {
+          "glyph": "いるか",
+          "name": "iruka",
+          "exampleWord": "dolphin"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l85",
+      "title": "ふくしゅう 45",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "らくだ",
+          "name": "rakuda",
+          "exampleWord": "camel"
+        },
+        {
+          "glyph": "りんご",
+          "name": "ringo",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "いす",
+          "name": "isu",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "えんぴつ",
+          "name": "enpitsu",
+          "exampleWord": "pencil"
+        },
+        {
+          "glyph": "にわとり",
+          "name": "niwatori",
+          "exampleWord": "chicken"
+        },
+        {
+          "glyph": "にわとり",
+          "name": "niwatori",
+          "exampleWord": "chicken"
+        },
+        {
+          "glyph": "いるか",
+          "name": "iruka",
+          "exampleWord": "dolphin"
+        },
+        {
+          "glyph": "ドア",
+          "name": "doa",
+          "exampleWord": "door"
+        },
+        {
+          "glyph": "まど",
+          "name": "mado",
+          "exampleWord": "window"
+        },
+        {
+          "glyph": "ゆきだるま",
+          "name": "yukidaruma",
+          "exampleWord": "snowman"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l86",
+      "title": "ふくしゅう 46",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "たいよう",
+          "name": "taiyō",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "ぱん",
+          "name": "pan",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "みかん",
+          "name": "mikan",
+          "exampleWord": "mandarin"
+        },
+        {
+          "glyph": "ゆきだるま",
+          "name": "yukidaruma",
+          "exampleWord": "snowman"
+        },
+        {
+          "glyph": "きりん",
+          "name": "kirin",
+          "exampleWord": "giraffe"
+        },
+        {
+          "glyph": "じてんしゃ",
+          "name": "jitensha",
+          "exampleWord": "bicycle"
+        },
+        {
+          "glyph": "かたつむり",
+          "name": "katatsumuri",
+          "exampleWord": "snail"
+        },
+        {
+          "glyph": "つくえ",
+          "name": "tsukue",
+          "exampleWord": "desk"
+        },
+        {
+          "glyph": "りんご",
+          "name": "ringo",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "らくだ",
+          "name": "rakuda",
+          "exampleWord": "camel"
+        },
+        {
+          "glyph": "にわとり",
+          "name": "niwatori",
+          "exampleWord": "chicken"
+        },
+        {
+          "glyph": "らくだ",
+          "name": "rakuda",
+          "exampleWord": "camel"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l87",
+      "title": "ふくしゅう 47",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "でんわ",
+          "name": "denwa",
+          "exampleWord": "phone"
+        },
+        {
+          "glyph": "つくえ",
+          "name": "tsukue",
+          "exampleWord": "desk"
+        },
+        {
+          "glyph": "さばく",
+          "name": "sabaku",
+          "exampleWord": "desert"
+        },
+        {
+          "glyph": "ぴざ",
+          "name": "piza",
+          "exampleWord": "pizza"
+        },
+        {
+          "glyph": "ゆきだるま",
+          "name": "yukidaruma",
+          "exampleWord": "snowman"
+        },
+        {
+          "glyph": "みずうみ",
+          "name": "mizuumi",
+          "exampleWord": "lake"
+        },
+        {
+          "glyph": "らーめん",
+          "name": "rāmen",
+          "exampleWord": "ramen"
+        },
+        {
+          "glyph": "すいか",
+          "name": "suika",
+          "exampleWord": "watermelon"
+        },
+        {
+          "glyph": "いす",
+          "name": "isu",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "かざん",
+          "name": "kazan",
+          "exampleWord": "volcano"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l88",
+      "title": "ふくしゅう 48",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "さばく",
+          "name": "sabaku",
+          "exampleWord": "desert"
+        },
+        {
+          "glyph": "しまうま",
+          "name": "shimauma",
+          "exampleWord": "zebra"
+        },
+        {
+          "glyph": "いるか",
+          "name": "iruka",
+          "exampleWord": "dolphin"
+        },
+        {
+          "glyph": "いちご",
+          "name": "ichigo",
+          "exampleWord": "strawberry"
+        },
+        {
+          "glyph": "りんご",
+          "name": "ringo",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "ばなな",
+          "name": "banana",
+          "exampleWord": "banana"
+        },
+        {
+          "glyph": "かたつむり",
+          "name": "katatsumuri",
+          "exampleWord": "snail"
+        },
+        {
+          "glyph": "りんご",
+          "name": "ringo",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "らくだ",
+          "name": "rakuda",
+          "exampleWord": "camel"
+        },
+        {
+          "glyph": "くるま",
+          "name": "kuruma",
+          "exampleWord": "car"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l89",
+      "title": "ふくしゅう 49",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "りんご",
+          "name": "ringo",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "らくだ",
+          "name": "rakuda",
+          "exampleWord": "camel"
+        },
+        {
+          "glyph": "きりん",
+          "name": "kirin",
+          "exampleWord": "giraffe"
+        },
+        {
+          "glyph": "もり",
+          "name": "mori",
+          "exampleWord": "forest"
+        },
+        {
+          "glyph": "せかい",
+          "name": "sekai",
+          "exampleWord": "world"
+        },
+        {
+          "glyph": "ぺんぎん",
+          "name": "pengin",
+          "exampleWord": "penguin"
+        },
+        {
+          "glyph": "ばなな",
+          "name": "banana",
+          "exampleWord": "banana"
+        },
+        {
+          "glyph": "じてんしゃ",
+          "name": "jitensha",
+          "exampleWord": "bicycle"
+        },
+        {
+          "glyph": "ゆきだるま",
+          "name": "yukidaruma",
+          "exampleWord": "snowman"
+        },
+        {
+          "glyph": "じてんしゃ",
+          "name": "jitensha",
+          "exampleWord": "bicycle"
+        },
+        {
+          "glyph": "ぴざ",
+          "name": "piza",
+          "exampleWord": "pizza"
+        },
+        {
+          "glyph": "にわとり",
+          "name": "niwatori",
+          "exampleWord": "chicken"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l90",
+      "title": "ふくしゅう 50",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "たき",
+          "name": "taki",
+          "exampleWord": "waterfall"
+        },
+        {
+          "glyph": "いす",
+          "name": "isu",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "にわとり",
+          "name": "niwatori",
+          "exampleWord": "chicken"
+        },
+        {
+          "glyph": "みずうみ",
+          "name": "mizuumi",
+          "exampleWord": "lake"
+        },
+        {
+          "glyph": "きりん",
+          "name": "kirin",
+          "exampleWord": "giraffe"
+        },
+        {
+          "glyph": "きりん",
+          "name": "kirin",
+          "exampleWord": "giraffe"
+        },
+        {
+          "glyph": "せかい",
+          "name": "sekai",
+          "exampleWord": "world"
+        },
+        {
+          "glyph": "ドア",
+          "name": "doa",
+          "exampleWord": "door"
+        },
+        {
+          "glyph": "もり",
+          "name": "mori",
+          "exampleWord": "forest"
+        },
+        {
+          "glyph": "うちゅう",
+          "name": "uchū",
+          "exampleWord": "space"
+        },
+        {
+          "glyph": "いるか",
+          "name": "iruka",
+          "exampleWord": "dolphin"
+        },
+        {
+          "glyph": "せかい",
+          "name": "sekai",
+          "exampleWord": "world"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l91",
+      "title": "ふくしゅう 51",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "くるま",
+          "name": "kuruma",
+          "exampleWord": "car"
+        },
+        {
+          "glyph": "ばなな",
+          "name": "banana",
+          "exampleWord": "banana"
+        },
+        {
+          "glyph": "ほん",
+          "name": "hon",
+          "exampleWord": "book"
+        },
+        {
+          "glyph": "さばく",
+          "name": "sabaku",
+          "exampleWord": "desert"
+        },
+        {
+          "glyph": "もり",
+          "name": "mori",
+          "exampleWord": "forest"
+        },
+        {
+          "glyph": "しまうま",
+          "name": "shimauma",
+          "exampleWord": "zebra"
+        },
+        {
+          "glyph": "かざん",
+          "name": "kazan",
+          "exampleWord": "volcano"
+        },
+        {
+          "glyph": "ぺんぎん",
+          "name": "pengin",
+          "exampleWord": "penguin"
+        },
+        {
+          "glyph": "ぱん",
+          "name": "pan",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "ほん",
+          "name": "hon",
+          "exampleWord": "book"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l92",
+      "title": "ふくしゅう 52",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "にじ",
+          "name": "niji",
+          "exampleWord": "rainbow"
+        },
+        {
+          "glyph": "りんご",
+          "name": "ringo",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "ちょうちょう",
+          "name": "chōchō",
+          "exampleWord": "butterfly"
+        },
+        {
+          "glyph": "でんわ",
+          "name": "denwa",
+          "exampleWord": "phone"
+        },
+        {
+          "glyph": "ばなな",
+          "name": "banana",
+          "exampleWord": "banana"
+        },
+        {
+          "glyph": "ばなな",
+          "name": "banana",
+          "exampleWord": "banana"
+        },
+        {
+          "glyph": "かばん",
+          "name": "kaban",
+          "exampleWord": "bag"
+        },
+        {
+          "glyph": "みずうみ",
+          "name": "mizuumi",
+          "exampleWord": "lake"
+        },
+        {
+          "glyph": "じてんしゃ",
+          "name": "jitensha",
+          "exampleWord": "bicycle"
+        },
+        {
+          "glyph": "にわとり",
+          "name": "niwatori",
+          "exampleWord": "chicken"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l93",
+      "title": "ふくしゅう 53",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "じてんしゃ",
+          "name": "jitensha",
+          "exampleWord": "bicycle"
+        },
+        {
+          "glyph": "かたつむり",
+          "name": "katatsumuri",
+          "exampleWord": "snail"
+        },
+        {
+          "glyph": "くじら",
+          "name": "kujira",
+          "exampleWord": "whale"
+        },
+        {
+          "glyph": "うちゅう",
+          "name": "uchū",
+          "exampleWord": "space"
+        },
+        {
+          "glyph": "ぴざ",
+          "name": "piza",
+          "exampleWord": "pizza"
+        },
+        {
+          "glyph": "ばなな",
+          "name": "banana",
+          "exampleWord": "banana"
+        },
+        {
+          "glyph": "ドア",
+          "name": "doa",
+          "exampleWord": "door"
+        },
+        {
+          "glyph": "えんぴつ",
+          "name": "enpitsu",
+          "exampleWord": "pencil"
+        },
+        {
+          "glyph": "ぺんぎん",
+          "name": "pengin",
+          "exampleWord": "penguin"
+        },
+        {
+          "glyph": "らくだ",
+          "name": "rakuda",
+          "exampleWord": "camel"
+        },
+        {
+          "glyph": "うちゅう",
+          "name": "uchū",
+          "exampleWord": "space"
+        },
+        {
+          "glyph": "くるま",
+          "name": "kuruma",
+          "exampleWord": "car"
+        },
+        {
+          "glyph": "きりん",
+          "name": "kirin",
+          "exampleWord": "giraffe"
+        },
+        {
+          "glyph": "ゆきだるま",
+          "name": "yukidaruma",
+          "exampleWord": "snowman"
+        },
+        {
+          "glyph": "けーき",
+          "name": "kēki",
+          "exampleWord": "cake"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l94",
+      "title": "ふくしゅう 54",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "いす",
+          "name": "isu",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "ゆきだるま",
+          "name": "yukidaruma",
+          "exampleWord": "snowman"
+        },
+        {
+          "glyph": "みずうみ",
+          "name": "mizuumi",
+          "exampleWord": "lake"
+        },
+        {
+          "glyph": "じてんしゃ",
+          "name": "jitensha",
+          "exampleWord": "bicycle"
+        },
+        {
+          "glyph": "にじ",
+          "name": "niji",
+          "exampleWord": "rainbow"
+        },
+        {
+          "glyph": "すし",
+          "name": "sushi",
+          "exampleWord": "sushi"
+        },
+        {
+          "glyph": "えんぴつ",
+          "name": "enpitsu",
+          "exampleWord": "pencil"
+        },
+        {
+          "glyph": "ぞう",
+          "name": "zō",
+          "exampleWord": "elephant"
+        },
+        {
+          "glyph": "ほん",
+          "name": "hon",
+          "exampleWord": "book"
+        },
+        {
+          "glyph": "ゆきだるま",
+          "name": "yukidaruma",
+          "exampleWord": "snowman"
+        },
+        {
+          "glyph": "もり",
+          "name": "mori",
+          "exampleWord": "forest"
+        },
+        {
+          "glyph": "いす",
+          "name": "isu",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "りんご",
+          "name": "ringo",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "いす",
+          "name": "isu",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "えんぴつ",
+          "name": "enpitsu",
+          "exampleWord": "pencil"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l95",
+      "title": "ふくしゅう 55",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ぱん",
+          "name": "pan",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "みかん",
+          "name": "mikan",
+          "exampleWord": "mandarin"
+        },
+        {
+          "glyph": "たき",
+          "name": "taki",
+          "exampleWord": "waterfall"
+        },
+        {
+          "glyph": "ぞう",
+          "name": "zō",
+          "exampleWord": "elephant"
+        },
+        {
+          "glyph": "ほん",
+          "name": "hon",
+          "exampleWord": "book"
+        },
+        {
+          "glyph": "じてんしゃ",
+          "name": "jitensha",
+          "exampleWord": "bicycle"
+        },
+        {
+          "glyph": "ほん",
+          "name": "hon",
+          "exampleWord": "book"
+        },
+        {
+          "glyph": "たき",
+          "name": "taki",
+          "exampleWord": "waterfall"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l96",
+      "title": "ふくしゅう 56",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "たいよう",
+          "name": "taiyō",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "すいか",
+          "name": "suika",
+          "exampleWord": "watermelon"
+        },
+        {
+          "glyph": "かざん",
+          "name": "kazan",
+          "exampleWord": "volcano"
+        },
+        {
+          "glyph": "うちゅう",
+          "name": "uchū",
+          "exampleWord": "space"
+        },
+        {
+          "glyph": "ほん",
+          "name": "hon",
+          "exampleWord": "book"
+        },
+        {
+          "glyph": "みずうみ",
+          "name": "mizuumi",
+          "exampleWord": "lake"
+        },
+        {
+          "glyph": "くるま",
+          "name": "kuruma",
+          "exampleWord": "car"
+        },
+        {
+          "glyph": "くじら",
+          "name": "kujira",
+          "exampleWord": "whale"
+        },
+        {
+          "glyph": "いるか",
+          "name": "iruka",
+          "exampleWord": "dolphin"
+        },
+        {
+          "glyph": "かたつむり",
+          "name": "katatsumuri",
+          "exampleWord": "snail"
+        },
+        {
+          "glyph": "いるか",
+          "name": "iruka",
+          "exampleWord": "dolphin"
+        },
+        {
+          "glyph": "みずうみ",
+          "name": "mizuumi",
+          "exampleWord": "lake"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l97",
+      "title": "ふくしゅう 57",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "みずうみ",
+          "name": "mizuumi",
+          "exampleWord": "lake"
+        },
+        {
+          "glyph": "みかん",
+          "name": "mikan",
+          "exampleWord": "mandarin"
+        },
+        {
+          "glyph": "みかん",
+          "name": "mikan",
+          "exampleWord": "mandarin"
+        },
+        {
+          "glyph": "みかん",
+          "name": "mikan",
+          "exampleWord": "mandarin"
+        },
+        {
+          "glyph": "もり",
+          "name": "mori",
+          "exampleWord": "forest"
+        },
+        {
+          "glyph": "ぞう",
+          "name": "zō",
+          "exampleWord": "elephant"
+        },
+        {
+          "glyph": "ゆきだるま",
+          "name": "yukidaruma",
+          "exampleWord": "snowman"
+        },
+        {
+          "glyph": "りんご",
+          "name": "ringo",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "たき",
+          "name": "taki",
+          "exampleWord": "waterfall"
+        },
+        {
+          "glyph": "ぱん",
+          "name": "pan",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "ほん",
+          "name": "hon",
+          "exampleWord": "book"
+        },
+        {
+          "glyph": "にわとり",
+          "name": "niwatori",
+          "exampleWord": "chicken"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l98",
+      "title": "ふくしゅう 58",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ゆきだるま",
+          "name": "yukidaruma",
+          "exampleWord": "snowman"
+        },
+        {
+          "glyph": "たき",
+          "name": "taki",
+          "exampleWord": "waterfall"
+        },
+        {
+          "glyph": "みずうみ",
+          "name": "mizuumi",
+          "exampleWord": "lake"
+        },
+        {
+          "glyph": "きりん",
+          "name": "kirin",
+          "exampleWord": "giraffe"
+        },
+        {
+          "glyph": "えんぴつ",
+          "name": "enpitsu",
+          "exampleWord": "pencil"
+        },
+        {
+          "glyph": "ぺんぎん",
+          "name": "pengin",
+          "exampleWord": "penguin"
+        },
+        {
+          "glyph": "くるま",
+          "name": "kuruma",
+          "exampleWord": "car"
+        },
+        {
+          "glyph": "さばく",
+          "name": "sabaku",
+          "exampleWord": "desert"
+        },
+        {
+          "glyph": "くるま",
+          "name": "kuruma",
+          "exampleWord": "car"
+        },
+        {
+          "glyph": "らーめん",
+          "name": "rāmen",
+          "exampleWord": "ramen"
+        },
+        {
+          "glyph": "すし",
+          "name": "sushi",
+          "exampleWord": "sushi"
+        },
+        {
+          "glyph": "にわとり",
+          "name": "niwatori",
+          "exampleWord": "chicken"
+        },
+        {
+          "glyph": "たいよう",
+          "name": "taiyō",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "すいか",
+          "name": "suika",
+          "exampleWord": "watermelon"
+        },
+        {
+          "glyph": "らくだ",
+          "name": "rakuda",
+          "exampleWord": "camel"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l99",
+      "title": "ふくしゅう 59",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "にわとり",
+          "name": "niwatori",
+          "exampleWord": "chicken"
+        },
+        {
+          "glyph": "えんぴつ",
+          "name": "enpitsu",
+          "exampleWord": "pencil"
+        },
+        {
+          "glyph": "すし",
+          "name": "sushi",
+          "exampleWord": "sushi"
+        },
+        {
+          "glyph": "じてんしゃ",
+          "name": "jitensha",
+          "exampleWord": "bicycle"
+        },
+        {
+          "glyph": "にじ",
+          "name": "niji",
+          "exampleWord": "rainbow"
+        },
+        {
+          "glyph": "いちご",
+          "name": "ichigo",
+          "exampleWord": "strawberry"
+        },
+        {
+          "glyph": "ぺんぎん",
+          "name": "pengin",
+          "exampleWord": "penguin"
+        },
+        {
+          "glyph": "まど",
+          "name": "mado",
+          "exampleWord": "window"
+        },
+        {
+          "glyph": "ドア",
+          "name": "doa",
+          "exampleWord": "door"
+        },
+        {
+          "glyph": "ちょうちょう",
+          "name": "chōchō",
+          "exampleWord": "butterfly"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l100",
+      "title": "ふくしゅう 60",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "じてんしゃ",
+          "name": "jitensha",
+          "exampleWord": "bicycle"
+        },
+        {
+          "glyph": "らーめん",
+          "name": "rāmen",
+          "exampleWord": "ramen"
+        },
+        {
+          "glyph": "つくえ",
+          "name": "tsukue",
+          "exampleWord": "desk"
+        },
+        {
+          "glyph": "いるか",
+          "name": "iruka",
+          "exampleWord": "dolphin"
+        },
+        {
+          "glyph": "すいか",
+          "name": "suika",
+          "exampleWord": "watermelon"
+        },
+        {
+          "glyph": "りんご",
+          "name": "ringo",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "かざん",
+          "name": "kazan",
+          "exampleWord": "volcano"
+        },
+        {
+          "glyph": "ぴざ",
+          "name": "piza",
+          "exampleWord": "pizza"
+        },
+        {
+          "glyph": "まど",
+          "name": "mado",
+          "exampleWord": "window"
+        },
+        {
+          "glyph": "かざん",
+          "name": "kazan",
+          "exampleWord": "volcano"
+        },
+        {
+          "glyph": "ゆきだるま",
+          "name": "yukidaruma",
+          "exampleWord": "snowman"
+        },
+        {
+          "glyph": "ばなな",
+          "name": "banana",
+          "exampleWord": "banana"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        }
+      ]
     }
   ]
 }

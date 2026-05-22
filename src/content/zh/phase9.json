@@ -1961,6 +1961,4980 @@
           "answer": "高树上"
         }
       ]
+    },
+    {
+      "id": "zh-p9-l41",
+      "title": "复习 1",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        },
+        {
+          "glyph": "他们在睡觉",
+          "name": "sleep"
+        },
+        {
+          "glyph": "星期二",
+          "name": "Tue"
+        },
+        {
+          "glyph": "他们在睡觉",
+          "name": "sleep"
+        },
+        {
+          "glyph": "五只鸟",
+          "name": "5"
+        },
+        {
+          "glyph": "一个苹果",
+          "name": "1"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "我们在吃饭",
+          "name": "eat"
+        },
+        {
+          "glyph": "星期一",
+          "name": "Mon"
+        },
+        {
+          "glyph": "明天见!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "他们在睡觉",
+          "name": "sleep"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好\" 是哪一个?",
+          "options": [
+            "你好朋友!",
+            "谢谢",
+            "明天见",
+            "晚安"
+          ],
+          "answer": "你好朋友!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁在看书?",
+          "options": [
+            "她在看书",
+            "我在跑步",
+            "我们在吃饭",
+            "他们在睡觉"
+          ],
+          "answer": "她在看书"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "下雨是哪个?",
+          "options": [
+            "外面在下雨。",
+            "今天晴天。",
+            "很冷。",
+            "有风。"
+          ],
+          "answer": "外面在下雨。"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l42",
+      "title": "复习 2",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我们在吃饭",
+          "name": "eat"
+        },
+        {
+          "glyph": "星期六",
+          "name": "Sat"
+        },
+        {
+          "glyph": "它落在高树上。",
+          "name": "l2"
+        },
+        {
+          "glyph": "星期三",
+          "name": "Wed"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "星期四",
+          "name": "Thu"
+        },
+        {
+          "glyph": "星期四",
+          "name": "Thu"
+        },
+        {
+          "glyph": "很冷。",
+          "name": "cold"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        },
+        {
+          "glyph": "星期四",
+          "name": "Thu"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好\" 是哪一个?",
+          "options": [
+            "你好朋友!",
+            "谢谢",
+            "明天见",
+            "晚安"
+          ],
+          "answer": "你好朋友!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "下雨是哪个?",
+          "options": [
+            "外面在下雨。",
+            "今天晴天。",
+            "很冷。",
+            "有风。"
+          ],
+          "answer": "外面在下雨。"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l43",
+      "title": "复习 3",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "这个苹果多少钱?",
+          "name": "price"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "五只鸟",
+          "name": "5"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "非常感谢。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "那里有一个小鸟巢。",
+          "name": "l3"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        },
+        {
+          "glyph": "三个球",
+          "name": "3"
+        },
+        {
+          "glyph": "非常感谢。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "外面在下雨。",
+          "name": "rain"
+        },
+        {
+          "glyph": "外面在下雨。",
+          "name": "rain"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        },
+        {
+          "glyph": "五只鸟",
+          "name": "5"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好\" 是哪一个?",
+          "options": [
+            "你好朋友!",
+            "谢谢",
+            "明天见",
+            "晚安"
+          ],
+          "answer": "你好朋友!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "多少苹果?",
+          "options": [
+            "五个",
+            "两个",
+            "三个",
+            "十个"
+          ],
+          "answer": "五个"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"三\" 是哪一个?",
+          "options": [
+            "三个球",
+            "一个苹果",
+            "五只鸟",
+            "四辆车"
+          ],
+          "answer": "三个球"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l44",
+      "title": "复习 4",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "星期四",
+          "name": "Thu"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "他们在睡觉",
+          "name": "sleep"
+        },
+        {
+          "glyph": "它落在高树上。",
+          "name": "l2"
+        },
+        {
+          "glyph": "我们在吃饭",
+          "name": "eat"
+        },
+        {
+          "glyph": "很冷。",
+          "name": "cold"
+        },
+        {
+          "glyph": "星期一",
+          "name": "Mon"
+        },
+        {
+          "glyph": "星期六",
+          "name": "Sat"
+        },
+        {
+          "glyph": "星期一",
+          "name": "Mon"
+        },
+        {
+          "glyph": "很冷。",
+          "name": "cold"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "下雨是哪个?",
+          "options": [
+            "外面在下雨。",
+            "今天晴天。",
+            "很冷。",
+            "有风。"
+          ],
+          "answer": "外面在下雨。"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l45",
+      "title": "复习 5",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "谢谢, 找您零钱。",
+          "name": "done"
+        },
+        {
+          "glyph": "他们在睡觉",
+          "name": "sleep"
+        },
+        {
+          "glyph": "有风。",
+          "name": "wind"
+        },
+        {
+          "glyph": "三个球",
+          "name": "3"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "它落在高树上。",
+          "name": "l2"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "外面在下雨。",
+          "name": "rain"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "外面在下雨。",
+          "name": "rain"
+        },
+        {
+          "glyph": "有风。",
+          "name": "wind"
+        },
+        {
+          "glyph": "他们在睡觉",
+          "name": "sleep"
+        },
+        {
+          "glyph": "外面在下雨。",
+          "name": "rain"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "下雨是哪个?",
+          "options": [
+            "外面在下雨。",
+            "今天晴天。",
+            "很冷。",
+            "有风。"
+          ],
+          "answer": "外面在下雨。"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "下雨是哪个?",
+          "options": [
+            "外面在下雨。",
+            "今天晴天。",
+            "很冷。",
+            "有风。"
+          ],
+          "answer": "外面在下雨。"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l46",
+      "title": "复习 6",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "外面在下雨。",
+          "name": "rain"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "四辆车",
+          "name": "4"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "外面在下雨。",
+          "name": "rain"
+        },
+        {
+          "glyph": "谢谢, 找您零钱。",
+          "name": "done"
+        },
+        {
+          "glyph": "很冷。",
+          "name": "cold"
+        },
+        {
+          "glyph": "我在跑步",
+          "name": "run"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁在看书?",
+          "options": [
+            "她在看书",
+            "我在跑步",
+            "我们在吃饭",
+            "他们在睡觉"
+          ],
+          "answer": "她在看书"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "下雨是哪个?",
+          "options": [
+            "外面在下雨。",
+            "今天晴天。",
+            "很冷。",
+            "有风。"
+          ],
+          "answer": "外面在下雨。"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l47",
+      "title": "复习 7",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "那里有一个小鸟巢。",
+          "name": "l3"
+        },
+        {
+          "glyph": "很冷。",
+          "name": "cold"
+        },
+        {
+          "glyph": "星期二",
+          "name": "Tue"
+        },
+        {
+          "glyph": "外面在下雨。",
+          "name": "rain"
+        },
+        {
+          "glyph": "星期一",
+          "name": "Mon"
+        },
+        {
+          "glyph": "明天见!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "它落在高树上。",
+          "name": "l2"
+        },
+        {
+          "glyph": "星期六",
+          "name": "Sat"
+        },
+        {
+          "glyph": "明天见!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "外面在下雨。",
+          "name": "rain"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "星期日",
+          "name": "Sun"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "第三天?",
+          "options": [
+            "星期三",
+            "星期二",
+            "星期五",
+            "星期日"
+          ],
+          "answer": "星期三"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "下雨是哪个?",
+          "options": [
+            "外面在下雨。",
+            "今天晴天。",
+            "很冷。",
+            "有风。"
+          ],
+          "answer": "外面在下雨。"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l48",
+      "title": "复习 8",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "三个球",
+          "name": "3"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "这个苹果多少钱?",
+          "name": "price"
+        },
+        {
+          "glyph": "星期一",
+          "name": "Mon"
+        },
+        {
+          "glyph": "两块。",
+          "name": "price"
+        },
+        {
+          "glyph": "四辆车",
+          "name": "4"
+        },
+        {
+          "glyph": "三个球",
+          "name": "3"
+        },
+        {
+          "glyph": "三个球",
+          "name": "3"
+        },
+        {
+          "glyph": "很冷。",
+          "name": "cold"
+        },
+        {
+          "glyph": "有风。",
+          "name": "wind"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "下雨是哪个?",
+          "options": [
+            "外面在下雨。",
+            "今天晴天。",
+            "很冷。",
+            "有风。"
+          ],
+          "answer": "外面在下雨。"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "第三天?",
+          "options": [
+            "星期三",
+            "星期二",
+            "星期五",
+            "星期日"
+          ],
+          "answer": "星期三"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l49",
+      "title": "复习 9",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "他们在睡觉",
+          "name": "sleep"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "它落在高树上。",
+          "name": "l2"
+        },
+        {
+          "glyph": "非常感谢。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "星期四",
+          "name": "Thu"
+        },
+        {
+          "glyph": "谢谢, 找您零钱。",
+          "name": "done"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "有风。",
+          "name": "wind"
+        },
+        {
+          "glyph": "星期三",
+          "name": "Wed"
+        },
+        {
+          "glyph": "星期六",
+          "name": "Sat"
+        },
+        {
+          "glyph": "很冷。",
+          "name": "cold"
+        },
+        {
+          "glyph": "我们在吃饭",
+          "name": "eat"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好\" 是哪一个?",
+          "options": [
+            "你好朋友!",
+            "谢谢",
+            "明天见",
+            "晚安"
+          ],
+          "answer": "你好朋友!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好\" 是哪一个?",
+          "options": [
+            "你好朋友!",
+            "谢谢",
+            "明天见",
+            "晚安"
+          ],
+          "answer": "你好朋友!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "下雨是哪个?",
+          "options": [
+            "外面在下雨。",
+            "今天晴天。",
+            "很冷。",
+            "有风。"
+          ],
+          "answer": "外面在下雨。"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l50",
+      "title": "复习 10",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "四辆车",
+          "name": "4"
+        },
+        {
+          "glyph": "谢谢, 找您零钱。",
+          "name": "done"
+        },
+        {
+          "glyph": "他们在睡觉",
+          "name": "sleep"
+        },
+        {
+          "glyph": "星期三",
+          "name": "Wed"
+        },
+        {
+          "glyph": "那里有一个小鸟巢。",
+          "name": "l3"
+        },
+        {
+          "glyph": "明天见!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "有风。",
+          "name": "wind"
+        },
+        {
+          "glyph": "星期六",
+          "name": "Sat"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "明天见!",
+          "name": "tmrw"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "下雨是哪个?",
+          "options": [
+            "外面在下雨。",
+            "今天晴天。",
+            "很冷。",
+            "有风。"
+          ],
+          "answer": "外面在下雨。"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "第三天?",
+          "options": [
+            "星期三",
+            "星期二",
+            "星期五",
+            "星期日"
+          ],
+          "answer": "星期三"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l51",
+      "title": "复习 11",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "这个苹果多少钱?",
+          "name": "price"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        },
+        {
+          "glyph": "他们在睡觉",
+          "name": "sleep"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "两块。",
+          "name": "price"
+        },
+        {
+          "glyph": "他们在睡觉",
+          "name": "sleep"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "很冷。",
+          "name": "cold"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "三个球",
+          "name": "3"
+        },
+        {
+          "glyph": "一个苹果",
+          "name": "1"
+        },
+        {
+          "glyph": "星期四",
+          "name": "Thu"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "多少苹果?",
+          "options": [
+            "五个",
+            "两个",
+            "三个",
+            "十个"
+          ],
+          "answer": "五个"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁在看书?",
+          "options": [
+            "她在看书",
+            "我在跑步",
+            "我们在吃饭",
+            "他们在睡觉"
+          ],
+          "answer": "她在看书"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l52",
+      "title": "复习 12",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "今天晴天。",
+          "name": "sun"
+        },
+        {
+          "glyph": "两块。",
+          "name": "price"
+        },
+        {
+          "glyph": "四辆车",
+          "name": "4"
+        },
+        {
+          "glyph": "明天见!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "星期四",
+          "name": "Thu"
+        },
+        {
+          "glyph": "明天见!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "今天晴天。",
+          "name": "sun"
+        },
+        {
+          "glyph": "它落在高树上。",
+          "name": "l2"
+        },
+        {
+          "glyph": "明天见!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "晚安, 妈妈。",
+          "name": "night"
+        },
+        {
+          "glyph": "星期二",
+          "name": "Tue"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "多少苹果?",
+          "options": [
+            "五个",
+            "两个",
+            "三个",
+            "十个"
+          ],
+          "answer": "五个"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁在看书?",
+          "options": [
+            "她在看书",
+            "我在跑步",
+            "我们在吃饭",
+            "他们在睡觉"
+          ],
+          "answer": "她在看书"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l53",
+      "title": "复习 13",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "星期四",
+          "name": "Thu"
+        },
+        {
+          "glyph": "星期三",
+          "name": "Wed"
+        },
+        {
+          "glyph": "我们在吃饭",
+          "name": "eat"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "两块。",
+          "name": "price"
+        },
+        {
+          "glyph": "星期六",
+          "name": "Sat"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "明天见!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "星期六",
+          "name": "Sat"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "五只鸟",
+          "name": "5"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好\" 是哪一个?",
+          "options": [
+            "你好朋友!",
+            "谢谢",
+            "明天见",
+            "晚安"
+          ],
+          "answer": "你好朋友!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁在看书?",
+          "options": [
+            "她在看书",
+            "我在跑步",
+            "我们在吃饭",
+            "他们在睡觉"
+          ],
+          "answer": "她在看书"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l54",
+      "title": "复习 14",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "这个苹果多少钱?",
+          "name": "price"
+        },
+        {
+          "glyph": "外面在下雨。",
+          "name": "rain"
+        },
+        {
+          "glyph": "星期四",
+          "name": "Thu"
+        },
+        {
+          "glyph": "星期二",
+          "name": "Tue"
+        },
+        {
+          "glyph": "明天见!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "两块。",
+          "name": "price"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "那里有一个小鸟巢。",
+          "name": "l3"
+        },
+        {
+          "glyph": "五只鸟",
+          "name": "5"
+        },
+        {
+          "glyph": "谢谢, 找您零钱。",
+          "name": "done"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "下雨是哪个?",
+          "options": [
+            "外面在下雨。",
+            "今天晴天。",
+            "很冷。",
+            "有风。"
+          ],
+          "answer": "外面在下雨。"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好\" 是哪一个?",
+          "options": [
+            "你好朋友!",
+            "谢谢",
+            "明天见",
+            "晚安"
+          ],
+          "answer": "你好朋友!"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l55",
+      "title": "复习 15",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "星期四",
+          "name": "Thu"
+        },
+        {
+          "glyph": "那里有一个小鸟巢。",
+          "name": "l3"
+        },
+        {
+          "glyph": "它落在高树上。",
+          "name": "l2"
+        },
+        {
+          "glyph": "星期二",
+          "name": "Tue"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "两块。",
+          "name": "price"
+        },
+        {
+          "glyph": "一个苹果",
+          "name": "1"
+        },
+        {
+          "glyph": "五只鸟",
+          "name": "5"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"三\" 是哪一个?",
+          "options": [
+            "三个球",
+            "一个苹果",
+            "五只鸟",
+            "四辆车"
+          ],
+          "answer": "三个球"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "下雨是哪个?",
+          "options": [
+            "外面在下雨。",
+            "今天晴天。",
+            "很冷。",
+            "有风。"
+          ],
+          "answer": "外面在下雨。"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l56",
+      "title": "复习 16",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "两块。",
+          "name": "price"
+        },
+        {
+          "glyph": "他们在睡觉",
+          "name": "sleep"
+        },
+        {
+          "glyph": "星期三",
+          "name": "Wed"
+        },
+        {
+          "glyph": "星期二",
+          "name": "Tue"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "他们在睡觉",
+          "name": "sleep"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "两块。",
+          "name": "price"
+        },
+        {
+          "glyph": "他们在睡觉",
+          "name": "sleep"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        },
+        {
+          "glyph": "两块。",
+          "name": "price"
+        },
+        {
+          "glyph": "那里有一个小鸟巢。",
+          "name": "l3"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "我要五个苹果。",
+          "name": "buy"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁在看书?",
+          "options": [
+            "她在看书",
+            "我在跑步",
+            "我们在吃饭",
+            "他们在睡觉"
+          ],
+          "answer": "她在看书"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "多少苹果?",
+          "options": [
+            "五个",
+            "两个",
+            "三个",
+            "十个"
+          ],
+          "answer": "五个"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l57",
+      "title": "复习 17",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "外面在下雨。",
+          "name": "rain"
+        },
+        {
+          "glyph": "明天见!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "有风。",
+          "name": "wind"
+        },
+        {
+          "glyph": "星期四",
+          "name": "Thu"
+        },
+        {
+          "glyph": "外面在下雨。",
+          "name": "rain"
+        },
+        {
+          "glyph": "四辆车",
+          "name": "4"
+        },
+        {
+          "glyph": "他们在睡觉",
+          "name": "sleep"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "星期三",
+          "name": "Wed"
+        },
+        {
+          "glyph": "今天晴天。",
+          "name": "sun"
+        },
+        {
+          "glyph": "一个苹果",
+          "name": "1"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "第三天?",
+          "options": [
+            "星期三",
+            "星期二",
+            "星期五",
+            "星期日"
+          ],
+          "answer": "星期三"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁在看书?",
+          "options": [
+            "她在看书",
+            "我在跑步",
+            "我们在吃饭",
+            "他们在睡觉"
+          ],
+          "answer": "她在看书"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l58",
+      "title": "复习 18",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "星期六",
+          "name": "Sat"
+        },
+        {
+          "glyph": "星期日",
+          "name": "Sun"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        },
+        {
+          "glyph": "晚安, 妈妈。",
+          "name": "night"
+        },
+        {
+          "glyph": "五只鸟",
+          "name": "5"
+        },
+        {
+          "glyph": "三个球",
+          "name": "3"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "第三天?",
+          "options": [
+            "星期三",
+            "星期二",
+            "星期五",
+            "星期日"
+          ],
+          "answer": "星期三"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁在看书?",
+          "options": [
+            "她在看书",
+            "我在跑步",
+            "我们在吃饭",
+            "他们在睡觉"
+          ],
+          "answer": "她在看书"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "下雨是哪个?",
+          "options": [
+            "外面在下雨。",
+            "今天晴天。",
+            "很冷。",
+            "有风。"
+          ],
+          "answer": "外面在下雨。"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l59",
+      "title": "复习 19",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "很冷。",
+          "name": "cold"
+        },
+        {
+          "glyph": "很冷。",
+          "name": "cold"
+        },
+        {
+          "glyph": "星期二",
+          "name": "Tue"
+        },
+        {
+          "glyph": "外面在下雨。",
+          "name": "rain"
+        },
+        {
+          "glyph": "外面在下雨。",
+          "name": "rain"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "明天见!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "他们在睡觉",
+          "name": "sleep"
+        },
+        {
+          "glyph": "三个球",
+          "name": "3"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好\" 是哪一个?",
+          "options": [
+            "你好朋友!",
+            "谢谢",
+            "明天见",
+            "晚安"
+          ],
+          "answer": "你好朋友!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好\" 是哪一个?",
+          "options": [
+            "你好朋友!",
+            "谢谢",
+            "明天见",
+            "晚安"
+          ],
+          "answer": "你好朋友!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好\" 是哪一个?",
+          "options": [
+            "你好朋友!",
+            "谢谢",
+            "明天见",
+            "晚安"
+          ],
+          "answer": "你好朋友!"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l60",
+      "title": "复习 20",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "星期三",
+          "name": "Wed"
+        },
+        {
+          "glyph": "四辆车",
+          "name": "4"
+        },
+        {
+          "glyph": "非常感谢。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "有风。",
+          "name": "wind"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "两块。",
+          "name": "price"
+        },
+        {
+          "glyph": "五只鸟",
+          "name": "5"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "今天晴天。",
+          "name": "sun"
+        },
+        {
+          "glyph": "明天见!",
+          "name": "tmrw"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"三\" 是哪一个?",
+          "options": [
+            "三个球",
+            "一个苹果",
+            "五只鸟",
+            "四辆车"
+          ],
+          "answer": "三个球"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "下雨是哪个?",
+          "options": [
+            "外面在下雨。",
+            "今天晴天。",
+            "很冷。",
+            "有风。"
+          ],
+          "answer": "外面在下雨。"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好\" 是哪一个?",
+          "options": [
+            "你好朋友!",
+            "谢谢",
+            "明天见",
+            "晚安"
+          ],
+          "answer": "你好朋友!"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l61",
+      "title": "复习 21",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "那里有一个小鸟巢。",
+          "name": "l3"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "这个苹果多少钱?",
+          "name": "price"
+        },
+        {
+          "glyph": "五只鸟",
+          "name": "5"
+        },
+        {
+          "glyph": "星期四",
+          "name": "Thu"
+        },
+        {
+          "glyph": "五只鸟",
+          "name": "5"
+        },
+        {
+          "glyph": "星期二",
+          "name": "Tue"
+        },
+        {
+          "glyph": "有风。",
+          "name": "wind"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"三\" 是哪一个?",
+          "options": [
+            "三个球",
+            "一个苹果",
+            "五只鸟",
+            "四辆车"
+          ],
+          "answer": "三个球"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l62",
+      "title": "复习 22",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "他们在睡觉",
+          "name": "sleep"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "谢谢, 找您零钱。",
+          "name": "done"
+        },
+        {
+          "glyph": "星期四",
+          "name": "Thu"
+        },
+        {
+          "glyph": "非常感谢。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        },
+        {
+          "glyph": "星期二",
+          "name": "Tue"
+        },
+        {
+          "glyph": "外面在下雨。",
+          "name": "rain"
+        },
+        {
+          "glyph": "外面在下雨。",
+          "name": "rain"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "第三天?",
+          "options": [
+            "星期三",
+            "星期二",
+            "星期五",
+            "星期日"
+          ],
+          "answer": "星期三"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "下雨是哪个?",
+          "options": [
+            "外面在下雨。",
+            "今天晴天。",
+            "很冷。",
+            "有风。"
+          ],
+          "answer": "外面在下雨。"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好\" 是哪一个?",
+          "options": [
+            "你好朋友!",
+            "谢谢",
+            "明天见",
+            "晚安"
+          ],
+          "answer": "你好朋友!"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l63",
+      "title": "复习 23",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "有风。",
+          "name": "wind"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "晚安, 妈妈。",
+          "name": "night"
+        },
+        {
+          "glyph": "明天见!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "这个苹果多少钱?",
+          "name": "price"
+        },
+        {
+          "glyph": "那里有一个小鸟巢。",
+          "name": "l3"
+        },
+        {
+          "glyph": "星期一",
+          "name": "Mon"
+        },
+        {
+          "glyph": "一个苹果",
+          "name": "1"
+        },
+        {
+          "glyph": "非常感谢。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "外面在下雨。",
+          "name": "rain"
+        },
+        {
+          "glyph": "星期六",
+          "name": "Sat"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁在看书?",
+          "options": [
+            "她在看书",
+            "我在跑步",
+            "我们在吃饭",
+            "他们在睡觉"
+          ],
+          "answer": "她在看书"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l64",
+      "title": "复习 24",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我在跑步",
+          "name": "run"
+        },
+        {
+          "glyph": "一个苹果",
+          "name": "1"
+        },
+        {
+          "glyph": "星期二",
+          "name": "Tue"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "很冷。",
+          "name": "cold"
+        },
+        {
+          "glyph": "星期一",
+          "name": "Mon"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "我在跑步",
+          "name": "run"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "第三天?",
+          "options": [
+            "星期三",
+            "星期二",
+            "星期五",
+            "星期日"
+          ],
+          "answer": "星期三"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "第三天?",
+          "options": [
+            "星期三",
+            "星期二",
+            "星期五",
+            "星期日"
+          ],
+          "answer": "星期三"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l65",
+      "title": "复习 25",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "三个球",
+          "name": "3"
+        },
+        {
+          "glyph": "它落在高树上。",
+          "name": "l2"
+        },
+        {
+          "glyph": "五只鸟",
+          "name": "5"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "星期四",
+          "name": "Thu"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "下雨是哪个?",
+          "options": [
+            "外面在下雨。",
+            "今天晴天。",
+            "很冷。",
+            "有风。"
+          ],
+          "answer": "外面在下雨。"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l66",
+      "title": "复习 26",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "谢谢, 找您零钱。",
+          "name": "done"
+        },
+        {
+          "glyph": "今天晴天。",
+          "name": "sun"
+        },
+        {
+          "glyph": "外面在下雨。",
+          "name": "rain"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "星期二",
+          "name": "Tue"
+        },
+        {
+          "glyph": "星期二",
+          "name": "Tue"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        },
+        {
+          "glyph": "星期日",
+          "name": "Sun"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "星期一",
+          "name": "Mon"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        },
+        {
+          "glyph": "它落在高树上。",
+          "name": "l2"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好\" 是哪一个?",
+          "options": [
+            "你好朋友!",
+            "谢谢",
+            "明天见",
+            "晚安"
+          ],
+          "answer": "你好朋友!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁在看书?",
+          "options": [
+            "她在看书",
+            "我在跑步",
+            "我们在吃饭",
+            "他们在睡觉"
+          ],
+          "answer": "她在看书"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"三\" 是哪一个?",
+          "options": [
+            "三个球",
+            "一个苹果",
+            "五只鸟",
+            "四辆车"
+          ],
+          "answer": "三个球"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l67",
+      "title": "复习 27",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "明天见!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "我要五个苹果。",
+          "name": "buy"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "星期二",
+          "name": "Tue"
+        },
+        {
+          "glyph": "他们在睡觉",
+          "name": "sleep"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "星期三",
+          "name": "Wed"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        },
+        {
+          "glyph": "他们在睡觉",
+          "name": "sleep"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "有风。",
+          "name": "wind"
+        },
+        {
+          "glyph": "非常感谢。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "他们在睡觉",
+          "name": "sleep"
+        },
+        {
+          "glyph": "外面在下雨。",
+          "name": "rain"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好\" 是哪一个?",
+          "options": [
+            "你好朋友!",
+            "谢谢",
+            "明天见",
+            "晚安"
+          ],
+          "answer": "你好朋友!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "第三天?",
+          "options": [
+            "星期三",
+            "星期二",
+            "星期五",
+            "星期日"
+          ],
+          "answer": "星期三"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"三\" 是哪一个?",
+          "options": [
+            "三个球",
+            "一个苹果",
+            "五只鸟",
+            "四辆车"
+          ],
+          "answer": "三个球"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l68",
+      "title": "复习 28",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "两块。",
+          "name": "price"
+        },
+        {
+          "glyph": "明天见!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "有风。",
+          "name": "wind"
+        },
+        {
+          "glyph": "星期三",
+          "name": "Wed"
+        },
+        {
+          "glyph": "明天见!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "三个球",
+          "name": "3"
+        },
+        {
+          "glyph": "谢谢, 找您零钱。",
+          "name": "done"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "明天见!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "我要五个苹果。",
+          "name": "buy"
+        },
+        {
+          "glyph": "有风。",
+          "name": "wind"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l69",
+      "title": "复习 29",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "星期四",
+          "name": "Thu"
+        },
+        {
+          "glyph": "星期四",
+          "name": "Thu"
+        },
+        {
+          "glyph": "有风。",
+          "name": "wind"
+        },
+        {
+          "glyph": "星期六",
+          "name": "Sat"
+        },
+        {
+          "glyph": "这个苹果多少钱?",
+          "name": "price"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        },
+        {
+          "glyph": "星期三",
+          "name": "Wed"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "有风。",
+          "name": "wind"
+        },
+        {
+          "glyph": "我在跑步",
+          "name": "run"
+        },
+        {
+          "glyph": "他们在睡觉",
+          "name": "sleep"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "下雨是哪个?",
+          "options": [
+            "外面在下雨。",
+            "今天晴天。",
+            "很冷。",
+            "有风。"
+          ],
+          "answer": "外面在下雨。"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l70",
+      "title": "复习 30",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "谢谢, 找您零钱。",
+          "name": "done"
+        },
+        {
+          "glyph": "谢谢, 找您零钱。",
+          "name": "done"
+        },
+        {
+          "glyph": "今天晴天。",
+          "name": "sun"
+        },
+        {
+          "glyph": "星期日",
+          "name": "Sun"
+        },
+        {
+          "glyph": "星期二",
+          "name": "Tue"
+        },
+        {
+          "glyph": "晚安, 妈妈。",
+          "name": "night"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        },
+        {
+          "glyph": "五只鸟",
+          "name": "5"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "他们在睡觉",
+          "name": "sleep"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"三\" 是哪一个?",
+          "options": [
+            "三个球",
+            "一个苹果",
+            "五只鸟",
+            "四辆车"
+          ],
+          "answer": "三个球"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "第三天?",
+          "options": [
+            "星期三",
+            "星期二",
+            "星期五",
+            "星期日"
+          ],
+          "answer": "星期三"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l71",
+      "title": "复习 31",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "星期三",
+          "name": "Wed"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "有风。",
+          "name": "wind"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "星期六",
+          "name": "Sat"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        },
+        {
+          "glyph": "非常感谢。",
+          "name": "thanks"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "第三天?",
+          "options": [
+            "星期三",
+            "星期二",
+            "星期五",
+            "星期日"
+          ],
+          "answer": "星期三"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "多少苹果?",
+          "options": [
+            "五个",
+            "两个",
+            "三个",
+            "十个"
+          ],
+          "answer": "五个"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l72",
+      "title": "复习 32",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "三个球",
+          "name": "3"
+        },
+        {
+          "glyph": "那里有一个小鸟巢。",
+          "name": "l3"
+        },
+        {
+          "glyph": "明天见!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "星期三",
+          "name": "Wed"
+        },
+        {
+          "glyph": "三个球",
+          "name": "3"
+        },
+        {
+          "glyph": "星期二",
+          "name": "Tue"
+        },
+        {
+          "glyph": "星期四",
+          "name": "Thu"
+        },
+        {
+          "glyph": "有风。",
+          "name": "wind"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "我在跑步",
+          "name": "run"
+        },
+        {
+          "glyph": "有风。",
+          "name": "wind"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "下雨是哪个?",
+          "options": [
+            "外面在下雨。",
+            "今天晴天。",
+            "很冷。",
+            "有风。"
+          ],
+          "answer": "外面在下雨。"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "第三天?",
+          "options": [
+            "星期三",
+            "星期二",
+            "星期五",
+            "星期日"
+          ],
+          "answer": "星期三"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "第三天?",
+          "options": [
+            "星期三",
+            "星期二",
+            "星期五",
+            "星期日"
+          ],
+          "answer": "星期三"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l73",
+      "title": "复习 33",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "我要五个苹果。",
+          "name": "buy"
+        },
+        {
+          "glyph": "星期二",
+          "name": "Tue"
+        },
+        {
+          "glyph": "两块。",
+          "name": "price"
+        },
+        {
+          "glyph": "一个苹果",
+          "name": "1"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "他们在睡觉",
+          "name": "sleep"
+        },
+        {
+          "glyph": "星期三",
+          "name": "Wed"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "星期六",
+          "name": "Sat"
+        },
+        {
+          "glyph": "星期三",
+          "name": "Wed"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "星期六",
+          "name": "Sat"
+        },
+        {
+          "glyph": "这个苹果多少钱?",
+          "name": "price"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好\" 是哪一个?",
+          "options": [
+            "你好朋友!",
+            "谢谢",
+            "明天见",
+            "晚安"
+          ],
+          "answer": "你好朋友!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好\" 是哪一个?",
+          "options": [
+            "你好朋友!",
+            "谢谢",
+            "明天见",
+            "晚安"
+          ],
+          "answer": "你好朋友!"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l74",
+      "title": "复习 34",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "它落在高树上。",
+          "name": "l2"
+        },
+        {
+          "glyph": "明天见!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "我要五个苹果。",
+          "name": "buy"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "很冷。",
+          "name": "cold"
+        },
+        {
+          "glyph": "一个苹果",
+          "name": "1"
+        },
+        {
+          "glyph": "外面在下雨。",
+          "name": "rain"
+        },
+        {
+          "glyph": "他们在睡觉",
+          "name": "sleep"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好\" 是哪一个?",
+          "options": [
+            "你好朋友!",
+            "谢谢",
+            "明天见",
+            "晚安"
+          ],
+          "answer": "你好朋友!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"三\" 是哪一个?",
+          "options": [
+            "三个球",
+            "一个苹果",
+            "五只鸟",
+            "四辆车"
+          ],
+          "answer": "三个球"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "下雨是哪个?",
+          "options": [
+            "外面在下雨。",
+            "今天晴天。",
+            "很冷。",
+            "有风。"
+          ],
+          "answer": "外面在下雨。"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l75",
+      "title": "复习 35",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "星期六",
+          "name": "Sat"
+        },
+        {
+          "glyph": "它落在高树上。",
+          "name": "l2"
+        },
+        {
+          "glyph": "那里有一个小鸟巢。",
+          "name": "l3"
+        },
+        {
+          "glyph": "两块。",
+          "name": "price"
+        },
+        {
+          "glyph": "谢谢, 找您零钱。",
+          "name": "done"
+        },
+        {
+          "glyph": "今天晴天。",
+          "name": "sun"
+        },
+        {
+          "glyph": "两块。",
+          "name": "price"
+        },
+        {
+          "glyph": "三个球",
+          "name": "3"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "多少苹果?",
+          "options": [
+            "五个",
+            "两个",
+            "三个",
+            "十个"
+          ],
+          "answer": "五个"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l76",
+      "title": "复习 36",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "星期三",
+          "name": "Wed"
+        },
+        {
+          "glyph": "三个球",
+          "name": "3"
+        },
+        {
+          "glyph": "很冷。",
+          "name": "cold"
+        },
+        {
+          "glyph": "星期日",
+          "name": "Sun"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "星期二",
+          "name": "Tue"
+        },
+        {
+          "glyph": "他们在睡觉",
+          "name": "sleep"
+        },
+        {
+          "glyph": "我要五个苹果。",
+          "name": "buy"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "下雨是哪个?",
+          "options": [
+            "外面在下雨。",
+            "今天晴天。",
+            "很冷。",
+            "有风。"
+          ],
+          "answer": "外面在下雨。"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "第三天?",
+          "options": [
+            "星期三",
+            "星期二",
+            "星期五",
+            "星期日"
+          ],
+          "answer": "星期三"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l77",
+      "title": "复习 37",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "外面在下雨。",
+          "name": "rain"
+        },
+        {
+          "glyph": "谢谢, 找您零钱。",
+          "name": "done"
+        },
+        {
+          "glyph": "很冷。",
+          "name": "cold"
+        },
+        {
+          "glyph": "四辆车",
+          "name": "4"
+        },
+        {
+          "glyph": "一个苹果",
+          "name": "1"
+        },
+        {
+          "glyph": "星期四",
+          "name": "Thu"
+        },
+        {
+          "glyph": "很冷。",
+          "name": "cold"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "星期三",
+          "name": "Wed"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "第三天?",
+          "options": [
+            "星期三",
+            "星期二",
+            "星期五",
+            "星期日"
+          ],
+          "answer": "星期三"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "下雨是哪个?",
+          "options": [
+            "外面在下雨。",
+            "今天晴天。",
+            "很冷。",
+            "有风。"
+          ],
+          "answer": "外面在下雨。"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l78",
+      "title": "复习 38",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "很冷。",
+          "name": "cold"
+        },
+        {
+          "glyph": "非常感谢。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "星期一",
+          "name": "Mon"
+        },
+        {
+          "glyph": "他们在睡觉",
+          "name": "sleep"
+        },
+        {
+          "glyph": "那里有一个小鸟巢。",
+          "name": "l3"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "三个球",
+          "name": "3"
+        },
+        {
+          "glyph": "星期二",
+          "name": "Tue"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "下雨是哪个?",
+          "options": [
+            "外面在下雨。",
+            "今天晴天。",
+            "很冷。",
+            "有风。"
+          ],
+          "answer": "外面在下雨。"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好\" 是哪一个?",
+          "options": [
+            "你好朋友!",
+            "谢谢",
+            "明天见",
+            "晚安"
+          ],
+          "answer": "你好朋友!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l79",
+      "title": "复习 39",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "有风。",
+          "name": "wind"
+        },
+        {
+          "glyph": "很冷。",
+          "name": "cold"
+        },
+        {
+          "glyph": "外面在下雨。",
+          "name": "rain"
+        },
+        {
+          "glyph": "我们在吃饭",
+          "name": "eat"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "一个苹果",
+          "name": "1"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "星期二",
+          "name": "Tue"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "他们在睡觉",
+          "name": "sleep"
+        },
+        {
+          "glyph": "有风。",
+          "name": "wind"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"三\" 是哪一个?",
+          "options": [
+            "三个球",
+            "一个苹果",
+            "五只鸟",
+            "四辆车"
+          ],
+          "answer": "三个球"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l80",
+      "title": "复习 40",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "星期四",
+          "name": "Thu"
+        },
+        {
+          "glyph": "有风。",
+          "name": "wind"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "三个球",
+          "name": "3"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        },
+        {
+          "glyph": "我在跑步",
+          "name": "run"
+        },
+        {
+          "glyph": "星期一",
+          "name": "Mon"
+        },
+        {
+          "glyph": "他们在睡觉",
+          "name": "sleep"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "下雨是哪个?",
+          "options": [
+            "外面在下雨。",
+            "今天晴天。",
+            "很冷。",
+            "有风。"
+          ],
+          "answer": "外面在下雨。"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "第三天?",
+          "options": [
+            "星期三",
+            "星期二",
+            "星期五",
+            "星期日"
+          ],
+          "answer": "星期三"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l81",
+      "title": "复习 41",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "有风。",
+          "name": "wind"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        },
+        {
+          "glyph": "这个苹果多少钱?",
+          "name": "price"
+        },
+        {
+          "glyph": "三个球",
+          "name": "3"
+        },
+        {
+          "glyph": "谢谢, 找您零钱。",
+          "name": "done"
+        },
+        {
+          "glyph": "非常感谢。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "我要五个苹果。",
+          "name": "buy"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "两块。",
+          "name": "price"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "星期二",
+          "name": "Tue"
+        },
+        {
+          "glyph": "三个球",
+          "name": "3"
+        },
+        {
+          "glyph": "星期三",
+          "name": "Wed"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "第三天?",
+          "options": [
+            "星期三",
+            "星期二",
+            "星期五",
+            "星期日"
+          ],
+          "answer": "星期三"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好\" 是哪一个?",
+          "options": [
+            "你好朋友!",
+            "谢谢",
+            "明天见",
+            "晚安"
+          ],
+          "answer": "你好朋友!"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l82",
+      "title": "复习 42",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "这个苹果多少钱?",
+          "name": "price"
+        },
+        {
+          "glyph": "星期三",
+          "name": "Wed"
+        },
+        {
+          "glyph": "三个球",
+          "name": "3"
+        },
+        {
+          "glyph": "星期六",
+          "name": "Sat"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "那里有一个小鸟巢。",
+          "name": "l3"
+        },
+        {
+          "glyph": "他们在睡觉",
+          "name": "sleep"
+        },
+        {
+          "glyph": "星期日",
+          "name": "Sun"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "星期六",
+          "name": "Sat"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好\" 是哪一个?",
+          "options": [
+            "你好朋友!",
+            "谢谢",
+            "明天见",
+            "晚安"
+          ],
+          "answer": "你好朋友!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁在看书?",
+          "options": [
+            "她在看书",
+            "我在跑步",
+            "我们在吃饭",
+            "他们在睡觉"
+          ],
+          "answer": "她在看书"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "多少苹果?",
+          "options": [
+            "五个",
+            "两个",
+            "三个",
+            "十个"
+          ],
+          "answer": "五个"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l83",
+      "title": "复习 43",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "那里有一个小鸟巢。",
+          "name": "l3"
+        },
+        {
+          "glyph": "谢谢, 找您零钱。",
+          "name": "done"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "它落在高树上。",
+          "name": "l2"
+        },
+        {
+          "glyph": "那里有一个小鸟巢。",
+          "name": "l3"
+        },
+        {
+          "glyph": "星期一",
+          "name": "Mon"
+        },
+        {
+          "glyph": "我要五个苹果。",
+          "name": "buy"
+        },
+        {
+          "glyph": "我在跑步",
+          "name": "run"
+        },
+        {
+          "glyph": "外面在下雨。",
+          "name": "rain"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "非常感谢。",
+          "name": "thanks"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁在看书?",
+          "options": [
+            "她在看书",
+            "我在跑步",
+            "我们在吃饭",
+            "他们在睡觉"
+          ],
+          "answer": "她在看书"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "第三天?",
+          "options": [
+            "星期三",
+            "星期二",
+            "星期五",
+            "星期日"
+          ],
+          "answer": "星期三"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l84",
+      "title": "复习 44",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "一个苹果",
+          "name": "1"
+        },
+        {
+          "glyph": "晚安, 妈妈。",
+          "name": "night"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "四辆车",
+          "name": "4"
+        },
+        {
+          "glyph": "那里有一个小鸟巢。",
+          "name": "l3"
+        },
+        {
+          "glyph": "有风。",
+          "name": "wind"
+        },
+        {
+          "glyph": "非常感谢。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "我要五个苹果。",
+          "name": "buy"
+        },
+        {
+          "glyph": "他们在睡觉",
+          "name": "sleep"
+        },
+        {
+          "glyph": "有风。",
+          "name": "wind"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好\" 是哪一个?",
+          "options": [
+            "你好朋友!",
+            "谢谢",
+            "明天见",
+            "晚安"
+          ],
+          "answer": "你好朋友!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "下雨是哪个?",
+          "options": [
+            "外面在下雨。",
+            "今天晴天。",
+            "很冷。",
+            "有风。"
+          ],
+          "answer": "外面在下雨。"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l85",
+      "title": "复习 45",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "我们在吃饭",
+          "name": "eat"
+        },
+        {
+          "glyph": "我在跑步",
+          "name": "run"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "星期一",
+          "name": "Mon"
+        },
+        {
+          "glyph": "很冷。",
+          "name": "cold"
+        },
+        {
+          "glyph": "星期六",
+          "name": "Sat"
+        },
+        {
+          "glyph": "谢谢, 找您零钱。",
+          "name": "done"
+        },
+        {
+          "glyph": "星期三",
+          "name": "Wed"
+        },
+        {
+          "glyph": "星期六",
+          "name": "Sat"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好\" 是哪一个?",
+          "options": [
+            "你好朋友!",
+            "谢谢",
+            "明天见",
+            "晚安"
+          ],
+          "answer": "你好朋友!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l86",
+      "title": "复习 46",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我们在吃饭",
+          "name": "eat"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "星期三",
+          "name": "Wed"
+        },
+        {
+          "glyph": "星期六",
+          "name": "Sat"
+        },
+        {
+          "glyph": "有风。",
+          "name": "wind"
+        },
+        {
+          "glyph": "外面在下雨。",
+          "name": "rain"
+        },
+        {
+          "glyph": "那里有一个小鸟巢。",
+          "name": "l3"
+        },
+        {
+          "glyph": "星期三",
+          "name": "Wed"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"三\" 是哪一个?",
+          "options": [
+            "三个球",
+            "一个苹果",
+            "五只鸟",
+            "四辆车"
+          ],
+          "answer": "三个球"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "第三天?",
+          "options": [
+            "星期三",
+            "星期二",
+            "星期五",
+            "星期日"
+          ],
+          "answer": "星期三"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l87",
+      "title": "复习 47",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "一个苹果",
+          "name": "1"
+        },
+        {
+          "glyph": "非常感谢。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "星期四",
+          "name": "Thu"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "它落在高树上。",
+          "name": "l2"
+        },
+        {
+          "glyph": "谢谢, 找您零钱。",
+          "name": "done"
+        },
+        {
+          "glyph": "它落在高树上。",
+          "name": "l2"
+        },
+        {
+          "glyph": "两块。",
+          "name": "price"
+        },
+        {
+          "glyph": "非常感谢。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "我们在吃饭",
+          "name": "eat"
+        },
+        {
+          "glyph": "五只鸟",
+          "name": "5"
+        },
+        {
+          "glyph": "那里有一个小鸟巢。",
+          "name": "l3"
+        },
+        {
+          "glyph": "一个苹果",
+          "name": "1"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "下雨是哪个?",
+          "options": [
+            "外面在下雨。",
+            "今天晴天。",
+            "很冷。",
+            "有风。"
+          ],
+          "answer": "外面在下雨。"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "下雨是哪个?",
+          "options": [
+            "外面在下雨。",
+            "今天晴天。",
+            "很冷。",
+            "有风。"
+          ],
+          "answer": "外面在下雨。"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l88",
+      "title": "复习 48",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "星期六",
+          "name": "Sat"
+        },
+        {
+          "glyph": "五只鸟",
+          "name": "5"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        },
+        {
+          "glyph": "一个苹果",
+          "name": "1"
+        },
+        {
+          "glyph": "它落在高树上。",
+          "name": "l2"
+        },
+        {
+          "glyph": "星期日",
+          "name": "Sun"
+        },
+        {
+          "glyph": "星期四",
+          "name": "Thu"
+        },
+        {
+          "glyph": "星期四",
+          "name": "Thu"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "星期四",
+          "name": "Thu"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "我要五个苹果。",
+          "name": "buy"
+        },
+        {
+          "glyph": "谢谢, 找您零钱。",
+          "name": "done"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "下雨是哪个?",
+          "options": [
+            "外面在下雨。",
+            "今天晴天。",
+            "很冷。",
+            "有风。"
+          ],
+          "answer": "外面在下雨。"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "第三天?",
+          "options": [
+            "星期三",
+            "星期二",
+            "星期五",
+            "星期日"
+          ],
+          "answer": "星期三"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l89",
+      "title": "复习 49",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "星期二",
+          "name": "Tue"
+        },
+        {
+          "glyph": "我在跑步",
+          "name": "run"
+        },
+        {
+          "glyph": "非常感谢。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "星期二",
+          "name": "Tue"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        },
+        {
+          "glyph": "谢谢, 找您零钱。",
+          "name": "done"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁在看书?",
+          "options": [
+            "她在看书",
+            "我在跑步",
+            "我们在吃饭",
+            "他们在睡觉"
+          ],
+          "answer": "她在看书"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "第三天?",
+          "options": [
+            "星期三",
+            "星期二",
+            "星期五",
+            "星期日"
+          ],
+          "answer": "星期三"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好\" 是哪一个?",
+          "options": [
+            "你好朋友!",
+            "谢谢",
+            "明天见",
+            "晚安"
+          ],
+          "answer": "你好朋友!"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l90",
+      "title": "复习 50",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "这个苹果多少钱?",
+          "name": "price"
+        },
+        {
+          "glyph": "今天晴天。",
+          "name": "sun"
+        },
+        {
+          "glyph": "我要五个苹果。",
+          "name": "buy"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "两块。",
+          "name": "price"
+        },
+        {
+          "glyph": "四辆车",
+          "name": "4"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "非常感谢。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "我们在吃饭",
+          "name": "eat"
+        },
+        {
+          "glyph": "明天见!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "多少苹果?",
+          "options": [
+            "五个",
+            "两个",
+            "三个",
+            "十个"
+          ],
+          "answer": "五个"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好\" 是哪一个?",
+          "options": [
+            "你好朋友!",
+            "谢谢",
+            "明天见",
+            "晚安"
+          ],
+          "answer": "你好朋友!"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l91",
+      "title": "复习 51",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "有风。",
+          "name": "wind"
+        },
+        {
+          "glyph": "非常感谢。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "那里有一个小鸟巢。",
+          "name": "l3"
+        },
+        {
+          "glyph": "星期四",
+          "name": "Thu"
+        },
+        {
+          "glyph": "外面在下雨。",
+          "name": "rain"
+        },
+        {
+          "glyph": "一个苹果",
+          "name": "1"
+        },
+        {
+          "glyph": "我们在吃饭",
+          "name": "eat"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "一个苹果",
+          "name": "1"
+        },
+        {
+          "glyph": "我要五个苹果。",
+          "name": "buy"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好\" 是哪一个?",
+          "options": [
+            "你好朋友!",
+            "谢谢",
+            "明天见",
+            "晚安"
+          ],
+          "answer": "你好朋友!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好\" 是哪一个?",
+          "options": [
+            "你好朋友!",
+            "谢谢",
+            "明天见",
+            "晚安"
+          ],
+          "answer": "你好朋友!"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l92",
+      "title": "复习 52",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "星期日",
+          "name": "Sun"
+        },
+        {
+          "glyph": "星期四",
+          "name": "Thu"
+        },
+        {
+          "glyph": "非常感谢。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "星期二",
+          "name": "Tue"
+        },
+        {
+          "glyph": "我在跑步",
+          "name": "run"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l93",
+      "title": "复习 53",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "一个苹果",
+          "name": "1"
+        },
+        {
+          "glyph": "一个苹果",
+          "name": "1"
+        },
+        {
+          "glyph": "三个球",
+          "name": "3"
+        },
+        {
+          "glyph": "他们在睡觉",
+          "name": "sleep"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        },
+        {
+          "glyph": "星期三",
+          "name": "Wed"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "有风。",
+          "name": "wind"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l94",
+      "title": "复习 54",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "四辆车",
+          "name": "4"
+        },
+        {
+          "glyph": "非常感谢。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "它落在高树上。",
+          "name": "l2"
+        },
+        {
+          "glyph": "星期一",
+          "name": "Mon"
+        },
+        {
+          "glyph": "那里有一个小鸟巢。",
+          "name": "l3"
+        },
+        {
+          "glyph": "五只鸟",
+          "name": "5"
+        },
+        {
+          "glyph": "它落在高树上。",
+          "name": "l2"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "多少苹果?",
+          "options": [
+            "五个",
+            "两个",
+            "三个",
+            "十个"
+          ],
+          "answer": "五个"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "下雨是哪个?",
+          "options": [
+            "外面在下雨。",
+            "今天晴天。",
+            "很冷。",
+            "有风。"
+          ],
+          "answer": "外面在下雨。"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l95",
+      "title": "复习 55",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "两块。",
+          "name": "price"
+        },
+        {
+          "glyph": "有风。",
+          "name": "wind"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "我要五个苹果。",
+          "name": "buy"
+        },
+        {
+          "glyph": "星期六",
+          "name": "Sat"
+        },
+        {
+          "glyph": "星期三",
+          "name": "Wed"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "他们在睡觉",
+          "name": "sleep"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "下雨是哪个?",
+          "options": [
+            "外面在下雨。",
+            "今天晴天。",
+            "很冷。",
+            "有风。"
+          ],
+          "answer": "外面在下雨。"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "第三天?",
+          "options": [
+            "星期三",
+            "星期二",
+            "星期五",
+            "星期日"
+          ],
+          "answer": "星期三"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "多少苹果?",
+          "options": [
+            "五个",
+            "两个",
+            "三个",
+            "十个"
+          ],
+          "answer": "五个"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l96",
+      "title": "复习 56",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "一个苹果",
+          "name": "1"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        },
+        {
+          "glyph": "有风。",
+          "name": "wind"
+        },
+        {
+          "glyph": "有风。",
+          "name": "wind"
+        },
+        {
+          "glyph": "我们在吃饭",
+          "name": "eat"
+        },
+        {
+          "glyph": "三个球",
+          "name": "3"
+        },
+        {
+          "glyph": "星期三",
+          "name": "Wed"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁在看书?",
+          "options": [
+            "她在看书",
+            "我在跑步",
+            "我们在吃饭",
+            "他们在睡觉"
+          ],
+          "answer": "她在看书"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好\" 是哪一个?",
+          "options": [
+            "你好朋友!",
+            "谢谢",
+            "明天见",
+            "晚安"
+          ],
+          "answer": "你好朋友!"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l97",
+      "title": "复习 57",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "星期三",
+          "name": "Wed"
+        },
+        {
+          "glyph": "它落在高树上。",
+          "name": "l2"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "明天见!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "星期四",
+          "name": "Thu"
+        },
+        {
+          "glyph": "我要五个苹果。",
+          "name": "buy"
+        },
+        {
+          "glyph": "很冷。",
+          "name": "cold"
+        },
+        {
+          "glyph": "星期一",
+          "name": "Mon"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"你好\" 是哪一个?",
+          "options": [
+            "你好朋友!",
+            "谢谢",
+            "明天见",
+            "晚安"
+          ],
+          "answer": "你好朋友!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "第三天?",
+          "options": [
+            "星期三",
+            "星期二",
+            "星期五",
+            "星期日"
+          ],
+          "answer": "星期三"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l98",
+      "title": "复习 58",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "一个苹果",
+          "name": "1"
+        },
+        {
+          "glyph": "星期六",
+          "name": "Sat"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "一个苹果",
+          "name": "1"
+        },
+        {
+          "glyph": "明天见!",
+          "name": "tmrw"
+        },
+        {
+          "glyph": "五只鸟",
+          "name": "5"
+        },
+        {
+          "glyph": "星期一",
+          "name": "Mon"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "下雨是哪个?",
+          "options": [
+            "外面在下雨。",
+            "今天晴天。",
+            "很冷。",
+            "有风。"
+          ],
+          "answer": "外面在下雨。"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"三\" 是哪一个?",
+          "options": [
+            "三个球",
+            "一个苹果",
+            "五只鸟",
+            "四辆车"
+          ],
+          "answer": "三个球"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l99",
+      "title": "复习 59",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "星期三",
+          "name": "Wed"
+        },
+        {
+          "glyph": "星期六",
+          "name": "Sat"
+        },
+        {
+          "glyph": "很冷。",
+          "name": "cold"
+        },
+        {
+          "glyph": "三个球",
+          "name": "3"
+        },
+        {
+          "glyph": "这个苹果多少钱?",
+          "name": "price"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "星期五",
+          "name": "Fri"
+        },
+        {
+          "glyph": "有风。",
+          "name": "wind"
+        },
+        {
+          "glyph": "两只猫",
+          "name": "2"
+        },
+        {
+          "glyph": "星期三",
+          "name": "Wed"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "第三天?",
+          "options": [
+            "星期三",
+            "星期二",
+            "星期五",
+            "星期日"
+          ],
+          "answer": "星期三"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "下雨是哪个?",
+          "options": [
+            "外面在下雨。",
+            "今天晴天。",
+            "很冷。",
+            "有风。"
+          ],
+          "answer": "外面在下雨。"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        }
+      ]
+    },
+    {
+      "id": "zh-p9-l100",
+      "title": "复习 60",
+      "type": "listen",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我们在吃饭",
+          "name": "eat"
+        },
+        {
+          "glyph": "三个球",
+          "name": "3"
+        },
+        {
+          "glyph": "星期二",
+          "name": "Tue"
+        },
+        {
+          "glyph": "我要五个苹果。",
+          "name": "buy"
+        },
+        {
+          "glyph": "小鸟飞过河。",
+          "name": "l1"
+        },
+        {
+          "glyph": "外面在下雨。",
+          "name": "rain"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "你好朋友!",
+          "name": "hello"
+        },
+        {
+          "glyph": "我在跑步",
+          "name": "run"
+        },
+        {
+          "glyph": "她在看书",
+          "name": "read"
+        },
+        {
+          "glyph": "晚安, 妈妈。",
+          "name": "night"
+        },
+        {
+          "glyph": "星期一",
+          "name": "Mon"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小鸟落在哪里?",
+          "options": [
+            "高树上",
+            "河里",
+            "沙子上",
+            "石头上"
+          ],
+          "answer": "高树上"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"三\" 是哪一个?",
+          "options": [
+            "三个球",
+            "一个苹果",
+            "五只鸟",
+            "四辆车"
+          ],
+          "answer": "三个球"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"三\" 是哪一个?",
+          "options": [
+            "三个球",
+            "一个苹果",
+            "五只鸟",
+            "四辆车"
+          ],
+          "answer": "三个球"
+        }
+      ]
     }
   ]
 }

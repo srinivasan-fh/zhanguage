@@ -1999,6 +1999,5121 @@
           "answer": "Ich heiße Lara"
         }
       ]
+    },
+    {
+      "id": "de-p8-l41",
+      "title": "Wiederholung 1",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Wie heißt du?",
+          "name": "q"
+        },
+        {
+          "glyph": "A: Ich bin heute glücklich.",
+          "name": ""
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "Kannst du es noch einmal sagen?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "Ich heiße Lara.",
+          "name": "a"
+        },
+        {
+          "glyph": "A: Hallo Freund!",
+          "name": ""
+        },
+        {
+          "glyph": "Kann ich Brot haben?",
+          "name": "request"
+        },
+        {
+          "glyph": "B: Hallo! Wie geht es dir?",
+          "name": ""
+        },
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        },
+        {
+          "glyph": "Ich mag Äpfel.",
+          "name": "like"
+        },
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Kann ich Brot haben?",
+          "name": "request"
+        },
+        {
+          "glyph": "Wo wohnst du?",
+          "name": "q"
+        },
+        {
+          "glyph": "Ich möchte Wasser.",
+          "name": "want"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Bedeutung \"Ich möchte Wasser\":",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich bin satt\" Bedeutung?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich bin satt\" Bedeutung?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l42",
+      "title": "Wiederholung 2",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Das schmeckt sehr gut!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "Ich verstehe nicht.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "Ich mag Äpfel.",
+          "name": "like"
+        },
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: Hallo Freund!",
+          "name": ""
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "Das schmeckt sehr gut!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "Wie geht es dir?",
+          "name": "question"
+        },
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "A: Hallo Freund!",
+          "name": ""
+        },
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie heißt du?\"",
+          "options": [
+            "Ich heiße Lara",
+            "Mir geht es gut",
+            "Danke",
+            "Hallo"
+          ],
+          "answer": "Ich heiße Lara"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie geht es dir?\"",
+          "options": [
+            "Mir geht es gut",
+            "Hallo",
+            "Danke",
+            "Tschüss"
+          ],
+          "answer": "Mir geht es gut"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Bedeutung \"Ich möchte Wasser\":",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l43",
+      "title": "Wiederholung 3",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Danke.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Auf Wiedersehen!",
+          "name": "bye"
+        },
+        {
+          "glyph": "Ich möchte Wasser.",
+          "name": "want"
+        },
+        {
+          "glyph": "Ich verstehe nicht.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "A: Hallo Freund!",
+          "name": ""
+        },
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        },
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        },
+        {
+          "glyph": "Ich wohne in Berlin.",
+          "name": "a"
+        },
+        {
+          "glyph": "Kannst du es noch einmal sagen?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "Wo wohnst du?",
+          "name": "q"
+        },
+        {
+          "glyph": "Ich brauche Hilfe.",
+          "name": "need"
+        },
+        {
+          "glyph": "Ich wohne in Berlin.",
+          "name": "a"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Bedeutung \"Ich möchte Wasser\":",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Bedeutung \"Ich möchte Wasser\":",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie heißt du?\"",
+          "options": [
+            "Ich heiße Lara",
+            "Mir geht es gut",
+            "Danke",
+            "Hallo"
+          ],
+          "answer": "Ich heiße Lara"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l44",
+      "title": "Wiederholung 4",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Auf Wiedersehen!",
+          "name": "bye"
+        },
+        {
+          "glyph": "Ich wohne in Berlin.",
+          "name": "a"
+        },
+        {
+          "glyph": "A: Hallo Freund!",
+          "name": ""
+        },
+        {
+          "glyph": "A: Hallo Freund!",
+          "name": ""
+        },
+        {
+          "glyph": "Vielen Dank!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Ich wohne in Berlin.",
+          "name": "a"
+        },
+        {
+          "glyph": "Ich bin satt, danke.",
+          "name": "reply"
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "Ich möchte Wasser.",
+          "name": "want"
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "Ich möchte Wasser.",
+          "name": "want"
+        },
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich bin satt\" Bedeutung?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Bedeutung \"Ich möchte Wasser\":",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich habe Hunger\" Bedeutung?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l45",
+      "title": "Wiederholung 5",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Auf Wiedersehen!",
+          "name": "bye"
+        },
+        {
+          "glyph": "A: Hallo Freund!",
+          "name": ""
+        },
+        {
+          "glyph": "Ich möchte Wasser.",
+          "name": "want"
+        },
+        {
+          "glyph": "Mir geht es gut.",
+          "name": "reply"
+        },
+        {
+          "glyph": "Kannst du es noch einmal sagen?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "Danke.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Auf Wiedersehen!",
+          "name": "bye"
+        },
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "Ich mag Äpfel.",
+          "name": "like"
+        },
+        {
+          "glyph": "Darf ich aufstehen?",
+          "name": "polite"
+        },
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie geht es dir?\"",
+          "options": [
+            "Mir geht es gut",
+            "Hallo",
+            "Danke",
+            "Tschüss"
+          ],
+          "answer": "Mir geht es gut"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich verstehe nicht\" Bedeutung?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich verstehe nicht\" Bedeutung?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l46",
+      "title": "Wiederholung 6",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B: Hallo! Wie geht es dir?",
+          "name": ""
+        },
+        {
+          "glyph": "B: Hallo! Wie geht es dir?",
+          "name": ""
+        },
+        {
+          "glyph": "Bitte gib mir Wasser.",
+          "name": "request"
+        },
+        {
+          "glyph": "Ich möchte Wasser.",
+          "name": "want"
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "Bitte gib mir Wasser.",
+          "name": "request"
+        },
+        {
+          "glyph": "Darf ich aufstehen?",
+          "name": "polite"
+        },
+        {
+          "glyph": "Darf ich aufstehen?",
+          "name": "polite"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich verstehe nicht\" Bedeutung?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Bedeutung \"Ich möchte Wasser\":",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l47",
+      "title": "Wiederholung 7",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Vielen Dank!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich bin müde.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: Hallo! Wie geht es dir?",
+          "name": ""
+        },
+        {
+          "glyph": "Ich heiße Lara.",
+          "name": "a"
+        },
+        {
+          "glyph": "Wie heißt du?",
+          "name": "q"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie heißt du?\"",
+          "options": [
+            "Ich heiße Lara",
+            "Mir geht es gut",
+            "Danke",
+            "Hallo"
+          ],
+          "answer": "Ich heiße Lara"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Bedeutung \"Ich möchte Wasser\":",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Bedeutung \"Ich möchte Wasser\":",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l48",
+      "title": "Wiederholung 8",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        },
+        {
+          "glyph": "Ich bin müde.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Danke.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Wie geht es dir?",
+          "name": "question"
+        },
+        {
+          "glyph": "Ich mag Äpfel.",
+          "name": "like"
+        },
+        {
+          "glyph": "Auf Wiedersehen!",
+          "name": "bye"
+        },
+        {
+          "glyph": "Mir geht es gut.",
+          "name": "reply"
+        },
+        {
+          "glyph": "Entschuldigung, kannst du mir helfen?",
+          "name": "help"
+        },
+        {
+          "glyph": "Ich heiße Lara.",
+          "name": "a"
+        },
+        {
+          "glyph": "Darf ich aufstehen?",
+          "name": "polite"
+        },
+        {
+          "glyph": "Ich verstehe nicht.",
+          "name": "clarify"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich bin satt\" Bedeutung?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich habe Hunger\" Bedeutung?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie geht es dir?\"",
+          "options": [
+            "Mir geht es gut",
+            "Hallo",
+            "Danke",
+            "Tschüss"
+          ],
+          "answer": "Mir geht es gut"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l49",
+      "title": "Wiederholung 9",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "Ich brauche Hilfe.",
+          "name": "need"
+        },
+        {
+          "glyph": "Ich brauche Hilfe.",
+          "name": "need"
+        },
+        {
+          "glyph": "Darf ich aufstehen?",
+          "name": "polite"
+        },
+        {
+          "glyph": "Auf Wiedersehen!",
+          "name": "bye"
+        },
+        {
+          "glyph": "Darf ich aufstehen?",
+          "name": "polite"
+        },
+        {
+          "glyph": "Ich bin satt, danke.",
+          "name": "reply"
+        },
+        {
+          "glyph": "Vielen Dank!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie geht es dir?\"",
+          "options": [
+            "Mir geht es gut",
+            "Hallo",
+            "Danke",
+            "Tschüss"
+          ],
+          "answer": "Mir geht es gut"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie geht es dir?\"",
+          "options": [
+            "Mir geht es gut",
+            "Hallo",
+            "Danke",
+            "Tschüss"
+          ],
+          "answer": "Mir geht es gut"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich verstehe nicht\" Bedeutung?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l50",
+      "title": "Wiederholung 10",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Darf ich aufstehen?",
+          "name": "polite"
+        },
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Kann ich Brot haben?",
+          "name": "request"
+        },
+        {
+          "glyph": "Darf ich aufstehen?",
+          "name": "polite"
+        },
+        {
+          "glyph": "Ich mag Äpfel.",
+          "name": "like"
+        },
+        {
+          "glyph": "A: Ich bin heute glücklich.",
+          "name": ""
+        },
+        {
+          "glyph": "Kannst du es noch einmal sagen?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "Ich mag Äpfel.",
+          "name": "like"
+        },
+        {
+          "glyph": "Ich mag scharfes Essen nicht.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "A: Ich bin heute glücklich.",
+          "name": ""
+        },
+        {
+          "glyph": "Darf ich aufstehen?",
+          "name": "polite"
+        },
+        {
+          "glyph": "Wo wohnst du?",
+          "name": "q"
+        },
+        {
+          "glyph": "Ich bin sehr aufgeregt!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: Hallo Freund!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich bin satt\" Bedeutung?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich verstehe nicht\" Bedeutung?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich bin satt\" Bedeutung?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l51",
+      "title": "Wiederholung 11",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Kann ich Brot haben?",
+          "name": "request"
+        },
+        {
+          "glyph": "Kannst du es noch einmal sagen?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "Ich heiße Lara.",
+          "name": "a"
+        },
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "Kannst du es noch einmal sagen?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        },
+        {
+          "glyph": "Ich brauche Hilfe.",
+          "name": "need"
+        },
+        {
+          "glyph": "Danke.",
+          "name": "thanks"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich habe Hunger\" Bedeutung?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich verstehe nicht\" Bedeutung?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich verstehe nicht\" Bedeutung?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l52",
+      "title": "Wiederholung 12",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        },
+        {
+          "glyph": "Vielen Dank!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Mir geht es gut.",
+          "name": "reply"
+        },
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        },
+        {
+          "glyph": "Ich möchte Wasser.",
+          "name": "want"
+        },
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "Bitte gib mir Wasser.",
+          "name": "request"
+        },
+        {
+          "glyph": "Wie heißt du?",
+          "name": "q"
+        },
+        {
+          "glyph": "Auf Wiedersehen!",
+          "name": "bye"
+        },
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: Ich bin heute glücklich.",
+          "name": ""
+        },
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "Danke.",
+          "name": "thanks"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich habe Hunger\" Bedeutung?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich bin satt\" Bedeutung?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich habe Hunger\" Bedeutung?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l53",
+      "title": "Wiederholung 13",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Vielen Dank!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Darf ich aufstehen?",
+          "name": "polite"
+        },
+        {
+          "glyph": "Ich verstehe nicht.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "Ich brauche Hilfe.",
+          "name": "need"
+        },
+        {
+          "glyph": "Ich brauche Hilfe.",
+          "name": "need"
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Kann ich Brot haben?",
+          "name": "request"
+        },
+        {
+          "glyph": "Ich heiße Lara.",
+          "name": "a"
+        },
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        },
+        {
+          "glyph": "Ich bin müde.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Vielen Dank!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Mir geht es gut.",
+          "name": "reply"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich bin satt\" Bedeutung?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Bedeutung \"Ich möchte Wasser\":",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l54",
+      "title": "Wiederholung 14",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich mag Äpfel.",
+          "name": "like"
+        },
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        },
+        {
+          "glyph": "Auf Wiedersehen!",
+          "name": "bye"
+        },
+        {
+          "glyph": "Danke.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Ich wohne in Berlin.",
+          "name": "a"
+        },
+        {
+          "glyph": "Ich bin satt, danke.",
+          "name": "reply"
+        },
+        {
+          "glyph": "A: Hallo Freund!",
+          "name": ""
+        },
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        },
+        {
+          "glyph": "Bitte gib mir Wasser.",
+          "name": "request"
+        },
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Mir geht es gut.",
+          "name": "reply"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie heißt du?\"",
+          "options": [
+            "Ich heiße Lara",
+            "Mir geht es gut",
+            "Danke",
+            "Hallo"
+          ],
+          "answer": "Ich heiße Lara"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie heißt du?\"",
+          "options": [
+            "Ich heiße Lara",
+            "Mir geht es gut",
+            "Danke",
+            "Hallo"
+          ],
+          "answer": "Ich heiße Lara"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich habe Hunger\" Bedeutung?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l55",
+      "title": "Wiederholung 15",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Bitte gib mir Wasser.",
+          "name": "request"
+        },
+        {
+          "glyph": "Ich heiße Lara.",
+          "name": "a"
+        },
+        {
+          "glyph": "Wo wohnst du?",
+          "name": "q"
+        },
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich verstehe nicht.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "Auf Wiedersehen!",
+          "name": "bye"
+        },
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "Mir geht es gut.",
+          "name": "reply"
+        },
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich heiße Lara.",
+          "name": "a"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie geht es dir?\"",
+          "options": [
+            "Mir geht es gut",
+            "Hallo",
+            "Danke",
+            "Tschüss"
+          ],
+          "answer": "Mir geht es gut"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich verstehe nicht\" Bedeutung?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l56",
+      "title": "Wiederholung 16",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Bitte gib mir Wasser.",
+          "name": "request"
+        },
+        {
+          "glyph": "Bitte gib mir Wasser.",
+          "name": "request"
+        },
+        {
+          "glyph": "Ich möchte Wasser.",
+          "name": "want"
+        },
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        },
+        {
+          "glyph": "Ich mag Äpfel.",
+          "name": "like"
+        },
+        {
+          "glyph": "Das schmeckt sehr gut!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "B: Hallo! Wie geht es dir?",
+          "name": ""
+        },
+        {
+          "glyph": "Ich brauche Hilfe.",
+          "name": "need"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Bedeutung \"Ich möchte Wasser\":",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer ist heute glücklich?",
+          "options": [
+            "A",
+            "B",
+            "Mama",
+            "Lehrer"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l57",
+      "title": "Wiederholung 17",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Danke.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Darf ich aufstehen?",
+          "name": "polite"
+        },
+        {
+          "glyph": "Ich wohne in Berlin.",
+          "name": "a"
+        },
+        {
+          "glyph": "A: Hallo Freund!",
+          "name": ""
+        },
+        {
+          "glyph": "Das schmeckt sehr gut!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich brauche Hilfe.",
+          "name": "need"
+        },
+        {
+          "glyph": "Ich bin satt, danke.",
+          "name": "reply"
+        },
+        {
+          "glyph": "Ich heiße Lara.",
+          "name": "a"
+        },
+        {
+          "glyph": "Danke.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Wo wohnst du?",
+          "name": "q"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich verstehe nicht\" Bedeutung?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich bin satt\" Bedeutung?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l58",
+      "title": "Wiederholung 18",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich bin müde.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "A: Ich bin heute glücklich.",
+          "name": ""
+        },
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Darf ich aufstehen?",
+          "name": "polite"
+        },
+        {
+          "glyph": "Ich möchte Wasser.",
+          "name": "want"
+        },
+        {
+          "glyph": "Ich heiße Lara.",
+          "name": "a"
+        },
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Wie heißt du?",
+          "name": "q"
+        },
+        {
+          "glyph": "Ich brauche Hilfe.",
+          "name": "need"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Bedeutung \"Ich möchte Wasser\":",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich verstehe nicht\" Bedeutung?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie geht es dir?\"",
+          "options": [
+            "Mir geht es gut",
+            "Hallo",
+            "Danke",
+            "Tschüss"
+          ],
+          "answer": "Mir geht es gut"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l59",
+      "title": "Wiederholung 19",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "Wie geht es dir?",
+          "name": "question"
+        },
+        {
+          "glyph": "Ich mag scharfes Essen nicht.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "Kannst du es noch einmal sagen?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "Ich mag Äpfel.",
+          "name": "like"
+        },
+        {
+          "glyph": "Ich mag scharfes Essen nicht.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "Das schmeckt sehr gut!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "Auf Wiedersehen!",
+          "name": "bye"
+        },
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Bitte gib mir Wasser.",
+          "name": "request"
+        },
+        {
+          "glyph": "A: Ich bin heute glücklich.",
+          "name": ""
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "Wo wohnst du?",
+          "name": "q"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich habe Hunger\" Bedeutung?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie heißt du?\"",
+          "options": [
+            "Ich heiße Lara",
+            "Mir geht es gut",
+            "Danke",
+            "Hallo"
+          ],
+          "answer": "Ich heiße Lara"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie geht es dir?\"",
+          "options": [
+            "Mir geht es gut",
+            "Hallo",
+            "Danke",
+            "Tschüss"
+          ],
+          "answer": "Mir geht es gut"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l60",
+      "title": "Wiederholung 20",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "A: Ich bin heute glücklich.",
+          "name": ""
+        },
+        {
+          "glyph": "Ich verstehe nicht.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "Ich brauche Hilfe.",
+          "name": "need"
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "Ich bin satt, danke.",
+          "name": "reply"
+        },
+        {
+          "glyph": "Bitte gib mir Wasser.",
+          "name": "request"
+        },
+        {
+          "glyph": "B: Hallo! Wie geht es dir?",
+          "name": ""
+        },
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        },
+        {
+          "glyph": "Ich möchte Wasser.",
+          "name": "want"
+        },
+        {
+          "glyph": "Wo wohnst du?",
+          "name": "q"
+        },
+        {
+          "glyph": "Ich mag scharfes Essen nicht.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "Ich möchte Wasser.",
+          "name": "want"
+        },
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "Ich mag Äpfel.",
+          "name": "like"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich bin satt\" Bedeutung?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie geht es dir?\"",
+          "options": [
+            "Mir geht es gut",
+            "Hallo",
+            "Danke",
+            "Tschüss"
+          ],
+          "answer": "Mir geht es gut"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l61",
+      "title": "Wiederholung 21",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Das schmeckt sehr gut!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "Ich bin müde.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "A: Hallo Freund!",
+          "name": ""
+        },
+        {
+          "glyph": "Ich bin sehr aufgeregt!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: Hallo! Wie geht es dir?",
+          "name": ""
+        },
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "Entschuldigung, kannst du mir helfen?",
+          "name": "help"
+        },
+        {
+          "glyph": "Ich mag Äpfel.",
+          "name": "like"
+        },
+        {
+          "glyph": "Ich möchte Wasser.",
+          "name": "want"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich bin satt\" Bedeutung?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie heißt du?\"",
+          "options": [
+            "Ich heiße Lara",
+            "Mir geht es gut",
+            "Danke",
+            "Hallo"
+          ],
+          "answer": "Ich heiße Lara"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Bedeutung \"Ich möchte Wasser\":",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l62",
+      "title": "Wiederholung 22",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Auf Wiedersehen!",
+          "name": "bye"
+        },
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Mir geht es gut.",
+          "name": "reply"
+        },
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich wohne in Berlin.",
+          "name": "a"
+        },
+        {
+          "glyph": "Ich bin sehr aufgeregt!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "Ich verstehe nicht.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "A: Hallo Freund!",
+          "name": ""
+        },
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        },
+        {
+          "glyph": "Vielen Dank!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "B: Hallo! Wie geht es dir?",
+          "name": ""
+        },
+        {
+          "glyph": "Mir geht es gut.",
+          "name": "reply"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich habe Hunger\" Bedeutung?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer ist heute glücklich?",
+          "options": [
+            "A",
+            "B",
+            "Mama",
+            "Lehrer"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich bin satt\" Bedeutung?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l63",
+      "title": "Wiederholung 23",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Kann ich Brot haben?",
+          "name": "request"
+        },
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Darf ich aufstehen?",
+          "name": "polite"
+        },
+        {
+          "glyph": "Ich heiße Lara.",
+          "name": "a"
+        },
+        {
+          "glyph": "Ich mag scharfes Essen nicht.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "A: Ich bin heute glücklich.",
+          "name": ""
+        },
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "Wie heißt du?",
+          "name": "q"
+        },
+        {
+          "glyph": "A: Hallo Freund!",
+          "name": ""
+        },
+        {
+          "glyph": "Ich möchte Wasser.",
+          "name": "want"
+        },
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        },
+        {
+          "glyph": "Ich bin sehr aufgeregt!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich heiße Lara.",
+          "name": "a"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich habe Hunger\" Bedeutung?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich habe Hunger\" Bedeutung?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich bin satt\" Bedeutung?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l64",
+      "title": "Wiederholung 24",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich brauche Hilfe.",
+          "name": "need"
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "Ich brauche Hilfe.",
+          "name": "need"
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "Mir geht es gut.",
+          "name": "reply"
+        },
+        {
+          "glyph": "Ich heiße Lara.",
+          "name": "a"
+        },
+        {
+          "glyph": "A: Ich bin heute glücklich.",
+          "name": ""
+        },
+        {
+          "glyph": "A: Hallo Freund!",
+          "name": ""
+        },
+        {
+          "glyph": "B: Hallo! Wie geht es dir?",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich bin satt\" Bedeutung?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich bin satt\" Bedeutung?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich bin satt\" Bedeutung?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l65",
+      "title": "Wiederholung 25",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Danke.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Wie geht es dir?",
+          "name": "question"
+        },
+        {
+          "glyph": "Wo wohnst du?",
+          "name": "q"
+        },
+        {
+          "glyph": "Ich mag Äpfel.",
+          "name": "like"
+        },
+        {
+          "glyph": "Bitte gib mir Wasser.",
+          "name": "request"
+        },
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Mir geht es gut.",
+          "name": "reply"
+        },
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "A: Ich bin heute glücklich.",
+          "name": ""
+        },
+        {
+          "glyph": "Das schmeckt sehr gut!",
+          "name": "compliment"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich verstehe nicht\" Bedeutung?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich habe Hunger\" Bedeutung?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich verstehe nicht\" Bedeutung?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l66",
+      "title": "Wiederholung 26",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Kannst du es noch einmal sagen?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "Danke.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Das schmeckt sehr gut!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "Auf Wiedersehen!",
+          "name": "bye"
+        },
+        {
+          "glyph": "A: Ich bin heute glücklich.",
+          "name": ""
+        },
+        {
+          "glyph": "A: Hallo Freund!",
+          "name": ""
+        },
+        {
+          "glyph": "A: Ich bin heute glücklich.",
+          "name": ""
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "Entschuldigung, kannst du mir helfen?",
+          "name": "help"
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "Ich brauche Hilfe.",
+          "name": "need"
+        },
+        {
+          "glyph": "Vielen Dank!",
+          "name": "thanks"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Bedeutung \"Ich möchte Wasser\":",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich verstehe nicht\" Bedeutung?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l67",
+      "title": "Wiederholung 27",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Wie geht es dir?",
+          "name": "question"
+        },
+        {
+          "glyph": "Ich heiße Lara.",
+          "name": "a"
+        },
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Wo wohnst du?",
+          "name": "q"
+        },
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "Bitte gib mir Wasser.",
+          "name": "request"
+        },
+        {
+          "glyph": "Ich bin sehr aufgeregt!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich mag Äpfel.",
+          "name": "like"
+        },
+        {
+          "glyph": "Bitte gib mir Wasser.",
+          "name": "request"
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich verstehe nicht\" Bedeutung?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich bin satt\" Bedeutung?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich verstehe nicht\" Bedeutung?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l68",
+      "title": "Wiederholung 28",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich mag scharfes Essen nicht.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "Ich verstehe nicht.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "Ich mag scharfes Essen nicht.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "Ich wohne in Berlin.",
+          "name": "a"
+        },
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Auf Wiedersehen!",
+          "name": "bye"
+        },
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        },
+        {
+          "glyph": "Kann ich Brot haben?",
+          "name": "request"
+        },
+        {
+          "glyph": "A: Hallo Freund!",
+          "name": ""
+        },
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Kannst du es noch einmal sagen?",
+          "name": "repeat"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich bin satt\" Bedeutung?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Bedeutung \"Ich möchte Wasser\":",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich habe Hunger\" Bedeutung?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l69",
+      "title": "Wiederholung 29",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "Entschuldigung, kannst du mir helfen?",
+          "name": "help"
+        },
+        {
+          "glyph": "Kannst du es noch einmal sagen?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "Mir geht es gut.",
+          "name": "reply"
+        },
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "Ich heiße Lara.",
+          "name": "a"
+        },
+        {
+          "glyph": "Ich bin sehr aufgeregt!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich mag Äpfel.",
+          "name": "like"
+        },
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Kann ich Brot haben?",
+          "name": "request"
+        },
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie geht es dir?\"",
+          "options": [
+            "Mir geht es gut",
+            "Hallo",
+            "Danke",
+            "Tschüss"
+          ],
+          "answer": "Mir geht es gut"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie geht es dir?\"",
+          "options": [
+            "Mir geht es gut",
+            "Hallo",
+            "Danke",
+            "Tschüss"
+          ],
+          "answer": "Mir geht es gut"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l70",
+      "title": "Wiederholung 30",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "Wie geht es dir?",
+          "name": "question"
+        },
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: Hallo! Wie geht es dir?",
+          "name": ""
+        },
+        {
+          "glyph": "B: Hallo! Wie geht es dir?",
+          "name": ""
+        },
+        {
+          "glyph": "Vielen Dank!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Wo wohnst du?",
+          "name": "q"
+        },
+        {
+          "glyph": "Ich wohne in Berlin.",
+          "name": "a"
+        },
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer ist heute glücklich?",
+          "options": [
+            "A",
+            "B",
+            "Mama",
+            "Lehrer"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Bedeutung \"Ich möchte Wasser\":",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich bin satt\" Bedeutung?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l71",
+      "title": "Wiederholung 31",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich verstehe nicht.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "Ich brauche Hilfe.",
+          "name": "need"
+        },
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        },
+        {
+          "glyph": "Ich heiße Lara.",
+          "name": "a"
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "A: Ich bin heute glücklich.",
+          "name": ""
+        },
+        {
+          "glyph": "A: Ich bin heute glücklich.",
+          "name": ""
+        },
+        {
+          "glyph": "Ich bin sehr aufgeregt!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: Hallo Freund!",
+          "name": ""
+        },
+        {
+          "glyph": "Wo wohnst du?",
+          "name": "q"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie geht es dir?\"",
+          "options": [
+            "Mir geht es gut",
+            "Hallo",
+            "Danke",
+            "Tschüss"
+          ],
+          "answer": "Mir geht es gut"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich bin satt\" Bedeutung?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l72",
+      "title": "Wiederholung 32",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Das schmeckt sehr gut!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "Bitte gib mir Wasser.",
+          "name": "request"
+        },
+        {
+          "glyph": "Ich verstehe nicht.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "Mir geht es gut.",
+          "name": "reply"
+        },
+        {
+          "glyph": "Entschuldigung, kannst du mir helfen?",
+          "name": "help"
+        },
+        {
+          "glyph": "Ich brauche Hilfe.",
+          "name": "need"
+        },
+        {
+          "glyph": "Mir geht es gut.",
+          "name": "reply"
+        },
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "Kann ich Brot haben?",
+          "name": "request"
+        },
+        {
+          "glyph": "Entschuldigung, kannst du mir helfen?",
+          "name": "help"
+        },
+        {
+          "glyph": "Ich mag scharfes Essen nicht.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "Das schmeckt sehr gut!",
+          "name": "compliment"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Bedeutung \"Ich möchte Wasser\":",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Bedeutung \"Ich möchte Wasser\":",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l73",
+      "title": "Wiederholung 33",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "Das schmeckt sehr gut!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "Wie heißt du?",
+          "name": "q"
+        },
+        {
+          "glyph": "Ich mag scharfes Essen nicht.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "Ich mag Äpfel.",
+          "name": "like"
+        },
+        {
+          "glyph": "Danke.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Mir geht es gut.",
+          "name": "reply"
+        },
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie heißt du?\"",
+          "options": [
+            "Ich heiße Lara",
+            "Mir geht es gut",
+            "Danke",
+            "Hallo"
+          ],
+          "answer": "Ich heiße Lara"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich bin satt\" Bedeutung?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l74",
+      "title": "Wiederholung 34",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich heiße Lara.",
+          "name": "a"
+        },
+        {
+          "glyph": "Ich wohne in Berlin.",
+          "name": "a"
+        },
+        {
+          "glyph": "Ich wohne in Berlin.",
+          "name": "a"
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "B: Hallo! Wie geht es dir?",
+          "name": ""
+        },
+        {
+          "glyph": "Danke.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Bitte gib mir Wasser.",
+          "name": "request"
+        },
+        {
+          "glyph": "Ich möchte Wasser.",
+          "name": "want"
+        },
+        {
+          "glyph": "Vielen Dank!",
+          "name": "thanks"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie heißt du?\"",
+          "options": [
+            "Ich heiße Lara",
+            "Mir geht es gut",
+            "Danke",
+            "Hallo"
+          ],
+          "answer": "Ich heiße Lara"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich bin satt\" Bedeutung?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l75",
+      "title": "Wiederholung 35",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Auf Wiedersehen!",
+          "name": "bye"
+        },
+        {
+          "glyph": "Auf Wiedersehen!",
+          "name": "bye"
+        },
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "Danke.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Ich verstehe nicht.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "Kann ich Brot haben?",
+          "name": "request"
+        },
+        {
+          "glyph": "Ich verstehe nicht.",
+          "name": "clarify"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich verstehe nicht\" Bedeutung?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie heißt du?\"",
+          "options": [
+            "Ich heiße Lara",
+            "Mir geht es gut",
+            "Danke",
+            "Hallo"
+          ],
+          "answer": "Ich heiße Lara"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l76",
+      "title": "Wiederholung 36",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B: Hallo! Wie geht es dir?",
+          "name": ""
+        },
+        {
+          "glyph": "Wo wohnst du?",
+          "name": "q"
+        },
+        {
+          "glyph": "Ich möchte Wasser.",
+          "name": "want"
+        },
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich mag scharfes Essen nicht.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "Ich heiße Lara.",
+          "name": "a"
+        },
+        {
+          "glyph": "Ich bin satt, danke.",
+          "name": "reply"
+        },
+        {
+          "glyph": "Ich möchte Wasser.",
+          "name": "want"
+        },
+        {
+          "glyph": "A: Ich bin heute glücklich.",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich bin satt\" Bedeutung?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Bedeutung \"Ich möchte Wasser\":",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l77",
+      "title": "Wiederholung 37",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Das schmeckt sehr gut!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "Mir geht es gut.",
+          "name": "reply"
+        },
+        {
+          "glyph": "Ich mag Äpfel.",
+          "name": "like"
+        },
+        {
+          "glyph": "Mir geht es gut.",
+          "name": "reply"
+        },
+        {
+          "glyph": "Darf ich aufstehen?",
+          "name": "polite"
+        },
+        {
+          "glyph": "Das schmeckt sehr gut!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "Das schmeckt sehr gut!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        },
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich mag scharfes Essen nicht.",
+          "name": "dislike"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie heißt du?\"",
+          "options": [
+            "Ich heiße Lara",
+            "Mir geht es gut",
+            "Danke",
+            "Hallo"
+          ],
+          "answer": "Ich heiße Lara"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer ist heute glücklich?",
+          "options": [
+            "A",
+            "B",
+            "Mama",
+            "Lehrer"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l78",
+      "title": "Wiederholung 38",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "A: Ich bin heute glücklich.",
+          "name": ""
+        },
+        {
+          "glyph": "Entschuldigung, kannst du mir helfen?",
+          "name": "help"
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "B: Hallo! Wie geht es dir?",
+          "name": ""
+        },
+        {
+          "glyph": "Wie heißt du?",
+          "name": "q"
+        },
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich verstehe nicht\" Bedeutung?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich bin satt\" Bedeutung?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l79",
+      "title": "Wiederholung 39",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A: Hallo Freund!",
+          "name": ""
+        },
+        {
+          "glyph": "Wo wohnst du?",
+          "name": "q"
+        },
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Entschuldigung, kannst du mir helfen?",
+          "name": "help"
+        },
+        {
+          "glyph": "A: Ich bin heute glücklich.",
+          "name": ""
+        },
+        {
+          "glyph": "Ich bin sehr aufgeregt!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Bitte gib mir Wasser.",
+          "name": "request"
+        },
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich mag Äpfel.",
+          "name": "like"
+        },
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich habe Hunger\" Bedeutung?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer ist heute glücklich?",
+          "options": [
+            "A",
+            "B",
+            "Mama",
+            "Lehrer"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich habe Hunger\" Bedeutung?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l80",
+      "title": "Wiederholung 40",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Auf Wiedersehen!",
+          "name": "bye"
+        },
+        {
+          "glyph": "Auf Wiedersehen!",
+          "name": "bye"
+        },
+        {
+          "glyph": "Kannst du es noch einmal sagen?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "A: Ich bin heute glücklich.",
+          "name": ""
+        },
+        {
+          "glyph": "Ich mag Äpfel.",
+          "name": "like"
+        },
+        {
+          "glyph": "Kann ich Brot haben?",
+          "name": "request"
+        },
+        {
+          "glyph": "Ich brauche Hilfe.",
+          "name": "need"
+        },
+        {
+          "glyph": "Ich brauche Hilfe.",
+          "name": "need"
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "Auf Wiedersehen!",
+          "name": "bye"
+        },
+        {
+          "glyph": "B: Hallo! Wie geht es dir?",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich habe Hunger\" Bedeutung?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich habe Hunger\" Bedeutung?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l81",
+      "title": "Wiederholung 41",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Entschuldigung, kannst du mir helfen?",
+          "name": "help"
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "Wo wohnst du?",
+          "name": "q"
+        },
+        {
+          "glyph": "Kann ich Brot haben?",
+          "name": "request"
+        },
+        {
+          "glyph": "Ich mag Äpfel.",
+          "name": "like"
+        },
+        {
+          "glyph": "Auf Wiedersehen!",
+          "name": "bye"
+        },
+        {
+          "glyph": "Ich mag scharfes Essen nicht.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "Auf Wiedersehen!",
+          "name": "bye"
+        },
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "A: Hallo Freund!",
+          "name": ""
+        },
+        {
+          "glyph": "Mir geht es gut.",
+          "name": "reply"
+        },
+        {
+          "glyph": "Das schmeckt sehr gut!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "A: Hallo Freund!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer ist heute glücklich?",
+          "options": [
+            "A",
+            "B",
+            "Mama",
+            "Lehrer"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich bin satt\" Bedeutung?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich verstehe nicht\" Bedeutung?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l82",
+      "title": "Wiederholung 42",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "Bitte gib mir Wasser.",
+          "name": "request"
+        },
+        {
+          "glyph": "Das schmeckt sehr gut!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "Auf Wiedersehen!",
+          "name": "bye"
+        },
+        {
+          "glyph": "Auf Wiedersehen!",
+          "name": "bye"
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "Kann ich Brot haben?",
+          "name": "request"
+        },
+        {
+          "glyph": "B: Hallo! Wie geht es dir?",
+          "name": ""
+        },
+        {
+          "glyph": "Das schmeckt sehr gut!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer ist heute glücklich?",
+          "options": [
+            "A",
+            "B",
+            "Mama",
+            "Lehrer"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich habe Hunger\" Bedeutung?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie geht es dir?\"",
+          "options": [
+            "Mir geht es gut",
+            "Hallo",
+            "Danke",
+            "Tschüss"
+          ],
+          "answer": "Mir geht es gut"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l83",
+      "title": "Wiederholung 43",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich mag Äpfel.",
+          "name": "like"
+        },
+        {
+          "glyph": "Ich mag Äpfel.",
+          "name": "like"
+        },
+        {
+          "glyph": "Wie heißt du?",
+          "name": "q"
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "Ich bin sehr aufgeregt!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: Ich bin heute glücklich.",
+          "name": ""
+        },
+        {
+          "glyph": "Bitte gib mir Wasser.",
+          "name": "request"
+        },
+        {
+          "glyph": "Kannst du es noch einmal sagen?",
+          "name": "repeat"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich verstehe nicht\" Bedeutung?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie heißt du?\"",
+          "options": [
+            "Ich heiße Lara",
+            "Mir geht es gut",
+            "Danke",
+            "Hallo"
+          ],
+          "answer": "Ich heiße Lara"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l84",
+      "title": "Wiederholung 44",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        },
+        {
+          "glyph": "A: Hallo Freund!",
+          "name": ""
+        },
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "A: Ich bin heute glücklich.",
+          "name": ""
+        },
+        {
+          "glyph": "Ich möchte Wasser.",
+          "name": "want"
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: Hallo Freund!",
+          "name": ""
+        },
+        {
+          "glyph": "Bitte gib mir Wasser.",
+          "name": "request"
+        },
+        {
+          "glyph": "Ich wohne in Berlin.",
+          "name": "a"
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "A: Ich bin heute glücklich.",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich verstehe nicht\" Bedeutung?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie heißt du?\"",
+          "options": [
+            "Ich heiße Lara",
+            "Mir geht es gut",
+            "Danke",
+            "Hallo"
+          ],
+          "answer": "Ich heiße Lara"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l85",
+      "title": "Wiederholung 45",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Wo wohnst du?",
+          "name": "q"
+        },
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: Hallo Freund!",
+          "name": ""
+        },
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "Entschuldigung, kannst du mir helfen?",
+          "name": "help"
+        },
+        {
+          "glyph": "Ich brauche Hilfe.",
+          "name": "need"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich verstehe nicht\" Bedeutung?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer ist heute glücklich?",
+          "options": [
+            "A",
+            "B",
+            "Mama",
+            "Lehrer"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich verstehe nicht\" Bedeutung?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l86",
+      "title": "Wiederholung 46",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Kannst du es noch einmal sagen?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "Ich mag Äpfel.",
+          "name": "like"
+        },
+        {
+          "glyph": "A: Ich bin heute glücklich.",
+          "name": ""
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "Ich bin müde.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer ist heute glücklich?",
+          "options": [
+            "A",
+            "B",
+            "Mama",
+            "Lehrer"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich verstehe nicht\" Bedeutung?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l87",
+      "title": "Wiederholung 47",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich möchte Wasser.",
+          "name": "want"
+        },
+        {
+          "glyph": "Ich verstehe nicht.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "Ich möchte Wasser.",
+          "name": "want"
+        },
+        {
+          "glyph": "Ich bin satt, danke.",
+          "name": "reply"
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "Vielen Dank!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "Darf ich aufstehen?",
+          "name": "polite"
+        },
+        {
+          "glyph": "Ich bin sehr aufgeregt!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: Hallo Freund!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich verstehe nicht\" Bedeutung?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie heißt du?\"",
+          "options": [
+            "Ich heiße Lara",
+            "Mir geht es gut",
+            "Danke",
+            "Hallo"
+          ],
+          "answer": "Ich heiße Lara"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich bin satt\" Bedeutung?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l88",
+      "title": "Wiederholung 48",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich brauche Hilfe.",
+          "name": "need"
+        },
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        },
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        },
+        {
+          "glyph": "Das schmeckt sehr gut!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "Darf ich aufstehen?",
+          "name": "polite"
+        },
+        {
+          "glyph": "B: Hallo! Wie geht es dir?",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie heißt du?\"",
+          "options": [
+            "Ich heiße Lara",
+            "Mir geht es gut",
+            "Danke",
+            "Hallo"
+          ],
+          "answer": "Ich heiße Lara"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Bedeutung \"Ich möchte Wasser\":",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l89",
+      "title": "Wiederholung 49",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Darf ich aufstehen?",
+          "name": "polite"
+        },
+        {
+          "glyph": "Vielen Dank!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "A: Hallo Freund!",
+          "name": ""
+        },
+        {
+          "glyph": "Ich wohne in Berlin.",
+          "name": "a"
+        },
+        {
+          "glyph": "Ich mag scharfes Essen nicht.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        },
+        {
+          "glyph": "Wie geht es dir?",
+          "name": "question"
+        },
+        {
+          "glyph": "Ich brauche Hilfe.",
+          "name": "need"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich habe Hunger\" Bedeutung?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie heißt du?\"",
+          "options": [
+            "Ich heiße Lara",
+            "Mir geht es gut",
+            "Danke",
+            "Hallo"
+          ],
+          "answer": "Ich heiße Lara"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l90",
+      "title": "Wiederholung 50",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich mag scharfes Essen nicht.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "Vielen Dank!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Bitte gib mir Wasser.",
+          "name": "request"
+        },
+        {
+          "glyph": "Darf ich aufstehen?",
+          "name": "polite"
+        },
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "A: Hallo Freund!",
+          "name": ""
+        },
+        {
+          "glyph": "Mir geht es gut.",
+          "name": "reply"
+        },
+        {
+          "glyph": "Danke.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Bedeutung \"Ich möchte Wasser\":",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich verstehe nicht\" Bedeutung?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l91",
+      "title": "Wiederholung 51",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Wie heißt du?",
+          "name": "q"
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "Ich heiße Lara.",
+          "name": "a"
+        },
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        },
+        {
+          "glyph": "Ich möchte Wasser.",
+          "name": "want"
+        },
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich mag scharfes Essen nicht.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Wo wohnst du?",
+          "name": "q"
+        },
+        {
+          "glyph": "B: Hallo! Wie geht es dir?",
+          "name": ""
+        },
+        {
+          "glyph": "Vielen Dank!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Auf Wiedersehen!",
+          "name": "bye"
+        },
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich mag Äpfel.",
+          "name": "like"
+        },
+        {
+          "glyph": "A: Ich bin heute glücklich.",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer ist heute glücklich?",
+          "options": [
+            "A",
+            "B",
+            "Mama",
+            "Lehrer"
+          ],
+          "answer": "A"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich habe Hunger\" Bedeutung?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l92",
+      "title": "Wiederholung 52",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Wo wohnst du?",
+          "name": "q"
+        },
+        {
+          "glyph": "Kannst du es noch einmal sagen?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "Danke.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Auf Wiedersehen!",
+          "name": "bye"
+        },
+        {
+          "glyph": "Ich mag Äpfel.",
+          "name": "like"
+        },
+        {
+          "glyph": "Ich verstehe nicht.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Vielen Dank!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Ich bin müde.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Kann ich Brot haben?",
+          "name": "request"
+        },
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich verstehe nicht\" Bedeutung?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie geht es dir?\"",
+          "options": [
+            "Mir geht es gut",
+            "Hallo",
+            "Danke",
+            "Tschüss"
+          ],
+          "answer": "Mir geht es gut"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l93",
+      "title": "Wiederholung 53",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich bin sehr aufgeregt!",
+          "name": "feeling"
+        },
+        {
+          "glyph": "A: Ich bin heute glücklich.",
+          "name": ""
+        },
+        {
+          "glyph": "Vielen Dank!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "A: Hallo Freund!",
+          "name": ""
+        },
+        {
+          "glyph": "Ich heiße Lara.",
+          "name": "a"
+        },
+        {
+          "glyph": "Ich brauche Hilfe.",
+          "name": "need"
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "Ich mag scharfes Essen nicht.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "Wo wohnst du?",
+          "name": "q"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Bedeutung \"Ich möchte Wasser\":",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich habe Hunger\" Bedeutung?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie heißt du?\"",
+          "options": [
+            "Ich heiße Lara",
+            "Mir geht es gut",
+            "Danke",
+            "Hallo"
+          ],
+          "answer": "Ich heiße Lara"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l94",
+      "title": "Wiederholung 54",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich bin müde.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Bitte gib mir Wasser.",
+          "name": "request"
+        },
+        {
+          "glyph": "Ich möchte Wasser.",
+          "name": "want"
+        },
+        {
+          "glyph": "Ich mag Äpfel.",
+          "name": "like"
+        },
+        {
+          "glyph": "A: Ich bin heute glücklich.",
+          "name": ""
+        },
+        {
+          "glyph": "Ich möchte Wasser.",
+          "name": "want"
+        },
+        {
+          "glyph": "Ich heiße Lara.",
+          "name": "a"
+        },
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        },
+        {
+          "glyph": "Ich mag scharfes Essen nicht.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "Ich heiße Lara.",
+          "name": "a"
+        },
+        {
+          "glyph": "Wo wohnst du?",
+          "name": "q"
+        },
+        {
+          "glyph": "B: Hallo! Wie geht es dir?",
+          "name": ""
+        },
+        {
+          "glyph": "Kannst du es noch einmal sagen?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "Ich bin satt, danke.",
+          "name": "reply"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich verstehe nicht\" Bedeutung?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich habe Hunger\" Bedeutung?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie heißt du?\"",
+          "options": [
+            "Ich heiße Lara",
+            "Mir geht es gut",
+            "Danke",
+            "Hallo"
+          ],
+          "answer": "Ich heiße Lara"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l95",
+      "title": "Wiederholung 55",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Mir geht es gut.",
+          "name": "reply"
+        },
+        {
+          "glyph": "Entschuldigung, kannst du mir helfen?",
+          "name": "help"
+        },
+        {
+          "glyph": "Vielen Dank!",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Ich heiße Lara.",
+          "name": "a"
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "Kann ich Brot haben?",
+          "name": "request"
+        },
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Entschuldigung, kannst du mir helfen?",
+          "name": "help"
+        },
+        {
+          "glyph": "Ich verstehe nicht.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "Ich bin müde.",
+          "name": "feeling"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Bedeutung \"Ich möchte Wasser\":",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie heißt du?\"",
+          "options": [
+            "Ich heiße Lara",
+            "Mir geht es gut",
+            "Danke",
+            "Hallo"
+          ],
+          "answer": "Ich heiße Lara"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich habe Hunger\" Bedeutung?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l96",
+      "title": "Wiederholung 56",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A: Hallo Freund!",
+          "name": ""
+        },
+        {
+          "glyph": "Ich bin satt, danke.",
+          "name": "reply"
+        },
+        {
+          "glyph": "Ich brauche Hilfe.",
+          "name": "need"
+        },
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Das schmeckt sehr gut!",
+          "name": "compliment"
+        },
+        {
+          "glyph": "Darf ich aufstehen?",
+          "name": "polite"
+        },
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        },
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        },
+        {
+          "glyph": "Ich mag Äpfel.",
+          "name": "like"
+        },
+        {
+          "glyph": "Wie geht es dir?",
+          "name": "question"
+        },
+        {
+          "glyph": "Vielen Dank!",
+          "name": "thanks"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie geht es dir?\"",
+          "options": [
+            "Mir geht es gut",
+            "Hallo",
+            "Danke",
+            "Tschüss"
+          ],
+          "answer": "Mir geht es gut"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Bedeutung \"Ich möchte Wasser\":",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich bin satt\" Bedeutung?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l97",
+      "title": "Wiederholung 57",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Danke.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Kann ich Brot haben?",
+          "name": "request"
+        },
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Bitte gib mir Wasser.",
+          "name": "request"
+        },
+        {
+          "glyph": "Ich mag Äpfel.",
+          "name": "like"
+        },
+        {
+          "glyph": "Auf Wiedersehen!",
+          "name": "bye"
+        },
+        {
+          "glyph": "Ich bin müde.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Wo wohnst du?",
+          "name": "q"
+        },
+        {
+          "glyph": "Darf ich aufstehen?",
+          "name": "polite"
+        },
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "A: Ich bin heute glücklich.",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich verstehe nicht\" Bedeutung?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Bedeutung \"Ich möchte Wasser\":",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l98",
+      "title": "Wiederholung 58",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "Ich bin satt, danke.",
+          "name": "reply"
+        },
+        {
+          "glyph": "A: Hallo Freund!",
+          "name": ""
+        },
+        {
+          "glyph": "Wo wohnst du?",
+          "name": "q"
+        },
+        {
+          "glyph": "A: Ich bin heute glücklich.",
+          "name": ""
+        },
+        {
+          "glyph": "Ich wohne in Berlin.",
+          "name": "a"
+        },
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Darf ich aufstehen?",
+          "name": "polite"
+        },
+        {
+          "glyph": "Mir geht es gut.",
+          "name": "reply"
+        },
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich verstehe nicht.",
+          "name": "clarify"
+        },
+        {
+          "glyph": "Kannst du es noch einmal sagen?",
+          "name": "repeat"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich verstehe nicht\" Bedeutung?",
+          "options": [
+            "I don't understand",
+            "Help",
+            "Thanks",
+            "Bye"
+          ],
+          "answer": "I don't understand"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich bin satt\" Bedeutung?",
+          "options": [
+            "I am full",
+            "I am hungry",
+            "water",
+            "tasty"
+          ],
+          "answer": "I am full"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich habe Hunger\" Bedeutung?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l99",
+      "title": "Wiederholung 59",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich möchte Wasser.",
+          "name": "want"
+        },
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich brauche Hilfe.",
+          "name": "need"
+        },
+        {
+          "glyph": "Wie heißt du?",
+          "name": "q"
+        },
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich bin heute glücklich.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich bin satt, danke.",
+          "name": "reply"
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        },
+        {
+          "glyph": "Ich mag scharfes Essen nicht.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "Ich möchte Wasser.",
+          "name": "want"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie geht es dir?\"",
+          "options": [
+            "Mir geht es gut",
+            "Hallo",
+            "Danke",
+            "Tschüss"
+          ],
+          "answer": "Mir geht es gut"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie heißt du?\"",
+          "options": [
+            "Ich heiße Lara",
+            "Mir geht es gut",
+            "Danke",
+            "Hallo"
+          ],
+          "answer": "Ich heiße Lara"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l100",
+      "title": "Wiederholung 60",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich bin ein bisschen traurig.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Ich habe Hunger.",
+          "name": "feeling"
+        },
+        {
+          "glyph": "Mir geht es gut.",
+          "name": "reply"
+        },
+        {
+          "glyph": "Wo wohnst du?",
+          "name": "q"
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "Kannst du es noch einmal sagen?",
+          "name": "repeat"
+        },
+        {
+          "glyph": "A: Hallo Freund!",
+          "name": ""
+        },
+        {
+          "glyph": "Ich habe mich verlaufen.",
+          "name": "lost"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Bedeutung \"Ich möchte Wasser\":",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"Ich habe Hunger\" Bedeutung?",
+          "options": [
+            "wants food",
+            "feels sleepy",
+            "feels happy",
+            "feels angry"
+          ],
+          "answer": "wants food"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie geht es dir?\"",
+          "options": [
+            "Mir geht es gut",
+            "Hallo",
+            "Danke",
+            "Tschüss"
+          ],
+          "answer": "Mir geht es gut"
+        }
+      ]
     }
   ]
 }

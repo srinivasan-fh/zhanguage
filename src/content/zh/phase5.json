@@ -2023,6 +2023,4766 @@
           "answer": "什么"
         }
       ]
+    },
+    {
+      "id": "zh-p5-l41",
+      "title": "复习 1",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "谁",
+          "name": "who"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "什么",
+          "name": "what"
+        },
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "谁",
+          "name": "who"
+        },
+        {
+          "glyph": "什么",
+          "name": "what"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "他 → ___",
+          "options": [
+            "他们",
+            "他",
+            "她们",
+            "它们"
+          ],
+          "answer": "他们"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "你叫 ___ 名字?",
+          "options": [
+            "什么",
+            "哪里",
+            "为什么",
+            "谁"
+          ],
+          "answer": "什么"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l42",
+      "title": "复习 2",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "你叫 ___ 名字?",
+          "options": [
+            "什么",
+            "哪里",
+            "为什么",
+            "谁"
+          ],
+          "answer": "什么"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l43",
+      "title": "复习 3",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "谁",
+          "name": "who"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ 唱歌。",
+          "options": [
+            "她",
+            "他",
+            "我们",
+            "你"
+          ],
+          "answer": "她"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l44",
+      "title": "复习 4",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "你叫 ___ 名字?",
+          "options": [
+            "什么",
+            "哪里",
+            "为什么",
+            "谁"
+          ],
+          "answer": "什么"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "你叫 ___ 名字?",
+          "options": [
+            "什么",
+            "哪里",
+            "为什么",
+            "谁"
+          ],
+          "answer": "什么"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l45",
+      "title": "复习 5",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "什么",
+          "name": "what"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "谁",
+          "name": "who"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l46",
+      "title": "复习 6",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "他 → ___",
+          "options": [
+            "他们",
+            "他",
+            "她们",
+            "它们"
+          ],
+          "answer": "他们"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l47",
+      "title": "复习 7",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "谁",
+          "name": "who"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ 唱歌。",
+          "options": [
+            "她",
+            "他",
+            "我们",
+            "你"
+          ],
+          "answer": "她"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "他 → ___",
+          "options": [
+            "他们",
+            "他",
+            "她们",
+            "它们"
+          ],
+          "answer": "他们"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l48",
+      "title": "复习 8",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "什么",
+          "name": "what"
+        },
+        {
+          "glyph": "谁",
+          "name": "who"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l49",
+      "title": "复习 9",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "什么",
+          "name": "what"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "你叫 ___ 名字?",
+          "options": [
+            "什么",
+            "哪里",
+            "为什么",
+            "谁"
+          ],
+          "answer": "什么"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l50",
+      "title": "复习 10",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "你叫 ___ 名字?",
+          "options": [
+            "什么",
+            "哪里",
+            "为什么",
+            "谁"
+          ],
+          "answer": "什么"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "他 → ___",
+          "options": [
+            "他们",
+            "他",
+            "她们",
+            "它们"
+          ],
+          "answer": "他们"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ 唱歌。",
+          "options": [
+            "她",
+            "他",
+            "我们",
+            "你"
+          ],
+          "answer": "她"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l51",
+      "title": "复习 11",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "什么",
+          "name": "what"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "你叫 ___ 名字?",
+          "options": [
+            "什么",
+            "哪里",
+            "为什么",
+            "谁"
+          ],
+          "answer": "什么"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l52",
+      "title": "复习 12",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l53",
+      "title": "复习 13",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "什么",
+          "name": "what"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ 唱歌。",
+          "options": [
+            "她",
+            "他",
+            "我们",
+            "你"
+          ],
+          "answer": "她"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l54",
+      "title": "复习 14",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "什么",
+          "name": "what"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l55",
+      "title": "复习 15",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "谁",
+          "name": "who"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "你叫 ___ 名字?",
+          "options": [
+            "什么",
+            "哪里",
+            "为什么",
+            "谁"
+          ],
+          "answer": "什么"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l56",
+      "title": "复习 16",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "什么",
+          "name": "what"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "你叫 ___ 名字?",
+          "options": [
+            "什么",
+            "哪里",
+            "为什么",
+            "谁"
+          ],
+          "answer": "什么"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l57",
+      "title": "复习 17",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "你叫 ___ 名字?",
+          "options": [
+            "什么",
+            "哪里",
+            "为什么",
+            "谁"
+          ],
+          "answer": "什么"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "你叫 ___ 名字?",
+          "options": [
+            "什么",
+            "哪里",
+            "为什么",
+            "谁"
+          ],
+          "answer": "什么"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l58",
+      "title": "复习 18",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "他 → ___",
+          "options": [
+            "他们",
+            "他",
+            "她们",
+            "它们"
+          ],
+          "answer": "他们"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ 唱歌。",
+          "options": [
+            "她",
+            "他",
+            "我们",
+            "你"
+          ],
+          "answer": "她"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l59",
+      "title": "复习 19",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "谁",
+          "name": "who"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "什么",
+          "name": "what"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ 唱歌。",
+          "options": [
+            "她",
+            "他",
+            "我们",
+            "你"
+          ],
+          "answer": "她"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l60",
+      "title": "复习 20",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "什么",
+          "name": "what"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "他 → ___",
+          "options": [
+            "他们",
+            "他",
+            "她们",
+            "它们"
+          ],
+          "answer": "他们"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ 唱歌。",
+          "options": [
+            "她",
+            "他",
+            "我们",
+            "你"
+          ],
+          "answer": "她"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l61",
+      "title": "复习 21",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "什么",
+          "name": "what"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "谁",
+          "name": "who"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "什么",
+          "name": "what"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l62",
+      "title": "复习 22",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "谁",
+          "name": "who"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "谁",
+          "name": "who"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "他 → ___",
+          "options": [
+            "他们",
+            "他",
+            "她们",
+            "它们"
+          ],
+          "answer": "他们"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l63",
+      "title": "复习 23",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l64",
+      "title": "复习 24",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "谁",
+          "name": "who"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ 唱歌。",
+          "options": [
+            "她",
+            "他",
+            "我们",
+            "你"
+          ],
+          "answer": "她"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ 唱歌。",
+          "options": [
+            "她",
+            "他",
+            "我们",
+            "你"
+          ],
+          "answer": "她"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l65",
+      "title": "复习 25",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "什么",
+          "name": "what"
+        },
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l66",
+      "title": "复习 26",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "谁",
+          "name": "who"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l67",
+      "title": "复习 27",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "什么",
+          "name": "what"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "他 → ___",
+          "options": [
+            "他们",
+            "他",
+            "她们",
+            "它们"
+          ],
+          "answer": "他们"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "你叫 ___ 名字?",
+          "options": [
+            "什么",
+            "哪里",
+            "为什么",
+            "谁"
+          ],
+          "answer": "什么"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l68",
+      "title": "复习 28",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "谁",
+          "name": "who"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "谁",
+          "name": "who"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "他 → ___",
+          "options": [
+            "他们",
+            "他",
+            "她们",
+            "它们"
+          ],
+          "answer": "他们"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l69",
+      "title": "复习 29",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        },
+        {
+          "glyph": "谁",
+          "name": "who"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "什么",
+          "name": "what"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "谁",
+          "name": "who"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "什么",
+          "name": "what"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "你叫 ___ 名字?",
+          "options": [
+            "什么",
+            "哪里",
+            "为什么",
+            "谁"
+          ],
+          "answer": "什么"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "你叫 ___ 名字?",
+          "options": [
+            "什么",
+            "哪里",
+            "为什么",
+            "谁"
+          ],
+          "answer": "什么"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l70",
+      "title": "复习 30",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "他 → ___",
+          "options": [
+            "他们",
+            "他",
+            "她们",
+            "它们"
+          ],
+          "answer": "他们"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l71",
+      "title": "复习 31",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "你叫 ___ 名字?",
+          "options": [
+            "什么",
+            "哪里",
+            "为什么",
+            "谁"
+          ],
+          "answer": "什么"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "他 → ___",
+          "options": [
+            "他们",
+            "他",
+            "她们",
+            "它们"
+          ],
+          "answer": "他们"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l72",
+      "title": "复习 32",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "谁",
+          "name": "who"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "他 → ___",
+          "options": [
+            "他们",
+            "他",
+            "她们",
+            "它们"
+          ],
+          "answer": "他们"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "你叫 ___ 名字?",
+          "options": [
+            "什么",
+            "哪里",
+            "为什么",
+            "谁"
+          ],
+          "answer": "什么"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l73",
+      "title": "复习 33",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "谁",
+          "name": "who"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ 唱歌。",
+          "options": [
+            "她",
+            "他",
+            "我们",
+            "你"
+          ],
+          "answer": "她"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l74",
+      "title": "复习 34",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "什么",
+          "name": "what"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        },
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "谁",
+          "name": "who"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ 唱歌。",
+          "options": [
+            "她",
+            "他",
+            "我们",
+            "你"
+          ],
+          "answer": "她"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l75",
+      "title": "复习 35",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l76",
+      "title": "复习 36",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "什么",
+          "name": "what"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "谁",
+          "name": "who"
+        },
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "你叫 ___ 名字?",
+          "options": [
+            "什么",
+            "哪里",
+            "为什么",
+            "谁"
+          ],
+          "answer": "什么"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "你叫 ___ 名字?",
+          "options": [
+            "什么",
+            "哪里",
+            "为什么",
+            "谁"
+          ],
+          "answer": "什么"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l77",
+      "title": "复习 37",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "你叫 ___ 名字?",
+          "options": [
+            "什么",
+            "哪里",
+            "为什么",
+            "谁"
+          ],
+          "answer": "什么"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "他 → ___",
+          "options": [
+            "他们",
+            "他",
+            "她们",
+            "它们"
+          ],
+          "answer": "他们"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ 唱歌。",
+          "options": [
+            "她",
+            "他",
+            "我们",
+            "你"
+          ],
+          "answer": "她"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l78",
+      "title": "复习 38",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "什么",
+          "name": "what"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ 唱歌。",
+          "options": [
+            "她",
+            "他",
+            "我们",
+            "你"
+          ],
+          "answer": "她"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "他 → ___",
+          "options": [
+            "他们",
+            "他",
+            "她们",
+            "它们"
+          ],
+          "answer": "他们"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l79",
+      "title": "复习 39",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "什么",
+          "name": "what"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "谁",
+          "name": "who"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "你叫 ___ 名字?",
+          "options": [
+            "什么",
+            "哪里",
+            "为什么",
+            "谁"
+          ],
+          "answer": "什么"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l80",
+      "title": "复习 40",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "你叫 ___ 名字?",
+          "options": [
+            "什么",
+            "哪里",
+            "为什么",
+            "谁"
+          ],
+          "answer": "什么"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l81",
+      "title": "复习 41",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "什么",
+          "name": "what"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "谁",
+          "name": "who"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "你叫 ___ 名字?",
+          "options": [
+            "什么",
+            "哪里",
+            "为什么",
+            "谁"
+          ],
+          "answer": "什么"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l82",
+      "title": "复习 42",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "谁",
+          "name": "who"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "他 → ___",
+          "options": [
+            "他们",
+            "他",
+            "她们",
+            "它们"
+          ],
+          "answer": "他们"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l83",
+      "title": "复习 43",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l84",
+      "title": "复习 44",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "什么",
+          "name": "what"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "谁",
+          "name": "who"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "什么",
+          "name": "what"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "他 → ___",
+          "options": [
+            "他们",
+            "他",
+            "她们",
+            "它们"
+          ],
+          "answer": "他们"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l85",
+      "title": "复习 45",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "谁",
+          "name": "who"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "他 → ___",
+          "options": [
+            "他们",
+            "他",
+            "她们",
+            "它们"
+          ],
+          "answer": "他们"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l86",
+      "title": "复习 46",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "他 → ___",
+          "options": [
+            "他们",
+            "他",
+            "她们",
+            "它们"
+          ],
+          "answer": "他们"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l87",
+      "title": "复习 47",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l88",
+      "title": "复习 48",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "你叫 ___ 名字?",
+          "options": [
+            "什么",
+            "哪里",
+            "为什么",
+            "谁"
+          ],
+          "answer": "什么"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l89",
+      "title": "复习 49",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "什么",
+          "name": "what"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "你叫 ___ 名字?",
+          "options": [
+            "什么",
+            "哪里",
+            "为什么",
+            "谁"
+          ],
+          "answer": "什么"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "他 → ___",
+          "options": [
+            "他们",
+            "他",
+            "她们",
+            "它们"
+          ],
+          "answer": "他们"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l90",
+      "title": "复习 50",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "谁",
+          "name": "who"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ 唱歌。",
+          "options": [
+            "她",
+            "他",
+            "我们",
+            "你"
+          ],
+          "answer": "她"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l91",
+      "title": "复习 51",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "什么",
+          "name": "what"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "谁",
+          "name": "who"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ 唱歌。",
+          "options": [
+            "她",
+            "他",
+            "我们",
+            "你"
+          ],
+          "answer": "她"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l92",
+      "title": "复习 52",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "什么",
+          "name": "what"
+        },
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "谁",
+          "name": "who"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ 唱歌。",
+          "options": [
+            "她",
+            "他",
+            "我们",
+            "你"
+          ],
+          "answer": "她"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "他 → ___",
+          "options": [
+            "他们",
+            "他",
+            "她们",
+            "它们"
+          ],
+          "answer": "他们"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l93",
+      "title": "复习 53",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        },
+        {
+          "glyph": "什么",
+          "name": "what"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l94",
+      "title": "复习 54",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ 唱歌。",
+          "options": [
+            "她",
+            "他",
+            "我们",
+            "你"
+          ],
+          "answer": "她"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ 唱歌。",
+          "options": [
+            "她",
+            "他",
+            "我们",
+            "你"
+          ],
+          "answer": "她"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l95",
+      "title": "复习 55",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ 唱歌。",
+          "options": [
+            "她",
+            "他",
+            "我们",
+            "你"
+          ],
+          "answer": "她"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l96",
+      "title": "复习 56",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ 唱歌。",
+          "options": [
+            "她",
+            "他",
+            "我们",
+            "你"
+          ],
+          "answer": "她"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l97",
+      "title": "复习 57",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "谁",
+          "name": "who"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "他 → ___",
+          "options": [
+            "他们",
+            "他",
+            "她们",
+            "它们"
+          ],
+          "answer": "他们"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l98",
+      "title": "复习 58",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "你叫 ___ 名字?",
+          "options": [
+            "什么",
+            "哪里",
+            "为什么",
+            "谁"
+          ],
+          "answer": "什么"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l99",
+      "title": "复习 59",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "你叫 ___ 名字?",
+          "options": [
+            "什么",
+            "哪里",
+            "为什么",
+            "谁"
+          ],
+          "answer": "什么"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l100",
+      "title": "复习 60",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "你叫 ___ 名字?",
+          "options": [
+            "什么",
+            "哪里",
+            "为什么",
+            "谁"
+          ],
+          "answer": "什么"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "你叫 ___ 名字?",
+          "options": [
+            "什么",
+            "哪里",
+            "为什么",
+            "谁"
+          ],
+          "answer": "什么"
+        }
+      ]
     }
   ]
 }

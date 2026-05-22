@@ -1948,6 +1948,4866 @@
           "answer": "Trauben"
         }
       ]
+    },
+    {
+      "id": "de-p7-l41",
+      "title": "Wiederholung 1",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Anna: Schön, dich kennenzulernen!",
+          "name": "l3"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Auf dem Bauernhof sehen wir eine braune Kuh, einen schwarzen Hund und viele weiße Schafe.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Auf dem Bauernhof sehen wir eine braune Kuh, einen schwarzen Hund und viele weiße Schafe.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was haben sie gegessen?",
+          "options": [
+            "Eis",
+            "Pizza",
+            "Kuchen",
+            "Kekse"
+          ],
+          "answer": "Eis"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was sah der Fuchs?",
+          "options": [
+            "Trauben",
+            "Äpfel",
+            "Pflaumen",
+            "Honig"
+          ],
+          "answer": "Trauben"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie heißt der Hund?",
+          "options": [
+            "Bello",
+            "Rex",
+            "Max",
+            "Lucky"
+          ],
+          "answer": "Bello"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l42",
+      "title": "Wiederholung 2",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Anna: Hallo! Wie heißt du?",
+          "name": "l1"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Ben: Ich heiße Ben.",
+          "name": "l2"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie heißt der Junge?",
+          "options": [
+            "Ben",
+            "Sam",
+            "Tom",
+            "Max"
+          ],
+          "answer": "Ben"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie heißt der Hund?",
+          "options": [
+            "Bello",
+            "Rex",
+            "Max",
+            "Lucky"
+          ],
+          "answer": "Bello"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l43",
+      "title": "Wiederholung 3",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Mira geht jeden Morgen zur Schule. Sie liebt Mathematik am meisten.",
+          "name": "school"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Anna: Hallo! Wie heißt du?",
+          "name": "l1"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was mag Mira am meisten?",
+          "options": [
+            "Mathematik",
+            "Englisch",
+            "Musik",
+            "Malen"
+          ],
+          "answer": "Mathematik"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer sitzt auf der Matte?",
+          "options": [
+            "Die Katze",
+            "Der Hund",
+            "Der Vogel",
+            "Der Fisch"
+          ],
+          "answer": "Die Katze"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l44",
+      "title": "Wiederholung 4",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Der Hund passt auf die Schafe auf.",
+          "name": "dog"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Der Hund passt auf die Schafe auf.",
+          "name": "dog"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer sitzt auf der Matte?",
+          "options": [
+            "Die Katze",
+            "Der Hund",
+            "Der Vogel",
+            "Der Fisch"
+          ],
+          "answer": "Die Katze"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat der Ball?",
+          "options": [
+            "Rot",
+            "Blau",
+            "Gelb",
+            "Grün"
+          ],
+          "answer": "Rot"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l45",
+      "title": "Wiederholung 5",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Die Kuh gibt jeden Morgen Milch.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Auf dem Bauernhof sehen wir eine braune Kuh, einen schwarzen Hund und viele weiße Schafe.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Mira geht jeden Morgen zur Schule. Sie liebt Mathematik am meisten.",
+          "name": "school"
+        },
+        {
+          "glyph": "Mira geht jeden Morgen zur Schule. Sie liebt Mathematik am meisten.",
+          "name": "school"
+        },
+        {
+          "glyph": "Die Kuh gibt jeden Morgen Milch.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Auf dem Bauernhof sehen wir eine braune Kuh, einen schwarzen Hund und viele weiße Schafe.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Die Kuh gibt jeden Morgen Milch.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Anna: Hallo! Wie heißt du?",
+          "name": "l1"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer gibt Milch?",
+          "options": [
+            "Die Kuh",
+            "Der Hund",
+            "Das Schaf",
+            "Die Katze"
+          ],
+          "answer": "Die Kuh"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie heißt der Hund?",
+          "options": [
+            "Bello",
+            "Rex",
+            "Max",
+            "Lucky"
+          ],
+          "answer": "Bello"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was haben sie gegessen?",
+          "options": [
+            "Eis",
+            "Pizza",
+            "Kuchen",
+            "Kekse"
+          ],
+          "answer": "Eis"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l46",
+      "title": "Wiederholung 6",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Der Hund passt auf die Schafe auf.",
+          "name": "dog"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie heißt der Junge?",
+          "options": [
+            "Ben",
+            "Sam",
+            "Tom",
+            "Max"
+          ],
+          "answer": "Ben"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat Bello?",
+          "options": [
+            "Braun",
+            "Schwarz",
+            "Weiß",
+            "Grau"
+          ],
+          "answer": "Braun"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l47",
+      "title": "Wiederholung 7",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Anna: Hallo! Wie heißt du?",
+          "name": "l1"
+        },
+        {
+          "glyph": "Die Kuh gibt jeden Morgen Milch.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Die Kuh gibt jeden Morgen Milch.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat Bello?",
+          "options": [
+            "Braun",
+            "Schwarz",
+            "Weiß",
+            "Grau"
+          ],
+          "answer": "Braun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat Bello?",
+          "options": [
+            "Braun",
+            "Schwarz",
+            "Weiß",
+            "Grau"
+          ],
+          "answer": "Braun"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l48",
+      "title": "Wiederholung 8",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Auf dem Bauernhof sehen wir eine braune Kuh, einen schwarzen Hund und viele weiße Schafe.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was haben sie gegessen?",
+          "options": [
+            "Eis",
+            "Pizza",
+            "Kuchen",
+            "Kekse"
+          ],
+          "answer": "Eis"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer sitzt auf der Matte?",
+          "options": [
+            "Die Katze",
+            "Der Hund",
+            "Der Vogel",
+            "Der Fisch"
+          ],
+          "answer": "Die Katze"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l49",
+      "title": "Wiederholung 9",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Anna: Schön, dich kennenzulernen!",
+          "name": "l3"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Anna: Hallo! Wie heißt du?",
+          "name": "l1"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer sitzt auf der Matte?",
+          "options": [
+            "Die Katze",
+            "Der Hund",
+            "Der Vogel",
+            "Der Fisch"
+          ],
+          "answer": "Die Katze"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was mag Mira am meisten?",
+          "options": [
+            "Mathematik",
+            "Englisch",
+            "Musik",
+            "Malen"
+          ],
+          "answer": "Mathematik"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was haben sie gegessen?",
+          "options": [
+            "Eis",
+            "Pizza",
+            "Kuchen",
+            "Kekse"
+          ],
+          "answer": "Eis"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l50",
+      "title": "Wiederholung 10",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Anna: Hallo! Wie heißt du?",
+          "name": "l1"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Mira geht jeden Morgen zur Schule. Sie liebt Mathematik am meisten.",
+          "name": "school"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Anna: Schön, dich kennenzulernen!",
+          "name": "l3"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Auf dem Bauernhof sehen wir eine braune Kuh, einen schwarzen Hund und viele weiße Schafe.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Der Hund passt auf die Schafe auf.",
+          "name": "dog"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer sitzt auf der Matte?",
+          "options": [
+            "Die Katze",
+            "Der Hund",
+            "Der Vogel",
+            "Der Fisch"
+          ],
+          "answer": "Die Katze"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat der Ball?",
+          "options": [
+            "Rot",
+            "Blau",
+            "Gelb",
+            "Grün"
+          ],
+          "answer": "Rot"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l51",
+      "title": "Wiederholung 11",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Die Kuh gibt jeden Morgen Milch.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Anna: Schön, dich kennenzulernen!",
+          "name": "l3"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was sah der Fuchs?",
+          "options": [
+            "Trauben",
+            "Äpfel",
+            "Pflaumen",
+            "Honig"
+          ],
+          "answer": "Trauben"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat der Ball?",
+          "options": [
+            "Rot",
+            "Blau",
+            "Gelb",
+            "Grün"
+          ],
+          "answer": "Rot"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l52",
+      "title": "Wiederholung 12",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Auf dem Bauernhof sehen wir eine braune Kuh, einen schwarzen Hund und viele weiße Schafe.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Ben: Ich heiße Ben.",
+          "name": "l2"
+        },
+        {
+          "glyph": "Ben: Ich heiße Ben.",
+          "name": "l2"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Ben: Ich heiße Ben.",
+          "name": "l2"
+        },
+        {
+          "glyph": "Auf dem Bauernhof sehen wir eine braune Kuh, einen schwarzen Hund und viele weiße Schafe.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat Bello?",
+          "options": [
+            "Braun",
+            "Schwarz",
+            "Weiß",
+            "Grau"
+          ],
+          "answer": "Braun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was sah der Fuchs?",
+          "options": [
+            "Trauben",
+            "Äpfel",
+            "Pflaumen",
+            "Honig"
+          ],
+          "answer": "Trauben"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l53",
+      "title": "Wiederholung 13",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Anna: Hallo! Wie heißt du?",
+          "name": "l1"
+        },
+        {
+          "glyph": "Mira geht jeden Morgen zur Schule. Sie liebt Mathematik am meisten.",
+          "name": "school"
+        },
+        {
+          "glyph": "Auf dem Bauernhof sehen wir eine braune Kuh, einen schwarzen Hund und viele weiße Schafe.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Der Hund passt auf die Schafe auf.",
+          "name": "dog"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer gibt Milch?",
+          "options": [
+            "Die Kuh",
+            "Der Hund",
+            "Das Schaf",
+            "Die Katze"
+          ],
+          "answer": "Die Kuh"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was haben sie gegessen?",
+          "options": [
+            "Eis",
+            "Pizza",
+            "Kuchen",
+            "Kekse"
+          ],
+          "answer": "Eis"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l54",
+      "title": "Wiederholung 14",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Der Hund passt auf die Schafe auf.",
+          "name": "dog"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Anna: Hallo! Wie heißt du?",
+          "name": "l1"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Auf dem Bauernhof sehen wir eine braune Kuh, einen schwarzen Hund und viele weiße Schafe.",
+          "name": "setting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer gibt Milch?",
+          "options": [
+            "Die Kuh",
+            "Der Hund",
+            "Das Schaf",
+            "Die Katze"
+          ],
+          "answer": "Die Kuh"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer sitzt auf der Matte?",
+          "options": [
+            "Die Katze",
+            "Der Hund",
+            "Der Vogel",
+            "Der Fisch"
+          ],
+          "answer": "Die Katze"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l55",
+      "title": "Wiederholung 15",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Anna: Schön, dich kennenzulernen!",
+          "name": "l3"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Anna: Schön, dich kennenzulernen!",
+          "name": "l3"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Der Hund passt auf die Schafe auf.",
+          "name": "dog"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat der Ball?",
+          "options": [
+            "Rot",
+            "Blau",
+            "Gelb",
+            "Grün"
+          ],
+          "answer": "Rot"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat der Ball?",
+          "options": [
+            "Rot",
+            "Blau",
+            "Gelb",
+            "Grün"
+          ],
+          "answer": "Rot"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie heißt der Junge?",
+          "options": [
+            "Ben",
+            "Sam",
+            "Tom",
+            "Max"
+          ],
+          "answer": "Ben"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l56",
+      "title": "Wiederholung 16",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Die Kuh gibt jeden Morgen Milch.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Die Kuh gibt jeden Morgen Milch.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Mira geht jeden Morgen zur Schule. Sie liebt Mathematik am meisten.",
+          "name": "school"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Ben: Ich heiße Ben.",
+          "name": "l2"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Ben: Ich heiße Ben.",
+          "name": "l2"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie heißt der Hund?",
+          "options": [
+            "Bello",
+            "Rex",
+            "Max",
+            "Lucky"
+          ],
+          "answer": "Bello"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was mag Mira am meisten?",
+          "options": [
+            "Mathematik",
+            "Englisch",
+            "Musik",
+            "Malen"
+          ],
+          "answer": "Mathematik"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat der Ball?",
+          "options": [
+            "Rot",
+            "Blau",
+            "Gelb",
+            "Grün"
+          ],
+          "answer": "Rot"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l57",
+      "title": "Wiederholung 17",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Anna: Schön, dich kennenzulernen!",
+          "name": "l3"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Mira geht jeden Morgen zur Schule. Sie liebt Mathematik am meisten.",
+          "name": "school"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Anna: Hallo! Wie heißt du?",
+          "name": "l1"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Anna: Schön, dich kennenzulernen!",
+          "name": "l3"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat der Ball?",
+          "options": [
+            "Rot",
+            "Blau",
+            "Gelb",
+            "Grün"
+          ],
+          "answer": "Rot"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was mag Mira am meisten?",
+          "options": [
+            "Mathematik",
+            "Englisch",
+            "Musik",
+            "Malen"
+          ],
+          "answer": "Mathematik"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l58",
+      "title": "Wiederholung 18",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Die Kuh gibt jeden Morgen Milch.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Ben: Ich heiße Ben.",
+          "name": "l2"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Die Kuh gibt jeden Morgen Milch.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat der Ball?",
+          "options": [
+            "Rot",
+            "Blau",
+            "Gelb",
+            "Grün"
+          ],
+          "answer": "Rot"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer sitzt auf der Matte?",
+          "options": [
+            "Die Katze",
+            "Der Hund",
+            "Der Vogel",
+            "Der Fisch"
+          ],
+          "answer": "Die Katze"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l59",
+      "title": "Wiederholung 19",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Anna: Schön, dich kennenzulernen!",
+          "name": "l3"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Der Hund passt auf die Schafe auf.",
+          "name": "dog"
+        },
+        {
+          "glyph": "Anna: Hallo! Wie heißt du?",
+          "name": "l1"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Auf dem Bauernhof sehen wir eine braune Kuh, einen schwarzen Hund und viele weiße Schafe.",
+          "name": "setting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie heißt der Hund?",
+          "options": [
+            "Bello",
+            "Rex",
+            "Max",
+            "Lucky"
+          ],
+          "answer": "Bello"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer sitzt auf der Matte?",
+          "options": [
+            "Die Katze",
+            "Der Hund",
+            "Der Vogel",
+            "Der Fisch"
+          ],
+          "answer": "Die Katze"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l60",
+      "title": "Wiederholung 20",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ben: Ich heiße Ben.",
+          "name": "l2"
+        },
+        {
+          "glyph": "Auf dem Bauernhof sehen wir eine braune Kuh, einen schwarzen Hund und viele weiße Schafe.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Anna: Schön, dich kennenzulernen!",
+          "name": "l3"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was sah der Fuchs?",
+          "options": [
+            "Trauben",
+            "Äpfel",
+            "Pflaumen",
+            "Honig"
+          ],
+          "answer": "Trauben"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer sitzt auf der Matte?",
+          "options": [
+            "Die Katze",
+            "Der Hund",
+            "Der Vogel",
+            "Der Fisch"
+          ],
+          "answer": "Die Katze"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie heißt der Junge?",
+          "options": [
+            "Ben",
+            "Sam",
+            "Tom",
+            "Max"
+          ],
+          "answer": "Ben"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l61",
+      "title": "Wiederholung 21",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Der Hund passt auf die Schafe auf.",
+          "name": "dog"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer sitzt auf der Matte?",
+          "options": [
+            "Die Katze",
+            "Der Hund",
+            "Der Vogel",
+            "Der Fisch"
+          ],
+          "answer": "Die Katze"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat Bello?",
+          "options": [
+            "Braun",
+            "Schwarz",
+            "Weiß",
+            "Grau"
+          ],
+          "answer": "Braun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie heißt der Hund?",
+          "options": [
+            "Bello",
+            "Rex",
+            "Max",
+            "Lucky"
+          ],
+          "answer": "Bello"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l62",
+      "title": "Wiederholung 22",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Auf dem Bauernhof sehen wir eine braune Kuh, einen schwarzen Hund und viele weiße Schafe.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Anna: Schön, dich kennenzulernen!",
+          "name": "l3"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was haben sie gegessen?",
+          "options": [
+            "Eis",
+            "Pizza",
+            "Kuchen",
+            "Kekse"
+          ],
+          "answer": "Eis"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer gibt Milch?",
+          "options": [
+            "Die Kuh",
+            "Der Hund",
+            "Das Schaf",
+            "Die Katze"
+          ],
+          "answer": "Die Kuh"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie heißt der Hund?",
+          "options": [
+            "Bello",
+            "Rex",
+            "Max",
+            "Lucky"
+          ],
+          "answer": "Bello"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l63",
+      "title": "Wiederholung 23",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Auf dem Bauernhof sehen wir eine braune Kuh, einen schwarzen Hund und viele weiße Schafe.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Der Hund passt auf die Schafe auf.",
+          "name": "dog"
+        },
+        {
+          "glyph": "Ben: Ich heiße Ben.",
+          "name": "l2"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Der Hund passt auf die Schafe auf.",
+          "name": "dog"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat der Ball?",
+          "options": [
+            "Rot",
+            "Blau",
+            "Gelb",
+            "Grün"
+          ],
+          "answer": "Rot"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was sah der Fuchs?",
+          "options": [
+            "Trauben",
+            "Äpfel",
+            "Pflaumen",
+            "Honig"
+          ],
+          "answer": "Trauben"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l64",
+      "title": "Wiederholung 24",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Die Kuh gibt jeden Morgen Milch.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Die Kuh gibt jeden Morgen Milch.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie heißt der Hund?",
+          "options": [
+            "Bello",
+            "Rex",
+            "Max",
+            "Lucky"
+          ],
+          "answer": "Bello"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer sitzt auf der Matte?",
+          "options": [
+            "Die Katze",
+            "Der Hund",
+            "Der Vogel",
+            "Der Fisch"
+          ],
+          "answer": "Die Katze"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l65",
+      "title": "Wiederholung 25",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Mira geht jeden Morgen zur Schule. Sie liebt Mathematik am meisten.",
+          "name": "school"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Anna: Hallo! Wie heißt du?",
+          "name": "l1"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Mira geht jeden Morgen zur Schule. Sie liebt Mathematik am meisten.",
+          "name": "school"
+        },
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie heißt der Hund?",
+          "options": [
+            "Bello",
+            "Rex",
+            "Max",
+            "Lucky"
+          ],
+          "answer": "Bello"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer sitzt auf der Matte?",
+          "options": [
+            "Die Katze",
+            "Der Hund",
+            "Der Vogel",
+            "Der Fisch"
+          ],
+          "answer": "Die Katze"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l66",
+      "title": "Wiederholung 26",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Anna: Schön, dich kennenzulernen!",
+          "name": "l3"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Auf dem Bauernhof sehen wir eine braune Kuh, einen schwarzen Hund und viele weiße Schafe.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was mag Mira am meisten?",
+          "options": [
+            "Mathematik",
+            "Englisch",
+            "Musik",
+            "Malen"
+          ],
+          "answer": "Mathematik"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer gibt Milch?",
+          "options": [
+            "Die Kuh",
+            "Der Hund",
+            "Das Schaf",
+            "Die Katze"
+          ],
+          "answer": "Die Kuh"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l67",
+      "title": "Wiederholung 27",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ben: Ich heiße Ben.",
+          "name": "l2"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Ben: Ich heiße Ben.",
+          "name": "l2"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Die Kuh gibt jeden Morgen Milch.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie heißt der Hund?",
+          "options": [
+            "Bello",
+            "Rex",
+            "Max",
+            "Lucky"
+          ],
+          "answer": "Bello"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat Bello?",
+          "options": [
+            "Braun",
+            "Schwarz",
+            "Weiß",
+            "Grau"
+          ],
+          "answer": "Braun"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l68",
+      "title": "Wiederholung 28",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Der Hund passt auf die Schafe auf.",
+          "name": "dog"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Anna: Hallo! Wie heißt du?",
+          "name": "l1"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was sah der Fuchs?",
+          "options": [
+            "Trauben",
+            "Äpfel",
+            "Pflaumen",
+            "Honig"
+          ],
+          "answer": "Trauben"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat Bello?",
+          "options": [
+            "Braun",
+            "Schwarz",
+            "Weiß",
+            "Grau"
+          ],
+          "answer": "Braun"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l69",
+      "title": "Wiederholung 29",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Auf dem Bauernhof sehen wir eine braune Kuh, einen schwarzen Hund und viele weiße Schafe.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Die Kuh gibt jeden Morgen Milch.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Ben: Ich heiße Ben.",
+          "name": "l2"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was sah der Fuchs?",
+          "options": [
+            "Trauben",
+            "Äpfel",
+            "Pflaumen",
+            "Honig"
+          ],
+          "answer": "Trauben"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer sitzt auf der Matte?",
+          "options": [
+            "Die Katze",
+            "Der Hund",
+            "Der Vogel",
+            "Der Fisch"
+          ],
+          "answer": "Die Katze"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l70",
+      "title": "Wiederholung 30",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Anna: Hallo! Wie heißt du?",
+          "name": "l1"
+        },
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was haben sie gegessen?",
+          "options": [
+            "Eis",
+            "Pizza",
+            "Kuchen",
+            "Kekse"
+          ],
+          "answer": "Eis"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie heißt der Hund?",
+          "options": [
+            "Bello",
+            "Rex",
+            "Max",
+            "Lucky"
+          ],
+          "answer": "Bello"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer sitzt auf der Matte?",
+          "options": [
+            "Die Katze",
+            "Der Hund",
+            "Der Vogel",
+            "Der Fisch"
+          ],
+          "answer": "Die Katze"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l71",
+      "title": "Wiederholung 31",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Ben: Ich heiße Ben.",
+          "name": "l2"
+        },
+        {
+          "glyph": "Die Kuh gibt jeden Morgen Milch.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Anna: Schön, dich kennenzulernen!",
+          "name": "l3"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer gibt Milch?",
+          "options": [
+            "Die Kuh",
+            "Der Hund",
+            "Das Schaf",
+            "Die Katze"
+          ],
+          "answer": "Die Kuh"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat Bello?",
+          "options": [
+            "Braun",
+            "Schwarz",
+            "Weiß",
+            "Grau"
+          ],
+          "answer": "Braun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat Bello?",
+          "options": [
+            "Braun",
+            "Schwarz",
+            "Weiß",
+            "Grau"
+          ],
+          "answer": "Braun"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l72",
+      "title": "Wiederholung 32",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Mira geht jeden Morgen zur Schule. Sie liebt Mathematik am meisten.",
+          "name": "school"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was sah der Fuchs?",
+          "options": [
+            "Trauben",
+            "Äpfel",
+            "Pflaumen",
+            "Honig"
+          ],
+          "answer": "Trauben"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat Bello?",
+          "options": [
+            "Braun",
+            "Schwarz",
+            "Weiß",
+            "Grau"
+          ],
+          "answer": "Braun"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l73",
+      "title": "Wiederholung 33",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Auf dem Bauernhof sehen wir eine braune Kuh, einen schwarzen Hund und viele weiße Schafe.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Auf dem Bauernhof sehen wir eine braune Kuh, einen schwarzen Hund und viele weiße Schafe.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie heißt der Junge?",
+          "options": [
+            "Ben",
+            "Sam",
+            "Tom",
+            "Max"
+          ],
+          "answer": "Ben"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was mag Mira am meisten?",
+          "options": [
+            "Mathematik",
+            "Englisch",
+            "Musik",
+            "Malen"
+          ],
+          "answer": "Mathematik"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l74",
+      "title": "Wiederholung 34",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Anna: Hallo! Wie heißt du?",
+          "name": "l1"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Auf dem Bauernhof sehen wir eine braune Kuh, einen schwarzen Hund und viele weiße Schafe.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat Bello?",
+          "options": [
+            "Braun",
+            "Schwarz",
+            "Weiß",
+            "Grau"
+          ],
+          "answer": "Braun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie heißt der Hund?",
+          "options": [
+            "Bello",
+            "Rex",
+            "Max",
+            "Lucky"
+          ],
+          "answer": "Bello"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was sah der Fuchs?",
+          "options": [
+            "Trauben",
+            "Äpfel",
+            "Pflaumen",
+            "Honig"
+          ],
+          "answer": "Trauben"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l75",
+      "title": "Wiederholung 35",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Ben: Ich heiße Ben.",
+          "name": "l2"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Mira geht jeden Morgen zur Schule. Sie liebt Mathematik am meisten.",
+          "name": "school"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Anna: Schön, dich kennenzulernen!",
+          "name": "l3"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was mag Mira am meisten?",
+          "options": [
+            "Mathematik",
+            "Englisch",
+            "Musik",
+            "Malen"
+          ],
+          "answer": "Mathematik"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was mag Mira am meisten?",
+          "options": [
+            "Mathematik",
+            "Englisch",
+            "Musik",
+            "Malen"
+          ],
+          "answer": "Mathematik"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l76",
+      "title": "Wiederholung 36",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Anna: Hallo! Wie heißt du?",
+          "name": "l1"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer sitzt auf der Matte?",
+          "options": [
+            "Die Katze",
+            "Der Hund",
+            "Der Vogel",
+            "Der Fisch"
+          ],
+          "answer": "Die Katze"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was haben sie gegessen?",
+          "options": [
+            "Eis",
+            "Pizza",
+            "Kuchen",
+            "Kekse"
+          ],
+          "answer": "Eis"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat Bello?",
+          "options": [
+            "Braun",
+            "Schwarz",
+            "Weiß",
+            "Grau"
+          ],
+          "answer": "Braun"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l77",
+      "title": "Wiederholung 37",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Anna: Hallo! Wie heißt du?",
+          "name": "l1"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie heißt der Hund?",
+          "options": [
+            "Bello",
+            "Rex",
+            "Max",
+            "Lucky"
+          ],
+          "answer": "Bello"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer sitzt auf der Matte?",
+          "options": [
+            "Die Katze",
+            "Der Hund",
+            "Der Vogel",
+            "Der Fisch"
+          ],
+          "answer": "Die Katze"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was haben sie gegessen?",
+          "options": [
+            "Eis",
+            "Pizza",
+            "Kuchen",
+            "Kekse"
+          ],
+          "answer": "Eis"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l78",
+      "title": "Wiederholung 38",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Die Kuh gibt jeden Morgen Milch.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Die Kuh gibt jeden Morgen Milch.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Die Kuh gibt jeden Morgen Milch.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was haben sie gegessen?",
+          "options": [
+            "Eis",
+            "Pizza",
+            "Kuchen",
+            "Kekse"
+          ],
+          "answer": "Eis"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer gibt Milch?",
+          "options": [
+            "Die Kuh",
+            "Der Hund",
+            "Das Schaf",
+            "Die Katze"
+          ],
+          "answer": "Die Kuh"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l79",
+      "title": "Wiederholung 39",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Auf dem Bauernhof sehen wir eine braune Kuh, einen schwarzen Hund und viele weiße Schafe.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Auf dem Bauernhof sehen wir eine braune Kuh, einen schwarzen Hund und viele weiße Schafe.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Die Kuh gibt jeden Morgen Milch.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Auf dem Bauernhof sehen wir eine braune Kuh, einen schwarzen Hund und viele weiße Schafe.",
+          "name": "setting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was mag Mira am meisten?",
+          "options": [
+            "Mathematik",
+            "Englisch",
+            "Musik",
+            "Malen"
+          ],
+          "answer": "Mathematik"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie heißt der Hund?",
+          "options": [
+            "Bello",
+            "Rex",
+            "Max",
+            "Lucky"
+          ],
+          "answer": "Bello"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat der Ball?",
+          "options": [
+            "Rot",
+            "Blau",
+            "Gelb",
+            "Grün"
+          ],
+          "answer": "Rot"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l80",
+      "title": "Wiederholung 40",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Die Kuh gibt jeden Morgen Milch.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Die Kuh gibt jeden Morgen Milch.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Die Kuh gibt jeden Morgen Milch.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was mag Mira am meisten?",
+          "options": [
+            "Mathematik",
+            "Englisch",
+            "Musik",
+            "Malen"
+          ],
+          "answer": "Mathematik"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie heißt der Junge?",
+          "options": [
+            "Ben",
+            "Sam",
+            "Tom",
+            "Max"
+          ],
+          "answer": "Ben"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat Bello?",
+          "options": [
+            "Braun",
+            "Schwarz",
+            "Weiß",
+            "Grau"
+          ],
+          "answer": "Braun"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l81",
+      "title": "Wiederholung 41",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was sah der Fuchs?",
+          "options": [
+            "Trauben",
+            "Äpfel",
+            "Pflaumen",
+            "Honig"
+          ],
+          "answer": "Trauben"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer gibt Milch?",
+          "options": [
+            "Die Kuh",
+            "Der Hund",
+            "Das Schaf",
+            "Die Katze"
+          ],
+          "answer": "Die Kuh"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie heißt der Hund?",
+          "options": [
+            "Bello",
+            "Rex",
+            "Max",
+            "Lucky"
+          ],
+          "answer": "Bello"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l82",
+      "title": "Wiederholung 42",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Der Hund passt auf die Schafe auf.",
+          "name": "dog"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Ben: Ich heiße Ben.",
+          "name": "l2"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Der Hund passt auf die Schafe auf.",
+          "name": "dog"
+        },
+        {
+          "glyph": "Anna: Hallo! Wie heißt du?",
+          "name": "l1"
+        },
+        {
+          "glyph": "Auf dem Bauernhof sehen wir eine braune Kuh, einen schwarzen Hund und viele weiße Schafe.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was mag Mira am meisten?",
+          "options": [
+            "Mathematik",
+            "Englisch",
+            "Musik",
+            "Malen"
+          ],
+          "answer": "Mathematik"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was sah der Fuchs?",
+          "options": [
+            "Trauben",
+            "Äpfel",
+            "Pflaumen",
+            "Honig"
+          ],
+          "answer": "Trauben"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat der Ball?",
+          "options": [
+            "Rot",
+            "Blau",
+            "Gelb",
+            "Grün"
+          ],
+          "answer": "Rot"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l83",
+      "title": "Wiederholung 43",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Anna: Schön, dich kennenzulernen!",
+          "name": "l3"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Anna: Schön, dich kennenzulernen!",
+          "name": "l3"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Auf dem Bauernhof sehen wir eine braune Kuh, einen schwarzen Hund und viele weiße Schafe.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer sitzt auf der Matte?",
+          "options": [
+            "Die Katze",
+            "Der Hund",
+            "Der Vogel",
+            "Der Fisch"
+          ],
+          "answer": "Die Katze"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat Bello?",
+          "options": [
+            "Braun",
+            "Schwarz",
+            "Weiß",
+            "Grau"
+          ],
+          "answer": "Braun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer sitzt auf der Matte?",
+          "options": [
+            "Die Katze",
+            "Der Hund",
+            "Der Vogel",
+            "Der Fisch"
+          ],
+          "answer": "Die Katze"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l84",
+      "title": "Wiederholung 44",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Anna: Schön, dich kennenzulernen!",
+          "name": "l3"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Anna: Hallo! Wie heißt du?",
+          "name": "l1"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Die Kuh gibt jeden Morgen Milch.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Ben: Ich heiße Ben.",
+          "name": "l2"
+        },
+        {
+          "glyph": "Mira geht jeden Morgen zur Schule. Sie liebt Mathematik am meisten.",
+          "name": "school"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie heißt der Junge?",
+          "options": [
+            "Ben",
+            "Sam",
+            "Tom",
+            "Max"
+          ],
+          "answer": "Ben"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer gibt Milch?",
+          "options": [
+            "Die Kuh",
+            "Der Hund",
+            "Das Schaf",
+            "Die Katze"
+          ],
+          "answer": "Die Kuh"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was sah der Fuchs?",
+          "options": [
+            "Trauben",
+            "Äpfel",
+            "Pflaumen",
+            "Honig"
+          ],
+          "answer": "Trauben"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l85",
+      "title": "Wiederholung 45",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Mira geht jeden Morgen zur Schule. Sie liebt Mathematik am meisten.",
+          "name": "school"
+        },
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Anna: Hallo! Wie heißt du?",
+          "name": "l1"
+        },
+        {
+          "glyph": "Mira geht jeden Morgen zur Schule. Sie liebt Mathematik am meisten.",
+          "name": "school"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was haben sie gegessen?",
+          "options": [
+            "Eis",
+            "Pizza",
+            "Kuchen",
+            "Kekse"
+          ],
+          "answer": "Eis"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was mag Mira am meisten?",
+          "options": [
+            "Mathematik",
+            "Englisch",
+            "Musik",
+            "Malen"
+          ],
+          "answer": "Mathematik"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l86",
+      "title": "Wiederholung 46",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Die Kuh gibt jeden Morgen Milch.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Anna: Schön, dich kennenzulernen!",
+          "name": "l3"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat der Ball?",
+          "options": [
+            "Rot",
+            "Blau",
+            "Gelb",
+            "Grün"
+          ],
+          "answer": "Rot"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was mag Mira am meisten?",
+          "options": [
+            "Mathematik",
+            "Englisch",
+            "Musik",
+            "Malen"
+          ],
+          "answer": "Mathematik"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat Bello?",
+          "options": [
+            "Braun",
+            "Schwarz",
+            "Weiß",
+            "Grau"
+          ],
+          "answer": "Braun"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l87",
+      "title": "Wiederholung 47",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie heißt der Hund?",
+          "options": [
+            "Bello",
+            "Rex",
+            "Max",
+            "Lucky"
+          ],
+          "answer": "Bello"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie heißt der Junge?",
+          "options": [
+            "Ben",
+            "Sam",
+            "Tom",
+            "Max"
+          ],
+          "answer": "Ben"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was mag Mira am meisten?",
+          "options": [
+            "Mathematik",
+            "Englisch",
+            "Musik",
+            "Malen"
+          ],
+          "answer": "Mathematik"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l88",
+      "title": "Wiederholung 48",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Anna: Schön, dich kennenzulernen!",
+          "name": "l3"
+        },
+        {
+          "glyph": "Ben: Ich heiße Ben.",
+          "name": "l2"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Mira geht jeden Morgen zur Schule. Sie liebt Mathematik am meisten.",
+          "name": "school"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Mira geht jeden Morgen zur Schule. Sie liebt Mathematik am meisten.",
+          "name": "school"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Die Kuh gibt jeden Morgen Milch.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Anna: Hallo! Wie heißt du?",
+          "name": "l1"
+        },
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Auf dem Bauernhof sehen wir eine braune Kuh, einen schwarzen Hund und viele weiße Schafe.",
+          "name": "setting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat Bello?",
+          "options": [
+            "Braun",
+            "Schwarz",
+            "Weiß",
+            "Grau"
+          ],
+          "answer": "Braun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat der Ball?",
+          "options": [
+            "Rot",
+            "Blau",
+            "Gelb",
+            "Grün"
+          ],
+          "answer": "Rot"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l89",
+      "title": "Wiederholung 49",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Der Hund passt auf die Schafe auf.",
+          "name": "dog"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer sitzt auf der Matte?",
+          "options": [
+            "Die Katze",
+            "Der Hund",
+            "Der Vogel",
+            "Der Fisch"
+          ],
+          "answer": "Die Katze"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was haben sie gegessen?",
+          "options": [
+            "Eis",
+            "Pizza",
+            "Kuchen",
+            "Kekse"
+          ],
+          "answer": "Eis"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l90",
+      "title": "Wiederholung 50",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Anna: Schön, dich kennenzulernen!",
+          "name": "l3"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer gibt Milch?",
+          "options": [
+            "Die Kuh",
+            "Der Hund",
+            "Das Schaf",
+            "Die Katze"
+          ],
+          "answer": "Die Kuh"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer sitzt auf der Matte?",
+          "options": [
+            "Die Katze",
+            "Der Hund",
+            "Der Vogel",
+            "Der Fisch"
+          ],
+          "answer": "Die Katze"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l91",
+      "title": "Wiederholung 51",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ben: Ich heiße Ben.",
+          "name": "l2"
+        },
+        {
+          "glyph": "Mira geht jeden Morgen zur Schule. Sie liebt Mathematik am meisten.",
+          "name": "school"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was mag Mira am meisten?",
+          "options": [
+            "Mathematik",
+            "Englisch",
+            "Musik",
+            "Malen"
+          ],
+          "answer": "Mathematik"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie heißt der Hund?",
+          "options": [
+            "Bello",
+            "Rex",
+            "Max",
+            "Lucky"
+          ],
+          "answer": "Bello"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l92",
+      "title": "Wiederholung 52",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Die Kuh gibt jeden Morgen Milch.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Anna: Hallo! Wie heißt du?",
+          "name": "l1"
+        },
+        {
+          "glyph": "Mira geht jeden Morgen zur Schule. Sie liebt Mathematik am meisten.",
+          "name": "school"
+        },
+        {
+          "glyph": "Anna: Hallo! Wie heißt du?",
+          "name": "l1"
+        },
+        {
+          "glyph": "Auf dem Bauernhof sehen wir eine braune Kuh, einen schwarzen Hund und viele weiße Schafe.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Mira geht jeden Morgen zur Schule. Sie liebt Mathematik am meisten.",
+          "name": "school"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Der Hund passt auf die Schafe auf.",
+          "name": "dog"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Anna: Schön, dich kennenzulernen!",
+          "name": "l3"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was mag Mira am meisten?",
+          "options": [
+            "Mathematik",
+            "Englisch",
+            "Musik",
+            "Malen"
+          ],
+          "answer": "Mathematik"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat der Ball?",
+          "options": [
+            "Rot",
+            "Blau",
+            "Gelb",
+            "Grün"
+          ],
+          "answer": "Rot"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer sitzt auf der Matte?",
+          "options": [
+            "Die Katze",
+            "Der Hund",
+            "Der Vogel",
+            "Der Fisch"
+          ],
+          "answer": "Die Katze"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l93",
+      "title": "Wiederholung 53",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Die Kuh gibt jeden Morgen Milch.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Anna: Hallo! Wie heißt du?",
+          "name": "l1"
+        },
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer gibt Milch?",
+          "options": [
+            "Die Kuh",
+            "Der Hund",
+            "Das Schaf",
+            "Die Katze"
+          ],
+          "answer": "Die Kuh"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was haben sie gegessen?",
+          "options": [
+            "Eis",
+            "Pizza",
+            "Kuchen",
+            "Kekse"
+          ],
+          "answer": "Eis"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was haben sie gegessen?",
+          "options": [
+            "Eis",
+            "Pizza",
+            "Kuchen",
+            "Kekse"
+          ],
+          "answer": "Eis"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l94",
+      "title": "Wiederholung 54",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Anna: Hallo! Wie heißt du?",
+          "name": "l1"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Der Hund passt auf die Schafe auf.",
+          "name": "dog"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat der Ball?",
+          "options": [
+            "Rot",
+            "Blau",
+            "Gelb",
+            "Grün"
+          ],
+          "answer": "Rot"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat der Ball?",
+          "options": [
+            "Rot",
+            "Blau",
+            "Gelb",
+            "Grün"
+          ],
+          "answer": "Rot"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was haben sie gegessen?",
+          "options": [
+            "Eis",
+            "Pizza",
+            "Kuchen",
+            "Kekse"
+          ],
+          "answer": "Eis"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l95",
+      "title": "Wiederholung 55",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Der Hund passt auf die Schafe auf.",
+          "name": "dog"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Mira geht jeden Morgen zur Schule. Sie liebt Mathematik am meisten.",
+          "name": "school"
+        },
+        {
+          "glyph": "Auf dem Bauernhof sehen wir eine braune Kuh, einen schwarzen Hund und viele weiße Schafe.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Mira geht jeden Morgen zur Schule. Sie liebt Mathematik am meisten.",
+          "name": "school"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Mira geht jeden Morgen zur Schule. Sie liebt Mathematik am meisten.",
+          "name": "school"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Mira geht jeden Morgen zur Schule. Sie liebt Mathematik am meisten.",
+          "name": "school"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was sah der Fuchs?",
+          "options": [
+            "Trauben",
+            "Äpfel",
+            "Pflaumen",
+            "Honig"
+          ],
+          "answer": "Trauben"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was haben sie gegessen?",
+          "options": [
+            "Eis",
+            "Pizza",
+            "Kuchen",
+            "Kekse"
+          ],
+          "answer": "Eis"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie heißt der Junge?",
+          "options": [
+            "Ben",
+            "Sam",
+            "Tom",
+            "Max"
+          ],
+          "answer": "Ben"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l96",
+      "title": "Wiederholung 56",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Anna: Hallo! Wie heißt du?",
+          "name": "l1"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Die Kuh gibt jeden Morgen Milch.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Mira geht jeden Morgen zur Schule. Sie liebt Mathematik am meisten.",
+          "name": "school"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Anna: Schön, dich kennenzulernen!",
+          "name": "l3"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat Bello?",
+          "options": [
+            "Braun",
+            "Schwarz",
+            "Weiß",
+            "Grau"
+          ],
+          "answer": "Braun"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was haben sie gegessen?",
+          "options": [
+            "Eis",
+            "Pizza",
+            "Kuchen",
+            "Kekse"
+          ],
+          "answer": "Eis"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer sitzt auf der Matte?",
+          "options": [
+            "Die Katze",
+            "Der Hund",
+            "Der Vogel",
+            "Der Fisch"
+          ],
+          "answer": "Die Katze"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l97",
+      "title": "Wiederholung 57",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        },
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Der Hund passt auf die Schafe auf.",
+          "name": "dog"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Anna: Hallo! Wie heißt du?",
+          "name": "l1"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer sitzt auf der Matte?",
+          "options": [
+            "Die Katze",
+            "Der Hund",
+            "Der Vogel",
+            "Der Fisch"
+          ],
+          "answer": "Die Katze"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie heißt der Hund?",
+          "options": [
+            "Bello",
+            "Rex",
+            "Max",
+            "Lucky"
+          ],
+          "answer": "Bello"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat der Ball?",
+          "options": [
+            "Rot",
+            "Blau",
+            "Gelb",
+            "Grün"
+          ],
+          "answer": "Rot"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l98",
+      "title": "Wiederholung 58",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ben: Ich heiße Ben.",
+          "name": "l2"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Am Sonntag gingen wir in den Park. Es gab hohe Bäume und bunte Blumen.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Wir spielten Fußball und aßen Eis.",
+          "name": "play"
+        },
+        {
+          "glyph": "Mira geht jeden Morgen zur Schule. Sie liebt Mathematik am meisten.",
+          "name": "school"
+        },
+        {
+          "glyph": "Anna: Hallo! Wie heißt du?",
+          "name": "l1"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was mag Mira am meisten?",
+          "options": [
+            "Mathematik",
+            "Englisch",
+            "Musik",
+            "Malen"
+          ],
+          "answer": "Mathematik"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer sitzt auf der Matte?",
+          "options": [
+            "Die Katze",
+            "Der Hund",
+            "Der Vogel",
+            "Der Fisch"
+          ],
+          "answer": "Die Katze"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l99",
+      "title": "Wiederholung 59",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Anna: Schön, dich kennenzulernen!",
+          "name": "l3"
+        },
+        {
+          "glyph": "Anna: Schön, dich kennenzulernen!",
+          "name": "l3"
+        },
+        {
+          "glyph": "Anna: Hallo! Wie heißt du?",
+          "name": "l1"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Auf dem Bauernhof sehen wir eine braune Kuh, einen schwarzen Hund und viele weiße Schafe.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Anna: Schön, dich kennenzulernen!",
+          "name": "l3"
+        },
+        {
+          "glyph": "Ben: Ich heiße Ben.",
+          "name": "l2"
+        },
+        {
+          "glyph": "Auf dem Bauernhof sehen wir eine braune Kuh, einen schwarzen Hund und viele weiße Schafe.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Anna: Hallo! Wie heißt du?",
+          "name": "l1"
+        },
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Die Kuh gibt jeden Morgen Milch.",
+          "name": "milk"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was sah der Fuchs?",
+          "options": [
+            "Trauben",
+            "Äpfel",
+            "Pflaumen",
+            "Honig"
+          ],
+          "answer": "Trauben"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer sitzt auf der Matte?",
+          "options": [
+            "Die Katze",
+            "Der Hund",
+            "Der Vogel",
+            "Der Fisch"
+          ],
+          "answer": "Die Katze"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat Bello?",
+          "options": [
+            "Braun",
+            "Schwarz",
+            "Weiß",
+            "Grau"
+          ],
+          "answer": "Braun"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l100",
+      "title": "Wiederholung 60",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Auf dem Bauernhof sehen wir eine braune Kuh, einen schwarzen Hund und viele weiße Schafe.",
+          "name": "setting"
+        },
+        {
+          "glyph": "Am Abend macht sie Hausaufgaben.",
+          "name": "evening"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        },
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        },
+        {
+          "glyph": "Mittags isst sie mit Freunden.",
+          "name": "lunch"
+        },
+        {
+          "glyph": "Der Hund passt auf die Schafe auf.",
+          "name": "dog"
+        },
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Die Kuh gibt jeden Morgen Milch.",
+          "name": "milk"
+        },
+        {
+          "glyph": "Vögel sangen am Himmel.",
+          "name": "birds"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer gibt Milch?",
+          "options": [
+            "Die Kuh",
+            "Der Hund",
+            "Das Schaf",
+            "Die Katze"
+          ],
+          "answer": "Die Kuh"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was sah der Fuchs?",
+          "options": [
+            "Trauben",
+            "Äpfel",
+            "Pflaumen",
+            "Honig"
+          ],
+          "answer": "Trauben"
+        }
+      ]
     }
   ]
 }

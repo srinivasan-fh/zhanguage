@@ -2026,6 +2026,4857 @@
           "answer": "Ich esse Reis."
         }
       ]
+    },
+    {
+      "id": "de-p5-l41",
+      "title": "Wiederholung 1",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Ordne die Wörter:",
+          "options": [
+            "Reis.",
+            "esse",
+            "Ich"
+          ],
+          "answer": "Ich esse Reis."
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l42",
+      "title": "Wiederholung 2",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ singt schön.",
+          "options": [
+            "Sie",
+            "Wir",
+            "Du",
+            "Es"
+          ],
+          "answer": "Sie"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Ordne die Wörter:",
+          "options": [
+            "Reis.",
+            "esse",
+            "Ich"
+          ],
+          "answer": "Ich esse Reis."
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l43",
+      "title": "Wiederholung 3",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "Gestern ___ ich.",
+          "options": [
+            "ging",
+            "gehe",
+            "gehen",
+            "werde gehen"
+          ],
+          "answer": "ging"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l44",
+      "title": "Wiederholung 4",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ singt schön.",
+          "options": [
+            "Sie",
+            "Wir",
+            "Du",
+            "Es"
+          ],
+          "answer": "Sie"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "Gestern ___ ich.",
+          "options": [
+            "ging",
+            "gehe",
+            "gehen",
+            "werde gehen"
+          ],
+          "answer": "ging"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l45",
+      "title": "Wiederholung 5",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ singt schön.",
+          "options": [
+            "Sie",
+            "Wir",
+            "Du",
+            "Es"
+          ],
+          "answer": "Sie"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Ordne die Wörter:",
+          "options": [
+            "Reis.",
+            "esse",
+            "Ich"
+          ],
+          "answer": "Ich esse Reis."
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l46",
+      "title": "Wiederholung 6",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Ordne die Wörter:",
+          "options": [
+            "Reis.",
+            "esse",
+            "Ich"
+          ],
+          "answer": "Ich esse Reis."
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l47",
+      "title": "Wiederholung 7",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l48",
+      "title": "Wiederholung 8",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "Gestern ___ ich.",
+          "options": [
+            "ging",
+            "gehe",
+            "gehen",
+            "werde gehen"
+          ],
+          "answer": "ging"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l49",
+      "title": "Wiederholung 9",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Ordne die Wörter:",
+          "options": [
+            "Reis.",
+            "esse",
+            "Ich"
+          ],
+          "answer": "Ich esse Reis."
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "Gestern ___ ich.",
+          "options": [
+            "ging",
+            "gehe",
+            "gehen",
+            "werde gehen"
+          ],
+          "answer": "ging"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "Gestern ___ ich.",
+          "options": [
+            "ging",
+            "gehe",
+            "gehen",
+            "werde gehen"
+          ],
+          "answer": "ging"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l50",
+      "title": "Wiederholung 10",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "Gestern ___ ich.",
+          "options": [
+            "ging",
+            "gehe",
+            "gehen",
+            "werde gehen"
+          ],
+          "answer": "ging"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ singt schön.",
+          "options": [
+            "Sie",
+            "Wir",
+            "Du",
+            "Es"
+          ],
+          "answer": "Sie"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l51",
+      "title": "Wiederholung 11",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "Gestern ___ ich.",
+          "options": [
+            "ging",
+            "gehe",
+            "gehen",
+            "werde gehen"
+          ],
+          "answer": "ging"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l52",
+      "title": "Wiederholung 12",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l53",
+      "title": "Wiederholung 13",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Ordne die Wörter:",
+          "options": [
+            "Reis.",
+            "esse",
+            "Ich"
+          ],
+          "answer": "Ich esse Reis."
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "Gestern ___ ich.",
+          "options": [
+            "ging",
+            "gehe",
+            "gehen",
+            "werde gehen"
+          ],
+          "answer": "ging"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l54",
+      "title": "Wiederholung 14",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l55",
+      "title": "Wiederholung 15",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "Gestern ___ ich.",
+          "options": [
+            "ging",
+            "gehe",
+            "gehen",
+            "werde gehen"
+          ],
+          "answer": "ging"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l56",
+      "title": "Wiederholung 16",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ singt schön.",
+          "options": [
+            "Sie",
+            "Wir",
+            "Du",
+            "Es"
+          ],
+          "answer": "Sie"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ singt schön.",
+          "options": [
+            "Sie",
+            "Wir",
+            "Du",
+            "Es"
+          ],
+          "answer": "Sie"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l57",
+      "title": "Wiederholung 17",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Ordne die Wörter:",
+          "options": [
+            "Reis.",
+            "esse",
+            "Ich"
+          ],
+          "answer": "Ich esse Reis."
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l58",
+      "title": "Wiederholung 18",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Ordne die Wörter:",
+          "options": [
+            "Reis.",
+            "esse",
+            "Ich"
+          ],
+          "answer": "Ich esse Reis."
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l59",
+      "title": "Wiederholung 19",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l60",
+      "title": "Wiederholung 20",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ singt schön.",
+          "options": [
+            "Sie",
+            "Wir",
+            "Du",
+            "Es"
+          ],
+          "answer": "Sie"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Ordne die Wörter:",
+          "options": [
+            "Reis.",
+            "esse",
+            "Ich"
+          ],
+          "answer": "Ich esse Reis."
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l61",
+      "title": "Wiederholung 21",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Ordne die Wörter:",
+          "options": [
+            "Reis.",
+            "esse",
+            "Ich"
+          ],
+          "answer": "Ich esse Reis."
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l62",
+      "title": "Wiederholung 22",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Ordne die Wörter:",
+          "options": [
+            "Reis.",
+            "esse",
+            "Ich"
+          ],
+          "answer": "Ich esse Reis."
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l63",
+      "title": "Wiederholung 23",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Ordne die Wörter:",
+          "options": [
+            "Reis.",
+            "esse",
+            "Ich"
+          ],
+          "answer": "Ich esse Reis."
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l64",
+      "title": "Wiederholung 24",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Ordne die Wörter:",
+          "options": [
+            "Reis.",
+            "esse",
+            "Ich"
+          ],
+          "answer": "Ich esse Reis."
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l65",
+      "title": "Wiederholung 25",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l66",
+      "title": "Wiederholung 26",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ singt schön.",
+          "options": [
+            "Sie",
+            "Wir",
+            "Du",
+            "Es"
+          ],
+          "answer": "Sie"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l67",
+      "title": "Wiederholung 27",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ singt schön.",
+          "options": [
+            "Sie",
+            "Wir",
+            "Du",
+            "Es"
+          ],
+          "answer": "Sie"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l68",
+      "title": "Wiederholung 28",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "Gestern ___ ich.",
+          "options": [
+            "ging",
+            "gehe",
+            "gehen",
+            "werde gehen"
+          ],
+          "answer": "ging"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l69",
+      "title": "Wiederholung 29",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "Gestern ___ ich.",
+          "options": [
+            "ging",
+            "gehe",
+            "gehen",
+            "werde gehen"
+          ],
+          "answer": "ging"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l70",
+      "title": "Wiederholung 30",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Ordne die Wörter:",
+          "options": [
+            "Reis.",
+            "esse",
+            "Ich"
+          ],
+          "answer": "Ich esse Reis."
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l71",
+      "title": "Wiederholung 31",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Ordne die Wörter:",
+          "options": [
+            "Reis.",
+            "esse",
+            "Ich"
+          ],
+          "answer": "Ich esse Reis."
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l72",
+      "title": "Wiederholung 32",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Ordne die Wörter:",
+          "options": [
+            "Reis.",
+            "esse",
+            "Ich"
+          ],
+          "answer": "Ich esse Reis."
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Ordne die Wörter:",
+          "options": [
+            "Reis.",
+            "esse",
+            "Ich"
+          ],
+          "answer": "Ich esse Reis."
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l73",
+      "title": "Wiederholung 33",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l74",
+      "title": "Wiederholung 34",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ singt schön.",
+          "options": [
+            "Sie",
+            "Wir",
+            "Du",
+            "Es"
+          ],
+          "answer": "Sie"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ singt schön.",
+          "options": [
+            "Sie",
+            "Wir",
+            "Du",
+            "Es"
+          ],
+          "answer": "Sie"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l75",
+      "title": "Wiederholung 35",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l76",
+      "title": "Wiederholung 36",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Ordne die Wörter:",
+          "options": [
+            "Reis.",
+            "esse",
+            "Ich"
+          ],
+          "answer": "Ich esse Reis."
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ singt schön.",
+          "options": [
+            "Sie",
+            "Wir",
+            "Du",
+            "Es"
+          ],
+          "answer": "Sie"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l77",
+      "title": "Wiederholung 37",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Ordne die Wörter:",
+          "options": [
+            "Reis.",
+            "esse",
+            "Ich"
+          ],
+          "answer": "Ich esse Reis."
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Ordne die Wörter:",
+          "options": [
+            "Reis.",
+            "esse",
+            "Ich"
+          ],
+          "answer": "Ich esse Reis."
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l78",
+      "title": "Wiederholung 38",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l79",
+      "title": "Wiederholung 39",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ singt schön.",
+          "options": [
+            "Sie",
+            "Wir",
+            "Du",
+            "Es"
+          ],
+          "answer": "Sie"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Ordne die Wörter:",
+          "options": [
+            "Reis.",
+            "esse",
+            "Ich"
+          ],
+          "answer": "Ich esse Reis."
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l80",
+      "title": "Wiederholung 40",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ singt schön.",
+          "options": [
+            "Sie",
+            "Wir",
+            "Du",
+            "Es"
+          ],
+          "answer": "Sie"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ singt schön.",
+          "options": [
+            "Sie",
+            "Wir",
+            "Du",
+            "Es"
+          ],
+          "answer": "Sie"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l81",
+      "title": "Wiederholung 41",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l82",
+      "title": "Wiederholung 42",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l83",
+      "title": "Wiederholung 43",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l84",
+      "title": "Wiederholung 44",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "Gestern ___ ich.",
+          "options": [
+            "ging",
+            "gehe",
+            "gehen",
+            "werde gehen"
+          ],
+          "answer": "ging"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l85",
+      "title": "Wiederholung 45",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ singt schön.",
+          "options": [
+            "Sie",
+            "Wir",
+            "Du",
+            "Es"
+          ],
+          "answer": "Sie"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l86",
+      "title": "Wiederholung 46",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l87",
+      "title": "Wiederholung 47",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ singt schön.",
+          "options": [
+            "Sie",
+            "Wir",
+            "Du",
+            "Es"
+          ],
+          "answer": "Sie"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ singt schön.",
+          "options": [
+            "Sie",
+            "Wir",
+            "Du",
+            "Es"
+          ],
+          "answer": "Sie"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l88",
+      "title": "Wiederholung 48",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "Gestern ___ ich.",
+          "options": [
+            "ging",
+            "gehe",
+            "gehen",
+            "werde gehen"
+          ],
+          "answer": "ging"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Ordne die Wörter:",
+          "options": [
+            "Reis.",
+            "esse",
+            "Ich"
+          ],
+          "answer": "Ich esse Reis."
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l89",
+      "title": "Wiederholung 49",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l90",
+      "title": "Wiederholung 50",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Ordne die Wörter:",
+          "options": [
+            "Reis.",
+            "esse",
+            "Ich"
+          ],
+          "answer": "Ich esse Reis."
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l91",
+      "title": "Wiederholung 51",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "Gestern ___ ich.",
+          "options": [
+            "ging",
+            "gehe",
+            "gehen",
+            "werde gehen"
+          ],
+          "answer": "ging"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ singt schön.",
+          "options": [
+            "Sie",
+            "Wir",
+            "Du",
+            "Es"
+          ],
+          "answer": "Sie"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l92",
+      "title": "Wiederholung 52",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Ordne die Wörter:",
+          "options": [
+            "Reis.",
+            "esse",
+            "Ich"
+          ],
+          "answer": "Ich esse Reis."
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "Gestern ___ ich.",
+          "options": [
+            "ging",
+            "gehe",
+            "gehen",
+            "werde gehen"
+          ],
+          "answer": "ging"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l93",
+      "title": "Wiederholung 53",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ singt schön.",
+          "options": [
+            "Sie",
+            "Wir",
+            "Du",
+            "Es"
+          ],
+          "answer": "Sie"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l94",
+      "title": "Wiederholung 54",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Ordne die Wörter:",
+          "options": [
+            "Reis.",
+            "esse",
+            "Ich"
+          ],
+          "answer": "Ich esse Reis."
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l95",
+      "title": "Wiederholung 55",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l96",
+      "title": "Wiederholung 56",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Ordne die Wörter:",
+          "options": [
+            "Reis.",
+            "esse",
+            "Ich"
+          ],
+          "answer": "Ich esse Reis."
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l97",
+      "title": "Wiederholung 57",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ singt schön.",
+          "options": [
+            "Sie",
+            "Wir",
+            "Du",
+            "Es"
+          ],
+          "answer": "Sie"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l98",
+      "title": "Wiederholung 58",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        },
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Ordne die Wörter:",
+          "options": [
+            "Reis.",
+            "esse",
+            "Ich"
+          ],
+          "answer": "Ich esse Reis."
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ singt schön.",
+          "options": [
+            "Sie",
+            "Wir",
+            "Du",
+            "Es"
+          ],
+          "answer": "Sie"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l99",
+      "title": "Wiederholung 59",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "Gestern ___ ich.",
+          "options": [
+            "ging",
+            "gehe",
+            "gehen",
+            "werde gehen"
+          ],
+          "answer": "ging"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ singt schön.",
+          "options": [
+            "Sie",
+            "Wir",
+            "Du",
+            "Es"
+          ],
+          "answer": "Sie"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l100",
+      "title": "Wiederholung 60",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "was",
+          "name": "what"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        }
+      ]
     }
   ]
 }
