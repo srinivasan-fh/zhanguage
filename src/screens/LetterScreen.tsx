@@ -2,7 +2,6 @@ import React, { useRef, useState, useCallback, useMemo, useEffect } from 'react'
 import { View, Text, StyleSheet, PanResponder, Pressable } from 'react-native';
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import ReactNativeHapticFeedback from 'react-native-haptic-feedback';
-import Tts from 'react-native-tts';
 import { RootStackParamList } from '@/navigation/types';
 import { ScreenBg } from '@/components/ScreenBg';
 import { getLetters } from '@/content/letters';
@@ -11,38 +10,18 @@ import { useAppDispatch } from '@/store/hooks';
 import { markLetterSeen } from '@/store/slices/pointsSlice';
 import { useAppSelector } from '@/store/hooks';
 import { selectActiveProfileId } from '@/store/selectors';
+import { speakLetter, stopSpeaking } from '@/utils/tts';
 import { colors, radii, spacing, e3 } from '@/theme';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'Letter'>;
 
 const SWIPE_THRESHOLD = 60;
 
-// Map our language codes to the BCP-47 codes TTS prefers.
-const TTS_LOCALE: Record<string, string> = {
-  en: 'en-US', ta: 'ta-IN', hi: 'hi-IN', ja: 'ja-JP', de: 'de-DE',
-  zh: 'zh-CN', ko: 'ko-KR', es: 'es-ES', fr: 'fr-FR', ar: 'ar-SA',
-  pt: 'pt-PT', ru: 'ru-RU',
-  // Sacred / historical languages fall back to a related modern voice.
-  sa: 'hi-IN', he: 'he-IL', arc: 'he-IL', pi: 'hi-IN',
-  la: 'it-IT', grc: 'el-GR', egy: 'ar-EG', sux: 'ar-IQ', akk: 'ar-IQ',
-};
-
 function tap() {
   ReactNativeHapticFeedback.trigger('impactLight', {
     enableVibrateFallback: true,
     ignoreAndroidSystemSettings: false,
   });
-}
-
-function speak(lang: string, text: string) {
-  try {
-    Tts.stop();
-    const locale = TTS_LOCALE[lang] ?? 'en-US';
-    Tts.setDefaultLanguage(locale).catch(() => {});
-    Tts.speak(text);
-  } catch {
-    // TTS engine missing/locale unsupported — silent fail.
-  }
 }
 
 export function LetterScreen({ navigation, route }: Props) {
@@ -76,8 +55,11 @@ export function LetterScreen({ navigation, route }: Props) {
         }),
       );
     }
-    speak(language, letter.exampleWord ?? letter.glyph);
+    speakLetter(language, letter);
   }, [letter, activeId, dispatch, language, lessonSizeById]);
+
+  // Stop any in-flight speech when leaving the screen.
+  useEffect(() => stopSpeaking, []);
 
   const goNext = useCallback(() => {
     setIndex((i) => {
@@ -135,7 +117,7 @@ export function LetterScreen({ navigation, route }: Props) {
         <Text style={styles.position}>{index + 1} / {letters.length}</Text>
 
         <Pressable
-          onPress={() => speak(language, letter.exampleWord ?? letter.glyph)}
+          onPress={() => speakLetter(language, letter)}
           style={({ pressed }) => [styles.glyphCard, pressed && { transform: [{ scale: 0.98 }] }]}
         >
           <Text
