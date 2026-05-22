@@ -1,0 +1,153 @@
+{
+  "language": "ja",
+  "phase": 5,
+  "title": "文法の基礎",
+  "lessons": [
+    {
+      "id": "ja-p5-l1",
+      "title": "Sentence Order (S O V)",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "わたしは ごはんを たべます",
+          "name": "S O V"
+        },
+        {
+          "glyph": "かのじょは うたいます",
+          "name": "S V"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "じゅんばんに ならべて:",
+          "options": [
+            "たべます",
+            "ごはんを",
+            "わたしは"
+          ],
+          "answer": "わたしは ごはんを たべます"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ は ねこ です。",
+          "options": [
+            "これ",
+            "どこ",
+            "だれ",
+            "なに"
+          ],
+          "answer": "これ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p5-l2",
+      "title": "Plurals (たち)",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "わたし / わたしたち",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "こども / こどもたち",
+          "name": "singular / plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "こども → こども ___",
+          "options": [
+            "たち",
+            "です",
+            "は",
+            "の"
+          ],
+          "answer": "たち"
+        }
+      ]
+    },
+    {
+      "id": "ja-p5-l3",
+      "title": "Tense (ます / ました / ません)",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "たべます",
+          "name": "present"
+        },
+        {
+          "glyph": "たべました",
+          "name": "past"
+        },
+        {
+          "glyph": "たべません",
+          "name": "negative"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "きのう ごはんを ___",
+          "options": [
+            "たべました",
+            "たべます",
+            "たべません",
+            "たべ"
+          ],
+          "answer": "たべました"
+        }
+      ]
+    },
+    {
+      "id": "ja-p5-l4",
+      "title": "Question Words",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "なに",
+          "name": "what"
+        },
+        {
+          "glyph": "どこ",
+          "name": "where"
+        },
+        {
+          "glyph": "いつ",
+          "name": "when"
+        },
+        {
+          "glyph": "なぜ",
+          "name": "why"
+        },
+        {
+          "glyph": "だれ",
+          "name": "who"
+        },
+        {
+          "glyph": "どう",
+          "name": "how"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "おなまえは ___ ですか?",
+          "options": [
+            "なに",
+            "どこ",
+            "なぜ",
+            "だれ"
+          ],
+          "answer": "なに"
+        }
+      ]
+    }
+  ]
+}

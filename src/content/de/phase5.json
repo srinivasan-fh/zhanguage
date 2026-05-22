@@ -1,0 +1,157 @@
+{
+  "language": "de",
+  "phase": 5,
+  "title": "Grammatik-Grundlagen",
+  "lessons": [
+    {
+      "id": "de-p5-l1",
+      "title": "Satzbau (S V O)",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich esse Reis.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "Sie singt.",
+          "name": "S V"
+        },
+        {
+          "glyph": "Wir lesen Bücher.",
+          "name": "S V O"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Ordne die Wörter:",
+          "options": [
+            "Reis.",
+            "esse",
+            "Ich"
+          ],
+          "answer": "Ich esse Reis."
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ singt schön.",
+          "options": [
+            "Sie",
+            "Wir",
+            "Du",
+            "Es"
+          ],
+          "answer": "Sie"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l2",
+      "title": "Plural",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Hund / Hunde",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Kind / Kinder",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "Maus / Mäuse",
+          "name": "singular / plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "ein Buch, zwei ___",
+          "options": [
+            "Bücher",
+            "Buch",
+            "Buchs",
+            "Books"
+          ],
+          "answer": "Bücher"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l3",
+      "title": "Tense",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich gehe → Ich ging",
+          "name": "present → past"
+        },
+        {
+          "glyph": "Ich werde gehen",
+          "name": "future"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "Gestern ___ ich.",
+          "options": [
+            "ging",
+            "gehe",
+            "gehen",
+            "werde gehen"
+          ],
+          "answer": "ging"
+        }
+      ]
+    },
+    {
+      "id": "de-p5-l4",
+      "title": "Frageworte",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "was",
+          "name": "what"
+        },
+        {
+          "glyph": "wo",
+          "name": "where"
+        },
+        {
+          "glyph": "wann",
+          "name": "when"
+        },
+        {
+          "glyph": "warum",
+          "name": "why"
+        },
+        {
+          "glyph": "wer",
+          "name": "who"
+        },
+        {
+          "glyph": "wie",
+          "name": "how"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ heißt du?",
+          "options": [
+            "Wie",
+            "Was",
+            "Wo",
+            "Wann"
+          ],
+          "answer": "Wie"
+        }
+      ]
+    }
+  ]
+}

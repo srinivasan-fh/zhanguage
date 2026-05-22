@@ -1,0 +1,161 @@
+{
+  "language": "zh",
+  "phase": 5,
+  "title": "基本语法",
+  "lessons": [
+    {
+      "id": "zh-p5-l1",
+      "title": "Sentence Order (S V O)",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我吃米饭。",
+          "name": "S V O"
+        },
+        {
+          "glyph": "她唱歌。",
+          "name": "S V"
+        },
+        {
+          "glyph": "我们看书。",
+          "name": "S V O"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Arrange:",
+          "options": [
+            "米饭。",
+            "吃",
+            "我"
+          ],
+          "answer": "我 吃 米饭。"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ 唱歌。",
+          "options": [
+            "她",
+            "他",
+            "我们",
+            "你"
+          ],
+          "answer": "她"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l2",
+      "title": "Plural via 们",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我 / 我们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "他 / 他们",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "朋友 / 朋友们",
+          "name": "singular / plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "他 → ___",
+          "options": [
+            "他们",
+            "他",
+            "她们",
+            "它们"
+          ],
+          "answer": "他们"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l3",
+      "title": "Tense Markers (了/在/会)",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我吃了饭",
+          "name": "past 了"
+        },
+        {
+          "glyph": "我在吃饭",
+          "name": "present 在"
+        },
+        {
+          "glyph": "我会吃饭",
+          "name": "future/can 会"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "昨天我吃 ___ 饭。",
+          "options": [
+            "了",
+            "在",
+            "会",
+            "吗"
+          ],
+          "answer": "了"
+        }
+      ]
+    },
+    {
+      "id": "zh-p5-l4",
+      "title": "Question Words",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "什么",
+          "name": "what"
+        },
+        {
+          "glyph": "哪里",
+          "name": "where"
+        },
+        {
+          "glyph": "什么时候",
+          "name": "when"
+        },
+        {
+          "glyph": "为什么",
+          "name": "why"
+        },
+        {
+          "glyph": "谁",
+          "name": "who"
+        },
+        {
+          "glyph": "怎么",
+          "name": "how"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "你叫 ___ 名字?",
+          "options": [
+            "什么",
+            "哪里",
+            "为什么",
+            "谁"
+          ],
+          "answer": "什么"
+        }
+      ]
+    }
+  ]
+}

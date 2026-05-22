@@ -1,0 +1,157 @@
+{
+  "language": "ko",
+  "phase": 5,
+  "title": "문법 기초",
+  "lessons": [
+    {
+      "id": "ko-p5-l1",
+      "title": "Sentence Order (S O V)",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "저는 밥을 먹어요",
+          "name": "S O V"
+        },
+        {
+          "glyph": "그녀가 노래해요",
+          "name": "S V"
+        },
+        {
+          "glyph": "우리는 책을 읽어요",
+          "name": "S O V"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "순서대로:",
+          "options": [
+            "먹어요",
+            "밥을",
+            "저는"
+          ],
+          "answer": "저는 밥을 먹어요"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ 노래해요.",
+          "options": [
+            "그녀가",
+            "저는",
+            "우리는",
+            "당신은"
+          ],
+          "answer": "그녀가"
+        }
+      ]
+    },
+    {
+      "id": "ko-p5-l2",
+      "title": "Plural marker 들",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "사람 / 사람들",
+          "name": "singular / plural"
+        },
+        {
+          "glyph": "친구 / 친구들",
+          "name": "singular / plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "사람 → 사람 ___",
+          "options": [
+            "들",
+            "이",
+            "을",
+            "은"
+          ],
+          "answer": "들"
+        }
+      ]
+    },
+    {
+      "id": "ko-p5-l3",
+      "title": "Tense",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "먹었어요",
+          "name": "past"
+        },
+        {
+          "glyph": "먹어요",
+          "name": "present"
+        },
+        {
+          "glyph": "먹을 거예요",
+          "name": "future"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "어제 저는 밥을 ___",
+          "options": [
+            "먹었어요",
+            "먹어요",
+            "먹을 거예요",
+            "먹는"
+          ],
+          "answer": "먹었어요"
+        }
+      ]
+    },
+    {
+      "id": "ko-p5-l4",
+      "title": "Question Words",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "무엇",
+          "name": "what"
+        },
+        {
+          "glyph": "어디",
+          "name": "where"
+        },
+        {
+          "glyph": "언제",
+          "name": "when"
+        },
+        {
+          "glyph": "왜",
+          "name": "why"
+        },
+        {
+          "glyph": "누구",
+          "name": "who"
+        },
+        {
+          "glyph": "어떻게",
+          "name": "how"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "이름이 ___ 예요?",
+          "options": [
+            "무엇이",
+            "어디",
+            "왜",
+            "누구"
+          ],
+          "answer": "무엇이"
+        }
+      ]
+    }
+  ]
+}

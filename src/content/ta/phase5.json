@@ -1,0 +1,194 @@
+{
+  "language": "ta",
+  "phase": 5,
+  "title": "இலக்கணம்",
+  "lessons": [
+    {
+      "id": "ta-p5-l1",
+      "title": "வாக்கிய அமைப்பு (S O V)",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "நான் சாதம் சாப்பிடுகிறேன்",
+          "name": "S O V"
+        },
+        {
+          "glyph": "அவள் பாடுகிறாள்",
+          "name": "S V"
+        },
+        {
+          "glyph": "நாங்கள் பாடல் பாடுகிறோம்",
+          "name": "S O V"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "சரியான வரிசையில் அமைக்கவும்:",
+          "options": [
+            "சாப்பிடுகிறேன்",
+            "சாதம்",
+            "நான்"
+          ],
+          "answer": "நான் சாதம் சாப்பிடுகிறேன்"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ பாடுகிறாள்.",
+          "options": [
+            "அவள்",
+            "அவன்",
+            "நான்",
+            "நாம்"
+          ],
+          "answer": "அவள்"
+        }
+      ]
+    },
+    {
+      "id": "ta-p5-l2",
+      "title": "பன்மை (Plurals)",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "மரம் → மரங்கள்",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "பூ → பூக்கள்",
+          "name": "singular → plural"
+        },
+        {
+          "glyph": "பெண் → பெண்கள்",
+          "name": "singular → plural"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "ஒரு மரம், இரண்டு ___",
+          "options": [
+            "மரங்கள்",
+            "மரம்",
+            "மரத்",
+            "மரகள்"
+          ],
+          "answer": "மரங்கள்"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "ஒரு புத்தகம், பல ___",
+          "options": [
+            "புத்தகங்கள்",
+            "புத்தகம்",
+            "புத்தக",
+            "புத்தங்கள்"
+          ],
+          "answer": "புத்தகங்கள்"
+        }
+      ]
+    },
+    {
+      "id": "ta-p5-l3",
+      "title": "கால இடைச்சொற்கள் (Tense)",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "நேற்று நான் சென்றேன்",
+          "name": "past"
+        },
+        {
+          "glyph": "இன்று நான் செல்கிறேன்",
+          "name": "present"
+        },
+        {
+          "glyph": "நாளை நான் செல்வேன்",
+          "name": "future"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "நேற்று நான் ___ (போனேன்/போகிறேன்).",
+          "options": [
+            "போனேன்",
+            "போகிறேன்",
+            "போவேன்",
+            "போய்"
+          ],
+          "answer": "போனேன்"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "நாளை நான் ___ ",
+          "options": [
+            "வருவேன்",
+            "வந்தேன்",
+            "வருகிறேன்",
+            "வந்த"
+          ],
+          "answer": "வருவேன்"
+        }
+      ]
+    },
+    {
+      "id": "ta-p5-l4",
+      "title": "வினா சொற்கள் (Question words)",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "என்ன",
+          "name": "what"
+        },
+        {
+          "glyph": "எங்கே",
+          "name": "where"
+        },
+        {
+          "glyph": "எப்போது",
+          "name": "when"
+        },
+        {
+          "glyph": "ஏன்",
+          "name": "why"
+        },
+        {
+          "glyph": "யார்",
+          "name": "who"
+        },
+        {
+          "glyph": "எப்படி",
+          "name": "how"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "உன் பெயர் ___ ?",
+          "options": [
+            "என்ன",
+            "எங்கே",
+            "யார்",
+            "ஏன்"
+          ],
+          "answer": "என்ன"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "நீ ___ இருக்கிறாய்?",
+          "options": [
+            "எங்கே",
+            "என்ன",
+            "ஏன்",
+            "எப்போது"
+          ],
+          "answer": "எங்கே"
+        }
+      ]
+    }
+  ]
+}

@@ -17,7 +17,12 @@ export function AlphabetScreen({ navigation, route }: Props) {
   const meta = LANGUAGES.find((l) => l.code === language)!;
   const all = useMemo(() => getLetters(language, phase), [language, phase]);
   const sections = useMemo(() => getSections(language, phase), [language, phase]);
-  const itemNoun = phase === 1 ? 'letters' : phase <= 4 ? 'words' : 'items';
+  const itemNoun =
+    phase === 1 ? 'letters' :
+    phase <= 4 ? 'words' :
+    phase === 5 ? 'examples' :
+    phase === 6 ? 'glyphs to trace' :
+    'items';
 
   const activeId = useAppSelector(selectActiveProfileId);
   const lettersSeen = useAppSelector((s: RootState) =>
@@ -56,12 +61,14 @@ export function AlphabetScreen({ navigation, route }: Props) {
                     {result ? `  ·  ${result.medal} ${result.scorePct}%` : ''}
                   </Text>
                 </View>
-                <Pressable
-                  style={styles.quizPill}
-                  onPress={() => navigation.navigate('Quiz', { language, phase, lessonId: sec.lessonId })}
-                >
-                  <Text style={styles.quizPillLabel}>Quiz</Text>
-                </Pressable>
+                {phase !== 6 ? (
+                  <Pressable
+                    style={styles.quizPill}
+                    onPress={() => navigation.navigate('Quiz', { language, phase, lessonId: sec.lessonId })}
+                  >
+                    <Text style={styles.quizPillLabel}>Quiz</Text>
+                  </Pressable>
+                ) : null}
               </View>
               <View style={styles.grid}>
                 {sec.letters.map((letter) => {
@@ -75,7 +82,11 @@ export function AlphabetScreen({ navigation, route }: Props) {
                         wasSeen && styles.cellSeen,
                         pressed && { transform: [{ scale: 0.94 }] },
                       ]}
-                      onPress={() => navigation.navigate('Letter', { language, phase, index: gi })}
+                      onPress={() =>
+                        phase === 6
+                          ? navigation.navigate('Trace', { language, phase, index: gi })
+                          : navigation.navigate('Letter', { language, phase, index: gi })
+                      }
                     >
                       <Text
                         style={phase === 1 ? styles.cellGlyph : styles.cellGlyphWord}

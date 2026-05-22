@@ -1,0 +1,231 @@
+{
+  "language": "en",
+  "phase": 5,
+  "title": "Grammar Essentials",
+  "lessons": [
+    {
+      "id": "en-p5-l1",
+      "title": "Sentence Order (S V O)",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I eat rice.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "She plays.",
+          "name": "S V"
+        },
+        {
+          "glyph": "We sing songs.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "He reads books.",
+          "name": "S V O"
+        },
+        {
+          "glyph": "They run fast.",
+          "name": "S V Adv"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "order-words",
+          "prompt": "Make a sentence:",
+          "options": [
+            "rice.",
+            "eat",
+            "I"
+          ],
+          "answer": "I eat rice."
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ plays football.",
+          "options": [
+            "She",
+            "Are",
+            "My",
+            "Run"
+          ],
+          "answer": "She"
+        },
+        {
+          "kind": "order-words",
+          "prompt": "Arrange the words:",
+          "options": [
+            "songs.",
+            "sing",
+            "We"
+          ],
+          "answer": "We sing songs."
+        }
+      ]
+    },
+    {
+      "id": "en-p5-l2",
+      "title": "Plurals",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "one cat / two cats",
+          "name": "+ s"
+        },
+        {
+          "glyph": "one box / two boxes",
+          "name": "+ es"
+        },
+        {
+          "glyph": "one baby / two babies",
+          "name": "y → ies"
+        },
+        {
+          "glyph": "one mouse / two mice",
+          "name": "irregular"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "one dog, two ___",
+          "options": [
+            "dogs",
+            "dog",
+            "doges",
+            "dogies"
+          ],
+          "answer": "dogs"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "one bus, two ___",
+          "options": [
+            "buses",
+            "buss",
+            "busies",
+            "bus"
+          ],
+          "answer": "buses"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "one fish, two ___",
+          "options": [
+            "fish",
+            "fishs",
+            "fishes",
+            "fishies"
+          ],
+          "answer": "fish"
+        }
+      ]
+    },
+    {
+      "id": "en-p5-l3",
+      "title": "Tense Markers",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I walk → I walked",
+          "name": "past +ed"
+        },
+        {
+          "glyph": "I run → I will run",
+          "name": "future will"
+        },
+        {
+          "glyph": "I eat → I am eating",
+          "name": "present -ing"
+        },
+        {
+          "glyph": "She goes → She went",
+          "name": "irregular past"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "Yesterday I ___ a book.",
+          "options": [
+            "read",
+            "reads",
+            "reading",
+            "will read"
+          ],
+          "answer": "read"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "Tomorrow she ___ play.",
+          "options": [
+            "will",
+            "was",
+            "were",
+            "is"
+          ],
+          "answer": "will"
+        }
+      ]
+    },
+    {
+      "id": "en-p5-l4",
+      "title": "Question Words",
+      "type": "grammar",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "what",
+          "name": "asks for thing"
+        },
+        {
+          "glyph": "where",
+          "name": "asks for place"
+        },
+        {
+          "glyph": "when",
+          "name": "asks for time"
+        },
+        {
+          "glyph": "why",
+          "name": "asks for reason"
+        },
+        {
+          "glyph": "who",
+          "name": "asks for person"
+        },
+        {
+          "glyph": "how",
+          "name": "asks for way"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "fill-blank",
+          "prompt": "___ is your name?",
+          "options": [
+            "What",
+            "Where",
+            "Why",
+            "How"
+          ],
+          "answer": "What"
+        },
+        {
+          "kind": "fill-blank",
+          "prompt": "___ are you?",
+          "options": [
+            "Who",
+            "When",
+            "Why",
+            "How"
+          ],
+          "answer": "Who"
+        }
+      ]
+    }
+  ]
+}
