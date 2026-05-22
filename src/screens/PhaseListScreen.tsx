@@ -31,7 +31,7 @@ export function PhaseListScreen({ navigation, route }: Props) {
             onPress={() =>
               item.id === 10
                 ? navigation.navigate('Certification', { language })
-                : navigation.navigate('Alphabet', { language, phase: item.id })
+                : navigation.navigate('Lessons', { language, phase: item.id })
             }
           />
         );

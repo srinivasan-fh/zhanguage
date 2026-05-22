@@ -13,10 +13,16 @@ import { colors, radii, spacing, e2 } from '@/theme';
 type Props = NativeStackScreenProps<RootStackParamList, 'Alphabet'>;
 
 export function AlphabetScreen({ navigation, route }: Props) {
-  const { language, phase = 1 } = route.params;
+  const { language, phase = 1, lessonId } = route.params;
   const meta = LANGUAGES.find((l) => l.code === language)!;
   const all = useMemo(() => getLetters(language, phase), [language, phase]);
-  const sections = useMemo(() => getSections(language, phase), [language, phase]);
+  const allSections = useMemo(() => getSections(language, phase), [language, phase]);
+  // When a specific lessonId is passed (from LessonsScreen), only show that
+  // lesson's grid. Otherwise fall back to the full sectioned view.
+  const sections = useMemo(
+    () => (lessonId ? allSections.filter((s) => s.lessonId === lessonId) : allSections),
+    [allSections, lessonId],
+  );
   const itemNoun =
     phase === 1 ? 'letters' :
     phase <= 4 ? 'words' :
@@ -111,15 +117,16 @@ export function AlphabetScreen({ navigation, route }: Props) {
     [phase, language, lettersSeen, lessonResults, indexByGlyph, openLetter, openQuiz],
   );
 
+  const heroCount = lessonId && sections[0] ? sections[0].letters.length : all.length;
   const ListHeader = useMemo(
     () => (
       <View style={styles.heroBlock}>
         <Text style={styles.heroLabel}>{meta.name.toUpperCase()}</Text>
         <Text style={styles.heroNative}>{meta.nativeName}</Text>
-        <Text style={styles.heroSub}>{all.length} {itemNoun} · tap any one</Text>
+        <Text style={styles.heroSub}>{heroCount} {itemNoun} · tap any one</Text>
       </View>
     ),
-    [meta.name, meta.nativeName, all.length, itemNoun],
+    [meta.name, meta.nativeName, heroCount, itemNoun],
   );
 
   return (

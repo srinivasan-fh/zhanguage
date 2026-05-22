@@ -16,7 +16,8 @@ export type RootStackParamList = {
   Rewards: undefined;
   ParentGate: undefined;
   ParentDashboard: undefined;
-  Alphabet: { language: LanguageCode; phase?: number };
+  Alphabet: { language: LanguageCode; phase?: number; lessonId?: string };
+  Lessons: { language: LanguageCode; phase: number };
   Letter: { language: LanguageCode; phase?: number; index: number };
   Quiz: { language: LanguageCode; phase?: number; lessonId: string };
   Trace: { language: LanguageCode; phase?: number; index: number };

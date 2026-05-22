@@ -14,6 +14,7 @@ import { RewardsScreen } from '@/screens/RewardsScreen';
 import { ParentGateScreen } from '@/screens/ParentGateScreen';
 import { ParentDashboardScreen } from '@/screens/ParentDashboardScreen';
 import { AlphabetScreen } from '@/screens/AlphabetScreen';
+import { LessonsScreen } from '@/screens/LessonsScreen';
 import { LetterScreen } from '@/screens/LetterScreen';
 import { QuizScreen } from '@/screens/QuizScreen';
 import { TraceScreen } from '@/screens/TraceScreen';
@@ -50,7 +51,8 @@ export function RootNavigator() {
       <Stack.Screen name="Rewards" component={RewardsScreen} options={{ title: 'My Rewards' }} />
       <Stack.Screen name="ParentGate" component={ParentGateScreen} options={{ title: 'Parents Only' }} />
       <Stack.Screen name="ParentDashboard" component={ParentDashboardScreen} options={{ title: 'Parent Dashboard' }} />
-      <Stack.Screen name="Alphabet" component={AlphabetScreen} options={{ title: 'Alphabet' }} />
+      <Stack.Screen name="Lessons" component={LessonsScreen} options={{ title: 'Lessons' }} />
+      <Stack.Screen name="Alphabet" component={AlphabetScreen} options={{ title: 'Letters' }} />
       <Stack.Screen name="Letter" component={LetterScreen} options={{ title: 'Letter', headerTransparent: true }} />
       <Stack.Screen name="Quiz" component={QuizScreen} options={{ title: 'Quiz' }} />
       <Stack.Screen name="Trace" component={TraceScreen} options={{ title: 'Trace', headerTransparent: true }} />
