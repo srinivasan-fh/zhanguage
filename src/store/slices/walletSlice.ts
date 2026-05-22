@@ -1,5 +1,6 @@
-import { createSlice, PayloadAction, nanoid } from '@reduxjs/toolkit';
+import { createSlice, PayloadAction } from '@reduxjs/toolkit';
 import { LedgerEntry, Wallet } from '@/types/profile';
+import { uuid } from '@/utils/id';
 
 const DEFAULT_RATE_CENTS_PER_POINT = 10;
 
@@ -42,7 +43,7 @@ const walletSlice = createSlice({
           payload: {
             studentId: input.studentId,
             entry: {
-              id: nanoid(),
+              id: uuid(),
               at: Date.now(),
               kind: 'deposit' as const,
               amountCents: input.amountCents,
@@ -72,7 +73,7 @@ const walletSlice = createSlice({
             studentId: input.studentId,
             points: input.points,
             entry: {
-              id: nanoid(),
+              id: uuid(),
               at: Date.now(),
               kind: 'earn' as const,
               amountCents: 0,

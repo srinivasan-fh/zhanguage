@@ -75,6 +75,7 @@ export function ParentDashboardScreen() {
             <Stat label="Rate / pt" value={(wallet.rateCentsPerPoint / 100).toFixed(2)} />
             <Stat label="Points" value={String(totalPoints)} />
           </View>
+          <Text style={styles.uuid}>Player ID · {selectedId}</Text>
 
           <Text style={styles.heading}>Top up pocket money</Text>
           <View style={styles.row}>
@@ -158,4 +159,11 @@ const styles = StyleSheet.create({
     borderColor: colors.glassEdge,
   },
   empty: { color: colors.inkSoft, textAlign: 'center', padding: spacing.xl },
+  uuid: {
+    fontFamily: 'monospace',
+    fontSize: 11,
+    color: colors.inkMuted,
+    textAlign: 'center',
+    letterSpacing: 0.5,
+  },
 });

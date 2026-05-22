@@ -1,5 +1,6 @@
-import { createSlice, PayloadAction, nanoid } from '@reduxjs/toolkit';
+import { createSlice, PayloadAction } from '@reduxjs/toolkit';
 import { Profile } from '@/types/profile';
+import { uuid } from '@/utils/id';
 
 export const MAX_PROFILES = 3;
 
@@ -31,9 +32,11 @@ const profilesSlice = createSlice({
         state.activeId = p.id;
       },
       prepare(input: { name: string; age?: number; avatar: string }) {
+        // RFC 4122 v4 UUID. Used as the immutable tracking key across the
+        // points, lessons, lettersSeen, streak, and wallet slices.
         return {
           payload: {
-            id: nanoid(),
+            id: uuid(),
             createdAt: Date.now(),
             ...input,
           } as Profile,
