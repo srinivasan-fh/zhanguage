@@ -43,8 +43,9 @@ export function LessonsScreen({ navigation, route }: Props) {
         : `${seenCount} / ${total}`;
       return (
         <Card
-          title={`${index + 1}. ${sec.title}`}
+          title={sec.title}
           subtitle={subtitle}
+          badge={`L${index + 1}`}
           onPress={() => openLesson(sec.lessonId)}
         />
       );

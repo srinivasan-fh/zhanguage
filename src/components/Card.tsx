@@ -6,13 +6,15 @@ interface Props {
   title: string;
   subtitle?: string;
   emoji?: string;
+  // Short text badge (e.g. "P1", "L10") rendered in the circle bubble.
+  badge?: string;
   onPress?: () => void;
   locked?: boolean;
   rightSlot?: React.ReactNode;
   style?: ViewStyle;
 }
 
-export function Card({ title, subtitle, emoji, onPress, locked, rightSlot, style }: Props) {
+export function Card({ title, subtitle, emoji, badge, onPress, locked, rightSlot, style }: Props) {
   return (
     <Pressable
       onPress={locked ? undefined : onPress}
@@ -23,8 +25,14 @@ export function Card({ title, subtitle, emoji, onPress, locked, rightSlot, style
         style,
       ]}
     >
-      {emoji ? (
-        <View style={styles.emojiBubble}>
+      {badge ? (
+        <View style={styles.bubble}>
+          <Text style={styles.badge} numberOfLines={1} adjustsFontSizeToFit>
+            {locked ? '–' : badge}
+          </Text>
+        </View>
+      ) : emoji ? (
+        <View style={styles.bubble}>
           <Text style={styles.emoji}>{locked ? '🔒' : emoji}</Text>
         </View>
       ) : null}
@@ -49,12 +57,11 @@ const styles = StyleSheet.create({
     minHeight: 96,
     borderWidth: 1,
     borderColor: colors.glassEdge,
-    // overflow:hidden + elevation causes a soft inner ring on Android — drop it.
     ...e2,
   },
   locked: { opacity: 0.5 },
   pressed: { transform: [{ scale: 0.985 }] },
-  emojiBubble: {
+  bubble: {
     width: 56,
     height: 56,
     borderRadius: 28,
@@ -62,9 +69,15 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     backgroundColor: colors.primarySoft,
     borderWidth: 1,
-    borderColor: 'rgba(255,122,89,0.18)',
+    borderColor: 'rgba(255,122,89,0.25)',
   },
   emoji: { fontSize: 30 },
+  badge: {
+    fontSize: 18,
+    fontWeight: '900',
+    color: colors.primaryDark,
+    letterSpacing: 0.5,
+  },
   title: { fontSize: 22, fontWeight: '800', color: colors.ink, letterSpacing: 0.2 },
   subtitle: { fontSize: 15, color: colors.inkSoft, marginTop: 4 },
 });
