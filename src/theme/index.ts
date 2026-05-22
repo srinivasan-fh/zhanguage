@@ -19,9 +19,9 @@ export const colors = {
   bgTint: '#FFE3C9',       // gradient top tint (paint a View on top)
   bgTintBottom: '#FFE9D2',
   paper: '#FFFFFF',
-  glass: 'rgba(255, 255, 255, 0.72)',     // frosted surface
-  glassStrong: 'rgba(255, 255, 255, 0.88)',
-  glassEdge: 'rgba(255, 255, 255, 0.65)',  // 1px top highlight
+  glass: 'rgba(255, 255, 255, 0.72)',     // frosted surface (used by lighter overlays)
+  glassStrong: '#FFFFFF',                  // primary card surface — fully opaque so Android renders crisp white
+  glassEdge: 'rgba(20, 22, 40, 0.08)',     // subtle dark hairline that reads on both white + tinted surfaces
   hairline: 'rgba(20, 22, 40, 0.08)',
   overlay: 'rgba(20, 22, 40, 0.35)',
 
