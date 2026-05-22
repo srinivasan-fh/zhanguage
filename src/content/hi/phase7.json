@@ -1,0 +1,153 @@
+{
+  "language": "hi",
+  "phase": 7,
+  "title": "पठन",
+  "lessons": [
+    {
+      "id": "hi-p7-l1",
+      "title": "सरल वाक्य",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "बिल्ली चटाई पर बैठी है।",
+          "name": "sentence 1",
+          "exampleWord": "cat"
+        },
+        {
+          "glyph": "मैं लाल गेंद देखता हूँ।",
+          "name": "sentence 2",
+          "exampleWord": "ball"
+        },
+        {
+          "glyph": "पक्षी आसमान में उड़ते हैं।",
+          "name": "sentence 3",
+          "exampleWord": "birds"
+        },
+        {
+          "glyph": "माँ स्वादिष्ट खाना बनाती है।",
+          "name": "sentence 4",
+          "exampleWord": "maa"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "चटाई पर कौन बैठी है?",
+          "options": [
+            "बिल्ली",
+            "कुत्ता",
+            "पक्षी",
+            "मछली"
+          ],
+          "answer": "बिल्ली"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "गेंद का रंग?",
+          "options": [
+            "लाल",
+            "नीला",
+            "पीला",
+            "हरा"
+          ],
+          "answer": "लाल"
+        }
+      ]
+    },
+    {
+      "id": "hi-p7-l2",
+      "title": "छोटा अनुच्छेद",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "राम के पास एक कुत्ता है। उसका नाम भूरा है। वे रोज शाम को पार्क में खेलते हैं।",
+          "name": "paragraph"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "कुत्ते का नाम?",
+          "options": [
+            "भूरा",
+            "टॉमी",
+            "मोती",
+            "चिकू"
+          ],
+          "answer": "भूरा"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "वे कब खेलते हैं?",
+          "options": [
+            "शाम को",
+            "सुबह",
+            "दोपहर",
+            "रात"
+          ],
+          "answer": "शाम को"
+        }
+      ]
+    },
+    {
+      "id": "hi-p7-l3",
+      "title": "संवाद",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "अनु: नमस्ते! तुम्हारा नाम क्या है?",
+          "name": "l1"
+        },
+        {
+          "glyph": "विनय: मेरा नाम विनय है।",
+          "name": "l2"
+        },
+        {
+          "glyph": "अनु: मिलकर खुशी हुई!",
+          "name": "l3"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "लड़के का नाम?",
+          "options": [
+            "विनय",
+            "राज",
+            "अमित",
+            "रवि"
+          ],
+          "answer": "विनय"
+        }
+      ]
+    },
+    {
+      "id": "hi-p7-l4",
+      "title": "लोमड़ी और अंगूर",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "एक चतुर लोमड़ी ने ऊँची बेल पर अंगूर देखे। उसने बहुत कूद-कूद कर देखा पर पहुँच नहीं पाई। फिर उसने कहा, \"ये अंगूर खट्टे हैं!\" और चली गई।",
+          "name": "story"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "लोमड़ी ने क्या देखा?",
+          "options": [
+            "अंगूर",
+            "सेब",
+            "केला",
+            "आम"
+          ],
+          "answer": "अंगूर"
+        }
+      ]
+    }
+  ]
+}

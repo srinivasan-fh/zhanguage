@@ -1,0 +1,163 @@
+{
+  "language": "ja",
+  "phase": 8,
+  "title": "話すこと (Speaking)",
+  "lessons": [
+    {
+      "id": "ja-p8-l1",
+      "title": "あいさつ",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "こんにちは!",
+          "name": "hello"
+        },
+        {
+          "glyph": "おはよう ございます。",
+          "name": "morning"
+        },
+        {
+          "glyph": "げんき ですか?",
+          "name": "question"
+        },
+        {
+          "glyph": "はい、げんき です。",
+          "name": "reply"
+        },
+        {
+          "glyph": "ありがとう。",
+          "name": "thanks"
+        },
+        {
+          "glyph": "さようなら!",
+          "name": "bye"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「げんき ですか?」へのこたえ?",
+          "options": [
+            "はい、げんき です",
+            "こんにちは",
+            "ありがとう",
+            "さようなら"
+          ],
+          "answer": "はい、げんき です"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l2",
+      "title": "かんたんな しつもん",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "おなまえは なんですか?",
+          "name": "q"
+        },
+        {
+          "glyph": "わたしは ゆきです。",
+          "name": "a"
+        },
+        {
+          "glyph": "どこに すんで いますか?",
+          "name": "q"
+        },
+        {
+          "glyph": "とうきょうに すんで います。",
+          "name": "a"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「おなまえは なんですか?」へのこたえ?",
+          "options": [
+            "わたしは ゆきです",
+            "げんき です",
+            "ありがとう",
+            "こんにちは"
+          ],
+          "answer": "わたしは ゆきです"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l3",
+      "title": "すき / ほしい",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "わたしは りんごが すき です。",
+          "name": "like"
+        },
+        {
+          "glyph": "からい ものは すきじゃ ない。",
+          "name": "dislike"
+        },
+        {
+          "glyph": "みずが ほしい です。",
+          "name": "want"
+        },
+        {
+          "glyph": "たすけて ください。",
+          "name": "need"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "「みずが ほしい です」の いみ?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ja-p8-l4",
+      "title": "みじかい かいわ",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A: こんにちは、ともだち!",
+          "name": ""
+        },
+        {
+          "glyph": "B: こんにちは! げんき?",
+          "name": ""
+        },
+        {
+          "glyph": "A: きょうは うれしい!",
+          "name": ""
+        },
+        {
+          "glyph": "B: いいね!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きょう うれしいのは だれ?",
+          "options": [
+            "A",
+            "B",
+            "おかあさん",
+            "せんせい"
+          ],
+          "answer": "A"
+        }
+      ]
+    }
+  ]
+}

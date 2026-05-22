@@ -138,6 +138,10 @@ export function LetterScreen({ navigation, route }: Props) {
 
         <Text style={styles.sectionLabel}>{letter.lessonTitle}</Text>
 
+        {phase === 8 ? (
+          <Text style={styles.sayItPrompt}>🎤  Now you say it out loud!</Text>
+        ) : null}
+
         {isLastOfLesson && hasQuiz ? (
           <Pressable
             style={styles.quizBtn}
@@ -200,6 +204,17 @@ const styles = StyleSheet.create({
   name: { fontSize: 32, fontWeight: '900', color: colors.ink, letterSpacing: 0.6, textTransform: 'uppercase' },
   example: { fontSize: 22, color: colors.inkSoft, fontWeight: '700' },
   sectionLabel: { fontSize: 13, color: colors.inkMuted, marginTop: spacing.sm, textAlign: 'center' },
+  sayItPrompt: {
+    fontSize: 18,
+    fontWeight: '800',
+    color: colors.primaryDark,
+    backgroundColor: colors.primarySoft,
+    paddingVertical: 8,
+    paddingHorizontal: 18,
+    borderRadius: 999,
+    overflow: 'hidden',
+    marginTop: 4,
+  },
   quizBtn: {
     backgroundColor: colors.primary,
     paddingVertical: spacing.md,

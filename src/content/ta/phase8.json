@@ -1,0 +1,171 @@
+{
+  "language": "ta",
+  "phase": 8,
+  "title": "பேசுதல்",
+  "lessons": [
+    {
+      "id": "ta-p8-l1",
+      "title": "வணக்கம் சொற்றொடர்கள்",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "வணக்கம்!",
+          "name": "vanakkam",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "காலை வணக்கம்.",
+          "name": "morning",
+          "exampleWord": "am greet"
+        },
+        {
+          "glyph": "எப்படி இருக்கிறீர்கள்?",
+          "name": "question",
+          "exampleWord": "ask"
+        },
+        {
+          "glyph": "நான் நலமாக இருக்கிறேன்.",
+          "name": "reply",
+          "exampleWord": "ok"
+        },
+        {
+          "glyph": "நன்றி.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "போய் வருகிறேன்!",
+          "name": "bye"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"வணக்கம்!\" க்கு பதில்?",
+          "options": [
+            "வணக்கம்!",
+            "நன்றி",
+            "நலம்",
+            "போய் வருகிறேன்"
+          ],
+          "answer": "வணக்கம்!"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l2",
+      "title": "எளிய கேள்விகள்",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "உனது பெயர் என்ன?",
+          "name": "q",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "என் பெயர் தாரா.",
+          "name": "a",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "நீ எங்கு வசிக்கிறாய்?",
+          "name": "q",
+          "exampleWord": "where"
+        },
+        {
+          "glyph": "நான் சென்னையில் வசிக்கிறேன்.",
+          "name": "a",
+          "exampleWord": "reply"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"உனது பெயர் என்ன?\" க்கு பதில்?",
+          "options": [
+            "என் பெயர் தாரா.",
+            "நான் நலம்",
+            "நன்றி",
+            "அங்கு"
+          ],
+          "answer": "என் பெயர் தாரா."
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l3",
+      "title": "விருப்பம் / தேவை",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "எனக்கு பழம் பிடிக்கும்.",
+          "name": "like"
+        },
+        {
+          "glyph": "எனக்கு காரம் பிடிக்காது.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "எனக்கு தண்ணீர் வேண்டும்.",
+          "name": "want"
+        },
+        {
+          "glyph": "எனக்கு உதவி தேவை.",
+          "name": "need"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"எனக்கு தண்ணீர் வேண்டும்\" என்பதன் பொருள்?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I want sleep"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ta-p8-l4",
+      "title": "குறும் உரையாடல்",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A: வணக்கம், நண்பா!",
+          "name": ""
+        },
+        {
+          "glyph": "B: வணக்கம்! எப்படி இருக்கிறாய்?",
+          "name": ""
+        },
+        {
+          "glyph": "A: இன்று மகிழ்ச்சியாக இருக்கிறேன்.",
+          "name": ""
+        },
+        {
+          "glyph": "B: அருமை!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "இன்று மகிழ்ச்சியில் யார்?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        }
+      ]
+    }
+  ]
+}

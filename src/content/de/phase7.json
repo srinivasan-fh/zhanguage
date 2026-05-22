@@ -1,0 +1,149 @@
+{
+  "language": "de",
+  "phase": 7,
+  "title": "Lesen",
+  "lessons": [
+    {
+      "id": "de-p7-l1",
+      "title": "Einfache Sätze",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Die Katze sitzt auf der Matte.",
+          "name": "s1"
+        },
+        {
+          "glyph": "Ich sehe einen roten Ball.",
+          "name": "s2"
+        },
+        {
+          "glyph": "Vögel fliegen am Himmel.",
+          "name": "s3"
+        },
+        {
+          "glyph": "Mama kocht leckeres Essen.",
+          "name": "s4"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer sitzt auf der Matte?",
+          "options": [
+            "Die Katze",
+            "Der Hund",
+            "Der Vogel",
+            "Der Fisch"
+          ],
+          "answer": "Die Katze"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat der Ball?",
+          "options": [
+            "Rot",
+            "Blau",
+            "Gelb",
+            "Grün"
+          ],
+          "answer": "Rot"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l2",
+      "title": "Kleiner Absatz",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Tim hat einen Hund. Er heißt Bello. Bello ist braun und freundlich. Sie spielen jeden Abend im Park.",
+          "name": "paragraph"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie heißt der Hund?",
+          "options": [
+            "Bello",
+            "Rex",
+            "Max",
+            "Lucky"
+          ],
+          "answer": "Bello"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Welche Farbe hat Bello?",
+          "options": [
+            "Braun",
+            "Schwarz",
+            "Weiß",
+            "Grau"
+          ],
+          "answer": "Braun"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l3",
+      "title": "Dialog",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Anna: Hallo! Wie heißt du?",
+          "name": "l1"
+        },
+        {
+          "glyph": "Ben: Ich heiße Ben.",
+          "name": "l2"
+        },
+        {
+          "glyph": "Anna: Schön, dich kennenzulernen!",
+          "name": "l3"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wie heißt der Junge?",
+          "options": [
+            "Ben",
+            "Sam",
+            "Tom",
+            "Max"
+          ],
+          "answer": "Ben"
+        }
+      ]
+    },
+    {
+      "id": "de-p7-l4",
+      "title": "Der Fuchs und die Trauben",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ein schlauer Fuchs sah Trauben an einem hohen Weinstock. Er sprang und sprang, konnte sie aber nicht erreichen. Da sagte er: \"Die Trauben sind sowieso sauer!\" und ging weg.",
+          "name": "story"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Was sah der Fuchs?",
+          "options": [
+            "Trauben",
+            "Äpfel",
+            "Pflaumen",
+            "Honig"
+          ],
+          "answer": "Trauben"
+        }
+      ]
+    }
+  ]
+}

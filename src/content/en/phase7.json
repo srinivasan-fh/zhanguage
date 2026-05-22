@@ -1,0 +1,218 @@
+{
+  "language": "en",
+  "phase": 7,
+  "title": "Reading",
+  "lessons": [
+    {
+      "id": "en-p7-l1",
+      "title": "Simple sentences",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "The cat sat on the mat.",
+          "name": "sentence 1",
+          "exampleWord": "pet on rug"
+        },
+        {
+          "glyph": "I see a red ball.",
+          "name": "sentence 2",
+          "exampleWord": "a toy"
+        },
+        {
+          "glyph": "Birds fly in the sky.",
+          "name": "sentence 3",
+          "exampleWord": "in the air"
+        },
+        {
+          "glyph": "Mom cooks tasty food.",
+          "name": "sentence 4",
+          "exampleWord": "kitchen scene"
+        },
+        {
+          "glyph": "We go to school every day.",
+          "name": "sentence 5",
+          "exampleWord": "daily routine"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who sat on the mat?",
+          "options": [
+            "The cat",
+            "The dog",
+            "The bird",
+            "The fish"
+          ],
+          "answer": "The cat"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is the ball?",
+          "options": [
+            "Red",
+            "Blue",
+            "Yellow",
+            "Green"
+          ],
+          "answer": "Red"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Where do birds fly?",
+          "options": [
+            "In the sky",
+            "In water",
+            "In sand",
+            "In bed"
+          ],
+          "answer": "In the sky"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l2",
+      "title": "A small paragraph",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Tim has a dog named Spot. Spot is brown and friendly. They play in the park every evening.",
+          "name": "paragraph",
+          "exampleWord": "Tim & Spot"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What is the dog’s name?",
+          "options": [
+            "Spot",
+            "Rex",
+            "Buddy",
+            "Max"
+          ],
+          "answer": "Spot"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What colour is Spot?",
+          "options": [
+            "Brown",
+            "Black",
+            "White",
+            "Grey"
+          ],
+          "answer": "Brown"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "When do they play?",
+          "options": [
+            "Every evening",
+            "Every morning",
+            "At night",
+            "At noon"
+          ],
+          "answer": "Every evening"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l3",
+      "title": "A short dialogue",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Anna: Hello! What is your name?",
+          "name": "line 1",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Ben: My name is Ben.",
+          "name": "line 2",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "Anna: Nice to meet you, Ben!",
+          "name": "line 3",
+          "exampleWord": "response"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who started the talk?",
+          "options": [
+            "Anna",
+            "Ben",
+            "Mom",
+            "Tom"
+          ],
+          "answer": "Anna"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What is the boy’s name?",
+          "options": [
+            "Ben",
+            "Sam",
+            "Jack",
+            "Tim"
+          ],
+          "answer": "Ben"
+        }
+      ]
+    },
+    {
+      "id": "en-p7-l4",
+      "title": "Tiny folk-tale",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A clever fox saw grapes on a tall vine. He jumped and jumped but could not reach them. So he said, \"They are sour anyway!\" and walked away.",
+          "name": "story",
+          "exampleWord": "fox & grapes"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What did the fox see?",
+          "options": [
+            "Grapes",
+            "Apples",
+            "Plums",
+            "Honey"
+          ],
+          "answer": "Grapes"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Could he reach them?",
+          "options": [
+            "No",
+            "Yes",
+            "Maybe",
+            "Only the small ones"
+          ],
+          "answer": "No"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "What did he say?",
+          "options": [
+            "They are sour",
+            "They are sweet",
+            "I am tired",
+            "I will try again"
+          ],
+          "answer": "They are sour"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "language": "en",
+  "phase": 8,
+  "title": "Speaking",
+  "lessons": [
+    {
+      "id": "en-p8-l1",
+      "title": "Greetings",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Hello!",
+          "name": "Hello",
+          "exampleWord": "greeting"
+        },
+        {
+          "glyph": "Good morning.",
+          "name": "greet",
+          "exampleWord": "morning"
+        },
+        {
+          "glyph": "How are you?",
+          "name": "question",
+          "exampleWord": "ask wellbeing"
+        },
+        {
+          "glyph": "I am fine.",
+          "name": "reply",
+          "exampleWord": "answer"
+        },
+        {
+          "glyph": "Thank you.",
+          "name": "thanks",
+          "exampleWord": "say thanks"
+        },
+        {
+          "glyph": "Goodbye!",
+          "name": "farewell",
+          "exampleWord": "leave"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"Hello!\"",
+          "options": [
+            "Hello!",
+            "Goodbye",
+            "I am fine",
+            "Thanks"
+          ],
+          "answer": "Hello!"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to: \"How are you?\"",
+          "options": [
+            "I am fine",
+            "Goodbye",
+            "Hello",
+            "You are kind"
+          ],
+          "answer": "I am fine"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l2",
+      "title": "Simple questions",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "What is your name?",
+          "name": "question",
+          "exampleWord": "ask name"
+        },
+        {
+          "glyph": "My name is Tara.",
+          "name": "answer",
+          "exampleWord": "reply"
+        },
+        {
+          "glyph": "Where do you live?",
+          "name": "question",
+          "exampleWord": "ask city"
+        },
+        {
+          "glyph": "I live in Chennai.",
+          "name": "answer",
+          "exampleWord": "reply"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Reply to \"What is your name?\"",
+          "options": [
+            "My name is Tara",
+            "I live here",
+            "I am fine",
+            "See you"
+          ],
+          "answer": "My name is Tara"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l3",
+      "title": "I like / I want",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I like apples.",
+          "name": "prefer",
+          "exampleWord": "liking"
+        },
+        {
+          "glyph": "I don’t like spicy food.",
+          "name": "prefer",
+          "exampleWord": "dislike"
+        },
+        {
+          "glyph": "I want some water.",
+          "name": "request",
+          "exampleWord": "want"
+        },
+        {
+          "glyph": "I need help.",
+          "name": "request",
+          "exampleWord": "need"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Means: I want water",
+          "options": [
+            "I want some water",
+            "I like fruit",
+            "I am tired",
+            "I need help"
+          ],
+          "answer": "I want some water"
+        }
+      ]
+    },
+    {
+      "id": "en-p8-l4",
+      "title": "Short conversation",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A: Hello, friend!",
+          "name": "line"
+        },
+        {
+          "glyph": "B: Hello! How are you?",
+          "name": "line"
+        },
+        {
+          "glyph": "A: I am happy today.",
+          "name": "line"
+        },
+        {
+          "glyph": "B: That is great!",
+          "name": "line"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Who is happy today?",
+          "options": [
+            "A",
+            "B",
+            "Mom",
+            "Friend"
+          ],
+          "answer": "A"
+        }
+      ]
+    }
+  ]
+}

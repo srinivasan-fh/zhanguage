@@ -1,0 +1,163 @@
+{
+  "language": "hi",
+  "phase": 8,
+  "title": "बोलना",
+  "lessons": [
+    {
+      "id": "hi-p8-l1",
+      "title": "अभिवादन",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "नमस्ते!",
+          "name": "greet"
+        },
+        {
+          "glyph": "सुप्रभात!",
+          "name": "am greet"
+        },
+        {
+          "glyph": "आप कैसे हैं?",
+          "name": "question"
+        },
+        {
+          "glyph": "मैं ठीक हूँ।",
+          "name": "reply"
+        },
+        {
+          "glyph": "धन्यवाद।",
+          "name": "thanks"
+        },
+        {
+          "glyph": "अलविदा!",
+          "name": "bye"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"आप कैसे हैं?\" का उत्तर?",
+          "options": [
+            "मैं ठीक हूँ",
+            "नमस्ते",
+            "धन्यवाद",
+            "अलविदा"
+          ],
+          "answer": "मैं ठीक हूँ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l2",
+      "title": "सरल प्रश्न",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "तुम्हारा नाम क्या है?",
+          "name": "q"
+        },
+        {
+          "glyph": "मेरा नाम तारा है।",
+          "name": "a"
+        },
+        {
+          "glyph": "तुम कहाँ रहते हो?",
+          "name": "q"
+        },
+        {
+          "glyph": "मैं चेन्नई में रहता हूँ।",
+          "name": "a"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"तुम्हारा नाम क्या है?\" का उत्तर?",
+          "options": [
+            "मेरा नाम तारा है।",
+            "मैं ठीक हूँ",
+            "धन्यवाद",
+            "अलविदा"
+          ],
+          "answer": "मेरा नाम तारा है।"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l3",
+      "title": "पसंद / ज़रूरत",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "मुझे फल पसंद हैं।",
+          "name": "like"
+        },
+        {
+          "glyph": "मुझे तीखा पसंद नहीं।",
+          "name": "dislike"
+        },
+        {
+          "glyph": "मुझे पानी चाहिए।",
+          "name": "want"
+        },
+        {
+          "glyph": "मुझे मदद चाहिए।",
+          "name": "need"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"मुझे पानी चाहिए\" का अर्थ?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "hi-p8-l4",
+      "title": "छोटी बातचीत",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A: नमस्ते दोस्त!",
+          "name": ""
+        },
+        {
+          "glyph": "B: नमस्ते! कैसे हो?",
+          "name": ""
+        },
+        {
+          "glyph": "A: मैं आज खुश हूँ।",
+          "name": ""
+        },
+        {
+          "glyph": "B: बहुत अच्छा!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "आज खुश कौन है?",
+          "options": [
+            "A",
+            "B",
+            "माँ",
+            "दोस्त"
+          ],
+          "answer": "A"
+        }
+      ]
+    }
+  ]
+}

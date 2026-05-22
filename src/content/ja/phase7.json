@@ -1,0 +1,149 @@
+{
+  "language": "ja",
+  "phase": 7,
+  "title": "読むこと (Reading)",
+  "lessons": [
+    {
+      "id": "ja-p7-l1",
+      "title": "みじかい ぶん",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ねこが マットに すわって います。",
+          "name": "s1"
+        },
+        {
+          "glyph": "わたしは あかい ボールを みます。",
+          "name": "s2"
+        },
+        {
+          "glyph": "とりが そらを とびます。",
+          "name": "s3"
+        },
+        {
+          "glyph": "おかあさんは おいしい たべものを つくります。",
+          "name": "s4"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "マットに いるのは?",
+          "options": [
+            "ねこ",
+            "いぬ",
+            "とり",
+            "さかな"
+          ],
+          "answer": "ねこ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ボールの いろは?",
+          "options": [
+            "あかい",
+            "あおい",
+            "きいろい",
+            "みどり"
+          ],
+          "answer": "あかい"
+        }
+      ]
+    },
+    {
+      "id": "ja-p7-l2",
+      "title": "みじかい だんらく",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ゆうきには こいぬが います。なまえは ポチです。ポチは くろい いろで やさしいです。まいばん こうえんで あそびます。",
+          "name": "paragraph"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "こいぬの なまえは?",
+          "options": [
+            "ポチ",
+            "タロ",
+            "チビ",
+            "ハナ"
+          ],
+          "answer": "ポチ"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "ポチの いろは?",
+          "options": [
+            "くろ",
+            "しろ",
+            "ちゃいろ",
+            "はいいろ"
+          ],
+          "answer": "くろ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p7-l3",
+      "title": "かいわ",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "あおい: こんにちは! おなまえは?",
+          "name": "l1"
+        },
+        {
+          "glyph": "はると: ぼくは はるとです。",
+          "name": "l2"
+        },
+        {
+          "glyph": "あおい: はじめまして!",
+          "name": "l3"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "おとこのこの なまえは?",
+          "options": [
+            "はると",
+            "たくみ",
+            "ゆうき",
+            "そら"
+          ],
+          "answer": "はると"
+        }
+      ]
+    },
+    {
+      "id": "ja-p7-l4",
+      "title": "きつねと ぶどう",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "かしこい きつねが たかい つるの ぶどうを みました。なんども ジャンプしましたが とどきません。「あの ぶどうは すっぱいよ!」と いって いなくなりました。",
+          "name": "story"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "きつねが みたのは?",
+          "options": [
+            "ぶどう",
+            "りんご",
+            "ばなな",
+            "みかん"
+          ],
+          "answer": "ぶどう"
+        }
+      ]
+    }
+  ]
+}

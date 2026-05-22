@@ -1,0 +1,163 @@
+{
+  "language": "de",
+  "phase": 8,
+  "title": "Sprechen",
+  "lessons": [
+    {
+      "id": "de-p8-l1",
+      "title": "Begrüßungen",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Hallo!",
+          "name": "hello"
+        },
+        {
+          "glyph": "Guten Morgen!",
+          "name": "morning"
+        },
+        {
+          "glyph": "Wie geht es dir?",
+          "name": "question"
+        },
+        {
+          "glyph": "Mir geht es gut.",
+          "name": "reply"
+        },
+        {
+          "glyph": "Danke.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "Auf Wiedersehen!",
+          "name": "bye"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie geht es dir?\"",
+          "options": [
+            "Mir geht es gut",
+            "Hallo",
+            "Danke",
+            "Tschüss"
+          ],
+          "answer": "Mir geht es gut"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l2",
+      "title": "Einfache Fragen",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Wie heißt du?",
+          "name": "q"
+        },
+        {
+          "glyph": "Ich heiße Lara.",
+          "name": "a"
+        },
+        {
+          "glyph": "Wo wohnst du?",
+          "name": "q"
+        },
+        {
+          "glyph": "Ich wohne in Berlin.",
+          "name": "a"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Antwort auf \"Wie heißt du?\"",
+          "options": [
+            "Ich heiße Lara",
+            "Mir geht es gut",
+            "Danke",
+            "Hallo"
+          ],
+          "answer": "Ich heiße Lara"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l3",
+      "title": "Ich mag / Ich möchte",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ich mag Äpfel.",
+          "name": "like"
+        },
+        {
+          "glyph": "Ich mag scharfes Essen nicht.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "Ich möchte Wasser.",
+          "name": "want"
+        },
+        {
+          "glyph": "Ich brauche Hilfe.",
+          "name": "need"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Bedeutung \"Ich möchte Wasser\":",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "de-p8-l4",
+      "title": "Kurzer Dialog",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A: Hallo Freund!",
+          "name": ""
+        },
+        {
+          "glyph": "B: Hallo! Wie geht es dir?",
+          "name": ""
+        },
+        {
+          "glyph": "A: Ich bin heute glücklich.",
+          "name": ""
+        },
+        {
+          "glyph": "B: Toll!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Wer ist heute glücklich?",
+          "options": [
+            "A",
+            "B",
+            "Mama",
+            "Lehrer"
+          ],
+          "answer": "A"
+        }
+      ]
+    }
+  ]
+}

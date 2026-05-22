@@ -1,0 +1,149 @@
+{
+  "language": "zh",
+  "phase": 7,
+  "title": "阅读 (Reading)",
+  "lessons": [
+    {
+      "id": "zh-p7-l1",
+      "title": "短句",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "猫坐在垫子上。",
+          "name": "sentence 1"
+        },
+        {
+          "glyph": "我看见一个红球。",
+          "name": "sentence 2"
+        },
+        {
+          "glyph": "鸟在天上飞。",
+          "name": "sentence 3"
+        },
+        {
+          "glyph": "妈妈做好吃的菜。",
+          "name": "sentence 4"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "谁坐在垫子上?",
+          "options": [
+            "猫",
+            "狗",
+            "鸟",
+            "鱼"
+          ],
+          "answer": "猫"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "球是什么颜色?",
+          "options": [
+            "红色",
+            "蓝色",
+            "黄色",
+            "绿色"
+          ],
+          "answer": "红色"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l2",
+      "title": "短段",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "小明有一只小狗,叫旺旺。旺旺是黑色的。他们每天早上一起跑步。",
+          "name": "paragraph"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小狗叫什么?",
+          "options": [
+            "旺旺",
+            "花花",
+            "可乐",
+            "点点"
+          ],
+          "answer": "旺旺"
+        },
+        {
+          "kind": "tap-the-sound",
+          "prompt": "小狗什么颜色?",
+          "options": [
+            "黑色",
+            "白色",
+            "棕色",
+            "灰色"
+          ],
+          "answer": "黑色"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l3",
+      "title": "对话",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "安: 你好! 你叫什么名字?",
+          "name": "l1"
+        },
+        {
+          "glyph": "林: 我叫小林。",
+          "name": "l2"
+        },
+        {
+          "glyph": "安: 很高兴认识你!",
+          "name": "l3"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "男孩叫什么?",
+          "options": [
+            "小林",
+            "小红",
+            "小明",
+            "小华"
+          ],
+          "answer": "小林"
+        }
+      ]
+    },
+    {
+      "id": "zh-p7-l4",
+      "title": "狐狸与葡萄",
+      "type": "read",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "一只聪明的狐狸看到高处的葡萄。它跳啊跳, 还是够不到。它说: \"葡萄一定是酸的!\" 然后走了。",
+          "name": "story"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "狐狸看见了什么?",
+          "options": [
+            "葡萄",
+            "苹果",
+            "香蕉",
+            "梨"
+          ],
+          "answer": "葡萄"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "language": "ko",
+  "phase": 8,
+  "title": "말하기 (Speaking)",
+  "lessons": [
+    {
+      "id": "ko-p8-l1",
+      "title": "인사",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "안녕하세요!",
+          "name": "hello"
+        },
+        {
+          "glyph": "좋은 아침이에요.",
+          "name": "morning"
+        },
+        {
+          "glyph": "어떻게 지내세요?",
+          "name": "question"
+        },
+        {
+          "glyph": "저는 잘 지내요.",
+          "name": "reply"
+        },
+        {
+          "glyph": "감사합니다.",
+          "name": "thanks"
+        },
+        {
+          "glyph": "안녕히 가세요!",
+          "name": "bye"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"어떻게 지내세요?\" 답?",
+          "options": [
+            "저는 잘 지내요",
+            "안녕",
+            "감사합니다",
+            "잘 가요"
+          ],
+          "answer": "저는 잘 지내요"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l2",
+      "title": "간단한 질문",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "이름이 뭐예요?",
+          "name": "q"
+        },
+        {
+          "glyph": "저는 민지예요.",
+          "name": "a"
+        },
+        {
+          "glyph": "어디에 살아요?",
+          "name": "q"
+        },
+        {
+          "glyph": "서울에 살아요.",
+          "name": "a"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"이름이 뭐예요?\" 답?",
+          "options": [
+            "저는 민지예요",
+            "잘 지내요",
+            "감사합니다",
+            "안녕"
+          ],
+          "answer": "저는 민지예요"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l3",
+      "title": "좋아해요 / 원해요",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "저는 사과를 좋아해요.",
+          "name": "like"
+        },
+        {
+          "glyph": "저는 매운 것을 안 좋아해요.",
+          "name": "dislike"
+        },
+        {
+          "glyph": "물을 마시고 싶어요.",
+          "name": "want"
+        },
+        {
+          "glyph": "도움이 필요해요.",
+          "name": "need"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "\"물을 마시고 싶어요\"의 뜻?",
+          "options": [
+            "I want water",
+            "I like fruit",
+            "I am tired",
+            "I am happy"
+          ],
+          "answer": "I want water"
+        }
+      ]
+    },
+    {
+      "id": "ko-p8-l4",
+      "title": "짧은 대화",
+      "type": "speak",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "A: 안녕, 친구!",
+          "name": ""
+        },
+        {
+          "glyph": "B: 안녕! 잘 지내?",
+          "name": ""
+        },
+        {
+          "glyph": "A: 오늘 기뻐!",
+          "name": ""
+        },
+        {
+          "glyph": "B: 좋다!",
+          "name": ""
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "오늘 기쁜 사람?",
+          "options": [
+            "A",
+            "B",
+            "엄마",
+            "친구"
+          ],
+          "answer": "A"
+        }
+      ]
+    }
+  ]
+}

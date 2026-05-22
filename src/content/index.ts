@@ -62,6 +62,22 @@ import deP6 from './de/phase6.json';
 import zhP6 from './zh/phase6.json';
 import koP6 from './ko/phase6.json';
 
+import enP7 from './en/phase7.json';
+import taP7 from './ta/phase7.json';
+import hiP7 from './hi/phase7.json';
+import jaP7 from './ja/phase7.json';
+import deP7 from './de/phase7.json';
+import zhP7 from './zh/phase7.json';
+import koP7 from './ko/phase7.json';
+
+import enP8 from './en/phase8.json';
+import taP8 from './ta/phase8.json';
+import hiP8 from './hi/phase8.json';
+import jaP8 from './ja/phase8.json';
+import deP8 from './de/phase8.json';
+import zhP8 from './zh/phase8.json';
+import koP8 from './ko/phase8.json';
+
 type ContentMap = {
   [lang in LanguageCode]?: {
     [phase: number]: PhasePack;
@@ -69,13 +85,13 @@ type ContentMap = {
 };
 
 const CONTENT: ContentMap = {
-  en:  { 1: enP1  as PhasePack, 2: enP2 as PhasePack, 3: enP3 as PhasePack, 4: enP4 as PhasePack, 5: enP5 as PhasePack, 6: enP6 as PhasePack },
-  ta:  { 1: taP1  as PhasePack, 2: taP2 as PhasePack, 3: taP3 as PhasePack, 4: taP4 as PhasePack, 5: taP5 as PhasePack, 6: taP6 as PhasePack },
-  hi:  { 1: hiP1  as PhasePack, 2: hiP2 as PhasePack, 3: hiP3 as PhasePack, 4: hiP4 as PhasePack, 5: hiP5 as PhasePack, 6: hiP6 as PhasePack },
-  ja:  { 1: jaP1  as PhasePack, 2: jaP2 as PhasePack, 3: jaP3 as PhasePack, 4: jaP4 as PhasePack, 5: jaP5 as PhasePack, 6: jaP6 as PhasePack },
-  de:  { 1: deP1  as PhasePack, 2: deP2 as PhasePack, 3: deP3 as PhasePack, 4: deP4 as PhasePack, 5: deP5 as PhasePack, 6: deP6 as PhasePack },
-  zh:  { 1: zhP1  as PhasePack, 2: zhP2 as PhasePack, 3: zhP3 as PhasePack, 4: zhP4 as PhasePack, 5: zhP5 as PhasePack, 6: zhP6 as PhasePack },
-  ko:  { 1: koP1  as PhasePack, 2: koP2 as PhasePack, 3: koP3 as PhasePack, 4: koP4 as PhasePack, 5: koP5 as PhasePack, 6: koP6 as PhasePack },
+  en:  { 1: enP1 as PhasePack, 2: enP2 as PhasePack, 3: enP3 as PhasePack, 4: enP4 as PhasePack, 5: enP5 as PhasePack, 6: enP6 as PhasePack, 7: enP7 as PhasePack, 8: enP8 as PhasePack },
+  ta:  { 1: taP1 as PhasePack, 2: taP2 as PhasePack, 3: taP3 as PhasePack, 4: taP4 as PhasePack, 5: taP5 as PhasePack, 6: taP6 as PhasePack, 7: taP7 as PhasePack, 8: taP8 as PhasePack },
+  hi:  { 1: hiP1 as PhasePack, 2: hiP2 as PhasePack, 3: hiP3 as PhasePack, 4: hiP4 as PhasePack, 5: hiP5 as PhasePack, 6: hiP6 as PhasePack, 7: hiP7 as PhasePack, 8: hiP8 as PhasePack },
+  ja:  { 1: jaP1 as PhasePack, 2: jaP2 as PhasePack, 3: jaP3 as PhasePack, 4: jaP4 as PhasePack, 5: jaP5 as PhasePack, 6: jaP6 as PhasePack, 7: jaP7 as PhasePack, 8: jaP8 as PhasePack },
+  de:  { 1: deP1 as PhasePack, 2: deP2 as PhasePack, 3: deP3 as PhasePack, 4: deP4 as PhasePack, 5: deP5 as PhasePack, 6: deP6 as PhasePack, 7: deP7 as PhasePack, 8: deP8 as PhasePack },
+  zh:  { 1: zhP1 as PhasePack, 2: zhP2 as PhasePack, 3: zhP3 as PhasePack, 4: zhP4 as PhasePack, 5: zhP5 as PhasePack, 6: zhP6 as PhasePack, 7: zhP7 as PhasePack, 8: zhP8 as PhasePack },
+  ko:  { 1: koP1 as PhasePack, 2: koP2 as PhasePack, 3: koP3 as PhasePack, 4: koP4 as PhasePack, 5: koP5 as PhasePack, 6: koP6 as PhasePack, 7: koP7 as PhasePack, 8: koP8 as PhasePack },
   es:  { 1: esP1  as PhasePack },
   fr:  { 1: frP1  as PhasePack },
   ar:  { 1: arP1  as PhasePack },
