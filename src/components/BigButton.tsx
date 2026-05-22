@@ -54,7 +54,8 @@ const styles = StyleSheet.create({
     borderRadius: radii.pill,
     alignItems: 'center',
     justifyContent: 'center',
-    overflow: 'hidden',
+    // Shine child has its own matching pill corners, so we don't need
+    // overflow:hidden — which on Android + elevation causes an inner halo.
     borderWidth: 1,
     borderColor: 'rgba(255,255,255,0.35)',
   },

@@ -151,7 +151,6 @@ const styles = StyleSheet.create({
     borderRadius: radii.lg,
     borderWidth: 1,
     borderColor: colors.glassEdge,
-    overflow: 'hidden',
     alignItems: 'center',
     justifyContent: 'center',
     ...e3,

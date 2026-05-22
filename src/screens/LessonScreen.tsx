@@ -188,16 +188,9 @@ const styles = StyleSheet.create({
     paddingBottom: spacing.md,
     borderWidth: 1,
     borderColor: colors.glassEdge,
-    overflow: 'hidden',
+    // No overflow:hidden — combined with elevation it creates an antialiased
+    // halo on Android and makes the card look two-toned.
     ...e2,
-  },
-  cardShine: {
-    position: 'absolute',
-    top: 0,
-    left: 0,
-    right: 0,
-    height: 36,
-    backgroundColor: 'rgba(255,255,255,0.35)',
   },
   glyphBox: {
     flex: 1,
