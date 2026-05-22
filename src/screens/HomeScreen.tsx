@@ -82,7 +82,7 @@ export function HomeScreen({ navigation }: Props) {
 
         <View style={styles.dividerRow}>
           <View style={[styles.divider, styles.dividerSacred]} />
-          <Text style={[styles.dividerLabel, styles.dividerLabelSacred]}>Divine · Sacred Connection</Text>
+          <Text style={[styles.dividerLabel, styles.dividerLabelSacred]}>Ancient Dead Languages</Text>
           <View style={[styles.divider, styles.dividerSacred]} />
         </View>
 
