@@ -17,7 +17,7 @@ export function AlphabetScreen({ navigation, route }: Props) {
   const meta = LANGUAGES.find((l) => l.code === language)!;
   const all = useMemo(() => getLetters(language, phase), [language, phase]);
   const sections = useMemo(() => getSections(language, phase), [language, phase]);
-  const itemNoun = phase === 1 ? 'letters' : phase === 2 ? 'words' : 'items';
+  const itemNoun = phase === 1 ? 'letters' : phase <= 4 ? 'words' : 'items';
 
   const activeId = useAppSelector(selectActiveProfileId);
   const lettersSeen = useAppSelector((s: RootState) =>

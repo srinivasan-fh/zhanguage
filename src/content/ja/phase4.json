@@ -1,0 +1,291 @@
+{
+  "language": "ja",
+  "phase": 4,
+  "title": "4-5 文字の言葉",
+  "lessons": [
+    {
+      "id": "ja-p4-l1",
+      "title": "動物",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ぞう",
+          "name": "zō",
+          "exampleWord": "elephant"
+        },
+        {
+          "glyph": "きりん",
+          "name": "kirin",
+          "exampleWord": "giraffe"
+        },
+        {
+          "glyph": "らくだ",
+          "name": "rakuda",
+          "exampleWord": "camel"
+        },
+        {
+          "glyph": "くじら",
+          "name": "kujira",
+          "exampleWord": "whale"
+        },
+        {
+          "glyph": "いるか",
+          "name": "iruka",
+          "exampleWord": "dolphin"
+        },
+        {
+          "glyph": "ぺんぎん",
+          "name": "pengin",
+          "exampleWord": "penguin"
+        },
+        {
+          "glyph": "ちょうちょう",
+          "name": "chōchō",
+          "exampleWord": "butterfly"
+        },
+        {
+          "glyph": "かたつむり",
+          "name": "katatsumuri",
+          "exampleWord": "snail"
+        },
+        {
+          "glyph": "しまうま",
+          "name": "shimauma",
+          "exampleWord": "zebra"
+        },
+        {
+          "glyph": "にわとり",
+          "name": "niwatori",
+          "exampleWord": "chicken"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "ぞう",
+            "きりん",
+            "らくだ",
+            "くじら"
+          ],
+          "answer": "ぞう"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l2",
+      "title": "食べ物",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "りんご",
+          "name": "ringo",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "ばなな",
+          "name": "banana",
+          "exampleWord": "banana"
+        },
+        {
+          "glyph": "みかん",
+          "name": "mikan",
+          "exampleWord": "mandarin"
+        },
+        {
+          "glyph": "すいか",
+          "name": "suika",
+          "exampleWord": "watermelon"
+        },
+        {
+          "glyph": "いちご",
+          "name": "ichigo",
+          "exampleWord": "strawberry"
+        },
+        {
+          "glyph": "ぱん",
+          "name": "pan",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "ぴざ",
+          "name": "piza",
+          "exampleWord": "pizza"
+        },
+        {
+          "glyph": "けーき",
+          "name": "kēki",
+          "exampleWord": "cake"
+        },
+        {
+          "glyph": "らーめん",
+          "name": "rāmen",
+          "exampleWord": "ramen"
+        },
+        {
+          "glyph": "すし",
+          "name": "sushi",
+          "exampleWord": "sushi"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'apple'?",
+          "options": [
+            "りんご",
+            "ばなな",
+            "みかん",
+            "すいか"
+          ],
+          "answer": "りんご"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l3",
+      "title": "家で",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "いす",
+          "name": "isu",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "つくえ",
+          "name": "tsukue",
+          "exampleWord": "desk"
+        },
+        {
+          "glyph": "まど",
+          "name": "mado",
+          "exampleWord": "window"
+        },
+        {
+          "glyph": "ドア",
+          "name": "doa",
+          "exampleWord": "door"
+        },
+        {
+          "glyph": "でんわ",
+          "name": "denwa",
+          "exampleWord": "phone"
+        },
+        {
+          "glyph": "かばん",
+          "name": "kaban",
+          "exampleWord": "bag"
+        },
+        {
+          "glyph": "くるま",
+          "name": "kuruma",
+          "exampleWord": "car"
+        },
+        {
+          "glyph": "じてんしゃ",
+          "name": "jitensha",
+          "exampleWord": "bicycle"
+        },
+        {
+          "glyph": "ほん",
+          "name": "hon",
+          "exampleWord": "book"
+        },
+        {
+          "glyph": "えんぴつ",
+          "name": "enpitsu",
+          "exampleWord": "pencil"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "いす",
+            "つくえ",
+            "まど",
+            "ドア"
+          ],
+          "answer": "いす"
+        }
+      ]
+    },
+    {
+      "id": "ja-p4-l4",
+      "title": "自然",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "にじ",
+          "name": "niji",
+          "exampleWord": "rainbow"
+        },
+        {
+          "glyph": "たいよう",
+          "name": "taiyō",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "せかい",
+          "name": "sekai",
+          "exampleWord": "world"
+        },
+        {
+          "glyph": "うちゅう",
+          "name": "uchū",
+          "exampleWord": "space"
+        },
+        {
+          "glyph": "もり",
+          "name": "mori",
+          "exampleWord": "forest"
+        },
+        {
+          "glyph": "さばく",
+          "name": "sabaku",
+          "exampleWord": "desert"
+        },
+        {
+          "glyph": "かざん",
+          "name": "kazan",
+          "exampleWord": "volcano"
+        },
+        {
+          "glyph": "みずうみ",
+          "name": "mizuumi",
+          "exampleWord": "lake"
+        },
+        {
+          "glyph": "たき",
+          "name": "taki",
+          "exampleWord": "waterfall"
+        },
+        {
+          "glyph": "ゆきだるま",
+          "name": "yukidaruma",
+          "exampleWord": "snowman"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "にじ",
+            "たいよう",
+            "せかい",
+            "うちゅう"
+          ],
+          "answer": "にじ"
+        }
+      ]
+    }
+  ]
+}

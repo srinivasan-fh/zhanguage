@@ -30,6 +30,22 @@ import deP2 from './de/phase2.json';
 import zhP2 from './zh/phase2.json';
 import koP2 from './ko/phase2.json';
 
+import enP3 from './en/phase3.json';
+import taP3 from './ta/phase3.json';
+import hiP3 from './hi/phase3.json';
+import jaP3 from './ja/phase3.json';
+import deP3 from './de/phase3.json';
+import zhP3 from './zh/phase3.json';
+import koP3 from './ko/phase3.json';
+
+import enP4 from './en/phase4.json';
+import taP4 from './ta/phase4.json';
+import hiP4 from './hi/phase4.json';
+import jaP4 from './ja/phase4.json';
+import deP4 from './de/phase4.json';
+import zhP4 from './zh/phase4.json';
+import koP4 from './ko/phase4.json';
+
 type ContentMap = {
   [lang in LanguageCode]?: {
     [phase: number]: PhasePack;
@@ -37,13 +53,13 @@ type ContentMap = {
 };
 
 const CONTENT: ContentMap = {
-  en:  { 1: enP1  as PhasePack, 2: enP2 as PhasePack },
-  ta:  { 1: taP1  as PhasePack, 2: taP2 as PhasePack },
-  hi:  { 1: hiP1  as PhasePack, 2: hiP2 as PhasePack },
-  ja:  { 1: jaP1  as PhasePack, 2: jaP2 as PhasePack },
-  de:  { 1: deP1  as PhasePack, 2: deP2 as PhasePack },
-  zh:  { 1: zhP1  as PhasePack, 2: zhP2 as PhasePack },
-  ko:  { 1: koP1  as PhasePack, 2: koP2 as PhasePack },
+  en:  { 1: enP1  as PhasePack, 2: enP2 as PhasePack, 3: enP3 as PhasePack, 4: enP4 as PhasePack },
+  ta:  { 1: taP1  as PhasePack, 2: taP2 as PhasePack, 3: taP3 as PhasePack, 4: taP4 as PhasePack },
+  hi:  { 1: hiP1  as PhasePack, 2: hiP2 as PhasePack, 3: hiP3 as PhasePack, 4: hiP4 as PhasePack },
+  ja:  { 1: jaP1  as PhasePack, 2: jaP2 as PhasePack, 3: jaP3 as PhasePack, 4: jaP4 as PhasePack },
+  de:  { 1: deP1  as PhasePack, 2: deP2 as PhasePack, 3: deP3 as PhasePack, 4: deP4 as PhasePack },
+  zh:  { 1: zhP1  as PhasePack, 2: zhP2 as PhasePack, 3: zhP3 as PhasePack, 4: zhP4 as PhasePack },
+  ko:  { 1: koP1  as PhasePack, 2: koP2 as PhasePack, 3: koP3 as PhasePack, 4: koP4 as PhasePack },
   es:  { 1: esP1  as PhasePack },
   fr:  { 1: frP1  as PhasePack },
   ar:  { 1: arP1  as PhasePack },

@@ -1,0 +1,291 @@
+{
+  "language": "hi",
+  "phase": 3,
+  "title": "2-3 अक्षर शब्द",
+  "lessons": [
+    {
+      "id": "hi-p3-l1",
+      "title": "जानवर (Animals)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "कुत्ता",
+          "name": "kutta",
+          "exampleWord": "dog"
+        },
+        {
+          "glyph": "बिल्ली",
+          "name": "billi",
+          "exampleWord": "cat"
+        },
+        {
+          "glyph": "गाय",
+          "name": "gaay",
+          "exampleWord": "cow"
+        },
+        {
+          "glyph": "मछली",
+          "name": "machhli",
+          "exampleWord": "fish"
+        },
+        {
+          "glyph": "शेर",
+          "name": "sher",
+          "exampleWord": "lion"
+        },
+        {
+          "glyph": "बकरी",
+          "name": "bakri",
+          "exampleWord": "goat"
+        },
+        {
+          "glyph": "हाथी",
+          "name": "haathi",
+          "exampleWord": "elephant"
+        },
+        {
+          "glyph": "मोर",
+          "name": "mor",
+          "exampleWord": "peacock"
+        },
+        {
+          "glyph": "चूहा",
+          "name": "chuha",
+          "exampleWord": "mouse"
+        },
+        {
+          "glyph": "मेंढक",
+          "name": "mendhak",
+          "exampleWord": "frog"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "कुत्ता",
+            "बिल्ली",
+            "गाय",
+            "मछली"
+          ],
+          "answer": "कुत्ता"
+        }
+      ]
+    },
+    {
+      "id": "hi-p3-l2",
+      "title": "खाना (Food)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "दूध",
+          "name": "doodh",
+          "exampleWord": "milk"
+        },
+        {
+          "glyph": "पानी",
+          "name": "paani",
+          "exampleWord": "water"
+        },
+        {
+          "glyph": "रोटी",
+          "name": "roti",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "चाय",
+          "name": "chai",
+          "exampleWord": "tea"
+        },
+        {
+          "glyph": "दही",
+          "name": "dahi",
+          "exampleWord": "curd"
+        },
+        {
+          "glyph": "शहद",
+          "name": "shahad",
+          "exampleWord": "honey"
+        },
+        {
+          "glyph": "फल",
+          "name": "phal",
+          "exampleWord": "fruit"
+        },
+        {
+          "glyph": "आम",
+          "name": "aam",
+          "exampleWord": "mango"
+        },
+        {
+          "glyph": "चावल",
+          "name": "chaval",
+          "exampleWord": "rice"
+        },
+        {
+          "glyph": "नमक",
+          "name": "namak",
+          "exampleWord": "salt"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'milk'?",
+          "options": [
+            "दूध",
+            "पानी",
+            "रोटी",
+            "चाय"
+          ],
+          "answer": "दूध"
+        }
+      ]
+    },
+    {
+      "id": "hi-p3-l3",
+      "title": "शरीर (Body)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "हाथ",
+          "name": "haath",
+          "exampleWord": "hand"
+        },
+        {
+          "glyph": "पैर",
+          "name": "pair",
+          "exampleWord": "foot"
+        },
+        {
+          "glyph": "आँख",
+          "name": "aankh",
+          "exampleWord": "eye"
+        },
+        {
+          "glyph": "कान",
+          "name": "kaan",
+          "exampleWord": "ear"
+        },
+        {
+          "glyph": "नाक",
+          "name": "naak",
+          "exampleWord": "nose"
+        },
+        {
+          "glyph": "मुँह",
+          "name": "munh",
+          "exampleWord": "mouth"
+        },
+        {
+          "glyph": "सिर",
+          "name": "sir",
+          "exampleWord": "head"
+        },
+        {
+          "glyph": "दाँत",
+          "name": "daant",
+          "exampleWord": "tooth"
+        },
+        {
+          "glyph": "बाल",
+          "name": "baal",
+          "exampleWord": "hair"
+        },
+        {
+          "glyph": "जीभ",
+          "name": "jeebh",
+          "exampleWord": "tongue"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "हाथ",
+            "पैर",
+            "आँख",
+            "कान"
+          ],
+          "answer": "हाथ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p3-l4",
+      "title": "प्रकृति (Nature)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "सूरज",
+          "name": "sooraj",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "चाँद",
+          "name": "chaand",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "तारा",
+          "name": "taara",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "पेड़",
+          "name": "ped",
+          "exampleWord": "tree"
+        },
+        {
+          "glyph": "फूल",
+          "name": "phool",
+          "exampleWord": "flower"
+        },
+        {
+          "glyph": "पत्ता",
+          "name": "patta",
+          "exampleWord": "leaf"
+        },
+        {
+          "glyph": "नदी",
+          "name": "nadi",
+          "exampleWord": "river"
+        },
+        {
+          "glyph": "झील",
+          "name": "jheel",
+          "exampleWord": "lake"
+        },
+        {
+          "glyph": "बादल",
+          "name": "baadal",
+          "exampleWord": "cloud"
+        },
+        {
+          "glyph": "बारिश",
+          "name": "baarish",
+          "exampleWord": "rain"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sun'?",
+          "options": [
+            "सूरज",
+            "चाँद",
+            "तारा",
+            "पेड़"
+          ],
+          "answer": "सूरज"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "language": "de",
+  "phase": 4,
+  "title": "4-5 Buchstaben Wörter",
+  "lessons": [
+    {
+      "id": "de-p4-l1",
+      "title": "Tiere",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Affe",
+          "name": "affe",
+          "exampleWord": "monkey"
+        },
+        {
+          "glyph": "Bär",
+          "name": "bär",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "Fisch",
+          "name": "fisch",
+          "exampleWord": "fish"
+        },
+        {
+          "glyph": "Hund",
+          "name": "hund",
+          "exampleWord": "dog"
+        },
+        {
+          "glyph": "Katze",
+          "name": "katze",
+          "exampleWord": "cat"
+        },
+        {
+          "glyph": "Maus",
+          "name": "maus",
+          "exampleWord": "mouse"
+        },
+        {
+          "glyph": "Pferd",
+          "name": "pferd",
+          "exampleWord": "horse"
+        },
+        {
+          "glyph": "Vogel",
+          "name": "vogel",
+          "exampleWord": "bird"
+        },
+        {
+          "glyph": "Wolf",
+          "name": "wolf",
+          "exampleWord": "wolf"
+        },
+        {
+          "glyph": "Zebra",
+          "name": "zebra",
+          "exampleWord": "zebra"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'monkey'?",
+          "options": [
+            "Affe",
+            "Bär",
+            "Fisch",
+            "Hund"
+          ],
+          "answer": "Affe"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l2",
+      "title": "Essen",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Brot",
+          "name": "brot",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "Apfel",
+          "name": "apfel",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "Birne",
+          "name": "birne",
+          "exampleWord": "pear"
+        },
+        {
+          "glyph": "Pizza",
+          "name": "pizza",
+          "exampleWord": "pizza"
+        },
+        {
+          "glyph": "Suppe",
+          "name": "suppe",
+          "exampleWord": "soup"
+        },
+        {
+          "glyph": "Kuchen",
+          "name": "kuchen",
+          "exampleWord": "cake"
+        },
+        {
+          "glyph": "Salat",
+          "name": "salat",
+          "exampleWord": "salad"
+        },
+        {
+          "glyph": "Honig",
+          "name": "honig",
+          "exampleWord": "honey"
+        },
+        {
+          "glyph": "Saft",
+          "name": "saft",
+          "exampleWord": "juice"
+        },
+        {
+          "glyph": "Käse",
+          "name": "käse",
+          "exampleWord": "cheese"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'bread'?",
+          "options": [
+            "Brot",
+            "Apfel",
+            "Birne",
+            "Pizza"
+          ],
+          "answer": "Brot"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l3",
+      "title": "Zuhause",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Stuhl",
+          "name": "stuhl",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "Tisch",
+          "name": "tisch",
+          "exampleWord": "table"
+        },
+        {
+          "glyph": "Bett",
+          "name": "bett",
+          "exampleWord": "bed"
+        },
+        {
+          "glyph": "Lampe",
+          "name": "lampe",
+          "exampleWord": "lamp"
+        },
+        {
+          "glyph": "Buch",
+          "name": "buch",
+          "exampleWord": "book"
+        },
+        {
+          "glyph": "Uhr",
+          "name": "uhr",
+          "exampleWord": "clock"
+        },
+        {
+          "glyph": "Fenster",
+          "name": "fenster",
+          "exampleWord": "window"
+        },
+        {
+          "glyph": "Treppe",
+          "name": "treppe",
+          "exampleWord": "stairs"
+        },
+        {
+          "glyph": "Spiegel",
+          "name": "spiegel",
+          "exampleWord": "mirror"
+        },
+        {
+          "glyph": "Teller",
+          "name": "teller",
+          "exampleWord": "plate"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "Stuhl",
+            "Tisch",
+            "Bett",
+            "Lampe"
+          ],
+          "answer": "Stuhl"
+        }
+      ]
+    },
+    {
+      "id": "de-p4-l4",
+      "title": "Draußen",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Baum",
+          "name": "baum",
+          "exampleWord": "tree"
+        },
+        {
+          "glyph": "Blume",
+          "name": "blume",
+          "exampleWord": "flower"
+        },
+        {
+          "glyph": "Wolke",
+          "name": "wolke",
+          "exampleWord": "cloud"
+        },
+        {
+          "glyph": "Stern",
+          "name": "stern",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "Sonne",
+          "name": "sonne",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "Mond",
+          "name": "mond",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "Regen",
+          "name": "regen",
+          "exampleWord": "rain"
+        },
+        {
+          "glyph": "Wind",
+          "name": "wind",
+          "exampleWord": "wind"
+        },
+        {
+          "glyph": "Strand",
+          "name": "strand",
+          "exampleWord": "beach"
+        },
+        {
+          "glyph": "Wasser",
+          "name": "wasser",
+          "exampleWord": "water"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'tree'?",
+          "options": [
+            "Baum",
+            "Blume",
+            "Wolke",
+            "Stern"
+          ],
+          "answer": "Baum"
+        }
+      ]
+    }
+  ]
+}

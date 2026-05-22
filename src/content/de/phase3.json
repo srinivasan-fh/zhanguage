@@ -1,0 +1,291 @@
+{
+  "language": "de",
+  "phase": 3,
+  "title": "2-3 Buchstaben Wörter",
+  "lessons": [
+    {
+      "id": "de-p3-l1",
+      "title": "Tiere (Animals)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Aal",
+          "name": "aal",
+          "exampleWord": "eel"
+        },
+        {
+          "glyph": "Bär",
+          "name": "bär",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "Kuh",
+          "name": "kuh",
+          "exampleWord": "cow"
+        },
+        {
+          "glyph": "Esel",
+          "name": "esel",
+          "exampleWord": "donkey"
+        },
+        {
+          "glyph": "Hund",
+          "name": "hund",
+          "exampleWord": "dog"
+        },
+        {
+          "glyph": "Igel",
+          "name": "igel",
+          "exampleWord": "hedgehog"
+        },
+        {
+          "glyph": "Kuh",
+          "name": "kuh",
+          "exampleWord": "cow"
+        },
+        {
+          "glyph": "Maus",
+          "name": "maus",
+          "exampleWord": "mouse"
+        },
+        {
+          "glyph": "Reh",
+          "name": "reh",
+          "exampleWord": "deer"
+        },
+        {
+          "glyph": "Uhu",
+          "name": "uhu",
+          "exampleWord": "owl"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'eel'?",
+          "options": [
+            "Aal",
+            "Bär",
+            "Kuh",
+            "Esel"
+          ],
+          "answer": "Aal"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l2",
+      "title": "Essen (Food)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ei",
+          "name": "ei",
+          "exampleWord": "egg"
+        },
+        {
+          "glyph": "Tee",
+          "name": "tee",
+          "exampleWord": "tea"
+        },
+        {
+          "glyph": "Saft",
+          "name": "saft",
+          "exampleWord": "juice"
+        },
+        {
+          "glyph": "Brot",
+          "name": "brot",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "Käse",
+          "name": "käse",
+          "exampleWord": "cheese"
+        },
+        {
+          "glyph": "Reis",
+          "name": "reis",
+          "exampleWord": "rice"
+        },
+        {
+          "glyph": "Salz",
+          "name": "salz",
+          "exampleWord": "salt"
+        },
+        {
+          "glyph": "Suppe",
+          "name": "suppe",
+          "exampleWord": "soup"
+        },
+        {
+          "glyph": "Obst",
+          "name": "obst",
+          "exampleWord": "fruit"
+        },
+        {
+          "glyph": "Apfel",
+          "name": "apfel",
+          "exampleWord": "apple"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'egg'?",
+          "options": [
+            "Ei",
+            "Tee",
+            "Saft",
+            "Brot"
+          ],
+          "answer": "Ei"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l3",
+      "title": "Körper (Body)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Ohr",
+          "name": "ohr",
+          "exampleWord": "ear"
+        },
+        {
+          "glyph": "Aug",
+          "name": "aug",
+          "exampleWord": "eye (short)"
+        },
+        {
+          "glyph": "Arm",
+          "name": "arm",
+          "exampleWord": "arm"
+        },
+        {
+          "glyph": "Bein",
+          "name": "bein",
+          "exampleWord": "leg"
+        },
+        {
+          "glyph": "Fuß",
+          "name": "fuß",
+          "exampleWord": "foot"
+        },
+        {
+          "glyph": "Hand",
+          "name": "hand",
+          "exampleWord": "hand"
+        },
+        {
+          "glyph": "Mund",
+          "name": "mund",
+          "exampleWord": "mouth"
+        },
+        {
+          "glyph": "Nase",
+          "name": "nase",
+          "exampleWord": "nose"
+        },
+        {
+          "glyph": "Kopf",
+          "name": "kopf",
+          "exampleWord": "head"
+        },
+        {
+          "glyph": "Haar",
+          "name": "haar",
+          "exampleWord": "hair"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'ear'?",
+          "options": [
+            "Ohr",
+            "Aug",
+            "Arm",
+            "Bein"
+          ],
+          "answer": "Ohr"
+        }
+      ]
+    },
+    {
+      "id": "de-p3-l4",
+      "title": "Natur (Nature)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "See",
+          "name": "see",
+          "exampleWord": "lake"
+        },
+        {
+          "glyph": "Tag",
+          "name": "tag",
+          "exampleWord": "day"
+        },
+        {
+          "glyph": "Eis",
+          "name": "eis",
+          "exampleWord": "ice"
+        },
+        {
+          "glyph": "Sonne",
+          "name": "sonne",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "Mond",
+          "name": "mond",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "Stern",
+          "name": "stern",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "Baum",
+          "name": "baum",
+          "exampleWord": "tree"
+        },
+        {
+          "glyph": "Wolke",
+          "name": "wolke",
+          "exampleWord": "cloud"
+        },
+        {
+          "glyph": "Regen",
+          "name": "regen",
+          "exampleWord": "rain"
+        },
+        {
+          "glyph": "Wind",
+          "name": "wind",
+          "exampleWord": "wind"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'lake'?",
+          "options": [
+            "See",
+            "Tag",
+            "Eis",
+            "Sonne"
+          ],
+          "answer": "See"
+        }
+      ]
+    }
+  ]
+}

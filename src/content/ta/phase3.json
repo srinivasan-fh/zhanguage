@@ -1,0 +1,291 @@
+{
+  "language": "ta",
+  "phase": 3,
+  "title": "2-3 எழுத்து சொற்கள்",
+  "lessons": [
+    {
+      "id": "ta-p3-l1",
+      "title": "விலங்குகள்",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ஆடு",
+          "name": "aadu",
+          "exampleWord": "goat"
+        },
+        {
+          "glyph": "மாடு",
+          "name": "maadu",
+          "exampleWord": "cow"
+        },
+        {
+          "glyph": "நாய்",
+          "name": "naai",
+          "exampleWord": "dog"
+        },
+        {
+          "glyph": "பூனை",
+          "name": "poonai",
+          "exampleWord": "cat"
+        },
+        {
+          "glyph": "கோழி",
+          "name": "kozhi",
+          "exampleWord": "hen"
+        },
+        {
+          "glyph": "மீன்",
+          "name": "meen",
+          "exampleWord": "fish"
+        },
+        {
+          "glyph": "எலி",
+          "name": "eli",
+          "exampleWord": "mouse"
+        },
+        {
+          "glyph": "புலி",
+          "name": "puli",
+          "exampleWord": "tiger"
+        },
+        {
+          "glyph": "பாம்பு",
+          "name": "paambu",
+          "exampleWord": "snake"
+        },
+        {
+          "glyph": "கிளி",
+          "name": "kili",
+          "exampleWord": "parrot"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'goat'?",
+          "options": [
+            "ஆடு",
+            "மாடு",
+            "நாய்",
+            "பூனை"
+          ],
+          "answer": "ஆடு"
+        }
+      ]
+    },
+    {
+      "id": "ta-p3-l2",
+      "title": "உணவு",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "பால்",
+          "name": "paal",
+          "exampleWord": "milk"
+        },
+        {
+          "glyph": "நீர்",
+          "name": "neer",
+          "exampleWord": "water"
+        },
+        {
+          "glyph": "தேன்",
+          "name": "then",
+          "exampleWord": "honey"
+        },
+        {
+          "glyph": "பழம்",
+          "name": "pazham",
+          "exampleWord": "fruit"
+        },
+        {
+          "glyph": "சோறு",
+          "name": "soru",
+          "exampleWord": "rice"
+        },
+        {
+          "glyph": "உப்பு",
+          "name": "uppu",
+          "exampleWord": "salt"
+        },
+        {
+          "glyph": "மிளகு",
+          "name": "milagu",
+          "exampleWord": "pepper"
+        },
+        {
+          "glyph": "தயிர்",
+          "name": "thayir",
+          "exampleWord": "curd"
+        },
+        {
+          "glyph": "இனிப்பு",
+          "name": "inippu",
+          "exampleWord": "sweet"
+        },
+        {
+          "glyph": "நெய்",
+          "name": "ney",
+          "exampleWord": "ghee"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'milk'?",
+          "options": [
+            "பால்",
+            "நீர்",
+            "தேன்",
+            "பழம்"
+          ],
+          "answer": "பால்"
+        }
+      ]
+    },
+    {
+      "id": "ta-p3-l3",
+      "title": "உடல் உறுப்புகள்",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "கை",
+          "name": "kai",
+          "exampleWord": "hand"
+        },
+        {
+          "glyph": "கால்",
+          "name": "kaal",
+          "exampleWord": "leg/foot"
+        },
+        {
+          "glyph": "கண்",
+          "name": "kann",
+          "exampleWord": "eye"
+        },
+        {
+          "glyph": "காது",
+          "name": "kaadhu",
+          "exampleWord": "ear"
+        },
+        {
+          "glyph": "மூக்கு",
+          "name": "mookku",
+          "exampleWord": "nose"
+        },
+        {
+          "glyph": "வாய்",
+          "name": "vaai",
+          "exampleWord": "mouth"
+        },
+        {
+          "glyph": "பல்",
+          "name": "pal",
+          "exampleWord": "tooth"
+        },
+        {
+          "glyph": "தலை",
+          "name": "thalai",
+          "exampleWord": "head"
+        },
+        {
+          "glyph": "நாக்கு",
+          "name": "naakku",
+          "exampleWord": "tongue"
+        },
+        {
+          "glyph": "விரல்",
+          "name": "viral",
+          "exampleWord": "finger"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "கை",
+            "கால்",
+            "கண்",
+            "காது"
+          ],
+          "answer": "கை"
+        }
+      ]
+    },
+    {
+      "id": "ta-p3-l4",
+      "title": "இயற்கை",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "சூரியன்",
+          "name": "sooriyan",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "நிலா",
+          "name": "nilaa",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "மழை",
+          "name": "mazhai",
+          "exampleWord": "rain"
+        },
+        {
+          "glyph": "காற்று",
+          "name": "kaatru",
+          "exampleWord": "wind"
+        },
+        {
+          "glyph": "மரம்",
+          "name": "maram",
+          "exampleWord": "tree"
+        },
+        {
+          "glyph": "இலை",
+          "name": "ilai",
+          "exampleWord": "leaf"
+        },
+        {
+          "glyph": "பூ",
+          "name": "poo",
+          "exampleWord": "flower"
+        },
+        {
+          "glyph": "மலை",
+          "name": "malai",
+          "exampleWord": "hill"
+        },
+        {
+          "glyph": "கடல்",
+          "name": "kadal",
+          "exampleWord": "sea"
+        },
+        {
+          "glyph": "நதி",
+          "name": "nathi",
+          "exampleWord": "river"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sun'?",
+          "options": [
+            "சூரியன்",
+            "நிலா",
+            "மழை",
+            "காற்று"
+          ],
+          "answer": "சூரியன்"
+        }
+      ]
+    }
+  ]
+}

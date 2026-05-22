@@ -1,0 +1,291 @@
+{
+  "language": "ko",
+  "phase": 4,
+  "title": "4-5 글자 단어",
+  "lessons": [
+    {
+      "id": "ko-p4-l1",
+      "title": "동물",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "코끼리",
+          "name": "kokkiri",
+          "exampleWord": "elephant"
+        },
+        {
+          "glyph": "원숭이",
+          "name": "wonsung-i",
+          "exampleWord": "monkey"
+        },
+        {
+          "glyph": "악어",
+          "name": "ageo",
+          "exampleWord": "crocodile"
+        },
+        {
+          "glyph": "기린",
+          "name": "girin",
+          "exampleWord": "giraffe"
+        },
+        {
+          "glyph": "얼룩말",
+          "name": "eollungmal",
+          "exampleWord": "zebra"
+        },
+        {
+          "glyph": "펭귄",
+          "name": "penggwin",
+          "exampleWord": "penguin"
+        },
+        {
+          "glyph": "판다",
+          "name": "panda",
+          "exampleWord": "panda"
+        },
+        {
+          "glyph": "돌고래",
+          "name": "dolgorae",
+          "exampleWord": "dolphin"
+        },
+        {
+          "glyph": "상어",
+          "name": "sang-eo",
+          "exampleWord": "shark"
+        },
+        {
+          "glyph": "나비",
+          "name": "nabi",
+          "exampleWord": "butterfly"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "코끼리",
+            "원숭이",
+            "악어",
+            "기린"
+          ],
+          "answer": "코끼리"
+        }
+      ]
+    },
+    {
+      "id": "ko-p4-l2",
+      "title": "음식",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "수박",
+          "name": "subak",
+          "exampleWord": "watermelon"
+        },
+        {
+          "glyph": "바나나",
+          "name": "banana",
+          "exampleWord": "banana"
+        },
+        {
+          "glyph": "포도",
+          "name": "podo",
+          "exampleWord": "grape"
+        },
+        {
+          "glyph": "주스",
+          "name": "juseu",
+          "exampleWord": "juice"
+        },
+        {
+          "glyph": "아이스크림",
+          "name": "aiseukeurim",
+          "exampleWord": "ice cream"
+        },
+        {
+          "glyph": "초콜릿",
+          "name": "chokollit",
+          "exampleWord": "chocolate"
+        },
+        {
+          "glyph": "피자",
+          "name": "pija",
+          "exampleWord": "pizza"
+        },
+        {
+          "glyph": "샐러드",
+          "name": "saelleodeu",
+          "exampleWord": "salad"
+        },
+        {
+          "glyph": "스파게티",
+          "name": "seupageti",
+          "exampleWord": "spaghetti"
+        },
+        {
+          "glyph": "햄버거",
+          "name": "haembeogeo",
+          "exampleWord": "hamburger"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'watermelon'?",
+          "options": [
+            "수박",
+            "바나나",
+            "포도",
+            "주스"
+          ],
+          "answer": "수박"
+        }
+      ]
+    },
+    {
+      "id": "ko-p4-l3",
+      "title": "집에서",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "의자",
+          "name": "uija",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "책상",
+          "name": "chaeksang",
+          "exampleWord": "desk"
+        },
+        {
+          "glyph": "침대",
+          "name": "chimdae",
+          "exampleWord": "bed"
+        },
+        {
+          "glyph": "창문",
+          "name": "changmun",
+          "exampleWord": "window"
+        },
+        {
+          "glyph": "거실",
+          "name": "geosil",
+          "exampleWord": "living room"
+        },
+        {
+          "glyph": "부엌",
+          "name": "bueok",
+          "exampleWord": "kitchen"
+        },
+        {
+          "glyph": "욕실",
+          "name": "yoksil",
+          "exampleWord": "bathroom"
+        },
+        {
+          "glyph": "전화기",
+          "name": "jeonhwagi",
+          "exampleWord": "phone"
+        },
+        {
+          "glyph": "컴퓨터",
+          "name": "keompyuteo",
+          "exampleWord": "computer"
+        },
+        {
+          "glyph": "텔레비전",
+          "name": "tellebijeon",
+          "exampleWord": "television"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "의자",
+            "책상",
+            "침대",
+            "창문"
+          ],
+          "answer": "의자"
+        }
+      ]
+    },
+    {
+      "id": "ko-p4-l4",
+      "title": "자연",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "무지개",
+          "name": "mujigae",
+          "exampleWord": "rainbow"
+        },
+        {
+          "glyph": "태양",
+          "name": "taeyang",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "하늘",
+          "name": "haneul",
+          "exampleWord": "sky"
+        },
+        {
+          "glyph": "바다",
+          "name": "bada",
+          "exampleWord": "sea"
+        },
+        {
+          "glyph": "산맥",
+          "name": "sanmaek",
+          "exampleWord": "mountain range"
+        },
+        {
+          "glyph": "숲",
+          "name": "sup",
+          "exampleWord": "forest"
+        },
+        {
+          "glyph": "사막",
+          "name": "samak",
+          "exampleWord": "desert"
+        },
+        {
+          "glyph": "화산",
+          "name": "hwasan",
+          "exampleWord": "volcano"
+        },
+        {
+          "glyph": "폭포",
+          "name": "pokpo",
+          "exampleWord": "waterfall"
+        },
+        {
+          "glyph": "눈송이",
+          "name": "nunsong-i",
+          "exampleWord": "snowflake"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "무지개",
+            "태양",
+            "하늘",
+            "바다"
+          ],
+          "answer": "무지개"
+        }
+      ]
+    }
+  ]
+}

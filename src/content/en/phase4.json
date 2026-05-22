@@ -1,0 +1,291 @@
+{
+  "language": "en",
+  "phase": 4,
+  "title": "4 & 5 Letter Words",
+  "lessons": [
+    {
+      "id": "en-p4-l1",
+      "title": "Bigger Animals",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "bear",
+          "name": "bear",
+          "exampleWord": "big brown"
+        },
+        {
+          "glyph": "lion",
+          "name": "lion",
+          "exampleWord": "king of jungle"
+        },
+        {
+          "glyph": "frog",
+          "name": "frog",
+          "exampleWord": "leaps in water"
+        },
+        {
+          "glyph": "duck",
+          "name": "duck",
+          "exampleWord": "waddles + quacks"
+        },
+        {
+          "glyph": "wolf",
+          "name": "wolf",
+          "exampleWord": "lives in pack"
+        },
+        {
+          "glyph": "deer",
+          "name": "deer",
+          "exampleWord": "gentle + tall"
+        },
+        {
+          "glyph": "tiger",
+          "name": "tiger",
+          "exampleWord": "orange + stripes"
+        },
+        {
+          "glyph": "panda",
+          "name": "panda",
+          "exampleWord": "eats bamboo"
+        },
+        {
+          "glyph": "snake",
+          "name": "snake",
+          "exampleWord": "slithers"
+        },
+        {
+          "glyph": "mouse",
+          "name": "mouse",
+          "exampleWord": "tiny + grey"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'big brown'?",
+          "options": [
+            "bear",
+            "lion",
+            "frog",
+            "duck"
+          ],
+          "answer": "bear"
+        }
+      ]
+    },
+    {
+      "id": "en-p4-l2",
+      "title": "Bigger Food",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "bread",
+          "name": "bread",
+          "exampleWord": "baked dough"
+        },
+        {
+          "glyph": "apple",
+          "name": "apple",
+          "exampleWord": "red fruit"
+        },
+        {
+          "glyph": "mango",
+          "name": "mango",
+          "exampleWord": "sweet yellow"
+        },
+        {
+          "glyph": "melon",
+          "name": "melon",
+          "exampleWord": "big round"
+        },
+        {
+          "glyph": "grape",
+          "name": "grape",
+          "exampleWord": "tiny purple"
+        },
+        {
+          "glyph": "lemon",
+          "name": "lemon",
+          "exampleWord": "yellow + sour"
+        },
+        {
+          "glyph": "honey",
+          "name": "honey",
+          "exampleWord": "from bees"
+        },
+        {
+          "glyph": "candy",
+          "name": "candy",
+          "exampleWord": "sweet treat"
+        },
+        {
+          "glyph": "pizza",
+          "name": "pizza",
+          "exampleWord": "flat + cheesy"
+        },
+        {
+          "glyph": "salad",
+          "name": "salad",
+          "exampleWord": "fresh veggies"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'baked dough'?",
+          "options": [
+            "bread",
+            "apple",
+            "mango",
+            "melon"
+          ],
+          "answer": "bread"
+        }
+      ]
+    },
+    {
+      "id": "en-p4-l3",
+      "title": "At Home",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "chair",
+          "name": "chair",
+          "exampleWord": "to sit on"
+        },
+        {
+          "glyph": "table",
+          "name": "table",
+          "exampleWord": "to eat on"
+        },
+        {
+          "glyph": "phone",
+          "name": "phone",
+          "exampleWord": "to call"
+        },
+        {
+          "glyph": "watch",
+          "name": "watch",
+          "exampleWord": "tells time"
+        },
+        {
+          "glyph": "plate",
+          "name": "plate",
+          "exampleWord": "for food"
+        },
+        {
+          "glyph": "spoon",
+          "name": "spoon",
+          "exampleWord": "to scoop"
+        },
+        {
+          "glyph": "knife",
+          "name": "knife",
+          "exampleWord": "to cut"
+        },
+        {
+          "glyph": "clock",
+          "name": "clock",
+          "exampleWord": "shows time"
+        },
+        {
+          "glyph": "lamp",
+          "name": "lamp",
+          "exampleWord": "gives light"
+        },
+        {
+          "glyph": "door",
+          "name": "door",
+          "exampleWord": "opens + closes"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'to sit on'?",
+          "options": [
+            "chair",
+            "table",
+            "phone",
+            "watch"
+          ],
+          "answer": "chair"
+        }
+      ]
+    },
+    {
+      "id": "en-p4-l4",
+      "title": "Outdoors",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "tree",
+          "name": "tree",
+          "exampleWord": "tall green"
+        },
+        {
+          "glyph": "leaf",
+          "name": "leaf",
+          "exampleWord": "on a tree"
+        },
+        {
+          "glyph": "grass",
+          "name": "grass",
+          "exampleWord": "green ground"
+        },
+        {
+          "glyph": "cloud",
+          "name": "cloud",
+          "exampleWord": "white + fluffy"
+        },
+        {
+          "glyph": "river",
+          "name": "river",
+          "exampleWord": "flowing water"
+        },
+        {
+          "glyph": "beach",
+          "name": "beach",
+          "exampleWord": "sand + sea"
+        },
+        {
+          "glyph": "rocks",
+          "name": "rocks",
+          "exampleWord": "hard + grey"
+        },
+        {
+          "glyph": "moon",
+          "name": "moon",
+          "exampleWord": "at night"
+        },
+        {
+          "glyph": "star",
+          "name": "star",
+          "exampleWord": "twinkles"
+        },
+        {
+          "glyph": "storm",
+          "name": "storm",
+          "exampleWord": "big rain"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'tall green'?",
+          "options": [
+            "tree",
+            "leaf",
+            "grass",
+            "cloud"
+          ],
+          "answer": "tree"
+        }
+      ]
+    }
+  ]
+}

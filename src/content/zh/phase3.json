@@ -1,0 +1,291 @@
+{
+  "language": "zh",
+  "phase": 3,
+  "title": "2-3 字 短词",
+  "lessons": [
+    {
+      "id": "zh-p3-l1",
+      "title": "动物 (Animals)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "猫",
+          "name": "māo",
+          "exampleWord": "cat"
+        },
+        {
+          "glyph": "狗",
+          "name": "gǒu",
+          "exampleWord": "dog"
+        },
+        {
+          "glyph": "鱼",
+          "name": "yú",
+          "exampleWord": "fish"
+        },
+        {
+          "glyph": "鸟",
+          "name": "niǎo",
+          "exampleWord": "bird"
+        },
+        {
+          "glyph": "马",
+          "name": "mǎ",
+          "exampleWord": "horse"
+        },
+        {
+          "glyph": "牛",
+          "name": "niú",
+          "exampleWord": "cow"
+        },
+        {
+          "glyph": "熊猫",
+          "name": "xióngmāo",
+          "exampleWord": "panda"
+        },
+        {
+          "glyph": "老虎",
+          "name": "lǎohǔ",
+          "exampleWord": "tiger"
+        },
+        {
+          "glyph": "兔子",
+          "name": "tùzi",
+          "exampleWord": "rabbit"
+        },
+        {
+          "glyph": "蜜蜂",
+          "name": "mìfēng",
+          "exampleWord": "bee"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'cat'?",
+          "options": [
+            "猫",
+            "狗",
+            "鱼",
+            "鸟"
+          ],
+          "answer": "猫"
+        }
+      ]
+    },
+    {
+      "id": "zh-p3-l2",
+      "title": "食物 (Food)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "米",
+          "name": "mǐ",
+          "exampleWord": "rice (raw)"
+        },
+        {
+          "glyph": "饭",
+          "name": "fàn",
+          "exampleWord": "cooked rice"
+        },
+        {
+          "glyph": "水",
+          "name": "shuǐ",
+          "exampleWord": "water"
+        },
+        {
+          "glyph": "茶",
+          "name": "chá",
+          "exampleWord": "tea"
+        },
+        {
+          "glyph": "面",
+          "name": "miàn",
+          "exampleWord": "noodles"
+        },
+        {
+          "glyph": "鱼",
+          "name": "yú",
+          "exampleWord": "fish"
+        },
+        {
+          "glyph": "蛋",
+          "name": "dàn",
+          "exampleWord": "egg"
+        },
+        {
+          "glyph": "糖",
+          "name": "táng",
+          "exampleWord": "sugar"
+        },
+        {
+          "glyph": "盐",
+          "name": "yán",
+          "exampleWord": "salt"
+        },
+        {
+          "glyph": "果汁",
+          "name": "guǒzhī",
+          "exampleWord": "juice"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rice (raw)'?",
+          "options": [
+            "米",
+            "饭",
+            "水",
+            "茶"
+          ],
+          "answer": "米"
+        }
+      ]
+    },
+    {
+      "id": "zh-p3-l3",
+      "title": "身体 (Body)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "手",
+          "name": "shǒu",
+          "exampleWord": "hand"
+        },
+        {
+          "glyph": "脚",
+          "name": "jiǎo",
+          "exampleWord": "foot"
+        },
+        {
+          "glyph": "眼",
+          "name": "yǎn",
+          "exampleWord": "eye"
+        },
+        {
+          "glyph": "耳",
+          "name": "ěr",
+          "exampleWord": "ear"
+        },
+        {
+          "glyph": "口",
+          "name": "kǒu",
+          "exampleWord": "mouth"
+        },
+        {
+          "glyph": "鼻",
+          "name": "bí",
+          "exampleWord": "nose"
+        },
+        {
+          "glyph": "头",
+          "name": "tóu",
+          "exampleWord": "head"
+        },
+        {
+          "glyph": "脸",
+          "name": "liǎn",
+          "exampleWord": "face"
+        },
+        {
+          "glyph": "牙齿",
+          "name": "yáchǐ",
+          "exampleWord": "tooth"
+        },
+        {
+          "glyph": "头发",
+          "name": "tóufa",
+          "exampleWord": "hair"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "手",
+            "脚",
+            "眼",
+            "耳"
+          ],
+          "answer": "手"
+        }
+      ]
+    },
+    {
+      "id": "zh-p3-l4",
+      "title": "自然 (Nature)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "天",
+          "name": "tiān",
+          "exampleWord": "sky/day"
+        },
+        {
+          "glyph": "日",
+          "name": "rì",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "月",
+          "name": "yuè",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "山",
+          "name": "shān",
+          "exampleWord": "mountain"
+        },
+        {
+          "glyph": "河",
+          "name": "hé",
+          "exampleWord": "river"
+        },
+        {
+          "glyph": "树",
+          "name": "shù",
+          "exampleWord": "tree"
+        },
+        {
+          "glyph": "花",
+          "name": "huā",
+          "exampleWord": "flower"
+        },
+        {
+          "glyph": "云",
+          "name": "yún",
+          "exampleWord": "cloud"
+        },
+        {
+          "glyph": "雨",
+          "name": "yǔ",
+          "exampleWord": "rain"
+        },
+        {
+          "glyph": "风",
+          "name": "fēng",
+          "exampleWord": "wind"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sky/day'?",
+          "options": [
+            "天",
+            "日",
+            "月",
+            "山"
+          ],
+          "answer": "天"
+        }
+      ]
+    }
+  ]
+}

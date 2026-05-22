@@ -1,0 +1,291 @@
+{
+  "language": "ko",
+  "phase": 3,
+  "title": "2-3 글자 단어",
+  "lessons": [
+    {
+      "id": "ko-p3-l1",
+      "title": "동물 (Animals)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "개",
+          "name": "gae",
+          "exampleWord": "dog"
+        },
+        {
+          "glyph": "소",
+          "name": "so",
+          "exampleWord": "cow"
+        },
+        {
+          "glyph": "말",
+          "name": "mal",
+          "exampleWord": "horse"
+        },
+        {
+          "glyph": "새",
+          "name": "sae",
+          "exampleWord": "bird"
+        },
+        {
+          "glyph": "곰",
+          "name": "gom",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "호랑이",
+          "name": "horangi",
+          "exampleWord": "tiger"
+        },
+        {
+          "glyph": "고양이",
+          "name": "goyangi",
+          "exampleWord": "cat"
+        },
+        {
+          "glyph": "토끼",
+          "name": "tokki",
+          "exampleWord": "rabbit"
+        },
+        {
+          "glyph": "물고기",
+          "name": "mulgogi",
+          "exampleWord": "fish"
+        },
+        {
+          "glyph": "사자",
+          "name": "saja",
+          "exampleWord": "lion"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "개",
+            "소",
+            "말",
+            "새"
+          ],
+          "answer": "개"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l2",
+      "title": "음식 (Food)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "물",
+          "name": "mul",
+          "exampleWord": "water"
+        },
+        {
+          "glyph": "밥",
+          "name": "bap",
+          "exampleWord": "rice"
+        },
+        {
+          "glyph": "빵",
+          "name": "ppang",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "차",
+          "name": "cha",
+          "exampleWord": "tea"
+        },
+        {
+          "glyph": "국",
+          "name": "guk",
+          "exampleWord": "soup"
+        },
+        {
+          "glyph": "떡",
+          "name": "tteok",
+          "exampleWord": "rice cake"
+        },
+        {
+          "glyph": "우유",
+          "name": "uyu",
+          "exampleWord": "milk"
+        },
+        {
+          "glyph": "사과",
+          "name": "sagwa",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "계란",
+          "name": "gyeran",
+          "exampleWord": "egg"
+        },
+        {
+          "glyph": "과일",
+          "name": "gwail",
+          "exampleWord": "fruit"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'water'?",
+          "options": [
+            "물",
+            "밥",
+            "빵",
+            "차"
+          ],
+          "answer": "물"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l3",
+      "title": "몸 (Body)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "손",
+          "name": "son",
+          "exampleWord": "hand"
+        },
+        {
+          "glyph": "발",
+          "name": "bal",
+          "exampleWord": "foot"
+        },
+        {
+          "glyph": "눈",
+          "name": "nun",
+          "exampleWord": "eye"
+        },
+        {
+          "glyph": "귀",
+          "name": "gwi",
+          "exampleWord": "ear"
+        },
+        {
+          "glyph": "코",
+          "name": "ko",
+          "exampleWord": "nose"
+        },
+        {
+          "glyph": "입",
+          "name": "ip",
+          "exampleWord": "mouth"
+        },
+        {
+          "glyph": "이",
+          "name": "i",
+          "exampleWord": "tooth"
+        },
+        {
+          "glyph": "머리",
+          "name": "meori",
+          "exampleWord": "head"
+        },
+        {
+          "glyph": "얼굴",
+          "name": "eolgul",
+          "exampleWord": "face"
+        },
+        {
+          "glyph": "다리",
+          "name": "dari",
+          "exampleWord": "leg"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "손",
+            "발",
+            "눈",
+            "귀"
+          ],
+          "answer": "손"
+        }
+      ]
+    },
+    {
+      "id": "ko-p3-l4",
+      "title": "자연 (Nature)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "해",
+          "name": "hae",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "달",
+          "name": "dal",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "별",
+          "name": "byeol",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "비",
+          "name": "bi",
+          "exampleWord": "rain"
+        },
+        {
+          "glyph": "산",
+          "name": "san",
+          "exampleWord": "mountain"
+        },
+        {
+          "glyph": "강",
+          "name": "gang",
+          "exampleWord": "river"
+        },
+        {
+          "glyph": "바다",
+          "name": "bada",
+          "exampleWord": "sea"
+        },
+        {
+          "glyph": "나무",
+          "name": "namu",
+          "exampleWord": "tree"
+        },
+        {
+          "glyph": "꽃",
+          "name": "kkot",
+          "exampleWord": "flower"
+        },
+        {
+          "glyph": "구름",
+          "name": "gureum",
+          "exampleWord": "cloud"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sun'?",
+          "options": [
+            "해",
+            "달",
+            "별",
+            "비"
+          ],
+          "answer": "해"
+        }
+      ]
+    }
+  ]
+}

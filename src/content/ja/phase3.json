@@ -1,0 +1,291 @@
+{
+  "language": "ja",
+  "phase": 3,
+  "title": "2-3 文字の言葉",
+  "lessons": [
+    {
+      "id": "ja-p3-l1",
+      "title": "動物 (Animals)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "いぬ",
+          "name": "inu",
+          "exampleWord": "dog"
+        },
+        {
+          "glyph": "ねこ",
+          "name": "neko",
+          "exampleWord": "cat"
+        },
+        {
+          "glyph": "うし",
+          "name": "ushi",
+          "exampleWord": "cow"
+        },
+        {
+          "glyph": "うま",
+          "name": "uma",
+          "exampleWord": "horse"
+        },
+        {
+          "glyph": "とり",
+          "name": "tori",
+          "exampleWord": "bird"
+        },
+        {
+          "glyph": "さる",
+          "name": "saru",
+          "exampleWord": "monkey"
+        },
+        {
+          "glyph": "くま",
+          "name": "kuma",
+          "exampleWord": "bear"
+        },
+        {
+          "glyph": "うさぎ",
+          "name": "usagi",
+          "exampleWord": "rabbit"
+        },
+        {
+          "glyph": "ぱんだ",
+          "name": "panda",
+          "exampleWord": "panda"
+        },
+        {
+          "glyph": "かめ",
+          "name": "kame",
+          "exampleWord": "turtle"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'dog'?",
+          "options": [
+            "いぬ",
+            "ねこ",
+            "うし",
+            "うま"
+          ],
+          "answer": "いぬ"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l2",
+      "title": "食べ物 (Food)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "みず",
+          "name": "mizu",
+          "exampleWord": "water"
+        },
+        {
+          "glyph": "ごはん",
+          "name": "gohan",
+          "exampleWord": "rice"
+        },
+        {
+          "glyph": "パン",
+          "name": "pan",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "おちゃ",
+          "name": "ocha",
+          "exampleWord": "tea"
+        },
+        {
+          "glyph": "たまご",
+          "name": "tamago",
+          "exampleWord": "egg"
+        },
+        {
+          "glyph": "にく",
+          "name": "niku",
+          "exampleWord": "meat"
+        },
+        {
+          "glyph": "さかな",
+          "name": "sakana",
+          "exampleWord": "fish"
+        },
+        {
+          "glyph": "くだもの",
+          "name": "kudamono",
+          "exampleWord": "fruit"
+        },
+        {
+          "glyph": "しお",
+          "name": "shio",
+          "exampleWord": "salt"
+        },
+        {
+          "glyph": "みそ",
+          "name": "miso",
+          "exampleWord": "miso paste"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'water'?",
+          "options": [
+            "みず",
+            "ごはん",
+            "パン",
+            "おちゃ"
+          ],
+          "answer": "みず"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l3",
+      "title": "体 (Body)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "て",
+          "name": "te",
+          "exampleWord": "hand"
+        },
+        {
+          "glyph": "あし",
+          "name": "ashi",
+          "exampleWord": "foot"
+        },
+        {
+          "glyph": "め",
+          "name": "me",
+          "exampleWord": "eye"
+        },
+        {
+          "glyph": "みみ",
+          "name": "mimi",
+          "exampleWord": "ear"
+        },
+        {
+          "glyph": "はな",
+          "name": "hana",
+          "exampleWord": "nose"
+        },
+        {
+          "glyph": "くち",
+          "name": "kuchi",
+          "exampleWord": "mouth"
+        },
+        {
+          "glyph": "は",
+          "name": "ha",
+          "exampleWord": "tooth"
+        },
+        {
+          "glyph": "かみ",
+          "name": "kami",
+          "exampleWord": "hair"
+        },
+        {
+          "glyph": "かお",
+          "name": "kao",
+          "exampleWord": "face"
+        },
+        {
+          "glyph": "あたま",
+          "name": "atama",
+          "exampleWord": "head"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'hand'?",
+          "options": [
+            "て",
+            "あし",
+            "め",
+            "みみ"
+          ],
+          "answer": "て"
+        }
+      ]
+    },
+    {
+      "id": "ja-p3-l4",
+      "title": "自然 (Nature)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "そら",
+          "name": "sora",
+          "exampleWord": "sky"
+        },
+        {
+          "glyph": "つき",
+          "name": "tsuki",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "ひ",
+          "name": "hi",
+          "exampleWord": "sun/day"
+        },
+        {
+          "glyph": "ほし",
+          "name": "hoshi",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "やま",
+          "name": "yama",
+          "exampleWord": "mountain"
+        },
+        {
+          "glyph": "かわ",
+          "name": "kawa",
+          "exampleWord": "river"
+        },
+        {
+          "glyph": "うみ",
+          "name": "umi",
+          "exampleWord": "sea"
+        },
+        {
+          "glyph": "き",
+          "name": "ki",
+          "exampleWord": "tree"
+        },
+        {
+          "glyph": "はな",
+          "name": "hana",
+          "exampleWord": "flower"
+        },
+        {
+          "glyph": "あめ",
+          "name": "ame",
+          "exampleWord": "rain"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sky'?",
+          "options": [
+            "そら",
+            "つき",
+            "ひ",
+            "ほし"
+          ],
+          "answer": "そら"
+        }
+      ]
+    }
+  ]
+}

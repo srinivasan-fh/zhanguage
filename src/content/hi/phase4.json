@@ -1,0 +1,291 @@
+{
+  "language": "hi",
+  "phase": 4,
+  "title": "4-5 अक्षर शब्द",
+  "lessons": [
+    {
+      "id": "hi-p4-l1",
+      "title": "जानवर",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "हाथी",
+          "name": "haathi",
+          "exampleWord": "elephant"
+        },
+        {
+          "glyph": "बंदर",
+          "name": "bandar",
+          "exampleWord": "monkey"
+        },
+        {
+          "glyph": "शेर",
+          "name": "sher",
+          "exampleWord": "lion"
+        },
+        {
+          "glyph": "बाघ",
+          "name": "baagh",
+          "exampleWord": "tiger"
+        },
+        {
+          "glyph": "लोमड़ी",
+          "name": "lomadi",
+          "exampleWord": "fox"
+        },
+        {
+          "glyph": "गिलहरी",
+          "name": "gilahari",
+          "exampleWord": "squirrel"
+        },
+        {
+          "glyph": "कछुआ",
+          "name": "kachhua",
+          "exampleWord": "turtle"
+        },
+        {
+          "glyph": "मगरमच्छ",
+          "name": "magarmachh",
+          "exampleWord": "crocodile"
+        },
+        {
+          "glyph": "जिराफ",
+          "name": "jiraf",
+          "exampleWord": "giraffe"
+        },
+        {
+          "glyph": "जेब्रा",
+          "name": "zebra",
+          "exampleWord": "zebra"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "हाथी",
+            "बंदर",
+            "शेर",
+            "बाघ"
+          ],
+          "answer": "हाथी"
+        }
+      ]
+    },
+    {
+      "id": "hi-p4-l2",
+      "title": "खाना",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "मिठाई",
+          "name": "mithai",
+          "exampleWord": "sweet"
+        },
+        {
+          "glyph": "फल",
+          "name": "phal",
+          "exampleWord": "fruit"
+        },
+        {
+          "glyph": "सब्जी",
+          "name": "sabzi",
+          "exampleWord": "vegetable"
+        },
+        {
+          "glyph": "केला",
+          "name": "kela",
+          "exampleWord": "banana"
+        },
+        {
+          "glyph": "संतरा",
+          "name": "santra",
+          "exampleWord": "orange"
+        },
+        {
+          "glyph": "अंगूर",
+          "name": "angoor",
+          "exampleWord": "grape"
+        },
+        {
+          "glyph": "तरबूज",
+          "name": "tarbooz",
+          "exampleWord": "watermelon"
+        },
+        {
+          "glyph": "आलू",
+          "name": "aloo",
+          "exampleWord": "potato"
+        },
+        {
+          "glyph": "गाजर",
+          "name": "gaajar",
+          "exampleWord": "carrot"
+        },
+        {
+          "glyph": "टमाटर",
+          "name": "tamatar",
+          "exampleWord": "tomato"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'sweet'?",
+          "options": [
+            "मिठाई",
+            "फल",
+            "सब्जी",
+            "केला"
+          ],
+          "answer": "मिठाई"
+        }
+      ]
+    },
+    {
+      "id": "hi-p4-l3",
+      "title": "घर में",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "कुर्सी",
+          "name": "kursi",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "मेज",
+          "name": "mez",
+          "exampleWord": "table"
+        },
+        {
+          "glyph": "दरवाजा",
+          "name": "darwaaza",
+          "exampleWord": "door"
+        },
+        {
+          "glyph": "खिड़की",
+          "name": "khidki",
+          "exampleWord": "window"
+        },
+        {
+          "glyph": "बिस्तर",
+          "name": "bistar",
+          "exampleWord": "bed"
+        },
+        {
+          "glyph": "रसोई",
+          "name": "rasoi",
+          "exampleWord": "kitchen"
+        },
+        {
+          "glyph": "चम्मच",
+          "name": "chammach",
+          "exampleWord": "spoon"
+        },
+        {
+          "glyph": "प्लेट",
+          "name": "plate",
+          "exampleWord": "plate"
+        },
+        {
+          "glyph": "दीवार",
+          "name": "deevaar",
+          "exampleWord": "wall"
+        },
+        {
+          "glyph": "दर्पण",
+          "name": "darpan",
+          "exampleWord": "mirror"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'chair'?",
+          "options": [
+            "कुर्सी",
+            "मेज",
+            "दरवाजा",
+            "खिड़की"
+          ],
+          "answer": "कुर्सी"
+        }
+      ]
+    },
+    {
+      "id": "hi-p4-l4",
+      "title": "प्रकृति",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "बादल",
+          "name": "baadal",
+          "exampleWord": "cloud"
+        },
+        {
+          "glyph": "इंद्रधनुष",
+          "name": "indradhanush",
+          "exampleWord": "rainbow"
+        },
+        {
+          "glyph": "सूरज",
+          "name": "sooraj",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "चंद्रमा",
+          "name": "chandrama",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "समुद्र",
+          "name": "samudra",
+          "exampleWord": "sea"
+        },
+        {
+          "glyph": "रेगिस्तान",
+          "name": "registaan",
+          "exampleWord": "desert"
+        },
+        {
+          "glyph": "जंगल",
+          "name": "jangal",
+          "exampleWord": "forest"
+        },
+        {
+          "glyph": "पहाड़",
+          "name": "pahaad",
+          "exampleWord": "mountain"
+        },
+        {
+          "glyph": "झरना",
+          "name": "jharna",
+          "exampleWord": "waterfall"
+        },
+        {
+          "glyph": "बर्फ",
+          "name": "barf",
+          "exampleWord": "snow"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'cloud'?",
+          "options": [
+            "बादल",
+            "इंद्रधनुष",
+            "सूरज",
+            "चंद्रमा"
+          ],
+          "answer": "बादल"
+        }
+      ]
+    }
+  ]
+}

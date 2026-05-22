@@ -1,0 +1,291 @@
+{
+  "language": "zh",
+  "phase": 4,
+  "title": "4-5 字 词语",
+  "lessons": [
+    {
+      "id": "zh-p4-l1",
+      "title": "动物",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "大象",
+          "name": "dàxiàng",
+          "exampleWord": "elephant"
+        },
+        {
+          "glyph": "猴子",
+          "name": "hóuzi",
+          "exampleWord": "monkey"
+        },
+        {
+          "glyph": "狮子",
+          "name": "shīzi",
+          "exampleWord": "lion"
+        },
+        {
+          "glyph": "鳄鱼",
+          "name": "èyú",
+          "exampleWord": "crocodile"
+        },
+        {
+          "glyph": "长颈鹿",
+          "name": "chángjǐnglù",
+          "exampleWord": "giraffe"
+        },
+        {
+          "glyph": "斑马",
+          "name": "bānmǎ",
+          "exampleWord": "zebra"
+        },
+        {
+          "glyph": "海豚",
+          "name": "hǎitún",
+          "exampleWord": "dolphin"
+        },
+        {
+          "glyph": "蝴蝶",
+          "name": "húdié",
+          "exampleWord": "butterfly"
+        },
+        {
+          "glyph": "鲸鱼",
+          "name": "jīngyú",
+          "exampleWord": "whale"
+        },
+        {
+          "glyph": "企鹅",
+          "name": "qǐ’é",
+          "exampleWord": "penguin"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'elephant'?",
+          "options": [
+            "大象",
+            "猴子",
+            "狮子",
+            "鳄鱼"
+          ],
+          "answer": "大象"
+        }
+      ]
+    },
+    {
+      "id": "zh-p4-l2",
+      "title": "食物",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "面包",
+          "name": "miànbāo",
+          "exampleWord": "bread"
+        },
+        {
+          "glyph": "苹果",
+          "name": "píngguǒ",
+          "exampleWord": "apple"
+        },
+        {
+          "glyph": "香蕉",
+          "name": "xiāngjiāo",
+          "exampleWord": "banana"
+        },
+        {
+          "glyph": "葡萄",
+          "name": "pútáo",
+          "exampleWord": "grape"
+        },
+        {
+          "glyph": "西瓜",
+          "name": "xīguā",
+          "exampleWord": "watermelon"
+        },
+        {
+          "glyph": "蛋糕",
+          "name": "dàngāo",
+          "exampleWord": "cake"
+        },
+        {
+          "glyph": "巧克力",
+          "name": "qiǎokèlì",
+          "exampleWord": "chocolate"
+        },
+        {
+          "glyph": "饺子",
+          "name": "jiǎozi",
+          "exampleWord": "dumpling"
+        },
+        {
+          "glyph": "包子",
+          "name": "bāozi",
+          "exampleWord": "steamed bun"
+        },
+        {
+          "glyph": "米饭",
+          "name": "mǐfàn",
+          "exampleWord": "cooked rice"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'bread'?",
+          "options": [
+            "面包",
+            "苹果",
+            "香蕉",
+            "葡萄"
+          ],
+          "answer": "面包"
+        }
+      ]
+    },
+    {
+      "id": "zh-p4-l3",
+      "title": "家里",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "桌子",
+          "name": "zhuōzi",
+          "exampleWord": "table"
+        },
+        {
+          "glyph": "椅子",
+          "name": "yǐzi",
+          "exampleWord": "chair"
+        },
+        {
+          "glyph": "床",
+          "name": "chuáng",
+          "exampleWord": "bed"
+        },
+        {
+          "glyph": "窗户",
+          "name": "chuānghu",
+          "exampleWord": "window"
+        },
+        {
+          "glyph": "门",
+          "name": "mén",
+          "exampleWord": "door"
+        },
+        {
+          "glyph": "电话",
+          "name": "diànhuà",
+          "exampleWord": "phone"
+        },
+        {
+          "glyph": "电视",
+          "name": "diànshì",
+          "exampleWord": "TV"
+        },
+        {
+          "glyph": "盘子",
+          "name": "pánzi",
+          "exampleWord": "plate"
+        },
+        {
+          "glyph": "勺子",
+          "name": "sháozi",
+          "exampleWord": "spoon"
+        },
+        {
+          "glyph": "杯子",
+          "name": "bēizi",
+          "exampleWord": "cup"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'table'?",
+          "options": [
+            "桌子",
+            "椅子",
+            "床",
+            "窗户"
+          ],
+          "answer": "桌子"
+        }
+      ]
+    },
+    {
+      "id": "zh-p4-l4",
+      "title": "自然",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "彩虹",
+          "name": "cǎihóng",
+          "exampleWord": "rainbow"
+        },
+        {
+          "glyph": "太阳",
+          "name": "tàiyáng",
+          "exampleWord": "sun"
+        },
+        {
+          "glyph": "月亮",
+          "name": "yuèliang",
+          "exampleWord": "moon"
+        },
+        {
+          "glyph": "星星",
+          "name": "xīngxing",
+          "exampleWord": "star"
+        },
+        {
+          "glyph": "海洋",
+          "name": "hǎiyáng",
+          "exampleWord": "ocean"
+        },
+        {
+          "glyph": "森林",
+          "name": "sēnlín",
+          "exampleWord": "forest"
+        },
+        {
+          "glyph": "沙漠",
+          "name": "shāmò",
+          "exampleWord": "desert"
+        },
+        {
+          "glyph": "火山",
+          "name": "huǒshān",
+          "exampleWord": "volcano"
+        },
+        {
+          "glyph": "瀑布",
+          "name": "pùbù",
+          "exampleWord": "waterfall"
+        },
+        {
+          "glyph": "雪花",
+          "name": "xuěhuā",
+          "exampleWord": "snowflake"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'rainbow'?",
+          "options": [
+            "彩虹",
+            "太阳",
+            "月亮",
+            "星星"
+          ],
+          "answer": "彩虹"
+        }
+      ]
+    }
+  ]
+}
