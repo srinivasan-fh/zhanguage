@@ -13,10 +13,11 @@ import { colors, radii, spacing, e2 } from '@/theme';
 type Props = NativeStackScreenProps<RootStackParamList, 'Alphabet'>;
 
 export function AlphabetScreen({ navigation, route }: Props) {
-  const { language } = route.params;
+  const { language, phase = 1 } = route.params;
   const meta = LANGUAGES.find((l) => l.code === language)!;
-  const all = useMemo(() => getLetters(language), [language]);
-  const sections = useMemo(() => getSections(language), [language]);
+  const all = useMemo(() => getLetters(language, phase), [language, phase]);
+  const sections = useMemo(() => getSections(language, phase), [language, phase]);
+  const itemNoun = phase === 1 ? 'letters' : phase === 2 ? 'words' : 'items';
 
   const activeId = useAppSelector(selectActiveProfileId);
   const lettersSeen = useAppSelector((s: RootState) =>
@@ -38,7 +39,7 @@ export function AlphabetScreen({ navigation, route }: Props) {
         <View style={styles.heroBlock}>
           <Text style={styles.heroLabel}>{meta.name.toUpperCase()}</Text>
           <Text style={styles.heroNative}>{meta.nativeName}</Text>
-          <Text style={styles.heroSub}>{all.length} letters · tap any letter</Text>
+          <Text style={styles.heroSub}>{all.length} {itemNoun} · tap any one</Text>
         </View>
 
         {sections.map((sec) => {
@@ -57,7 +58,7 @@ export function AlphabetScreen({ navigation, route }: Props) {
                 </View>
                 <Pressable
                   style={styles.quizPill}
-                  onPress={() => navigation.navigate('Quiz', { language, lessonId: sec.lessonId })}
+                  onPress={() => navigation.navigate('Quiz', { language, phase, lessonId: sec.lessonId })}
                 >
                   <Text style={styles.quizPillLabel}>Quiz</Text>
                 </Pressable>
@@ -70,13 +71,20 @@ export function AlphabetScreen({ navigation, route }: Props) {
                     <Pressable
                       key={letter.glyph + sec.lessonId + gi}
                       style={({ pressed }) => [
-                        styles.cell,
+                        phase === 1 ? styles.cell : styles.cellWide,
                         wasSeen && styles.cellSeen,
                         pressed && { transform: [{ scale: 0.94 }] },
                       ]}
-                      onPress={() => navigation.navigate('Letter', { language, index: gi })}
+                      onPress={() => navigation.navigate('Letter', { language, phase, index: gi })}
                     >
-                      <Text style={styles.cellGlyph} numberOfLines={1}>{letter.glyph}</Text>
+                      <Text
+                        style={phase === 1 ? styles.cellGlyph : styles.cellGlyphWord}
+                        numberOfLines={1}
+                        adjustsFontSizeToFit
+                        minimumFontScale={0.6}
+                      >
+                        {letter.glyph}
+                      </Text>
                       <Text style={styles.cellName} numberOfLines={1}>{letter.name}</Text>
                     </Pressable>
                   );
@@ -122,6 +130,20 @@ const styles = StyleSheet.create({
     paddingVertical: spacing.xs,
     ...e2,
   },
+  cellWide: {
+    width: '31.5%',
+    minHeight: 84,
+    backgroundColor: colors.glassStrong,
+    borderRadius: radii.md,
+    borderWidth: 1,
+    borderColor: colors.glassEdge,
+    alignItems: 'center',
+    justifyContent: 'center',
+    paddingHorizontal: spacing.xs,
+    paddingVertical: spacing.sm,
+    ...e2,
+  },
+  cellGlyphWord: { fontSize: 18, fontWeight: '900', color: colors.primary, textAlign: 'center' },
   cellSeen: {
     borderColor: colors.grass,
     backgroundColor: 'rgba(123, 211, 137, 0.18)',

@@ -1,0 +1,266 @@
+{
+  "language": "zh",
+  "phase": 2,
+  "title": "代词与家庭 (Pronouns & Family)",
+  "lessons": [
+    {
+      "id": "zh-p2-l1",
+      "title": "Personal Pronouns",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我",
+          "name": "wǒ",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "你",
+          "name": "nǐ",
+          "exampleWord": "you (sg)"
+        },
+        {
+          "glyph": "您",
+          "name": "nín",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "他",
+          "name": "tā",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "她",
+          "name": "tā",
+          "exampleWord": "she"
+        },
+        {
+          "glyph": "它",
+          "name": "tā",
+          "exampleWord": "it"
+        },
+        {
+          "glyph": "我们",
+          "name": "wǒmen",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "你们",
+          "name": "nǐmen",
+          "exampleWord": "you (pl)"
+        },
+        {
+          "glyph": "他们",
+          "name": "tāmen",
+          "exampleWord": "they"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "我",
+            "你",
+            "您",
+            "他"
+          ],
+          "answer": "我"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l2",
+      "title": "Possessive (＋的)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "我的",
+          "name": "wǒ de",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "你的",
+          "name": "nǐ de",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "他的",
+          "name": "tā de",
+          "exampleWord": "his"
+        },
+        {
+          "glyph": "她的",
+          "name": "tā de",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "我们的",
+          "name": "wǒmen de",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "他们的",
+          "name": "tāmen de",
+          "exampleWord": "their"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "我的",
+            "你的",
+            "他的",
+            "她的"
+          ],
+          "answer": "我的"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l3",
+      "title": "Immediate Family",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "妈妈",
+          "name": "māma",
+          "exampleWord": "mother"
+        },
+        {
+          "glyph": "爸爸",
+          "name": "bàba",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "哥哥",
+          "name": "gēge",
+          "exampleWord": "elder brother"
+        },
+        {
+          "glyph": "弟弟",
+          "name": "dìdi",
+          "exampleWord": "younger brother"
+        },
+        {
+          "glyph": "姐姐",
+          "name": "jiějie",
+          "exampleWord": "elder sister"
+        },
+        {
+          "glyph": "妹妹",
+          "name": "mèimei",
+          "exampleWord": "younger sister"
+        },
+        {
+          "glyph": "儿子",
+          "name": "érzi",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "女儿",
+          "name": "nǚ’ér",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "孩子",
+          "name": "háizi",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "家",
+          "name": "jiā",
+          "exampleWord": "home/family"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "妈妈",
+            "爸爸",
+            "哥哥",
+            "弟弟"
+          ],
+          "answer": "妈妈"
+        }
+      ]
+    },
+    {
+      "id": "zh-p2-l4",
+      "title": "Extended Family",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "爷爷",
+          "name": "yéye",
+          "exampleWord": "paternal grandfather"
+        },
+        {
+          "glyph": "奶奶",
+          "name": "nǎinai",
+          "exampleWord": "paternal grandmother"
+        },
+        {
+          "glyph": "外公",
+          "name": "wàigōng",
+          "exampleWord": "maternal grandfather"
+        },
+        {
+          "glyph": "外婆",
+          "name": "wàipó",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "叔叔",
+          "name": "shūshu",
+          "exampleWord": "father’s younger bro"
+        },
+        {
+          "glyph": "伯伯",
+          "name": "bóbo",
+          "exampleWord": "father’s elder bro"
+        },
+        {
+          "glyph": "阿姨",
+          "name": "āyí",
+          "exampleWord": "mother’s sister"
+        },
+        {
+          "glyph": "舅舅",
+          "name": "jiùjiu",
+          "exampleWord": "mother’s brother"
+        },
+        {
+          "glyph": "丈夫",
+          "name": "zhàngfū",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "妻子",
+          "name": "qīzi",
+          "exampleWord": "wife"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "爷爷",
+            "奶奶",
+            "外公",
+            "外婆"
+          ],
+          "answer": "爷爷"
+        }
+      ]
+    }
+  ]
+}

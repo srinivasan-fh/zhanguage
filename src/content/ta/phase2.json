@@ -1,0 +1,281 @@
+{
+  "language": "ta",
+  "phase": 2,
+  "title": "பெயர்ச்சொற்கள் & உறவுகள்",
+  "lessons": [
+    {
+      "id": "ta-p2-l1",
+      "title": "தனிப்பெயர்கள் (Personal Pronouns)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "நான்",
+          "name": "naan",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "நீ",
+          "name": "nee",
+          "exampleWord": "you (sg)"
+        },
+        {
+          "glyph": "நீங்கள்",
+          "name": "neengal",
+          "exampleWord": "you (pl/formal)"
+        },
+        {
+          "glyph": "அவன்",
+          "name": "avan",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "அவள்",
+          "name": "aval",
+          "exampleWord": "she"
+        },
+        {
+          "glyph": "நாங்கள்",
+          "name": "naangal",
+          "exampleWord": "we (excl)"
+        },
+        {
+          "glyph": "நாம்",
+          "name": "naam",
+          "exampleWord": "we (incl)"
+        },
+        {
+          "glyph": "அவர்கள்",
+          "name": "avargal",
+          "exampleWord": "they"
+        },
+        {
+          "glyph": "அது",
+          "name": "athu",
+          "exampleWord": "it"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "நான்",
+            "நீ",
+            "நீங்கள்",
+            "அவன்"
+          ],
+          "answer": "நான்"
+        }
+      ]
+    },
+    {
+      "id": "ta-p2-l2",
+      "title": "உடைமை பெயர்கள் (Possessive)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "என்",
+          "name": "en",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "உன்",
+          "name": "un",
+          "exampleWord": "your (sg)"
+        },
+        {
+          "glyph": "உங்கள்",
+          "name": "ungal",
+          "exampleWord": "your (pl)"
+        },
+        {
+          "glyph": "அவன்",
+          "name": "avan",
+          "exampleWord": "his"
+        },
+        {
+          "glyph": "அவள்",
+          "name": "aval",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "எங்கள்",
+          "name": "engal",
+          "exampleWord": "our (excl)"
+        },
+        {
+          "glyph": "நம்",
+          "name": "nam",
+          "exampleWord": "our (incl)"
+        },
+        {
+          "glyph": "அவர்கள்",
+          "name": "avargal",
+          "exampleWord": "their"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "என்",
+            "உன்",
+            "உங்கள்",
+            "அவன்"
+          ],
+          "answer": "என்"
+        }
+      ]
+    },
+    {
+      "id": "ta-p2-l3",
+      "title": "நெருங்கிய உறவுகள் (Immediate Family)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "அம்மா",
+          "name": "amma",
+          "exampleWord": "mother"
+        },
+        {
+          "glyph": "அப்பா",
+          "name": "appa",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "அண்ணன்",
+          "name": "annan",
+          "exampleWord": "elder brother"
+        },
+        {
+          "glyph": "தம்பி",
+          "name": "thambi",
+          "exampleWord": "younger brother"
+        },
+        {
+          "glyph": "அக்கா",
+          "name": "akka",
+          "exampleWord": "elder sister"
+        },
+        {
+          "glyph": "தங்கை",
+          "name": "thangai",
+          "exampleWord": "younger sister"
+        },
+        {
+          "glyph": "மகன்",
+          "name": "magan",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "மகள்",
+          "name": "magal",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "குழந்தை",
+          "name": "kuzhanthai",
+          "exampleWord": "child / baby"
+        },
+        {
+          "glyph": "குடும்பம்",
+          "name": "kudumbam",
+          "exampleWord": "family"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "அம்மா",
+            "அப்பா",
+            "அண்ணன்",
+            "தம்பி"
+          ],
+          "answer": "அம்மா"
+        }
+      ]
+    },
+    {
+      "id": "ta-p2-l4",
+      "title": "தொலை உறவுகள் (Extended Family)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "தாத்தா",
+          "name": "thatha",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "பாட்டி",
+          "name": "paatti",
+          "exampleWord": "grandmother"
+        },
+        {
+          "glyph": "சித்தப்பா",
+          "name": "chitthappa",
+          "exampleWord": "father’s younger bro"
+        },
+        {
+          "glyph": "பெரியப்பா",
+          "name": "periyappa",
+          "exampleWord": "father’s elder bro"
+        },
+        {
+          "glyph": "மாமா",
+          "name": "maama",
+          "exampleWord": "maternal uncle"
+        },
+        {
+          "glyph": "சித்தி",
+          "name": "chitthi",
+          "exampleWord": "mother’s younger sis"
+        },
+        {
+          "glyph": "அத்தை",
+          "name": "aththai",
+          "exampleWord": "father’s sister"
+        },
+        {
+          "glyph": "மருமகன்",
+          "name": "marumagan",
+          "exampleWord": "son-in-law"
+        },
+        {
+          "glyph": "மருமகள்",
+          "name": "marumagal",
+          "exampleWord": "daughter-in-law"
+        },
+        {
+          "glyph": "மனைவி",
+          "name": "manaivi",
+          "exampleWord": "wife"
+        },
+        {
+          "glyph": "கணவன்",
+          "name": "kanavan",
+          "exampleWord": "husband"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'grandfather'?",
+          "options": [
+            "தாத்தா",
+            "பாட்டி",
+            "சித்தப்பா",
+            "பெரியப்பா"
+          ],
+          "answer": "தாத்தா"
+        }
+      ]
+    }
+  ]
+}

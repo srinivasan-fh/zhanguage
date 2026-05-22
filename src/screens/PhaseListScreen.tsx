@@ -28,7 +28,7 @@ export function PhaseListScreen({ navigation, route }: Props) {
             subtitle={item.title}
             emoji={item.emoji}
             locked={!available}
-            onPress={() => navigation.navigate('LessonList', { language, phase: item.id })}
+            onPress={() => navigation.navigate('Alphabet', { language, phase: item.id })}
           />
         );
       }}

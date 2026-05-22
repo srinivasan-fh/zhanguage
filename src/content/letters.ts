@@ -1,7 +1,7 @@
-// Generic letter list builder. For a given language code, flattens the phase 1
-// content pack into a single ordered list and a grouped-by-lesson sections list,
-// so the alphabet overview + single-letter screens can be reused across all
-// languages instead of being Tamil-specific.
+// Phase-aware letter list builder. For a given (language, phase), flattens the
+// content pack into one ordered list and grouped sections. Same helper is used
+// across the alphabet overview, single-letter detail, and quiz flows for every
+// phase that exists.
 
 import type { LanguageCode, PhasePack } from '@/types/content';
 import { getPhasePack } from '@/content';
@@ -20,10 +20,14 @@ export interface LetterSection {
   letters: Letter[];
 }
 
-const cache = new Map<LanguageCode, { all: Letter[]; sections: LetterSection[] }>();
+const cache = new Map<string, { all: Letter[]; sections: LetterSection[] }>();
 
-function build(lang: LanguageCode): { all: Letter[]; sections: LetterSection[] } {
-  const pack = getPhasePack(lang, 1) as PhasePack | null;
+function keyOf(lang: LanguageCode, phase: number) {
+  return `${lang}:${phase}`;
+}
+
+function build(lang: LanguageCode, phase: number) {
+  const pack = getPhasePack(lang, phase) as PhasePack | null;
   if (!pack) return { all: [], sections: [] };
   const sections: LetterSection[] = pack.lessons.map((lesson) => ({
     lessonId: lesson.id,
@@ -40,20 +44,22 @@ function build(lang: LanguageCode): { all: Letter[]; sections: LetterSection[] }
   return { all, sections };
 }
 
-export function getLetters(lang: LanguageCode): Letter[] {
-  let entry = cache.get(lang);
+export function getLetters(lang: LanguageCode, phase = 1): Letter[] {
+  const k = keyOf(lang, phase);
+  let entry = cache.get(k);
   if (!entry) {
-    entry = build(lang);
-    cache.set(lang, entry);
+    entry = build(lang, phase);
+    cache.set(k, entry);
   }
   return entry.all;
 }
 
-export function getSections(lang: LanguageCode): LetterSection[] {
-  let entry = cache.get(lang);
+export function getSections(lang: LanguageCode, phase = 1): LetterSection[] {
+  const k = keyOf(lang, phase);
+  let entry = cache.get(k);
   if (!entry) {
-    entry = build(lang);
-    cache.set(lang, entry);
+    entry = build(lang, phase);
+    cache.set(k, entry);
   }
   return entry.sections;
 }

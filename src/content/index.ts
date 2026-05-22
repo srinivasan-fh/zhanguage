@@ -22,6 +22,14 @@ import egyP1 from './egy/phase1.json';
 import suxP1 from './sux/phase1.json';
 import akkP1 from './akk/phase1.json';
 
+import enP2 from './en/phase2.json';
+import taP2 from './ta/phase2.json';
+import hiP2 from './hi/phase2.json';
+import jaP2 from './ja/phase2.json';
+import deP2 from './de/phase2.json';
+import zhP2 from './zh/phase2.json';
+import koP2 from './ko/phase2.json';
+
 type ContentMap = {
   [lang in LanguageCode]?: {
     [phase: number]: PhasePack;
@@ -29,13 +37,13 @@ type ContentMap = {
 };
 
 const CONTENT: ContentMap = {
-  en:  { 1: enP1  as PhasePack },
-  ta:  { 1: taP1  as PhasePack },
-  hi:  { 1: hiP1  as PhasePack },
-  ja:  { 1: jaP1  as PhasePack },
-  de:  { 1: deP1  as PhasePack },
-  zh:  { 1: zhP1  as PhasePack },
-  ko:  { 1: koP1  as PhasePack },
+  en:  { 1: enP1  as PhasePack, 2: enP2 as PhasePack },
+  ta:  { 1: taP1  as PhasePack, 2: taP2 as PhasePack },
+  hi:  { 1: hiP1  as PhasePack, 2: hiP2 as PhasePack },
+  ja:  { 1: jaP1  as PhasePack, 2: jaP2 as PhasePack },
+  de:  { 1: deP1  as PhasePack, 2: deP2 as PhasePack },
+  zh:  { 1: zhP1  as PhasePack, 2: zhP2 as PhasePack },
+  ko:  { 1: koP1  as PhasePack, 2: koP2 as PhasePack },
   es:  { 1: esP1  as PhasePack },
   fr:  { 1: frP1  as PhasePack },
   ar:  { 1: arP1  as PhasePack },
@@ -59,3 +67,4 @@ export function getPhasePack(lang: LanguageCode, phase: number): PhasePack | nul
 export function hasPhase(lang: LanguageCode, phase: number): boolean {
   return Boolean(CONTENT[lang]?.[phase]);
 }
+

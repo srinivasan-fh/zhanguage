@@ -1,0 +1,256 @@
+{
+  "language": "hi",
+  "phase": 2,
+  "title": "सर्वनाम और परिवार",
+  "lessons": [
+    {
+      "id": "hi-p2-l1",
+      "title": "सर्वनाम (Personal Pronouns)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "मैं",
+          "name": "main",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "तू",
+          "name": "tu",
+          "exampleWord": "you (informal)"
+        },
+        {
+          "glyph": "तुम",
+          "name": "tum",
+          "exampleWord": "you"
+        },
+        {
+          "glyph": "आप",
+          "name": "aap",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "वह",
+          "name": "vah",
+          "exampleWord": "he/she (distal)"
+        },
+        {
+          "glyph": "यह",
+          "name": "yah",
+          "exampleWord": "he/she (proximal)"
+        },
+        {
+          "glyph": "हम",
+          "name": "ham",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "वे",
+          "name": "ve",
+          "exampleWord": "they"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "मैं",
+            "तू",
+            "तुम",
+            "आप"
+          ],
+          "answer": "मैं"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l2",
+      "title": "संबंध (Possessive)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "मेरा",
+          "name": "mera",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "तेरा",
+          "name": "tera",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "तुम्हारा",
+          "name": "tumhara",
+          "exampleWord": "your"
+        },
+        {
+          "glyph": "आपका",
+          "name": "aapka",
+          "exampleWord": "your (formal)"
+        },
+        {
+          "glyph": "उसका",
+          "name": "uska",
+          "exampleWord": "his/her"
+        },
+        {
+          "glyph": "हमारा",
+          "name": "hamara",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "उनका",
+          "name": "unka",
+          "exampleWord": "their"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "मेरा",
+            "तेरा",
+            "तुम्हारा",
+            "आपका"
+          ],
+          "answer": "मेरा"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l3",
+      "title": "निकट परिवार (Immediate Family)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "माँ",
+          "name": "maa",
+          "exampleWord": "mother"
+        },
+        {
+          "glyph": "पिता",
+          "name": "pita",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "भाई",
+          "name": "bhai",
+          "exampleWord": "brother"
+        },
+        {
+          "glyph": "बहन",
+          "name": "bahan",
+          "exampleWord": "sister"
+        },
+        {
+          "glyph": "बेटा",
+          "name": "beta",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "बेटी",
+          "name": "beti",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "बच्चा",
+          "name": "bachcha",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "परिवार",
+          "name": "parivar",
+          "exampleWord": "family"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "माँ",
+            "पिता",
+            "भाई",
+            "बहन"
+          ],
+          "answer": "माँ"
+        }
+      ]
+    },
+    {
+      "id": "hi-p2-l4",
+      "title": "विस्तृत परिवार (Extended Family)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "दादा",
+          "name": "dada",
+          "exampleWord": "paternal grandfather"
+        },
+        {
+          "glyph": "दादी",
+          "name": "dadi",
+          "exampleWord": "paternal grandmother"
+        },
+        {
+          "glyph": "नाना",
+          "name": "nana",
+          "exampleWord": "maternal grandfather"
+        },
+        {
+          "glyph": "नानी",
+          "name": "nani",
+          "exampleWord": "maternal grandmother"
+        },
+        {
+          "glyph": "चाचा",
+          "name": "chacha",
+          "exampleWord": "father’s younger bro"
+        },
+        {
+          "glyph": "चाची",
+          "name": "chachi",
+          "exampleWord": "father’s younger bro’s wife"
+        },
+        {
+          "glyph": "मामा",
+          "name": "mama",
+          "exampleWord": "maternal uncle"
+        },
+        {
+          "glyph": "मौसी",
+          "name": "mausi",
+          "exampleWord": "maternal aunt"
+        },
+        {
+          "glyph": "पति",
+          "name": "pati",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "पत्नी",
+          "name": "patni",
+          "exampleWord": "wife"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'paternal grandfather'?",
+          "options": [
+            "दादा",
+            "दादी",
+            "नाना",
+            "नानी"
+          ],
+          "answer": "दादा"
+        }
+      ]
+    }
+  ]
+}

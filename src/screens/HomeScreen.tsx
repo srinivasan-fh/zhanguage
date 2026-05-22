@@ -20,7 +20,7 @@ export function HomeScreen({ navigation }: Props) {
   const streak = useAppSelector(selectStreak(activeId));
 
   const openLang = (item: LanguageMeta) =>
-    navigation.navigate('Alphabet', { language: item.code });
+    navigation.navigate('PhaseList', { language: item.code });
 
   return (
     <ScreenBg>

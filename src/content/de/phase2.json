@@ -1,0 +1,276 @@
+{
+  "language": "de",
+  "phase": 2,
+  "title": "Pronomen & Familie",
+  "lessons": [
+    {
+      "id": "de-p2-l1",
+      "title": "Personalpronomen (Subject)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "ich",
+          "name": "ich",
+          "exampleWord": "I"
+        },
+        {
+          "glyph": "du",
+          "name": "du",
+          "exampleWord": "you (informal)"
+        },
+        {
+          "glyph": "Sie",
+          "name": "Sie",
+          "exampleWord": "you (formal)"
+        },
+        {
+          "glyph": "er",
+          "name": "er",
+          "exampleWord": "he"
+        },
+        {
+          "glyph": "sie",
+          "name": "sie",
+          "exampleWord": "she"
+        },
+        {
+          "glyph": "es",
+          "name": "es",
+          "exampleWord": "it"
+        },
+        {
+          "glyph": "wir",
+          "name": "wir",
+          "exampleWord": "we"
+        },
+        {
+          "glyph": "ihr",
+          "name": "ihr",
+          "exampleWord": "you (pl)"
+        },
+        {
+          "glyph": "sie",
+          "name": "sie",
+          "exampleWord": "they"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I'?",
+          "options": [
+            "ich",
+            "du",
+            "Sie",
+            "er"
+          ],
+          "answer": "ich"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l2",
+      "title": "Possessivpronomen",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "mein",
+          "name": "mein",
+          "exampleWord": "my"
+        },
+        {
+          "glyph": "dein",
+          "name": "dein",
+          "exampleWord": "your (informal)"
+        },
+        {
+          "glyph": "Ihr",
+          "name": "Ihr",
+          "exampleWord": "your (formal)"
+        },
+        {
+          "glyph": "sein",
+          "name": "sein",
+          "exampleWord": "his"
+        },
+        {
+          "glyph": "ihr",
+          "name": "ihr",
+          "exampleWord": "her"
+        },
+        {
+          "glyph": "unser",
+          "name": "unser",
+          "exampleWord": "our"
+        },
+        {
+          "glyph": "euer",
+          "name": "euer",
+          "exampleWord": "your (pl)"
+        },
+        {
+          "glyph": "ihr",
+          "name": "ihr",
+          "exampleWord": "their"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'my'?",
+          "options": [
+            "mein",
+            "dein",
+            "Ihr",
+            "sein"
+          ],
+          "answer": "mein"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l3",
+      "title": "Engste Familie (Immediate Family)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Mutter",
+          "name": "Mutter",
+          "exampleWord": "mother"
+        },
+        {
+          "glyph": "Vater",
+          "name": "Vater",
+          "exampleWord": "father"
+        },
+        {
+          "glyph": "Mama",
+          "name": "Mama",
+          "exampleWord": "mom"
+        },
+        {
+          "glyph": "Papa",
+          "name": "Papa",
+          "exampleWord": "dad"
+        },
+        {
+          "glyph": "Bruder",
+          "name": "Bruder",
+          "exampleWord": "brother"
+        },
+        {
+          "glyph": "Schwester",
+          "name": "Schwester",
+          "exampleWord": "sister"
+        },
+        {
+          "glyph": "Sohn",
+          "name": "Sohn",
+          "exampleWord": "son"
+        },
+        {
+          "glyph": "Tochter",
+          "name": "Tochter",
+          "exampleWord": "daughter"
+        },
+        {
+          "glyph": "Kind",
+          "name": "Kind",
+          "exampleWord": "child"
+        },
+        {
+          "glyph": "Familie",
+          "name": "Familie",
+          "exampleWord": "family"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother'?",
+          "options": [
+            "Mutter",
+            "Vater",
+            "Mama",
+            "Papa"
+          ],
+          "answer": "Mutter"
+        }
+      ]
+    },
+    {
+      "id": "de-p2-l4",
+      "title": "Verwandte (Extended Family)",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "Großmutter",
+          "name": "Großmutter",
+          "exampleWord": "grandmother"
+        },
+        {
+          "glyph": "Großvater",
+          "name": "Großvater",
+          "exampleWord": "grandfather"
+        },
+        {
+          "glyph": "Oma",
+          "name": "Oma",
+          "exampleWord": "grandma"
+        },
+        {
+          "glyph": "Opa",
+          "name": "Opa",
+          "exampleWord": "grandpa"
+        },
+        {
+          "glyph": "Onkel",
+          "name": "Onkel",
+          "exampleWord": "uncle"
+        },
+        {
+          "glyph": "Tante",
+          "name": "Tante",
+          "exampleWord": "aunt"
+        },
+        {
+          "glyph": "Cousin",
+          "name": "Cousin",
+          "exampleWord": "cousin (m)"
+        },
+        {
+          "glyph": "Cousine",
+          "name": "Cousine",
+          "exampleWord": "cousin (f)"
+        },
+        {
+          "glyph": "Ehemann",
+          "name": "Ehemann",
+          "exampleWord": "husband"
+        },
+        {
+          "glyph": "Ehefrau",
+          "name": "Ehefrau",
+          "exampleWord": "wife"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'grandmother'?",
+          "options": [
+            "Großmutter",
+            "Großvater",
+            "Oma",
+            "Opa"
+          ],
+          "answer": "Großmutter"
+        }
+      ]
+    }
+  ]
+}

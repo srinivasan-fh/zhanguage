@@ -1,0 +1,276 @@
+{
+  "language": "en",
+  "phase": 2,
+  "title": "Pronouns & Family",
+  "lessons": [
+    {
+      "id": "en-p2-l1",
+      "title": "Personal Pronouns",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "I",
+          "name": "I",
+          "exampleWord": "I am happy"
+        },
+        {
+          "glyph": "you",
+          "name": "you",
+          "exampleWord": "you are kind"
+        },
+        {
+          "glyph": "he",
+          "name": "he",
+          "exampleWord": "he is tall"
+        },
+        {
+          "glyph": "she",
+          "name": "she",
+          "exampleWord": "she is smart"
+        },
+        {
+          "glyph": "we",
+          "name": "we",
+          "exampleWord": "we are friends"
+        },
+        {
+          "glyph": "they",
+          "name": "they",
+          "exampleWord": "they are here"
+        },
+        {
+          "glyph": "it",
+          "name": "it",
+          "exampleWord": "it is small"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'I am happy'?",
+          "options": [
+            "I",
+            "you",
+            "he",
+            "she"
+          ],
+          "answer": "I"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l2",
+      "title": "Object & Possessive Pronouns",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "me",
+          "name": "me",
+          "exampleWord": "help me"
+        },
+        {
+          "glyph": "him",
+          "name": "him",
+          "exampleWord": "see him"
+        },
+        {
+          "glyph": "her",
+          "name": "her",
+          "exampleWord": "see her"
+        },
+        {
+          "glyph": "us",
+          "name": "us",
+          "exampleWord": "tell us"
+        },
+        {
+          "glyph": "them",
+          "name": "them",
+          "exampleWord": "see them"
+        },
+        {
+          "glyph": "my",
+          "name": "my",
+          "exampleWord": "my book"
+        },
+        {
+          "glyph": "your",
+          "name": "your",
+          "exampleWord": "your book"
+        },
+        {
+          "glyph": "his",
+          "name": "his",
+          "exampleWord": "his book"
+        },
+        {
+          "glyph": "our",
+          "name": "our",
+          "exampleWord": "our book"
+        },
+        {
+          "glyph": "their",
+          "name": "their",
+          "exampleWord": "their book"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'help me'?",
+          "options": [
+            "me",
+            "him",
+            "her",
+            "us"
+          ],
+          "answer": "me"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l3",
+      "title": "Immediate Family",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "mother",
+          "name": "mother",
+          "exampleWord": "mother / mama"
+        },
+        {
+          "glyph": "father",
+          "name": "father",
+          "exampleWord": "father / papa"
+        },
+        {
+          "glyph": "sister",
+          "name": "sister",
+          "exampleWord": "female sibling"
+        },
+        {
+          "glyph": "brother",
+          "name": "brother",
+          "exampleWord": "male sibling"
+        },
+        {
+          "glyph": "son",
+          "name": "son",
+          "exampleWord": "male child"
+        },
+        {
+          "glyph": "daughter",
+          "name": "daughter",
+          "exampleWord": "female child"
+        },
+        {
+          "glyph": "baby",
+          "name": "baby",
+          "exampleWord": "infant child"
+        },
+        {
+          "glyph": "parent",
+          "name": "parent",
+          "exampleWord": "mother or father"
+        },
+        {
+          "glyph": "child",
+          "name": "child",
+          "exampleWord": "son or daughter"
+        },
+        {
+          "glyph": "family",
+          "name": "family",
+          "exampleWord": "all of us"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'mother / mama'?",
+          "options": [
+            "mother",
+            "father",
+            "sister",
+            "brother"
+          ],
+          "answer": "mother"
+        }
+      ]
+    },
+    {
+      "id": "en-p2-l4",
+      "title": "Extended Family",
+      "type": "vocab",
+      "maxPoints": 100,
+      "items": [
+        {
+          "glyph": "grandmother",
+          "name": "grandmother",
+          "exampleWord": "parent of parent (f)"
+        },
+        {
+          "glyph": "grandfather",
+          "name": "grandfather",
+          "exampleWord": "parent of parent (m)"
+        },
+        {
+          "glyph": "uncle",
+          "name": "uncle",
+          "exampleWord": "parent’s brother"
+        },
+        {
+          "glyph": "aunt",
+          "name": "aunt",
+          "exampleWord": "parent’s sister"
+        },
+        {
+          "glyph": "cousin",
+          "name": "cousin",
+          "exampleWord": "uncle/aunt’s child"
+        },
+        {
+          "glyph": "nephew",
+          "name": "nephew",
+          "exampleWord": "sibling’s son"
+        },
+        {
+          "glyph": "niece",
+          "name": "niece",
+          "exampleWord": "sibling’s daughter"
+        },
+        {
+          "glyph": "husband",
+          "name": "husband",
+          "exampleWord": "wife’s spouse"
+        },
+        {
+          "glyph": "wife",
+          "name": "wife",
+          "exampleWord": "husband’s spouse"
+        },
+        {
+          "glyph": "in-law",
+          "name": "in-law",
+          "exampleWord": "family by marriage"
+        }
+      ],
+      "quiz": [
+        {
+          "kind": "tap-the-sound",
+          "prompt": "Which one means 'parent of parent (f)'?",
+          "options": [
+            "grandmother",
+            "grandfather",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "grandmother"
+        }
+      ]
+    }
+  ]
+}

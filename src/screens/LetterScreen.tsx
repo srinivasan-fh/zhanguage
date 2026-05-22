@@ -25,9 +25,9 @@ function tap() {
 }
 
 export function LetterScreen({ navigation, route }: Props) {
-  const { language } = route.params;
-  const letters = useMemo(() => getLetters(language), [language]);
-  const pack = useMemo(() => getPhasePack(language, 1), [language]);
+  const { language, phase = 1 } = route.params;
+  const letters = useMemo(() => getLetters(language, phase), [language, phase]);
+  const pack = useMemo(() => getPhasePack(language, phase), [language, phase]);
   const lessonSizeById = useMemo(() => {
     const m = new Map<string, number>();
     pack?.lessons.forEach((l) => m.set(l.id, l.items?.length ?? 0));
@@ -48,7 +48,7 @@ export function LetterScreen({ navigation, route }: Props) {
         markLetterSeen({
           studentId: activeId,
           language,
-          phase: 1,
+          phase,
           lessonId: letter.lessonId,
           glyph: letter.glyph,
           lessonSize: lessonSizeById.get(letter.lessonId) ?? 0,
@@ -142,7 +142,7 @@ export function LetterScreen({ navigation, route }: Props) {
           <Pressable
             style={styles.quizBtn}
             onPress={() =>
-              navigation.navigate('Quiz', { language, lessonId: letter.lessonId })
+              navigation.navigate('Quiz', { language, phase, lessonId: letter.lessonId })
             }
           >
             <Text style={styles.quizBtnLabel}>✨ Try the Quiz</Text>

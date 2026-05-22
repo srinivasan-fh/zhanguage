@@ -14,8 +14,8 @@ import { colors, fontSizes, radii, e2, e3, spacing } from '@/theme';
 type Props = NativeStackScreenProps<RootStackParamList, 'Quiz'>;
 
 export function QuizScreen({ navigation, route }: Props) {
-  const { language, lessonId } = route.params;
-  const pack = getPhasePack(language, 1);
+  const { language, phase = 1, lessonId } = route.params;
+  const pack = getPhasePack(language, phase);
   const lesson = pack?.lessons.find((l) => l.id === lessonId);
   const quiz = useMemo(() => lesson?.quiz ?? [], [lesson]);
 
@@ -40,7 +40,7 @@ export function QuizScreen({ navigation, route }: Props) {
     if (!activeId) return;
     const pct = Math.round((right / quiz.length) * 100);
     const { points } = medalFor(pct);
-    dispatch(recordLessonResult({ studentId: activeId, language, phase: 1, lessonId, scorePct: pct }));
+    dispatch(recordLessonResult({ studentId: activeId, language, phase, lessonId, scorePct: pct }));
     dispatch(earnFromPoints({ studentId: activeId, points }));
     navigation.replace('LessonComplete', {
       language,
