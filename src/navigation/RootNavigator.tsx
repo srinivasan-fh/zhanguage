@@ -15,6 +15,7 @@ import { ParentGateScreen } from '@/screens/ParentGateScreen';
 import { ParentDashboardScreen } from '@/screens/ParentDashboardScreen';
 import { AlphabetScreen } from '@/screens/AlphabetScreen';
 import { LetterScreen } from '@/screens/LetterScreen';
+import { QuizScreen } from '@/screens/QuizScreen';
 import { colors } from '@/theme';
 
 const Stack = createNativeStackNavigator<RootStackParamList>();
@@ -49,6 +50,7 @@ export function RootNavigator() {
       <Stack.Screen name="ParentDashboard" component={ParentDashboardScreen} options={{ title: 'Parent Dashboard' }} />
       <Stack.Screen name="Alphabet" component={AlphabetScreen} options={{ title: 'Alphabet' }} />
       <Stack.Screen name="Letter" component={LetterScreen} options={{ title: 'Letter', headerTransparent: true }} />
+      <Stack.Screen name="Quiz" component={QuizScreen} options={{ title: 'Quiz' }} />
     </Stack.Navigator>
   );
 }

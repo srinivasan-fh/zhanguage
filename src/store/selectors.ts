@@ -36,3 +36,14 @@ export const selectStudentLessonResults = (studentId: string | null) => (s: Root
 
 export const selectWallet = (studentId: string | null) => (s: RootState) =>
   studentId ? s.wallet.byStudent[studentId] : undefined;
+
+export const selectStreak = (studentId: string | null) => (s: RootState) =>
+  studentId ? s.points.byStudent[studentId]?.streak : undefined;
+
+export const selectLettersSeenCount =
+  (studentId: string | null, language: string, lessonId: string) =>
+  (s: RootState) => {
+    if (!studentId) return 0;
+    const m = s.points.byStudent[studentId]?.lettersSeen?.[`${language}:${lessonId}`];
+    return m ? Object.keys(m).length : 0;
+  };

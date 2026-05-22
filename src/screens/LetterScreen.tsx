@@ -1,15 +1,31 @@
-import React, { useRef, useState, useCallback, useMemo } from 'react';
-import { View, Text, StyleSheet, PanResponder } from 'react-native';
+import React, { useRef, useState, useCallback, useMemo, useEffect } from 'react';
+import { View, Text, StyleSheet, PanResponder, Pressable } from 'react-native';
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import ReactNativeHapticFeedback from 'react-native-haptic-feedback';
+import Tts from 'react-native-tts';
 import { RootStackParamList } from '@/navigation/types';
 import { ScreenBg } from '@/components/ScreenBg';
 import { getLetters } from '@/content/letters';
+import { getPhasePack } from '@/content';
+import { useAppDispatch } from '@/store/hooks';
+import { markLetterSeen } from '@/store/slices/pointsSlice';
+import { useAppSelector } from '@/store/hooks';
+import { selectActiveProfileId } from '@/store/selectors';
 import { colors, radii, spacing, e3 } from '@/theme';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'Letter'>;
 
 const SWIPE_THRESHOLD = 60;
+
+// Map our language codes to the BCP-47 codes TTS prefers.
+const TTS_LOCALE: Record<string, string> = {
+  en: 'en-US', ta: 'ta-IN', hi: 'hi-IN', ja: 'ja-JP', de: 'de-DE',
+  zh: 'zh-CN', ko: 'ko-KR', es: 'es-ES', fr: 'fr-FR', ar: 'ar-SA',
+  pt: 'pt-PT', ru: 'ru-RU',
+  // Sacred / historical languages fall back to a related modern voice.
+  sa: 'hi-IN', he: 'he-IL', arc: 'he-IL', pi: 'hi-IN',
+  la: 'it-IT', grc: 'el-GR', egy: 'ar-EG', sux: 'ar-IQ', akk: 'ar-IQ',
+};
 
 function tap() {
   ReactNativeHapticFeedback.trigger('impactLight', {
@@ -18,10 +34,50 @@ function tap() {
   });
 }
 
+function speak(lang: string, text: string) {
+  try {
+    Tts.stop();
+    const locale = TTS_LOCALE[lang] ?? 'en-US';
+    Tts.setDefaultLanguage(locale).catch(() => {});
+    Tts.speak(text);
+  } catch {
+    // TTS engine missing/locale unsupported — silent fail.
+  }
+}
+
 export function LetterScreen({ navigation, route }: Props) {
   const { language } = route.params;
   const letters = useMemo(() => getLetters(language), [language]);
+  const pack = useMemo(() => getPhasePack(language, 1), [language]);
+  const lessonSizeById = useMemo(() => {
+    const m = new Map<string, number>();
+    pack?.lessons.forEach((l) => m.set(l.id, l.items?.length ?? 0));
+    return m;
+  }, [pack]);
+
   const [index, setIndex] = useState(route.params.index);
+  const dispatch = useAppDispatch();
+  const activeId = useAppSelector(selectActiveProfileId);
+
+  const letter = letters[index];
+
+  // Mark each letter visited + auto-speak when it changes.
+  useEffect(() => {
+    if (!letter) return;
+    if (activeId) {
+      dispatch(
+        markLetterSeen({
+          studentId: activeId,
+          language,
+          phase: 1,
+          lessonId: letter.lessonId,
+          glyph: letter.glyph,
+          lessonSize: lessonSizeById.get(letter.lessonId) ?? 0,
+        }),
+      );
+    }
+    speak(language, letter.exampleWord ?? letter.glyph);
+  }, [letter, activeId, dispatch, language, lessonSizeById]);
 
   const goNext = useCallback(() => {
     setIndex((i) => {
@@ -57,7 +113,7 @@ export function LetterScreen({ navigation, route }: Props) {
     }),
   ).current;
 
-  if (letters.length === 0) {
+  if (!letter) {
     return (
       <ScreenBg>
         <View style={styles.container}>
@@ -67,14 +123,21 @@ export function LetterScreen({ navigation, route }: Props) {
     );
   }
 
-  const letter = letters[index];
+  // Is the current letter the last one of its lesson? If yes, offer the quiz.
+  const isLastOfLesson =
+    index === letters.length - 1 || letters[index + 1]?.lessonId !== letter.lessonId;
+  const hasQuiz =
+    (pack?.lessons.find((l) => l.id === letter.lessonId)?.quiz?.length ?? 0) > 0;
 
   return (
     <ScreenBg>
       <View style={styles.container} {...responder.panHandlers}>
         <Text style={styles.position}>{index + 1} / {letters.length}</Text>
 
-        <View style={styles.glyphCard}>
+        <Pressable
+          onPress={() => speak(language, letter.exampleWord ?? letter.glyph)}
+          style={({ pressed }) => [styles.glyphCard, pressed && { transform: [{ scale: 0.98 }] }]}
+        >
           <Text
             style={styles.glyph}
             numberOfLines={1}
@@ -83,7 +146,8 @@ export function LetterScreen({ navigation, route }: Props) {
           >
             {letter.glyph}
           </Text>
-        </View>
+          <Text style={styles.speaker}>🔊 tap to hear</Text>
+        </Pressable>
 
         <Text style={styles.name}>{letter.name}</Text>
         {letter.exampleWord ? (
@@ -91,6 +155,17 @@ export function LetterScreen({ navigation, route }: Props) {
         ) : null}
 
         <Text style={styles.sectionLabel}>{letter.lessonTitle}</Text>
+
+        {isLastOfLesson && hasQuiz ? (
+          <Pressable
+            style={styles.quizBtn}
+            onPress={() =>
+              navigation.navigate('Quiz', { language, lessonId: letter.lessonId })
+            }
+          >
+            <Text style={styles.quizBtnLabel}>✨ Try the Quiz</Text>
+          </Pressable>
+        ) : null}
 
         <View style={styles.hints}>
           <Hint emoji="⬇️" label="Swipe down · next" />
@@ -139,9 +214,19 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     includeFontPadding: false,
   },
+  speaker: { position: 'absolute', bottom: 12, fontSize: 12, color: colors.inkMuted, fontWeight: '700' },
   name: { fontSize: 32, fontWeight: '900', color: colors.ink, letterSpacing: 0.6, textTransform: 'uppercase' },
   example: { fontSize: 22, color: colors.inkSoft, fontWeight: '700' },
   sectionLabel: { fontSize: 13, color: colors.inkMuted, marginTop: spacing.sm, textAlign: 'center' },
+  quizBtn: {
+    backgroundColor: colors.primary,
+    paddingVertical: spacing.md,
+    paddingHorizontal: spacing.xl,
+    borderRadius: radii.pill,
+    marginTop: spacing.md,
+    ...e3,
+  },
+  quizBtnLabel: { color: '#fff', fontWeight: '900', fontSize: 18 },
   hints: {
     position: 'absolute',
     bottom: spacing.xl,

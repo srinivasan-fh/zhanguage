@@ -4,7 +4,7 @@ import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { RootStackParamList } from '@/navigation/types';
 import { PRIMARY_LANGUAGES, SECONDARY_LANGUAGES, TERTIARY_LANGUAGES } from '@/content/languages';
 import { useAppSelector } from '@/store/hooks';
-import { selectActiveProfile, selectActiveProfileId, selectWallet, selectTotalPointsFor } from '@/store/selectors';
+import { selectActiveProfile, selectActiveProfileId, selectWallet, selectTotalPointsFor, selectStreak } from '@/store/selectors';
 import { Avatar } from '@/components/Avatar';
 import { ScreenBg } from '@/components/ScreenBg';
 import { colors, fontSizes, radii, e2, e3, spacing } from '@/theme';
@@ -17,6 +17,7 @@ export function HomeScreen({ navigation }: Props) {
   const activeId = useAppSelector(selectActiveProfileId);
   const wallet = useAppSelector(selectWallet(activeId));
   const totalPoints = useAppSelector(selectTotalPointsFor(activeId));
+  const streak = useAppSelector(selectStreak(activeId));
 
   const openLang = (item: LanguageMeta) =>
     navigation.navigate('Alphabet', { language: item.code });
@@ -28,7 +29,9 @@ export function HomeScreen({ navigation }: Props) {
           {profile ? <Avatar emoji={profile.avatar} size={56} /> : null}
           <View style={{ flex: 1 }}>
             <Text style={styles.hi}>Hi, {profile?.name ?? 'friend'}!</Text>
-            <Text style={styles.sub}>{totalPoints} points • tap to switch</Text>
+            <Text style={styles.sub}>
+              {totalPoints} pts{streak?.count ? `  ·  🔥 ${streak.count}-day streak` : ''}  ·  tap to switch
+            </Text>
           </View>
           <View style={styles.wallet}>
             <Text style={styles.walletAmount}>

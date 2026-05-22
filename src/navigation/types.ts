@@ -18,4 +18,5 @@ export type RootStackParamList = {
   ParentDashboard: undefined;
   Alphabet: { language: LanguageCode };
   Letter: { language: LanguageCode; index: number };
+  Quiz: { language: LanguageCode; lessonId: string };
 };
