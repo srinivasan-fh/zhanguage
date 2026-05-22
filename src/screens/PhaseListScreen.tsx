@@ -26,7 +26,6 @@ export function PhaseListScreen({ navigation, route }: Props) {
           <Card
             title={`Phase ${item.id}`}
             subtitle={item.title}
-            emoji={item.emoji}
             locked={!available}
             onPress={() =>
               item.id === 10

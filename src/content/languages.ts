@@ -31,15 +31,15 @@ export const PRIMARY_LANGUAGES   = LANGUAGES.filter((l) => l.tier === undefined 
 export const SECONDARY_LANGUAGES = LANGUAGES.filter((l) => l.tier === 'secondary');
 export const TERTIARY_LANGUAGES  = LANGUAGES.filter((l) => l.tier === 'tertiary');
 
-export const PHASES: { id: number; title: string; emoji: string }[] = [
-  { id: 1,  title: 'Letters & Sounds',        emoji: '🔤' },
-  { id: 2,  title: 'Pronouns & Family',       emoji: '👨‍👩‍👧' },
-  { id: 3,  title: '2 & 3 Letter Words',      emoji: '🐱' },
-  { id: 4,  title: '4 & 5 Letter Words',      emoji: '🐘' },
-  { id: 5,  title: 'Grammar',                 emoji: '📐' },
-  { id: 6,  title: 'Writing',                 emoji: '✏️' },
-  { id: 7,  title: 'Reading',                 emoji: '📖' },
-  { id: 8,  title: 'Speaking',                emoji: '🎤' },
-  { id: 9,  title: 'Listening',               emoji: '👂' },
-  { id: 10, title: 'Certification Test',      emoji: '🏆' },
+export const PHASES: { id: number; title: string }[] = [
+  { id: 1,  title: 'Letters & Sounds' },
+  { id: 2,  title: 'Pronouns & Family' },
+  { id: 3,  title: '2 & 3 Letter Words' },
+  { id: 4,  title: '4 & 5 Letter Words' },
+  { id: 5,  title: 'Grammar' },
+  { id: 6,  title: 'Writing' },
+  { id: 7,  title: 'Reading' },
+  { id: 8,  title: 'Speaking' },
+  { id: 9,  title: 'Listening' },
+  { id: 10, title: 'Certification Test' },
 ];

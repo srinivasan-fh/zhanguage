@@ -13,8 +13,6 @@ import { colors, spacing } from '@/theme';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'Lessons'>;
 
-const ITEM_EMOJI = ['📚','✨','🎯','🌟','🚀','🌈','🌸','🍀','🎈','🎀'];
-
 export function LessonsScreen({ navigation, route }: Props) {
   const { language, phase } = route.params;
   const meta = LANGUAGES.find((l) => l.code === language)!;
@@ -47,7 +45,6 @@ export function LessonsScreen({ navigation, route }: Props) {
         <Card
           title={`${index + 1}. ${sec.title}`}
           subtitle={subtitle}
-          emoji={ITEM_EMOJI[index % ITEM_EMOJI.length]}
           onPress={() => openLesson(sec.lessonId)}
         />
       );
